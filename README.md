@@ -1,2 +1,0 @@
-# AuthorshipAttribution
-BE PROJECT
