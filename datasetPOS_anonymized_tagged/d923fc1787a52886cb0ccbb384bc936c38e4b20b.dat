@@ -1,0 +1,170 @@
+{
+RT REF Fustration – Autism URL
+TAGNUMautism TAG
+#POS J I J N W N U
+H H #POS
+}
+{
+Fustration – Autism URL
+#POS N W N U #POS
+}
+{
+Check out this Kayaking activity URL
+TAGNUMautism
+#POS V T D B N U
+H #POS
+}
+{
+A new world record – over NUM MPH in a kayak URL
+#POS D A N N W P K N P D G U #POS
+}
+{
+RT REF .REF selects Splunk Enterprise to help investigate security incidents &amp; (cont) URL
+#POS J I J W I V B N P V V N N F W J W U #POS
+}
+{
+Splunk is looking for: Professional Services Coordinator
+URL TAG
+#POS B V V P W A N N
+U H #POS
+}
+{
+RT REF Kayaking for Autism URL via REF
+ TAGNUMautism
+#POS J I J B P N U P I
+H #POS
+}
+{
+RT REF V words are very popular this URL, velocity, veracity, variety, vectored, variability TAG TAG TAG
+#POS J I J B B V R A D N W N W N W N W N W B W N H H H #POS
+}
+{
+RT REF Kayaking for Autism URL via REF TAGNUMautism
+#POS J I J B P N U P I H #POS
+}
+{
+Wired up and ready to go URL
+#POS V T F A P V U #POS
+}
+{
+Kayaking for Autism URL
+#POS B P N U #POS
+}
+{
+So the training officially starts! URL
+TAG
+#POS P D N R V W U
+H #POS
+}
+{
+My heart rate is NUMbpm. TAG URL Excited about SKO!
+#POS D N N V K W H U W V P N W #POS
+}
+{
+Splunk is looking for: Inside Sales Rep -  Germany
+URL TAG
+#POS B V V P W P N N W B
+U H #POS
+}
+{
+Splunk is looking for: Sales Account Manager - DACH
+URL TAG
+#POS B V V P W N N N W C
+U H #POS
+}
+{
+Splunk is looking for: Financial Services &amp; Insurance Systems (FSI) Evangelist - EMEA
+URL TAG
+#POS B V V P W A N F N N W B W N W B
+U H #POS
+}
+{
+Splunk is looking for: Telco Evangelist - EMEA
+URL TAG
+#POS B V V P W B N W N
+U H #POS
+}
+{
+Splunk is looking for: Major Account Manager - Dach
+URL TAG
+#POS B V V P W A N N W B
+U H #POS
+}
+{
+Splunk is looking for: International HR Director (London or Hong Kong)
+URL TAG
+#POS B V V P W A N N W B F B B W
+U H #POS
+}
+{
+Splunk is looking for: Partner Account Manager
+URL TAG
+#POS B V V P W B B B
+U H #POS
+}
+{
+Splunk is looking for: Technical Support Engineer – London
+URL TAG
+#POS B V V P W A N N W B
+U H #POS
+}
+{
+Splunk is looking for: Partner Account Manager for UK and South Africa
+URL TAG
+#POS B V V P W B B B P B F B B
+U H #POS
+}
+{
+Replacing Franken-Monitors and Frameworks with the Splunk Ecosystem URL via REF
+#POS V B F B P D B B U P I #POS
+}
+{
+URL
+So true.TAG
+#POS U
+R A W H #POS
+}
+{
+REF presenting at Splunk Live Sweden. TAG TAG TAG URL
+#POS I V P B B B W H H H U #POS
+}
+{
+TAG TAG TAG URL
+#POS B H H U #POS
+}
+{
+REF presenting at Splunk Live Sweden TAG TAG TAG URL
+#POS I V P B B B B H H U #POS
+}
+{
+Thomas Lundmark presenting at Splunk Live Sweden.  Having to stand as there are no seats! TAG TAG URL
+#POS B B V P B B B W V P V P X V D N W H H U #POS
+}
+{
+REF REF at Splunk Live Norway. TAG URL
+#POS I V P B B B W H U #POS
+}
+{
+REF makes me feel hungry!
+#POS I V O V A W #POS
+}
+{
+REF presenting at TAG URL
+#POS I V P B U #POS
+}
+{
+Thomas presenting at Splunk Live Norway. TAG URL
+#POS B V P B B B W H U #POS
+}
+{
+Awesome feedback on REF Splunk in the Cloud workshop at TAGNUM Looking forward to meeting everyone today TAG TAG
+#POS A N P I B P D B N P B V R P V N N H H #POS
+}
+{
+Get a taste of LogLogic's flexibility and try the web services real-time dashboard for free URL
+#POS V D N P Z N F V D N N A N P A U #POS
+}
+{
+Andrew Morris blog: Log Management specifically for you URL
+#POS B B N W V N R P O U #POS
+}

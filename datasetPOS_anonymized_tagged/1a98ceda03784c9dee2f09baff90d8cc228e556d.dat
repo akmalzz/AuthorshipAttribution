@@ -1,0 +1,820 @@
+{
+REF Well, maybe a job is soon to arise when needed.
+#POS I C W R D N V R P V R V W #POS
+}
+{
+REF {He smiled, and rubbed his neck} Oh how interesting...
+#POS I W O V W F V D N W C R A W #POS
+}
+{
+REF REF As you wish... {He nods, preparing the carriage}
+#POS I I P O V W W O V W V D N W #POS
+}
+{
+REF This world is full of people. Something should grab your attention.
+#POS I D N V A P N W N V V D N W #POS
+}
+{
+REF You...Can't be talking about me....Are you?
+#POS I O W V V V P O W V O W #POS
+}
+{
+REF REF Stay well, master... {He stops and looks around} Hm...
+#POS I I B R W N W W O V F V P W C W #POS
+}
+{
+REF {He taps his chin, in thought} Who could that be...?
+#POS I W O V D N W P N W O V O V W #POS
+}
+{
+REF Eh...? {He tilts his head} Who do you like then?
+#POS I C W W O V D N W O V O V R W #POS
+}
+{
+REF {He nods} Oh, I am well. Yourself?
+#POS I W O V W C W O V R W O W #POS
+}
+{
+REF You have a sweet laugh...
+#POS I O V D A N W #POS
+}
+{
+REF {His eyes widen} Are you alright...?
+#POS I W D N V W V O R W #POS
+}
+{
+// Twitter bugged out there for a moment.
+#POS J B V T R P D N W #POS
+}
+{
+REF REF Just let me stop that dog, and I'll leave you be!
+#POS I I R V O V D N W F L V O V W #POS
+}
+{
+REF Ah? Well, that makes everything much easier!
+#POS I C W C W O V N R A W #POS
+}
+{
+REF REF I have to go where you go! {He follows him close behind}
+#POS I I O V P V R O V W W O V O A P W #POS
+}
+{
+REF You're very welcome!
+#POS I L R A W #POS
+}
+{
+REF REF Ugh! {He runs after Ciel} Master, I need to stop Pluto!
+#POS I I C W W O V P B W N W O V P V B W #POS
+}
+{
+REF Ahaha, I feel like I've known you already.
+#POS I C W O V P L V O R W #POS
+}
+{
+REF REF Try to give him a treat, Finny! Or whatever dogs like...I hate dogs...
+#POS I I V P V O D N W B W F D N P W O V N W #POS
+}
+{
+REF REF {His eyes widen} Master...?!
+#POS I I J D N V W N W #POS
+}
+{
+REF {He smiles happily, nodding} If I wasn't, what kind of a butler would I be?
+#POS I W O V R W V W P O V W O N P D B V O V W #POS
+}
+{
+REF REF And try not to break any more walls! I'll have to clean that up... {He shakes his head}
+#POS I I F V R P V D A N W L V P V O T W W O V D N W #POS
+}
+{
+REF REF {He sighs} Yes, my lord. Finny! Please tend to the dog...
+#POS I I J O V W C W D N W B W V V P D N W #POS
+}
+{
+REF REF {He bows} Alright...I shall not tend to the dog...
+#POS I I J O V W C W O V R V P D N W #POS
+}
+{
+REF Ah, I see. So many butlers these days. None can match me, though. Aha.
+#POS I C W O V W R A N D N W N V V O W P W C W #POS
+}
+{
+REF Oh? What kind of master?
+#POS I C W O N P N W #POS
+}
+{
+REF REF {He turns to Ciel} Is that an order, master?
+#POS I I J O V P B W V O D N W N W #POS
+}
+{
+REF REF {He pulls Ciel off of him, and starts walking out of the room} Where did he go?
+#POS I I J O V B P P O W F V V P P D N W R V O V W #POS
+}
+{
+REF Ah, I understand. So, why have you came here...If I might ask?
+#POS I C W O V W R W R V O V R W P O V V W #POS
+}
+{
+REF {He looks down at her} Are you alright, miss?
+#POS I W O V R P O W V O C W V W #POS
+}
+{
+REF {He looks up at the sky, walking a steady pace} Hm...
+#POS I W O V T P D N W V D A N W C W #POS
+}
+{
+REF REF {He jumps up and turns to Finny} What is going on now?!
+#POS I I J O V T F V P B W O V V P R W #POS
+}
+{
+REF It's quite alright. {He smiles, walking on}
+#POS I L R C W W O V W V P W #POS
+}
+{
+REF {He sighs} Oh young master...
+#POS I W O V W C A N W #POS
+}
+{
+REF {He rubs the back of his neck} Maybe it is time for you to rest...
+#POS I W O V D N P D N W R O V N P O P V W #POS
+}
+{
+REF That would be very unlikely to happen, my lady. {He nods at her}
+#POS I O V V R A P V W D N W W O V P O W #POS
+}
+{
+REF {At first he is shocked but he just walks on}The sun beautifully sets and the world turns on endlessly like a elegant dance.
+#POS I W P A O V A F O R V D N R N F D N V P R P D A N W #POS
+}
+{
+REF {He smirks} Master, you flatter me...Aha.
+#POS I W O V W N W O V O W C W #POS
+}
+{
+REF {He smiles, and starts to walk} It's rare...Wonderful days like this.
+#POS I W O V W F V P V W L A W A N P O W #POS
+}
+{
+REF {He holds out an arm for her} It is a lovely day after all.
+#POS I W O V T D N P O W O V D A N P O W #POS
+}
+{
+REF I would never lie to you. {He nods}
+#POS I O V R V P O W W O V W #POS
+}
+{
+REF Oh, I would love one! {He nods}
+#POS I C W O V V K W W O V W #POS
+}
+{
+REF It would ruin everything, master! Please do understand!
+#POS I O V V N W N W V V V W #POS
+}
+{
+REF And I as well! {He smiles}
+#POS I F O R R W W O V W #POS
+}
+{
+REF {He shakes his head} I am not entitled to tell you such information, my young lord.
+#POS I W O V D N W O V R V P V O A N W D A N W #POS
+}
+{
+REF A beautiful name. Yes, yes, it is.
+#POS I D A N W C W C W O V W #POS
+}
+{
+REF {He sighs} ...It seems like there is little time, my lord...
+#POS I W O V W W O V P X V A N W D N W #POS
+}
+{
+REF I am well. Nice to meet you. I am Sebastian Michaelis! {He bows as well}
+#POS I O V A W A P V O W O V B B W W O V R R W #POS
+}
+{
+REF Hello there!
+#POS I C R W #POS
+}
+{
+REF Oh? Please do forgive me for my incompetence. What have you meant, my lord?
+#POS I C W V V V O P D N W O V O V W D N W #POS
+}
+{
+REF Oh? {He nods} It sounds wonderful. Thank you for telling me.
+#POS I C W W O V W O V A W V O P V O W #POS
+}
+{
+REF It should take a couple of hours. You'll feel better soon.
+#POS I O V V D N P N W L V R R W #POS
+}
+{
+REF Would you mind telling me about it?
+#POS I V O V V O P O W #POS
+}
+{
+REF Ah...? I've never heard of it...
+#POS I C W L R V P O W #POS
+}
+{
+REF Yes, it's done, my lord. I'm sorry, but it had to be done.
+#POS I C W L V W D N W L A W F O V P V V W #POS
+}
+{
+REF {He looks at him} I did warn you...It shouldn't last long!
+#POS I W O V P O W O V V O W O V A A W #POS
+}
+{
+REF {He used his demon powers to heal the wound Ciel had, when he had finished he smiled} Alright! I'm done.
+#POS I W O V D N N P V D N B V W R O V V O V W C W L V W #POS
+}
+{
+REF Close your eyes. You can't see this, master. {He nods}
+#POS I V D N W O V V D W N W W O V W #POS
+}
+{
+REF A princess? {He bows} Ah, very nice to meet you, your highness. My name is Sebastian. Butler to Ciel Phantomhive.
+#POS I D N W G O V W C W R A P V O W D N W D N V B W B P B B W #POS
+}
+{
+REF {He turns around, and sees her} Huh? Oh why, hello there.
+#POS I W O V R W F V O W C W C R W C R W #POS
+}
+{
+REF Oh, that is wonderful to hear! {He bows slightly}
+#POS I C W O V A P V W W O V R W #POS
+}
+{
+REF My dear lady, it is quite nice to meet you. It seems that you already know about me.
+#POS I D A N W O V R A P V O W O V P O R V P O W #POS
+}
+{
+REF Oh? Aha. {He nods, smiling sweetly} It seems so.
+#POS I C W C W W O V W V R W O V R W #POS
+}
+{
+REF I'd rather not say, master. {He smiles}
+#POS I L R R V W N W W O V W #POS
+}
+{
+It is getting quite late, and my writer would like to retire to begin a new day tomorrow. {He bows} I shall have tea ready in the morning.
+#POS O V V R A W F D N V V P V P V D A N N W W O V W O V V N A P D N W #POS
+}
+{
+REF {He smirks} I will heal you, my young lord...Like angels have their way...And demons have ours.
+#POS I W O V W O V V O W D A N W P N V D N W F N V O W #POS
+}
+{
+REF She taught you well. How rude of me to not have introduced myself. I am Sebastian Michaelis. Nice to meet you.
+#POS I O V O R W R A P O P R V V O W O V B B W A P V O W #POS
+}
+{
+REF The pain will hurt, very much so, but try not to scream too much.
+#POS I D N V V W R A R W F V R P V R A W #POS
+}
+{
+REF You have quite the manners...For a reaper.
+#POS I O V R D N W P D N W #POS
+}
+{
+REF Oh...Do try to contain yourself, my lord. It won't be for long.
+#POS I C W V V P V O W D N W O V V P A W #POS
+}
+{
+REF {He takes her hand, standing up} It is alright. It's not everyday I get knocked over!
+#POS I W O V D N W V T W O V C W L R N O V V P W #POS
+}
+{
+REF Ah, have no fear, dear lady. There's nothing to be afraid of! {He smiles}
+#POS I C W V D N W A N W L N P V A P W W O V W #POS
+}
+{
+REF I will try, master. {He continues} You will need to rest.
+#POS I O V V W N W W O V W O V V P N W #POS
+}
+{
+REF Silk? Ah, what a pretty name. Might I ask, why have you tackled me to the ground?
+#POS I N W C W O D A N W V O V W R V O V O P D N W #POS
+}
+{
+REF REF {He puts him down at his bed, treating him for his wound}
+#POS I I J O V O R P D N W V O P D N W #POS
+}
+{
+REF And who might you be? {His eyes narrow}
+#POS I F O V O V W G D N A W #POS
+}
+{
+REF Huh...? {He falls over}
+#POS I C W W O V P W #POS
+}
+{
+REF As always, sir. {He bows}
+#POS I P R W N W W O V W #POS
+}
+{
+REF REF Hold on, my lord. {He dashes to the mansion}
+#POS I I V T W D N W W O V P D N W #POS
+}
+{
+// I hope everyone thinks I'm a good Sebastian as much as I do. And I must say, I am quite fond of RPing him.
+#POS J O V N V L D A B R A P O V W F O V V W O V R A P V O W #POS
+}
+{
+REF I'll be right back! {He bows, walking out of the room, soon after he walks back with a plate of tea, and hands a cup to him}
+#POS I L V R R W W O V W V P P D N W R P O V R P D N P N W F N D N P O W #POS
+}
+{
+REF REF I am simply, one hell of a butler. {He smiles, running off with Ciel}
+#POS I I O V R W K N P D B W W O V W V T P B W #POS
+}
+{
+REF {He nods} Would you like some tea to help relax you, master?
+#POS I W O V W V O V D N P V V O W N W #POS
+}
+{
+REF REF Oh, you mean your favorite toy? I almost forgot! {He smiles, and throws it at Grell's head} Ta ta!
+#POS I I C W O V D A N W O R V W W O V W F V O P Z N W P P W #POS
+}
+{
+REF If it worries so much, I'll ask around. I suppose she is fine now days. Don't let it trouble you, my lord.
+#POS I P O V R R W L V R W O V O V A R N W V V O V O W D N W #POS
+}
+{
+REF REF Yes, my young lord. {He puts Ciel in his arms, and starts dashing off} No hard feelings Grell! Aha!
+#POS I I C W D A N W W O V B P D N W F V V T W D A N B W C W #POS
+}
+{
+REF REF {He sighs, and turns to Ciel} Master, are we done here?
+#POS I I J O V W F V P B W N W V O V R W #POS
+}
+{
+REF Insult...? I...I don't think it was...
+#POS I V W O W O V V O V W #POS
+}
+{
+REF That you are very different than from anyone I have seen!
+#POS I P O V R A P P N O V V W #POS
+}
+{
+REF REF {He glares at Grell} Just beg for mercy and I shall let you leave...
+#POS I I J O V P B W R V P N F O V V O V W #POS
+}
+{
+REF {He shakes his head} Oh master, you are something.
+#POS I W O V D N W C N W O V N W #POS
+}
+{
+REF REF {He smiles deviously} I understand, my young lord...
+#POS I I J O V R W O V W D A N W #POS
+}
+{
+REF {He smiles} Master, please forgive me. I was just having fun.
+#POS I W O V W N W V V O W O V R V N W #POS
+}
+{
+REF REF No, master. I swore to protect you. It is not your time.
+#POS I I C W N W O V P V O W O V R D N W #POS
+}
+{
+REF Is my master frustrated with me? Shall I give you some tea and a bib?
+#POS I V D N V P O W V O V O D N F D N W #POS
+}
+{
+REF REF {He quickly throws knives at Grell} Shut it you idiot!
+#POS I I J O R V N P B W V O O N W #POS
+}
+{
+REF Oh my, it seems to keep getting worse! How adorable.
+#POS I C D W O V P V V A W R A W #POS
+}
+{
+REF REF {He nods} If you say so...Am I still to harm Grell?
+#POS I I J O V W P O V R W V O R P V B W #POS
+}
+{
+REF Aha...I never knew your cheeks could turn such a color, young master.
+#POS I C W O R V D N V V A D N W A N W #POS
+}
+{
+// That'd be awesome...If someone would RP as Sebastian's cat... *^*
+#POS W L V A W P N V V P Z N W E #POS
+}
+{
+REF REF Master!!! {His eyes widen, and he dashes to Ciel, and holds him} Master, are you alright?!
+#POS I I N W W D N V W F O V P B W F V O W N W V O C W #POS
+}
+{
+REF Oh come now, my lord! I am merely joking.
+#POS I C V R W D N W O V R V W #POS
+}
+{
+REF REF {He grabs his own knife, and chucks more at him} Then you shall suffer!
+#POS I I J O V D A N W F N R P O W R O V V W #POS
+}
+{
+REF Your face just tells it all, master! {He smiles at him}
+#POS I D N R V O D W N W W O V P O W #POS
+}
+{
+TAG I like this one.
+#POS H O V D K W #POS
+}
+{
+It seems like everyone has died. How unfortunate.
+#POS O V P N V V W R A W #POS
+}
+{
+I am not an ordinary butler...I am far more superior. It would be wise of you not to cross me. I would take (cont) URL
+#POS O V R D A N W O V R R A W O V V A P O R P V O W O V V W J W U #POS
+}
+{
+// I have an amazing new twitlonger. xD
+#POS J O V D A A N W E #POS
+}
+{
+// I'm updating my twitlonger. .-.
+#POS W L V D N W W W W #POS
+}
+{
+Claude....Claude what are you doing?! Claude please stop! &gt;.&gt; URL
+#POS B W B O V O V W B V V W E U #POS
+}
+{
+REF REF {He smirks, and raises another knife} All you have to do is beg for mercy...
+#POS I I J O V W F V D N W X O V P V V V P N W #POS
+}
+{
+REF REF Look master! Aren't they adorable?! URL
+#POS I I V N W V O A W U #POS
+}
+{
+REF REF Gotcha! {He slowly walks over to him, smiling} Perhaps you would like another knife in your throat, Grell!
+#POS I I C W W O R V P P O W V W R O V V D N P D N W B W #POS
+}
+{
+REF REF I am sorry, my young master. {He bows} Please forgive me. Shut it Grell! {He dashes to him, throwing knives}
+#POS I I O V A W D A N W W O V W V V O W V O B W W O V P O W V N W #POS
+}
+{
+REF REF {He frowns slightly, and walks off} ...So soft...And cute...
+#POS I I J O V R W F V T W W R A W F A W #POS
+}
+{
+REF REF Master! {He quickly jumps up} I'm sorry!
+#POS I I N W W O R V T W L A W #POS
+}
+{
+REF REF // Like, just die...
+#POS I I J R W R V W #POS
+}
+{
+.......I need a pet cat now......Like...NOW!
+#POS W O V D N N R W R W R W #POS
+}
+{
+REF REF Waah! {He falls on the ground, and shakes his head} How dare you! Why don't you just kill over!
+#POS I I C W W O V P D N W F V D N W R V O W R V O R V T W #POS
+}
+{
+REF REF ...Sorry master....I just...Love cats.
+#POS I I J A N W O R W V N W #POS
+}
+{
+REF REF Rah! {He jerks back, and smirks at him} You've got guts, Grell. I admire that. {He swings a kick at him}
+#POS I I C W W O N R W F V P O W L V N W B W O V O W W O V D N P O W #POS
+}
+{
+REF REF Tch... {He ducks, and takes out another knife, stabbing Grell} Would you kindly end this now?
+#POS I I C W W O N W F V T D N W V B W V O R V O R W #POS
+}
+{
+REF REF Young master, let me handle this. {He throws a punch at Grells chest}
+#POS I I B N W V O V O W W O V D N P B N W #POS
+}
+{
+REF REF {He smirks, and stomps on Grells face, throwing silverware at him} Am I done yet, master?
+#POS I I J O V W F V P B N W V N P O W V O V R W N W #POS
+}
+{
+REF REF I have to obey my master! {He jumps up after him, throwing a quick kick}
+#POS I I O V P V D N W W O V T P O W V D A N W #POS
+}
+{
+REF REF {He puts his hand in his pocket, taking out forks and knives, he then chucks them at Grell}
+#POS I I J O V D N P D N W V T N F N W O R V O P B W #POS
+}
+{
+REF REF Let me see..You tried to kill me before. Now, Grell, I shall beat you were you stand! {He dashes toward him}
+#POS I I V O V W O V P V O R W R W B W O V V O V O V W W O V P O W #POS
+}
+{
+// NUM minute in and I can't breathe. So freakin' dead man. X'D URL
+#POS J K N P F O V V W P A W A N W E U #POS
+}
+{
+....I'm not even going to say anything...
+#POS W L R R V P V N W #POS
+}
+{
+I'll smile right now to mess with you.
+#POS L V R R P V P O W #POS
+}
+{
+REF REF {He nods, and glares at Grell} As you wish, my lord.
+#POS I I J O V W F V P B W P O V W D N W #POS
+}
+{
+Do you ever smile, Claude? Maybe you should try it...
+#POS V O R V W B W R O V V O W #POS
+}
+{
+REF REF Master. Are you still wishing me to kill him?
+#POS I I N W V O R V O P V O W #POS
+}
+{
+Hmm...That is true...I guess smiling will have to do.
+#POS C W O V A W O V V V V P V W #POS
+}
+{
+I'll laugh in your face when I sink my teeth in his soul!
+#POS L V P D N R O V D N P D N W #POS
+}
+{
+Oh but you will not, as long as the contract stands, his soul is mine. And I bet that just angers you.
+#POS C F O V R W R A P D N V W D N V O W F O V O R V O W #POS
+}
+{
+{He nods slowly} Oh he will taste lovely...
+#POS W O V R W C O V V A W #POS
+}
+{
+Aha, you would go to the depths of putting your own life on the line?
+#POS C W O V V P D N P V D A N P D N W #POS
+}
+{
+{He growls silently, narrowing his eyes} You will not have my master. His soul is mine, and mine only!
+#POS W O V R W V D N W O V R V D N W D N V O W F O R W #POS
+}
+{
+I hope you have no intentions of harming my master, Claude....You know I hate spiders.
+#POS O V O V D N P V D N W B W O V O V N W #POS
+}
+{
+Claude...? Hm...I knew I smelt some trouble...
+#POS B W C W O V O V D N W #POS
+}
+{
+REF REF Gah... {He jerks back, and smirks at him} Oh, you are right in that sense, my friend.
+#POS I I C W W O N R W F V P O W C W O V R P D N W D N W #POS
+}
+{
+REF REF Because... {He jumps up and stands behind Grell} I'm faster than you.
+#POS I I P W W O V T F V P B W L A P O W #POS
+}
+{
+REF REF Oh, stop running! {He dashes after him}
+#POS I I C W V V W W O V P O W #POS
+}
+{
+// Just finished watching all of Black Butler! Ugh feels!!!! DX
+#POS W R V V D P B B W C V W E #POS
+}
+{
+REF REF {He grips the chainsaw tighter} I have to...For my master.
+#POS I I J O V D N A W O V P W P D N W #POS
+}
+{
+Master seems to love to slap me...
+#POS N V P V P V O W #POS
+}
+{
+// Just watched episode NUM....Freakin' crying man....Just....Aaaagggh!!!!
+#POS W R V N K W A W V N W R W C W #POS
+}
+{
+REF REF I cannot do that. I have to follow my masters command. {He turns on the chainsaw, putting it by Grells neck}
+#POS I I O V V O W O V P V D N N W W O V P D N W V O P B N W #POS
+}
+{
+REF REF  {He jumps up, and stands in front of Grell, aiming the chainsaw at him}
+#POS I I J O V T W F V P N P B W V D N P O W #POS
+}
+{
+REF REF Do not worry, master... {He holds onto him tightly, still chasing after Grell}
+#POS I I V R V W N W W O V P O R W R V P B W #POS
+}
+{
+REF REF {He runs after Grell} Ugh...
+#POS I I J O V P B W C W #POS
+}
+{
+REF REF As you wish master... {He lifts the chainsaw up, kicking on Grell's face repeatedly}
+#POS I I P O V N W W O V D N T W V P Z N R W #POS
+}
+{
+REF REF But, I am one hell of a butler. {He kicks Grell, grabbing Ciel with one arm, and aiming the chainsaw at him}
+#POS I I F W O V K N P D B W W O V B W V B P K N W F V D N P O W #POS
+}
+{
+REF REF Hold on, master. {He takes another step, raising the chainsaw} Try me, Grell!
+#POS I I V T W N W W O V D N W V D N W V O W B W #POS
+}
+{
+// I'm having so much fun doing this actually. xD
+#POS W L V R A N V O R W E #POS
+}
+{
+REF REF You would be wise to unhand my master, Grell. {He steps towards him}
+#POS I I O V V A P V D N W B W W O N P O W #POS
+}
+{
+REF REF {He points the chainsaw at Grell} Now, Grell, will you learn to play nice?
+#POS I I J O V D N P B W R W B W V O V P V A W #POS
+}
+{
+REF REF {He ducks, and grabs the chainsaw} Hmph.
+#POS I I J O N W F V D N W C W #POS
+}
+{
+REF REF Stop this nonsense! {He takes a step towards Grell}
+#POS I I V D N W W O V D N P B W #POS
+}
+{
+REF REF {He shakes his head, and stares at Grell} Do I have to break your toy again?
+#POS I I J O V D N W F V P B W V O V P V D N R W #POS
+}
+{
+REF REF Ugh... {He starts running with Ciel}
+#POS I I C W W O V V P B W #POS
+}
+{
+REF {He picks him up in his arms} I shall carry you to your chambers, my lord.
+#POS I W O V O T P D N W O V V O P D N W D N W #POS
+}
+{
+REF REF Tch... {He runs in front of Ciel, blocking the chainsaw}
+#POS I I C W W O V P N P B W V D N W #POS
+}
+{
+REF Yes, master. It seems that you are ill. {He nods, and stands up}
+#POS I C W N W O V P O V L W W O V W F V T W #POS
+}
+{
+REF REF {He jumps down, and kicks on Grell's face} Pity, you never learn.
+#POS I I J O V R W F V P Z N W N W O R V W #POS
+}
+{
+REF Master... {He knelt down, and held his body} Don't die on me...
+#POS I N W W O V T W F V D N W V V P O W #POS
+}
+{
+REF {He blinks at him} Oh I am sorry! What is wrong?!
+#POS I W O V P O W C O V A W O V A W #POS
+}
+{
+REF REF {Throws his head back, swinging his leg to hit Grell} Stop this now!
+#POS I I J V D N R W V D N P V B W V O R W #POS
+}
+{
+REF Hold on master! {He runs over to him and punches his chest}
+#POS I V P N W W O V P P O F V D N W #POS
+}
+{
+REF Oh my, are you alright? {He takes a step towards him}
+#POS I C D W V O R W G O V D N P O W #POS
+}
+{
+REF REF {He runs after them, standing right behind Grell, he throws a punch}
+#POS I I J O V P O W V R P B W O V D N W #POS
+}
+{
+REF REF {He growls, and turns to Grell} Let him go!
+#POS I I J O V W F V P B W V O V W #POS
+}
+{
+REF {He nods, smiling} It is my pleasure. I suppose you are well this evening.
+#POS I W O V W V W O V D N W O V O V R D N W #POS
+}
+{
+REF REF Gah! Grell!!! {He jumps up, and runs to Ciel, grabbing him with one arm}
+#POS I I C W B W W O V T W F V P B W V O P K N W #POS
+}
+{
+REF {He nods, walking off, he comes back with a plate of tea} Here you are.
+#POS I W O V W V T W O V R P D N P N W R O V W #POS
+}
+{
+REF Would you like me to make you some tea? I wouldn't want you to spoil your appetite since dinner is soon.
+#POS I V O V O P V O D N W O V V O P V D N P N V R W #POS
+}
+{
+REF REF MASTER!!! {Runs to him, pulling him away}
+#POS I I N W W V P O W V O R W #POS
+}
+{
+REF {Hears his call, so he appears before him, bowing} What is it, my lord?
+#POS I W V D N W P O V P O W V W O V O W D N W #POS
+}
+{
+It seems I have found myself alone...
+#POS O V O V V O R W #POS
+}
+{
+REF I will bring some right away. {He bows, and leaves the room, he soon comes back with a plate with tea} There you are, sir.
+#POS I O V V D A R W W O V W F V D N W O R V R P D N P N W X O V W N W #POS
+}
+{
+REF Would you like some tea then, young master?
+#POS I V O V D N R W A N W #POS
+}
+{
+REF Nothing. {He shakes his head} I did not expect you...
+#POS I N W W O V D N W O V R V O W #POS
+}
+{
+REF ...Master... {He sighs}
+#POS I W N W W O V W #POS
+}
+{
+Note to self: Never go back to India.
+#POS N P N W R V R P B W #POS
+}
+{
+....I'm not going to kiss him...
+#POS W L R V P V O W #POS
+}
+{
+DID CIEL JUST PAWN ME OFF FOR A DAY TO THAT IDIOT GRELL?????
+#POS V B R V O P P D N P D N B W #POS
+}
+{
+Oh I can make their heads spin...
+#POS C O V V D N V W #POS
+}
+{
+Those idiots think they can capture a photo of me...
+#POS D N V O V V D N P O W #POS
+}
+{
+REF .... {He smirks} See, there you go. On and on about your face.
+#POS I W W O V W V W R O V W P F P P D N W #POS
+}
+{
+REF ...Then you must be mistaken. I really want to kick your face in again.
+#POS I W R O V V V W O R V P V D N P R W #POS
+}
+{
+REF {He rolls his eyes} If I ever get another chance to kill you...I'd gladly take the offer.
+#POS I W O V D N W P O R V D N P V O W L R V D N W #POS
+}
+{
+REF {He sighs once more} There. Are we done now?
+#POS I W O V R A W R W V O V R W #POS
+}
+{
+REF Let's get this over with. {He took a deep breath and jumped up into the air, spinning elegantly and landing with a pose}
+#POS I L V O T P W W O V D A N F V T P D N W V R F V P D N W #POS
+}
+{
+REF {He rolls his eyes, and fixes his gloves} Are you ready?
+#POS I W O V D N W F V D N W V O A W #POS
+}
+{
+REF Sometimes I wonder if you really are a divine creature. {Shakes his head} Fine...I'll pose for you. Just this one time!
+#POS I R O V P O R V D A N W W V D N W A W L V P O W R D K N W #POS
+}
+{
+REF Ugh, why? You going to post it all over the internet?
+#POS I C W R W O V P V O D P D N W #POS
+}
+{
+REF {He sighs, and rubs his forehead} It is too bad I am already late!
+#POS I W O V W F V D N W O V R A O V R A W #POS
+}
+{
+REF Oh, Grell...Do I have to use your favorite toy on you again?
+#POS I C W B W V O V P V D A N P O R W #POS
+}
+{
+REF {He sighs} And to think you are a divine creature...
+#POS I W O V W F P V O V D A N W #POS
+}
+{
+I am not an ordinary butler...I am far more superior. It would be wise of you not to cross me. I would take (cont) URL
+#POS O V R D A N W O V R R A W O V V A P O R P V O W O V V W J W U #POS
+}
+{
+REF There you go again acting like such a fool. I must say, I am proud of my outfit today. {He smirked, admiring himself}
+#POS I X O V R V P X D N W O V V W O V A P D N N W W O V W V O W #POS
+}
+{
+REF Oh good lord! {He jumps up, and turns to see him} What are you doing here?!
+#POS I C A N W W O V T W F V P V O W O V O V R W #POS
+}
+{
+How very dull...
+#POS R R A W #POS
+}
+{
+Would people mind to RT this to spread the word that I have arrived here and I do wish to have conversations with you all...
+#POS V N N P V O P V D N P O V V R F O V V P V N P O D J #POS
+}

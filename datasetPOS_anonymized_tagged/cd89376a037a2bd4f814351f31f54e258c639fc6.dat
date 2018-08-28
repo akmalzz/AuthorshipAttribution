@@ -1,0 +1,3178 @@
+{
+Dexmaker NUM.NUM is out, with fixes from REF URL
+#POS B K V A W P N P I W U #POS
+}
+{
+Hey Kitchener/Waterloo friends! Come to our bake sale at REF All proceeds to a great charity, REF URL
+#POS C B N W V P D A N P I W D N P D A N W I W U #POS
+}
+{
+Square Waterloo bake sale for Blessings in a Backpack REF at Tannery/REF Friday TIM–TIM. TAG URL
+#POS B B V N P N P D N I P B I W B K W K W H U #POS
+}
+{
+OkHttp is getting lots of love. Last night we promoted NUM.NUM.NUM, which fixes a bug in response cache cleanup. URL
+#POS B V V N P N W A N O V K W D N D N P N N N W U #POS
+}
+{
+REF dexmaker: URL
+#POS I N W U #POS
+}
+{
+REF yup. After skimming the spec, it's really bad. You should charge your clients extra $ for using such nonsense!
+#POS I C W P V D N W L R A W O V V D N A N P V A N W #POS
+}
+{
+REF yeah, that's a rough situation. But you're in the weeds: WebView, NTLM, clearing auth. Why NTLM? I'm googling it and it's bad.
+#POS I C W L D A N W F L P D N W B W B W V N W R G W L V O F L A W #POS
+}
+{
+REF ahh. If you wanna implement NTLM, submit code to OkHttp! (We've punted to date because it seems proprietary.)
+#POS I C W P O V V B W V N P B W W L V P V P O V A W W #POS
+}
+{
+REF I assume you've tried overriding loadUrl() ? (I don't know anything about WebView; I don't think it's part of the HTTP stack!)
+#POS I O V L V V B B W W O V V N P B W O V V L N P D B N W W #POS
+}
+{
+REF we're accepting feature requests and patches at OkHttp. No NTLM yet, because... Ew?
+#POS I L V N N F N P B W C N R W P W C W #POS
+}
+{
+REF how can I help?
+#POS I R V O V W #POS
+}
+{
+Google Drive just cut my monthly fee for NUM gigs from $NUM to $NUM. I'm both delighted and offended!
+#POS B N R V D A N P K N P K P K W L O A F V W #POS
+}
+{
+REF yup. Typically when there's a problem with a pooled connection.
+#POS I C W R R L D N P D N N W #POS
+}
+{
+Movie night at Square Waterloo! URL
+#POS N N P B B W U #POS
+}
+{
+OkHttp NUM.NUM.NUM is out, and much better than NUM.NUM.NUM. URL
+#POS B K V A W F R A P K W U #POS
+}
+{
+REF I'm attempting HTTP-draft-DAT.NUM on URL but it's returning 'status' instead of ':status'. Known issue?
+#POS I L V B K P U F L V W N W R P W W N W W V N W #POS
+}
+{
+Live in Waterloo, Canada? Write beautiful Java code? The Cash team at Square is hiring. URL URL
+#POS V P B W B W V A B N W D N N P B V V W U U #POS
+}
+{
+REF House of Cards isn't a  documentary?!
+#POS I N P B V D N W #POS
+}
+{
+OkHttp NUM.NUM. URL URL
+#POS B K W U U #POS
+}
+{
+REF congrats. I'm glad you're here!
+#POS I C W L A L R W #POS
+}
+{
+Sharks v. Pens! w/ REF REF REF REF REF REF and friends. URL
+#POS B B W B W P I I I I I I F N W U #POS
+}
+{
+REF what's a non-HTTP client?
+#POS I L D A N W #POS
+}
+{
+REF REF harsh
+#POS I I A #POS
+}
+{
+Fourth corner. Only corner.
+TAG
+#POS A N W A N W
+H #POS
+}
+{
+REF interesting. Fragmentation is yet another interesting leak in the managed heap abstraction.
+#POS I A W N V R D A N P D A N N W #POS
+}
+{
+Left: Google's Nexus logo.
+Right: A frame from the Nokia X announcement. URL
+#POS V W Z N N W
+R W D N P D B B N W U #POS
+}
+{
+Good day to be in the market for a new smartphone. Tempted by ZNUM, Blackphone, Nokia X and whatever's next from HTC.
+#POS A N P V P D N P D A N W V P B W B W B B F L A P B W #POS
+}
+{
+That anxious feeling when the only copy is on my ⌘C clipboard.
+#POS O A V R D A N V P D B N W #POS
+}
+{
+REF this is just a tease! I'll announce the full thing when its really ready. In the interim, URL
+#POS I O V R D N W L V D A N R L R A W P D A W U #POS
+}
+{
+REF aw shucks.
+#POS I C C W #POS
+}
+{
+I spent my weekend hacking on OkBuffer, an unbounded byte buffer that reads at the front and writes at the back. URL
+#POS O V D N V P B W D A N N P V P D N F V P D N W U #POS
+}
+{
+REF yep!
+#POS I C W #POS
+}
+{
+REF I think the silly rules exist so you dont reuse passwords across services.
+#POS I O V D A N V P O V V N P N W #POS
+}
+{
+“The hard work of Guava is the "making good decisions" part, not the coding part.” –REF URL
+#POS W D A N P B V D W V A N W N W R D N N W W W I U #POS
+}
+{
+REF CacheBuilder is your friend.
+#POS I B V D N W #POS
+}
+{
+The Google Play Store's "For The Power User" feature list includes Shush! URL
+#POS D B B Z W P D N N W N N V C W U #POS
+}
+{
+REF Android's API docs have a lot to say here: URL
+#POS I Z B N V D N P V R W U #POS
+}
+{
+Oh, we ain't got a barrel of money
+Maybe we're ragged and funny
+But if you travel along
+Singing a song
+♬ Side by Side ♬. TAG REF
+#POS C W O V V D N P N
+R L A F A
+F P O V P
+V D N
+W N P B W W H I #POS
+}
+{
+REF take advantage of your last name: Punk Brock.
+#POS I V N P D A N W N B W #POS
+}
+{
+REF yes yes yes and with lucky charms!
+#POS I C C C F P A N W #POS
+}
+{
+Today REF learned that you should never buy Ambassador when Possession is out. TAG
+#POS N I V P O V R V N R N V R W H #POS
+}
+{
+REF yep
+#POS I C #POS
+}
+{
+REF you want the latest code from got for SPDY/NUM.NUM. Cc REF
+#POS I O V D A N P V P B K W G I #POS
+}
+{
+REF maybe in the spirit of new laws in Colorado the typo should be Reeferer?
+#POS I R P D N P A N P B D N V V N W #POS
+}
+{
+REF fine work!
+#POS I A N W #POS
+}
+{
+REF sounds good. FYI, I created the benchmark to measure my own Netty-inspired zero-copy byte buffer. URL
+#POS I V A W C W O V D N P V D A A N N N W U #POS
+}
+{
+REF the term "duckbill-shaped chips" is so good it may replace Pringles™.
+#POS I D N W V N W V R A O V V B W #POS
+}
+{
+REF yep. NUM threads on NUM sockets. (I don't think this is Netty's target use case.)
+#POS I C W K N P K N W W O V V O V Z N N N W W #POS
+}
+{
+REF At single-user scale, boring old blocking sockets shouldn't pose any problem. Though I'd love to see measurements.
+#POS I P A N W A A V N V V D N W P L V P V N W #POS
+}
+{
+REF How many threads / sockets are we talking here?
+#POS I R A N W N V O V R W #POS
+}
+{
+REF (and it's highly likely that my benchmark is wrong)
+#POS I W F L R A P D N V A W #POS
+}
+{
+REF I benchmarked Netty vs. blocking HTTP clients. Either my benchmark is wrong or NIO is slower! URL
+#POS I O V B P W V B N W F D N V A F B V A W U #POS
+}
+{
+REF NUM chars can't do this justice, but for performance, see   URL And for sucks, NIO APIs are extremely bad.
+#POS I K N V V D N W F P N W V U F P V W B B V R A W #POS
+}
+{
+REF NIO is about parallelism. Android is a single user operating system. (Also, NIO sucks.)
+#POS I B V P N W B V D A N N N W W R W B V W W #POS
+}
+{
+.REF Start with dagger &amp; graduate to Guice if/when you need dynamic features (and their associated cost). Dagger is a subset of Guice.
+#POS W I V P N F V P B P O V A N W F D A N W W N V D N P B W #POS
+}
+{
+REF do let me know where it surprises you!
+#POS I V V O V R O V O W #POS
+}
+{
+REF it's the twitter-equivalent of saying "I'll be right back" in a horror movie.
+#POS I L D N P V W L V R R W P D N N W #POS
+}
+{
+REF over an hour ago you tweeted that your taxi was doing something dangerous. I'm worried.
+#POS I P D N P O V P D N V V N A W L A W #POS
+}
+{
+Best possible rye&amp;coke. URL
+#POS A A N W U #POS
+}
+{
+Bluetooth is crashy in Android KitKat. Sadface. URL
+#POS B V A P B B W N W U #POS
+}
+{
+REF and for me, Python users are most productive. (fewer obstacles to trip over?)
+#POS I F P O W B N V R A W W A N P V P W W #POS
+}
+{
+REF I wanted to sit on the couch and watch action movies but I got sucked into codegolfing with Jake.
+#POS I O V P V P D N F V N N F O V V P N P B W #POS
+}
+{
+REF taunt
+#POS I N #POS
+}
+{
+"[Waterloo] affords young tech innovators many desirable urban elements, albeit on a smaller, more personal scale." URL
+#POS W W B W V A N N A A A N W P P D A W R A N W W U #POS
+}
+{
+HTTP/NUM is happening, and REF has a great overview of its improvements and their costs:
+URL
+#POS K V V W F I V D A N P D N F D N W
+U #POS
+}
+{
+Android Cash promo: URL
+#POS B B N W U #POS
+}
+{
+REF the neptunes track is the bomb!
+#POS I D B N V D N W #POS
+}
+{
+REF jailbreak!
+#POS I C W #POS
+}
+{
+REF wat.
+#POS I O W #POS
+}
+{
+REF the other lie is that I'm embarrassed. I'm not.
+URL is the most badass slash your ass email address ever! Haters.
+#POS I D A N V O L V W L R W
+U V D R A N D N N N R W N W #POS
+}
+{
+REF NUM!
+#POS I K W #POS
+}
+{
+REF URL
+#POS I U W #POS
+}
+{
+REF Gson is NUM KB. Boon is NUM KB. Being fast isn't enough, you also need to be compact.
+#POS I B V K B W N V K B W V A V R W O R V P V A W #POS
+}
+{
+REF REF One byte only? I You should give em a bell (NUMxNUM) and a backspace (NUMxNUM) !
+#POS I I K N R W O O V V O D N W K W F D N W K W W #POS
+}
+{
+Yep, we had a frost quake last night. URL
+#POS C W O V D N N A N W U #POS
+}
+{
+Happy NUM REF URL
+#POS A K I W U #POS
+}
+{
+Google Now's flight delayed notification looks like Android's Airplane Mode icon! URL
+#POS B Z N V N V P Z N N N W U #POS
+}
+{
+♬ ... he drinks a whiskey drink... ♬ URL
+#POS G W O V D N N W G U #POS
+}
+{
+REF due to the (elided) instanceof guard and cast.
+#POS I A P D W V W B N F N W #POS
+}
+{
+REF no it won't.
+#POS I C O V W #POS
+}
+{
+REF neat!
+#POS I A W #POS
+}
+{
+Shipley's Law:
+“Less code is better code
+∴ No code is the best code”
+– REF URL
+#POS N N W
+W A N V A N
+W D N V D A N W
+W I U #POS
+}
+{
+REF FYI Planes is Disney, not Disney+Pixar.
+#POS I C N V N W R N W #POS
+}
+{
+"An office in the area would improve Square's chances of hiring the best talent from the University of Waterloo" URL
+#POS W D N P D N V V Z N P V D A N P D N P B W U #POS
+}
+{
+A sedan lost control on black ice &amp; struck our rented SUV, sending it into a NUM. Fortunately no injuries in either car. Drive safe Calgary!
+#POS D N V N P A N F V D V N W V O P D K W R D N P D N W V A B W #POS
+}
+{
+REF wow!
+#POS I C W #POS
+}
+{
+REF REF yep. Plus REF and REF
+#POS I I C W L I F I W #POS
+}
+{
+"There's no money. It's all square cash." —REF
+#POS W L D N W L D A N W W W I #POS
+}
+{
+REF REF
+#POS I I #POS
+}
+{
+"I feel like MC Hammer is playing white girl music" —REF
+#POS W O V P B B V V A N N W W I #POS
+}
+{
+Is classic rap a genre yet?
+#POS V A N D N R W #POS
+}
+{
+Gmail's promotions inbox &amp; image cache are ad blockers. Imagine if NBC/Comcast skipped commercials on ABC and CBS?
+#POS Z N N F N N V N N W V P B V N P B F B W #POS
+}
+{
+REF can I get six retweets for $NUM?
+#POS I V O V K N P K W #POS
+}
+{
+REF and you shouldn't! The VM has no fucking clue which references you care about.
+#POS I F O V D N V D A N D N O V P W #POS
+}
+{
+"If we want quality content on the web we need the kind of disruption that iTunes had on music or Netflix on movies" URL
+#POS W P O V N N P D N O V D N P N P B V P N F B P N W U #POS
+}
+{
+REF what.
+#POS I O W #POS
+}
+{
+REF plus an iOS NUM icon!
+#POS I F D B K N W #POS
+}
+{
+“I hope the 'Riders don't win so I don't have to party again tonight.” –Rob Anderson
+#POS W O V D W N V V P O V V P N R R W W W B B #POS
+}
+{
+REF RIP Vi-Co.
+#POS I G G W #POS
+}
+{
+REF NUM.
+#POS I K W #POS
+}
+{
+Google launches Google Reader!
+URL
+#POS B V B N W
+U #POS
+}
+{
+REF hm. I'm certainly guilty. Do projects that merge directly move faster?
+#POS I C W L R A W V N P V R V R W #POS
+}
+{
+REF What's the alternative? XML? Yaml? CSV?
+#POS I L D N W B W B W B W #POS
+}
+{
+REF hey dude! I don't plan on writing any books. If that changes, you're my first choice.
+#POS I C N W O V V P V D N W P O V W L D A N W #POS
+}
+{
+REF It's a Saskatchewan Roughriders Canadian Football League joke. URL
+#POS I L D B B B B B N W U #POS
+}
+{
+NINETEEN EIGHTY NINE NINETEEN EIGHTY NINE NINETEEN EIGHTY NINE NINETEEN EIGHTY NINE NINETEEN EIGHTY NINE NINETEEN EIGHTY NINE
+#POS K K B B B B B B B B B B B B B B B B #POS
+}
+{
+Drinking with my kid sister at Toronto's Ping Pong bar URL
+#POS V P D N N P Z B B N U #POS
+}
+{
+REF Currently Android's BLE only implements the central side of a central/peripheral conversation. Really limits opportunities.
+#POS I R Z B R V D N N P D A N W R V N W #POS
+}
+{
+Check out REF slides for code and best practices for dependency injection on Android with Dagger: URL
+#POS V T Z V P N F A N P N N P B P B W U #POS
+}
+{
+REF LruCache bug? Or awkward API?
+#POS I B N W F A N W #POS
+}
+{
+REF neat idea
+#POS I A N #POS
+}
+{
+REF android nerd question: the Mac is the central and the iPhone the peripheral? Or vice-versa? Cc REF
+#POS I B N N W D B V D N F D B D A W F N W G I #POS
+}
+{
+REF step away from the NUMs
+#POS I V R P D K #POS
+}
+{
+REF Ryyyy-derrrrs
+#POS I B #POS
+}
+{
+REF Goooo
+#POS I V #POS
+}
+{
+REF yep!
+#POS I C W #POS
+}
+{
+REF REF And Android's org.json is a clean room rewrite to get around Douglas Crockford's bogus 'no evil' license.
+#POS I I F Z N W B V D A N V P V P B Z A W D N W N W #POS
+}
+{
+REF you'll never drink flat water again!
+#POS I L R V A N R W #POS
+}
+{
+Just a typical day in the marriage to REF URL
+#POS R D A N P D N P I W U #POS
+}
+{
+Killed some bugs alongside REF tonight.
+#POS V D N P I N W #POS
+}
+{
+I am a stereotype. TAG URL
+#POS O V D N W H U #POS
+}
+{
+REF REF yup. Reification doesn't make Java developers move faster.
+#POS I I C W N V V B N V R W #POS
+}
+{
+While we weren't looking AOSP stalled and Google Play Services took over. Great overview on Ars:
+URL
+#POS P O V V B A F B B B V T W A N P B W
+U #POS
+}
+{
+Overheard on the Square Cash team:
+“If you want me to read an email you need to attach $NUM to it.”
+#POS V P D B B N W
+W P O V O P V D N O V P V K P O W W #POS
+}
+{
+The Rdio app for Mac is handy. No more frantically searching for the right browser tab when I need to pause my music!
+#POS D B N P B V A W R A R V P D A N N R O V P V D N W #POS
+}
+{
+REF absolutely agree. AbstractList is better than List, but it suffers a worse name. CC REF
+#POS I R V W B V A P N W F O V D A N W G I #POS
+}
+{
+REF OkHttp!
+#POS I C W #POS
+}
+{
+There are two timezones named CST: Central Standard Time and China Standard Time. But America/Chicago is unambiguous!
+#POS X V K N V N W N N N F B B N W F B V A W #POS
+}
+{
+REF don't forget the challenge question!
+#POS I V V D N N W #POS
+}
+{
+REF Yes! And then I get points for answering questions!
+#POS I C W F R O V N P V N W #POS
+}
+{
+REF REF the same Venmo that PayPal recently acquired?
+#POS I I D A B D B R V W #POS
+}
+{
+.REF code must be protected from abstract problems: static analysis keeps you synchronized and helps the public release get final.
+#POS W I N V V V P A N W A N V O A F V D A N V A W #POS
+}
+{
+REF heroic!
+#POS I A W #POS
+}
+{
+REF that's going on my right forearm.
+#POS I L V P D A N W #POS
+}
+{
+REF that won't work. What if you and I each hold read locks and we both do this? Deadlock!
+#POS I O V N W O P O F O D V V V F O O V O W N W #POS
+}
+{
+I called System.nanoTime() NUM times in a row. URL
+#POS O V N W G G K N P D N W U #POS
+}
+{
+The Bit Mask TAG
+#POS D N N H #POS
+}
+{
+REF pump the stranger's meter! TAG
+#POS I V D S N W H #POS
+}
+{
+REF I get to be Patrick Swayze.
+#POS I O V P V B B W #POS
+}
+{
+Holding SHIFT when clicking 'Compose' in Gmail pops open a new window. TAG
+#POS V N R V W V W P B N V D A N W H #POS
+}
+{
+REF your real friends follow you on Twitter!
+#POS I D A N V O P B W #POS
+}
+{
+REF the beer store isn't government run, that's the liquor store!
+#POS I D N N V N V W L D N N W #POS
+}
+{
+REF woo! May your little sprout grow into a great Wood.
+#POS I C W V D A N V P D A B W #POS
+}
+{
+Jodie on roller derby: "it's like red rover and Nascar had a baby." URL
+#POS B P N N W W L P A N F B V D N W W U #POS
+}
+{
+Nice find, REF Jennifer Aniston ~ Finer not in jeans
+#POS A N W I J B B G B R P N #POS
+}
+{
+REF REF you guys
+#POS I I O N #POS
+}
+{
+REF REF We found his family. All is well!
+#POS I I O V D N W X V R W #POS
+}
+{
+Found a TAG TAG in TAG who got out in the storm. Recognize him? REF URL
+#POS V D A N P N O V T P D N W V O W I U #POS
+}
+{
+Found this tagless pooch on Ridgeview Cres. in TAG. Recognize him? TAG TAG TAG URL
+#POS V D N N P B B W P N W V O W H H H U #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF formalizing how comments work in JSON is necessary. The implementations support 'em; the specs do not.
+#POS I V R N N P B V A W D N V W O W D N V R W #POS
+}
+{
+REF I'm eager to see what you two are up to
+#POS I L A P V O O K V A P #POS
+}
+{
+REF now I'm jealous
+#POS I R L A #POS
+}
+{
+REF REF REF thinking the same thing
+#POS I I I V D A N #POS
+}
+{
+REF REF nice!
+#POS I I A W #POS
+}
+{
+OkHttp and MockWebServer are getting REF support! URL is using HTTP-draft-DAT.NUM+compression-NUM (via NPN).
+#POS B F B V V I N W U V V B K N W P B W W #POS
+}
+{
+REF now that I've seen this I will reply to your jobvite requests
+#POS I R O L V O O V V P D N N #POS
+}
+{
+REF REF REF is there a standard way to map service name + method name to a URL?
+#POS I I I V X D A N P N N N F N N P D N W #POS
+}
+{
+REF REF REF is there a standard way to do proto RPC over HTTP? If not, we should define one.
+#POS I I I V X D A N P V N B P B W P R W O V V K W #POS
+}
+{
+When NUM dudes click it's a bromance.
+When it's NUM girls is it a homance?
+#POS R K N V L D N W
+R L K N V O D N W #POS
+}
+{
+REF you're old enough to drink?
+#POS I L A R P V W #POS
+}
+{
+REF maybe... I think somebody was adding JUnitNUM support for AOSP...
+#POS I R W O V N V V B V P B W #POS
+}
+{
+____   _  ___  __    ___
+   |    /_| |      |    |  |__
+   |  /    | |___ |__|   __|
+#POS B G G G G
+G G G G G G
+G W G G G G #POS
+}
+{
+REF REF oooh I should add that to ours. Much easier than a dead man's switch.
+#POS I I C O V V O P O W R A P D A S N W #POS
+}
+{
+REF Go with Ubiquity Networks: URL
+#POS I V P B B W U #POS
+}
+{
+REF and now because of your tweet I'm gonna buy a bottle of REF
+#POS I F R P P D N L V V D N P I W #POS
+}
+{
+REF my Java programs don't run on iOS either!
+#POS I D B N V V P B R W #POS
+}
+{
+REF REF it moved to the okhttp-protocols module.
+#POS I I O V P D N N W #POS
+}
+{
+Unit tests are seatbelts for code. Use 'em so you can travel safely at high speeds.
+#POS N N V N P N W V W O P O V V R P A N W #POS
+}
+{
+.REF has anyone ever implemented annotated stack traces for OpenJDK? URL
+#POS W I V N R V A N N P B W U #POS
+}
+{
+REF Android gives Java developers more opportunities to practice our craft.
+#POS I B V B N A N P V D N W #POS
+}
+{
+REF I'm a Java guy. Android and Java SE are my happy places.
+#POS I L D B N W B F B B V D A N W #POS
+}
+{
+I keep reading "Comic Con" as "Comic Sans Con".
+#POS O V V W B B W R W B B B W W #POS
+}
+{
+.REF $NUM hardware is a compromise. I'd rather run the Chromecast software on the PSNUM's hardware. (Or Ouya/Gamestick/Xbox etc.)
+#POS W I K N V D N W L R V D B N P D B N W W F B B W W #POS
+}
+{
+Though if Chromecast lets me use REF with my HDMI Receiver, $NUM is a bargain.
+#POS P P B L O V I P D N N W K V D N W #POS
+}
+{
+Chromecast is a feature being sold as a product.
+#POS B V D N V V P D N W #POS
+}
+{
+UTF-NUM is the one true charset.
+#POS B V D K A N W #POS
+}
+{
+Neighborhood lemonade! URL
+#POS N N W U #POS
+}
+{
+REF for the time and hassle it'll save, the Thunderbolt Display is worth the money.
+#POS I P D N F N L V W D B N V A D N W #POS
+}
+{
+REF good point!
+#POS I A N W #POS
+}
+{
+REF getting a stack trace? Not so fast.
+#POS I V D N N W R R A W #POS
+}
+{
+Loved this podcast, "A one-page plan to lower carbon emissions". I want Canada to do this!
+URL
+#POS V D N W W D A N P A N N W W O V B P V O W
+U #POS
+}
+{
+Wanna nerd out on Dagger, Square's fast dependency injector? I'm hosting a G+ hangout on Wednesday at NUMpm PDT. URL
+#POS V N T P N W Z A N N W L V D B V P B P K N W U #POS
+}
+{
+REF that code is gross! This is better: URL It uses Dex.java from AOSP:
+URL
+#POS I D N V A W O V A W U O V B W N P B W
+U #POS
+}
+{
+Dear obsessive compulsive Java programmers,
+Here are some tighter loops: URL
+Love Jesse
+#POS A A A B N W
+R V D A N W U
+V B #POS
+}
+{
+REF It's heavy-handed, but you can workaround by adding a 'Connection: close' header to all requests to disable connection pooling.
+#POS I L A W F O V V P V D W N W A W N P D N P V N V W #POS
+}
+{
+The Waterloo REF team has a new home in the Breithaupt Block! URL
+#POS D B I N V D A N P D B B W U #POS
+}
+{
+Climate changed.
+#POS N V W #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF jealous
+#POS I A #POS
+}
+{
+Rhubarb agua fresca &amp; tacos. Starting Canada day weekend right at REF in Waterloo.
+#POS B B B F N W V B N N R P I P B W #POS
+}
+{
+I'm giving a free talk "Effective Android HTTP" Thursday night at TIMpm in Toronto. Details here:
+URL
+#POS L V D A N W A B B W B N P K N P B W N R W
+U #POS
+}
+{
+Feedly is proof that Google Reader's death is good news. URL
+#POS B V N P B Z N V A N W U #POS
+}
+{
+REF yuck. Any idea what's using the default SSL context? Is it using Apache HTTP client?
+#POS I C W D N L V D N N N W V O V B B N W #POS
+}
+{
+Here's one line of code that makes URL.openConnection() use OkHttp: URL.setURLStreamHandlerFactory(new OkHttpClient());
+#POS L K N P N P V N W G G V B W N W A G G W #POS
+}
+{
+I found URL is a handy sidekick for editing Markdown in IntelliJ. It cleverly works with every IDE/text editor for Mac.
+#POS O V U V D A N P V N P N W O R V P D N N P B W #POS
+}
+{
+REF REF was fun though
+#POS I I V A P #POS
+}
+{
+REF we're staying in tonight. Have fun in Cambridge!
+#POS I L V P N W V N P B W #POS
+}
+{
+Boston Cream in Boston. TAG TAG URL
+#POS B N P B W H H U #POS
+}
+{
+Chrome plugins are terrifying. Many need to see everything I do on every website? Yikes.
+#POS N N V A W A V P V N O V P D N W C W #POS
+}
+{
+Saying "No" on GitHub. To everyone. It's my Anti-Oprah moment: "No puppy for you! No puppy for you! No puppy for you!"
+#POS V W C W P B W P N W L D A N W W D N P O W D N P O W D N P O W W #POS
+}
+{
+There's a lot of adding in Math Blaster. But Word Blaster is a zero-sum game.
+#POS L D N P V P B B W F B B V D A N W #POS
+}
+{
+REF you just screenshotted that for the Pens victory
+#POS I O R V O P D B N #POS
+}
+{
+Square in Japan! URL
+#POS N P B W U #POS
+}
+{
+REF should Just Work. Today's Caliper is much smarter than the early version I did. It reads the VM's logs to track GC, JIT, etc.
+#POS I V R N W S N V R A P D A N O V W O V D N V P N N W N W G W #POS
+}
+{
+REF Using Japex is what drive me to create Caliper!
+#POS I V B V O V O P V N W #POS
+}
+{
+REF dude that looks fun fun fun
+#POS I N P V A A N #POS
+}
+{
+Finally! AOSP dx won't silently ignore Java NUM class files. URL
+#POS R W B N V R V B K N N W U #POS
+}
+{
+... Bluetooth LE in Android API is central mode only however! Sigh.
+#POS W B B P B B V A N R R W V W #POS
+}
+{
+Bluetooth LE will be in Android API NUM. TAG
+#POS B B V V P B B K W H #POS
+}
+{
+Time to throw out your Android app's clumsy image caching code. Picasso is here. URL TAGNUM
+#POS N P V T D B Z A N N N W B V R W U H #POS
+}
+{
+Retrofit is a simple yet capable REST client for Android and Java. URL TAGNUM
+#POS N V D A R A N N P B F B W U H #POS
+}
+{
+Dagger plugin for IntelliJ navigates between REF and REF Can your dependency injector do that?
+URL TAGNUM
+#POS N N P B V P I F I W V D N N V O W
+U H #POS
+}
+{
+Test Android APIs on a desktop JVM with Robolectric. URL TAGNUM
+#POS N B B P D N N P B W U H #POS
+}
+{
+Got a Droid RAZR on Verizon? Please run this app that'll help me to diagnose a problem specific to that device. URL
+#POS V D B N P B W V V D N L V O P V D N A P D N W U #POS
+}
+{
+MimeCraft, a Java library for MIME multipart &amp; form-encoding. Plus ProtoParser and JavaWriter! URL TAGNUM
+#POS B W D B N P B A F V W L B F B W U H #POS
+}
+{
+How did we name Square's new dependency injector? Dagger is named after this: URL
+#POS R V O N Z A N N W N V V P O W U #POS
+}
+{
+REF Sharks sweep Canucks in four. I don't even think Vancouver will bother to riot.
+#POS I B N B P K W O V R V B V V P N W #POS
+}
+{
+Dagger NUM.NUM, a new dependency injector for Android. URL TAGNUM
+#POS N K W D A N N P B W U H #POS
+}
+{
+OkHttp NUM.NUM, a new HTTP client for Android and Java. URL TAGNUM
+#POS B K W D A B N P B F B W U H #POS
+}
+{
+REF could GitHub email me my own comments on issues &amp; code reviews? As-is there's no context and I always have to check the web.
+#POS I V B N O D A N P N F N N W N Y D N F O R V P V D N W #POS
+}
+{
+REF Ubiquiti will blanket your house with a strong signal. Way better range than Airport Express. URL
+#POS I B V V D N P D A N W R A N P B B W U #POS
+}
+{
+NUM.NUM GB is not enough. TAG
+#POS K B V R R W H #POS
+}
+{
+REF we use GitHub mostly. I do miss side-by-side diffs! For big reviews I pull the branch and use IntelliJ's powerful diff tool.
+#POS I O V B R W O V V A N W P A N O V D N F V Z A N N W #POS
+}
+{
+REF yes! Check our careers site URL
+#POS I C W V D N N U #POS
+}
+{
+REF It's culture. Prioritize code reviews. Focus on data structures, algorithms and naming. A good style guide avoids nitpicky stuff.
+#POS I L N W V N N W V P N N W N F V W D A N N V A N W #POS
+}
+{
+Code reviews at REF are thorough enough to find problems. But they're also fast enough that I'm not stalled. Want this? Join us.
+#POS N N P I V A R P V N W F L R A N P L R V W V O W V O W #POS
+}
+{
+REF yes, you can just abandon them! Java NUM isn't going anywhere. (And besides, these are the same companies that run Java NUM.NUM.)
+#POS I C W O V R V O W B K V V R W W F R W D V D A N P V B K W W #POS
+}
+{
+Java NUM delayed because REF is too busy with an impossible problem: making the SecurityManager work. Why not just drop Applets?
+#POS B K V P I V R A P D A N W V D B N W R R R V B W #POS
+}
+{
+REF funny, one of the best parts about living with REF is that she has to share her macaroni and cheese.
+#POS I A W K P D A N P V P I V O O V P V D N F N W #POS
+}
+{
+Bad news REF the Google Glass example project is hosted on GitHub: URL
+#POS A N I J D B B N N V V P B W U #POS
+}
+{
+This contrived code shows that Android's LinkedHashMap can corrupt itself if you put() during removeEldestEntry():
+URL
+#POS D A N V P Z B V V O P O V W P B W
+U #POS
+}
+{
+REF don't look now but I think REF are following you
+#POS I V V R F O V I V V O #POS
+}
+{
+REF the NUMd didn't add much, but its still good times
+#POS I D N V V A W F L R A N #POS
+}
+{
+Prefer LinkedHashMap over HashMap because it makes code predictable. Otherwise nondeterminism butterfly-effects through your app.
+#POS V B P B P O V N A W R A N P D N W #POS
+}
+{
+REF worth checking out, sure. But why both Mockito &amp; EasyMock? Either one should suffice!
+#POS I V V T W A W F R O B F B W F K V V W #POS
+}
+{
+Shameless Rounds promo on the BGG URL
+#POS B B N P D B U #POS
+}
+{
+REF REF Should I Stay Or Should I Go Or Should I Die Hard #NUMsbandsdiehardsequels
+#POS I I V O V F V O V F V O V B H #POS
+}
+{
+REF REF Guns N' Die Hard #NUMsbandsdiehardsequels
+#POS I I N F W V B H #POS
+}
+{
+REF thanks! Enjoy!
+#POS I N W V W #POS
+}
+{
+Listening to Katy Perry Unplugged on Rdio. Can't decide between "I like it." and "I like it ironically."
+#POS V P B B V P B W V V P W O V O W W F W O V O R W W #POS
+}
+{
+Java's package-private dispatch is way too complicated. What gets called depends on inheritance, class loaders, &amp; the VM implementation!
+#POS Z N N V N R A W O V V V P N W N N W F D N N W #POS
+}
+{
+REF I just realized you went to Bluebox. Congrats! It was fun working with you!
+#POS I O R V O V P B W C W O V A V P O W #POS
+}
+{
+"LFGTM" — REF
+#POS W B W W I #POS
+}
+{
+REF I feel bad for the twitter users whose usernames are also Java annotations: REF REF REF REF
+#POS I O V A P D B N L N V R B N W I I I I #POS
+}
+{
+I'm going to AnDevCon in Boston this May to get leet at Bluetooth LE, OpenGL and open source. And to talk about HTTP. URL
+#POS L V P B P B D B P V V P B B W B F V N W F P V P B W U #POS
+}
+{
+LGTM: Lets Get This Merged.
+#POS B W L V O V W #POS
+}
+{
+REF I haven't done any SQLite myself, Square or otherwise.
+#POS I O V V D B O W B F R W #POS
+}
+{
+REF sadly no. We were gonna present it at JavaOne but then Oracle/Google happened.
+#POS I R C W O V V V O P B F R B V W #POS
+}
+{
+I sold Apple stock 'cause I needed the money to buy more iPads.
+#POS O V B N W P O V D N P V A N W #POS
+}
+{
+When my dog McFly drops an F-bomb, his four letter F word is 'fart'.
+#POS R D N B V D N W D K N N N V W N W W #POS
+}
+{
+I'm giving a Square tech talk "HTTP Love &amp; Hate" Tuesday Jan NUM at TIMpm at REF in TC NUM. Come for lunch &amp; hear HTTP war stories!
+#POS L V D N N N W B B F V W B B K P K N P I P B K W V P N F V B N N W #POS
+}
+{
+RT REF It's now official, I will join REF next month. So happy, can't wait to be there!! &lt;&lt; congrats!
+#POS J I L R A W O V V I A N W R A W V V P V R W J C W #POS
+}
+{
+I call this Dominion hand "The Canadian": King's Court + King's Court + Bridge + Bridge + Bridge TAG TAG
+#POS O V D N N W D N W W Z B F Z B F N F N F N N H #POS
+}
+{
+Reacher said nothing.
+#POS B V N W #POS
+}
+{
+Today I used Smali, dexNUMjar and Java Decompiler to get source from framework.odex. Reverse engineering is fun when the tools cooperate.
+#POS N O V B W R F B B P V N P N W N W V N V A R D N V W #POS
+}
+{
+Push ups URL TAG TAG
+#POS N N U H H #POS
+}
+{
+REF bad code, assuming it can take the content-length and allocate a byte[]
+#POS I A N W V O V V D N F V D N W #POS
+}
+{
+My worst class name is ConstructorConstructor. Filterator is also embarrassing. TAG URL
+#POS D A N N V B W B V R A W H U #POS
+}
+{
+REF JavaFX programmers are zombies!
+#POS I B N V N W #POS
+}
+{
+REF for on-desktop you do. On device you don't!
+#POS I P P O V W P N O V #POS
+}
+{
+REF not actively. But take a look at URL
+#POS I R R W F V D N P U #POS
+}
+{
+REF neat! Let's get that annotation processor bug fixed!
+#POS I A W L V D N N N V W #POS
+}
+{
+REF REF which behavior do you prefer? I'm to blame for the former.
+#POS I I D N V O V W L P V P D N W #POS
+}
+{
+REF The Dalvik team fixes bugs! But it takes a long time for fixes to arrive on devices. Reported here: URL
+#POS I D B N V N W F O V D A N P V P V P N W V R W U #POS
+}
+{
+Don't make fun of Java Swing programmers. They lost their lives so that Android could be free.
+#POS V V N P B V N W O V D N P D B V V A W #POS
+}
+{
+REF specific example of Android/Dalvik flakiness? Or just performance?
+#POS I A N P B N W F R N W #POS
+}
+{
+REF no plans yet for Dagger + Governator integration. We're still refining the Android and Otto examples!
+#POS I D N R P B F B N W L R V D B F B N W #POS
+}
+{
+Markdown Here nicely compliments the new Gmail compose view in Chrome.
+URL TAG_alt_m
+#POS N R R N D A B V N P N W
+U H #POS
+}
+{
+"REF I generally start with testX() as the method name, write the test, and then think of the method name last." &lt;&lt;&lt; me too!
+#POS W I J O R V P B W P D N N W V D N W F R V P D N N A W W J O R W #POS
+}
+{
+Arg! Apple TV/iTunes bug ruins date night with REF URL
+#POS C W B B N N N N P I W U #POS
+}
+{
+It's articles like REF on WinRT that make me love Ars Technica. URL
+#POS L N P I P B P V O V B B W U #POS
+}
+{
+REF it has connect &amp; read timeouts. It's based on Android's HttpURLConnection, so it's well exercised.
+#POS I O V V F V N W L V P Z B W P L R V W #POS
+}
+{
+REF OkHttp's best features are its response cache, transparent gzip, transparent SPDY &amp; connection pool. URL
+#POS I Z A N V L N N W A N W A N F N N W U #POS
+}
+{
+REF OkHttp is what I've been building: URL (it isn't well documented yet though!)
+#POS I B V O L V N W U W O V R V R R W W #POS
+}
+{
+I'm talking about Dalvik, Android and REF at REF on Wednesday at NUMpm! Register here: URL TAG TAG
+#POS L V P B W B F I P I P B P K W V R W U H H #POS
+}
+{
+REF "Why Dagger instead of Guice?" is an important part of the QCon talk!
+#POS I W R N R P B W W V D A N P D B V W #POS
+}
+{
+I'm talking about Dagger at QCon SF on November NUM. If you haven't registered yet, use 'wilsNUM' to save $NUM: URL
+#POS L V P N P B B P B K W P O V V R W V W N W P V K W U #POS
+}
+{
+Just booked Christmas in Edmonton on WestJet. Letting REF add the flights to my calendar makes me feel like a boss.
+#POS R V B P B P B W V I V D N P D N V O V P D N W #POS
+}
+{
+REF "manual "assisted inject for now. Same pattern, but we implement the Factory in a REF method.
+#POS I W N W V V P R W A N W F O V D N P D I N W #POS
+}
+{
+REF our app's startup on a Froyo device improved from NUM seconds with Guice to NUM seconds with Dagger. That's an exceptional case though!
+#POS I D Z N P D B N V P K N P B P K N P N W L D A N P W #POS
+}
+{
+REF yep. It was my starter project at Square!
+#POS I C W O V D N N P B W #POS
+}
+{
+Hate it when the network hiccups, causing an app throws away your tweet/photo/drawing? Tape fixes that: URL
+#POS V O R D N N W V D N V R D N W N V P W U #POS
+}
+{
+ImageOptim just ate NUM.NUMMiBs of PNG files and pooped out NUMKiB of identical PNG files. LOVE. URL
+#POS L R V K N P B N F V T K P A N N W N W U #POS
+}
+{
+Eagerly anticipating delivery of our retro-modern bed frame from REF Made in Winnipeg!
+#POS R V N P D A N N P I W V P B W #POS
+}
+{
+Square loves coffee big and small. URL
+#POS B V N A F A W U #POS
+}
+{
+REF Andreas, an Android author is looking for a Catch person to okay a screenshot for a book: URL
+#POS I B W D B N V V P D N N P C D N P D N W U #POS
+}
+{
+Jodie destroyed Jesse at Haggis. URL
+#POS B V B P B W U #POS
+}
+{
+REF This app uses dexmaker to do photo filters on the fly: URL
+#POS I D N V N P V N N P D N W U #POS
+}
+{
+RT REF Tic Tac containers are cool and I always wish I could find another use for them.... I never do.
+#POS J I B B N V A F O R V O V V D N P O W O R V W #POS
+}
+{
+RT REF The fifth anniversary is the yard work anniversary, right?
+#POS J I D A N V D N N N W R W #POS
+}
+{
+RT REF The day when Google merge Talk, G+ Messenger, Hangouts, SMS et al. cannot come soon enough.
+#POS J I D N R B N N W B N W N W B B B W V V R R W #POS
+}
+{
+RT REF REF REF Otto has been super helpful in cleaning up our fragment communication in Papyrus. Thanks!
+#POS J I I I B V V R A P V T D N N P B W N W #POS
+}
+{
+RT REF Tomorrow's the day! I'm presenting Pay with Square at the Playing with Patterns session. URL  TAGNUM
+#POS J I S D N W L V V P B P D V P N N W U H #POS
+}
+{
+Proud new member of the REF team
+#POS A A N P D I N #POS
+}
+{
+Got NUM¢ and an Android? Try "Rounds", my new score pad app:
+URL
+#POS V K F D B W V W N W W D A N N N W
+U #POS
+}
+{
+REF my high school CS project was Tetris in BASIC. I didn't know threads or even sleep() so all the timing was a busy loop!
+#POS I D A N N N V B P A W O V V N F R V W P X D N V D A N W #POS
+}
+{
+RT REF Alsup just issued a very well-reasoned API copyright ruling. Several million programmers heave a huge sigh of relief.
+#POS J I B R V D R A N N N W A K N V D A N P N W #POS
+}
+{
+RT REF A significant enhancement to the Java hashing-based Map implementations in planned for inclusion in JSE NUMuNUM URL
+#POS J I D A N P D B V N N P V P N P B B U #POS
+}
+{
+RT REF The best part of high-tech trials? Witnesses who tweet. REF Schwartz is at it. And fun nerd witness REF
+#POS J I D A N P A N W N O V W I B V P O W F A N N I W #POS
+}
+{
+REF check out Gson. Since the framework does both parsing &amp; binding, there's less code to hate! URL
+#POS I V T B W P D N V O V F N W L A N P V W U #POS
+}
+{
+REF yep
+#POS I C #POS
+}
+{
+REF REF you got me. But it is an existence proof of a solution to the iPhone's mute+alarm problem.
+#POS I I O V O W F O V D N N P D N P D Z A N W #POS
+}
+{
+Hey REF REF the Shush app solves iPhone's alarm+mute problem: URL (but its Android only)
+#POS C I I D B B V Z N N W U W F L B R W #POS
+}
+{
+Dear REF Here's Android support for Mockito: URL Love REF
+#POS C I W L B N P B W U V I W #POS
+}
+{
+Dear REF Here's Android support for EasyMock: URL Love REF
+#POS C I W L B N P B W U V I W #POS
+}
+{
+REF if you give me the offending google search term, I'll report it upstream
+#POS I P O V O D V B N N W L V O A #POS
+}
+{
+REF I'm in Canada! Still very busy getting the house under control - this place needs renovation!
+#POS I L P B W R R A V D N P N W D N V N W #POS
+}
+{
+REF neat. MockWebServer is similar but doesn't need Jetty: URL
+#POS I A W B V A F V V B W U #POS
+}
+{
+REF just curious: why don't you have a Content-Length?
+#POS I R A W R V O V D N W #POS
+}
+{
+Do you need to test Java programs that make HTTP requests? This might come in handy: URL
+#POS V O V P N B N P V B N W O V V P A W U #POS
+}
+{
+Kid sister and I at game NUM. Only one of us will be happy! URL TAG
+#POS B N F O P N K W A K P O V V A W U H #POS
+}
+{
+I wish for a mashup of Ke$ha and Portal's 'Still Alive'
+#POS O V P D N P B F Z W R A W #POS
+}
+{
+Jodie and I are moving from San Jose to Waterloo on July NUM. Yay!
+#POS B F O V V P B B P B P B K W C W #POS
+}
+{
+The Star Spangled Banner is just fine, but I'm looking forward to hearing O Canada before my sporting events.
+#POS D B B B V R A W F L V R P V B B P D N N W #POS
+}
+{
+RT REF Electoral College not the only system with representation issues; Canada's Conservatives won NUM% of the seats w/ NUM% vote
+#POS J I B B R D A N P N N W Z N V K P D N P K N #POS
+}
+{
+REF tell me details, we can get that Guice issue fixed.
+#POS I V O N W O V V O B N V W #POS
+}
+{
+I like X Construction even more than Angry Birds. The failure sound is great! URL
+#POS O V E N R A P A N W D N N V A W U #POS
+}
+{
+NUM favourite Guice NUM features: JSR NUM support, bind().toConstructor() and better Modules.override(). URL
+#POS K A B K N W B K N W N W W G G F A N W V W W U #POS
+}
+{
+REF isAssignableFrom() will be difficult to get right. Here's a test case! URL
+#POS I G G V V A P V A W L D N N W U #POS
+}
+{
+Your patches are always welcome to me, REF
+#POS D N V R V P O W I W #POS
+}
+{
+REF yup! JsonReader for JVMs is in GSON: URL… (cont) URL
+#POS I C W B P B V P B W U W W J W U #POS
+}
+{
+New in Honeycomb: a JSON pull parser called JsonReader URL
+#POS A P B W D B N N V B U #POS
+}
+{
+My top NUM conversation starters for GuiceCon on March NUM: service/lifecycle, miniguice, multibindings, gin (& GWT), gin (& tonic).
+#POS D A K N N P B P B K W N W B W N W N F B W W N F N W W #POS
+}
+{
+REF future phone?
+#POS I A N W #POS
+}
+{
+Get Androidify from the Market: URL
+#POS V B P D N W U #POS
+}
+{
+Nice flop! URL
+#POS A N W U #POS
+}
+{
+MockWebServer FTW URLlibcore.git;a=blob;f=luni/src/test/java/libcore/java/net/URLConnectionTest.java
+#POS B C U #POS
+}
+{
+REF Any specific problems to report? Guice developers are standing by...
+#POS I D A N P N W B N V V P W #POS
+}
+{
+REF GSON's maven support is already done. URL
+#POS I Z N N V R V W U #POS
+}
+{
+GSON NUM.NUM is out. It's faster and includes a new streaming API. URL
+#POS B K V A W L R F V D A N N W U #POS
+}
+{
+When Chuck Norris travels, does the TSA confiscate his bare hands?
+#POS R B B N W V D B V D A N W #POS
+}
+{
+REF android release distribution: URL
+#POS I B N N W U #POS
+}
+{
+REF the GC is better in newer releases. Which Android version are you targeting?
+#POS I D B V A P A N W D B N V O V W #POS
+}
+{
+REF aw shucks.
+#POS I C C W #POS
+}
+{
+Paying for some cutesy-pea conducthappiness.com art with Square! URL
+#POS V P D A U N P B W U #POS
+}
+{
+This prettyprinter really shows off GSON's new streaming API: URL
+#POS D N R V T Z A N N W U #POS
+}
+{
+Besides, haven't you heard that multitasking is a myth? Apple's just helping you to stay focused.
+#POS R W V O V P B V D N W Z R V O P V V W #POS
+}
+{
+REF no, just need a flashier beach ball, you impatient clod. Maybe it could sparkle or bounce? Magic.
+#POS I C W R V D A N N W O A N W R O V N F V W B W #POS
+}
+{
+REF and I just an intense discussion designing a service extension for Guice. How do we improve Service.java? URL
+#POS I F O R D A N V D N N P B W R V O V N W N W U #POS
+}
+{
+Elliott has a nice overview of the tools we're using for core libraries development: URL
+#POS B V D A N P D N L V P N N N W U #POS
+}
+{
+Animated gif of the moment: URL (from URL)
+#POS A N P D N W U W P U W #POS
+}
+{
+REF if you want speed, GSON's new streaming APIs are extremely fast.
+#POS I P O V N W Z A N N V R A W #POS
+}
+{
+Guice's API documentation gains live search, a version picker, and syntax colouring:
+URL
+#POS Z N N V A N W D N N W F N N W
+U #POS
+}
+{
+REF a NUMK JSON doc I benchmarked was NUM% faster: URLtwitter.JsonBenchmark/NUM
+#POS I D K B N O V V K R W U #POS
+}
+{
+REF Use XML APIs for XML and JSON APIs for JSON. Using XML APIs to read and write JSON hurts because they're different structurally.
+#POS I V B B P B F B B P B W V B B P V F V B V P L A R W #POS
+}
+{
+REF Google Waterloo! URL
+#POS I B B W U #POS
+}
+{
+Yay! Just checked in a high performance JSON pull parser.
+URL
+#POS C W R V P D A N B N N W
+U #POS
+}
+{
+REF I'll be in Ontario at Christmas. I might visit Canada before then; perhaps to see my parents' new place in BC!
+#POS I L V P B P B W O V V B P R W R P V D N W A N P R W #POS
+}
+{
+Busker Idol! It's like American Idol, but with an open guitar case instead of Simon Cowell... URL TAG TAG
+#POS B B W L P B B W F P D A B N R P B B W U H H #POS
+}
+{
+Dear TV networks: Please start broadcasting new episodes of The Muppet Show. Thanks!
+#POS A N N W V V N A N P D B B W N W #POS
+}
+{
+Just stumbled upon the fantastic Frink units doc. Science teachers take note! URL
+#POS R V P D A B N N W N N V N W U #POS
+}
+{
+REF I recommend Manning's Dependency Injection book because it's very comprehensive.
+#POS I O V Z N N N P L R A W #POS
+}
+{
+Sigh. URL
+#POS V W U #POS
+}
+{
+REF the JSON spec doesn't support infinity, -infinity or NaN. If you're seeing those values, that's your serializer.
+#POS I D B N V V N W B F N W P L V D N W L D N W #POS
+}
+{
+My little sister is visiting Los Angeles in two months. I'm gonna meet up with her so we can attend a live taping of The Price is Right!
+#POS D A N V V B B P K N W L V V T P O P O V V D A N P D N V R W #POS
+}
+{
+The root of a TreeMaps no vegtable/you clear() although it's not washable/Store values for keys/in binary trees/Or shuffle em in a Hashtable
+#POS D N P D B C O A W P L R A N P N N N V O P D B #POS
+}
+{
+That last limerick was inspired by REF pronunciation of Hashtable, as emulated by REF and pointed out by REF
+#POS D A B V V P Z N P B W P V P I F V T P I J #POS
+}
+{
+REF Let's get Glazed Lists included in the Collections Connection session! URL
+#POS I L V A N V P D N N N W U #POS
+}
+{
+Delightfully tacky photo of Tiger, found hanging on the wall in Sacramento's Hooters: URL
+#POS R A N P B W V V P D N P Z B W U #POS
+}
+{
+On Mac OS X, you cannot navigate the fonts palette by keyboard; you must use a mouse. TAG TAG
+#POS P B B E W O V V D N N P N W O V V D N W H H #POS
+}
+{
+Adding a cyclone or Dyson Ball to a vacuum cleaner is like adding a GPS to a horse-drawn carriage. It's NUM: robots can vacuum now. TAG
+#POS V D N F B N P D N N V P V D N P D A N W L K W N V V R W H #POS
+}
+{
+REF Guice supports JSR-NUM and was the first framework to do so. A release is coming soon; for now you can get JSR-NUM support via SVN.
+#POS I B V B F V D A N P V R W D N V V R W P R O V V B V P B W #POS
+}
+{
+REF my folks are moving to Vancouver island. They've never enjoyed winter in Saskatchewan, so they're fleeing to avoid it!
+#POS I D N V V P B N W L R V N P B W P L V P V O W #POS
+}
+{
+My parents are selling their Regina, Saskatchewan home. A nice home in a booming city: URL
+#POS D N V V D B W B N W D A N P D A N W U #POS
+}
+{
+REF REF I suppose its a natural idea, and Android's SDK makes it pretty easy! (Pink is my competitive advantage.)
+#POS I I O V L D A N W F Z N V O R A W W N V D A N W W #POS
+}
+{
+Updated my Android app, "Shush! Ringer Restorer" to NUM.NUM. Reviews are positive. Yay! URL
+#POS V D B N W W C W B N W P K W N V A W C W U #POS
+}
+{
+REF Crockford is definitely an OSS heretic: URL (Android has a faster, apache-licensed implementation!)
+#POS I B V R D B B W U W B V D A W B N W W #POS
+}
+{
+A faster, Apache-licensed, clean room implementation of the org.json APIs: URL
+#POS D A W B W A N N P D N W B B W U #POS
+}
+{
+Compilers and yogourt: both need bootstrapping.
+#POS N F N W O V V W #POS
+}
+{
+You can't make a single-threaded, static-state, everything's-mutable program concurrent by sprinkling 'synchronizing' keywords around. Sigh.
+#POS O V V D A W A W N N N P V W V W N P W V W #POS
+}
+{
+close minimize surprise! URL
+#POS A N N W U #POS
+}
+{
+Arguing with REF in person is far more fun than over IM. Tonight's heated discussion was InjectorImpl.java vs. blue collar programmers.
+#POS V P I P N V R A N P P L W S A N V B W B P W A N N W #POS
+}
+{
+For app hosting, rackspacecloud.com is slick. Just pay up, pick the virtual hardware and OS. Then you get an IP address and root password!
+#POS P N N W U V A W R V T W V D A N F B W R O V D N N F N N W #POS
+}
+{
+I'm working on a networked card game for Android. There are many little details to get right!
+#POS L V P D A N N P B W X V A A N P V A W #POS
+}
+{
+Twitter is a great medium for sparking discussions. But it's awful for actually having discussions. NUM characters isn't enough.
+#POS B V D A N P V N W F L A P R V N W K N V R W #POS
+}
+{
+REF And I think Guice is too flexible! What flexibility are you missing?
+#POS I F O V B V R A W O N V O V W #POS
+}
+{
+REF REF decouples code & container: Spring, Weld and Guice all work. How did we 'big time' misrepresent Spring?
+#POS I I W V W V N N F N W N W B F B D N W R V O W A N W V N W #POS
+}
+{
+REF I created those methods but didn't find time to implement & test them for some transformations. Sigh.
+#POS I O V D N F V V N P V F V O P D N W V W #POS
+}
+{
+Marleau shorthander! TAG TAG
+#POS B B W H H #POS
+}
+{
+I love Android. But I also love Aneroid. TAG TAG TAG TAG TAG TAG TAG TAG
+#POS O V B W F O R V B W H H H H H H H H #POS
+}
+{
+Hooray REF We've been invited to present microbenchmarking and Caliper at JavaOne NUM. URL
+#POS C I W L V V P V N F N P B K W U #POS
+}
+{
+Lovin' the new 'bizkit track. Drink up your Hatorade, then go to URL
+ for some Gold Cobra.
+#POS V W D A W N N W V T D N W R V P U
+P D B B W #POS
+}
+{
+REF Guice is critical infrastructure so we must release carefully. If this conservative schedule fails for you, just build from source?
+#POS I B V A N P O V V R W P D A N V P O W R V P N W #POS
+}
+{
+Bonus features in Guice: 
+URL
+#POS N N P B W
+U #POS
+}
+{
+REF Private modules are just cute syntax for creating child injectors! Only use createChildInjector to create them after app startup.
+#POS I A N V R A N P V N N W R V B P V O P N N W #POS
+}
+{
+Go Sharks!
+#POS V N W #POS
+}
+{
+David just brought us a bottle of wine at Evergreen. It's my favourite restaurant, even better than Western Pizza!
+#POS B R V O D N P N P B W L D A N W R A P A N W #POS
+}
+{
+REF By making HeaderState alternate between A and B rather than BACKUP and PRIMARY, could you avoid NUM% of the header writes?
+#POS I P V B A P D F N R P N F A W V O V K P D N V W #POS
+}
+{
+Ugh, along with REF I'm fighting the downed JavaOne submit-a-paper site.
+#POS C W R P I L V D V B V N W #POS
+}
+{
+REF Money.of(NUM, GBP), for consistency with j.u.c.TimeUnit. Bonus points for creating a special case for USD, Money.$(NUM).
+#POS I N W K W B W W P N P B W O W G W G W N N P V D A N P B W N W K W W #POS
+}
+{
+REF sweet! Looks like a new friend to hang out at the Dalvik Buildstation: URL
+#POS I A W V P D A N P V T P D B B W U #POS
+}
+{
+Me, practicing my snowboard grabs at Homewood. URL
+#POS O W V D N N P B W U #POS
+}
+{
+Whether Flash sucks is irrelevant. If it's my computer/phone/tablet, I should get to choose what it runs. Not Apple, Microsoft or Google.
+#POS A N V V A W P L D N W O V V P V O O V W R B W B F B W #POS
+}
+{
+REF I'm not quite sure! But in a lumberjack shot the ounce of maple syrup is the "lumber" and the ounce Jack Daniel's is the "jack"!
+#POS I L R R A W F P D N N D N P N N V D W N W F D N B Z V D W B W W #POS
+}
+{
+Lumberjack Shot: Combine NUMoz. Maple syrup & NUMoz Jack Daniel's. Stir and enjoy! URL
+#POS B B W V K W B N F K B Z W N F V W U #POS
+}
+{
+REF REF Guice is for Java SE, EE and AppEngine. Guice-no-aop is for Android. GIN is for GWT. URL
+#POS I I B V P B B W B F B W B V P B W N V P B W U #POS
+}
+{
+They should have kept the engineering codename, iPod Kilo.
+#POS O V V V D N N W B B W #POS
+}
+{
+Vs. iPhone, iPad has NUMx the pixels at NUMx the weight. Nexus One has NUM.NUMx the pixels at NUM.NUMx the weight.
+#POS V W B W B V P D N P K D N W N K V K G D N P K G D N W #POS
+}
+{
+...although perhaps my NUM-page app is a little too "Hello World" to say that JSP is a Good Idea for your next app. URL
+#POS W P R D A N V D A R W C N W P V D B V D A N P D A N W U #POS
+}
+{
+JSP is fantastic in IntelliJ. I can refactor Java+JSP simultaneously. Plus, the editor autocompletes both HTML and Java intelligently.
+#POS B V A P N W O V V B R W A W D N V D B F B R W #POS
+}
+{
+Hacking GWT+AppEngine+JSP in IntelliJ is just plain awesome. With both GWT dev mode and JSP, most code changes don't even need a recompile!
+#POS V B P B V R A A W P D N N N F B W A N N V R V D N W #POS
+}
+{
+REF great choice on the new ride; I'm jealous! My 'NUM Impreza is very reliable and handles the I-NUM up to Truckee with confidence.
+#POS I A N P D A N W L A W D W K N V R A F V D K T P B P N W #POS
+}
+{
+My third day of the season at Homewood. Snow's good, but I'm looking forward to tomorrow's storm...
+#POS D A N P D N P B W Z A W F L V R P S N W #POS
+}
+{
+REF is it okay if I refer to Jodie as Butters' mom?
+#POS I V O A P O V P B P N W N W #POS
+}
+{
+REF that's my bad. Please make sure there's a bug filed; we're gonna give SSL much overdue love over the next couple of months.
+#POS I L D A W V V A L D N V W L V V N A A N P D A N P N W #POS
+}
+{
+Yay! I just booked my flight to go to CIPS NUM Spring Seminar in Regina, Canada. URL
+#POS C W O R V D N P V P B K N N P B W B W U #POS
+}
+{
+REF don't worry Charlie. Guice, Google Collections and Android are in good hands. Bob will certainly be missed though!
+#POS I V V B W B W B N F B V P A N W B V R V V P W #POS
+}
+{
+Music is a sandwich that you eat with your ears.
+#POS N V D N P O V P D N W #POS
+}
+{
+REF hey buddy its Christmas you should just have lots of Turkey not think Android!
+#POS I C N L B O V R V N P N R V B W #POS
+}
+{
+My mom meeting her grandson made the local news! Plus, my commentary on the frozen skyway: URL
+#POS D N V D N V D A N W V W D N P D A N W U #POS
+}
+{
+REF have you considered combining prescription sunglass frames with clear lenses?
+URL
+#POS I V O V V N N N P A N W
+U #POS
+}
+{
+REF could you elaborate on your nested injectors grief?
+#POS I V O V P D A N N W #POS
+}
+{
+Ever need to download an old JDK? This page has 'em all: URL
+#POS R V P V D A B W D N V W O D W U #POS
+}
+{
+REF We'll have to see how Java Closures Round II shakes out. I'm hoping we get something like method references (and not much more).
+#POS I L V P V R B N N O V T W L V O V N P N N W F R R A W W #POS
+}
+{
+doyoo! URL (via REF
+#POS C W U W P I W #POS
+}
+{
+REF iTunes is fine until you wanna sync with a device that wasn't designed in Cupertino.
+#POS I B V A P O V V P D N P V V P B W #POS
+}
+{
+REF iTunes is fine until your music/tv/movie collection exceeds the size of your hard drive.
+#POS I B V A P D N N V D N P D A N W #POS
+}
+{
+Roughriders win the Western Division Final! All Silicon Valley Rider fans are hereby invited to my Grey Cup party next Sunday afternoon!
+#POS B V D A N N W D B B B N V R V P D A N N P B N W #POS
+}
+{
+RT REF making an app into an operating system is a genius. Too bad it's only for Chrome; I was hoping for Solitare OS.
+#POS J I V D N P D N N V D N W R A L R P B W O V V P B B W #POS
+}
+{
+REF we'll miss you buddy. Let me know if you wanna ride when you get back, I'll be sure to get some construction paper to make a sign!
+#POS I L V O N W V O V P O V V R O V A W L V A P V D N N P V D N W #POS
+}
+{
+Dual-booting Ubuntu on my MacBook Pro. Not sure whether it's real or perceived, but Chrome on Linux feels faster than Chrome on OS X.
+#POS A B P D B B W R A P L A F V W F N P B V R P N P B B W #POS
+}
+{
+Chozzling with REF and REF
+#POS V P I F I #POS
+}
+{
+Yay, REF is coming to town!
+#POS C W I V V P N W #POS
+}
+{
+Hooray! Just grabbed the new Weezer album for only $NUM.NUM from doubleTwist's music store, powered by Amazon MPNUM. URL
+#POS C W R V D A B N P A K P Z N N W V P B B W U #POS
+}
+{
+Butters pulled me around my apartment complex on my bike this morning. I think she'd make a capable sled dog.
+#POS N V O P D N A P D N D N W O V V V D A N N W #POS
+}
+{
+Happy birthday REF I had a range of gift ideas; how about a trending topic to celebrate your life's interval? TAG
+#POS A N I W O V D N P N N W R P D A N P V D L N W H #POS
+}
+{
+REF GuiceOne NUMNX is at the Moscone Center, May DAT NUM. Along with Guice, the NUMNX is "Noop on Nails" a trendy new web framework.
+#POS I B B V P D B B W B K K W V P B W D B V W C P N W D A A N N W #POS
+}
+{
+REF yeah, my bad. So... have you got patches for upstream?
+#POS I C W D A W R W V O V N P A W #POS
+}
+{
+Has anyone seen the new "Babies" movie trailer online? I've Googled, Binged, Yahood and even Twitter searched without success. TAG
+#POS V N V D A W N W N N A W L V W V W B F R B V P N W H #POS
+}
+{
+If you're excited by NUM,NUM choices in the app store, you should check out Microsoft Windows. Way more than NUM,NUM apps!
+#POS P L V P K N P D N N W O V V T B B W N A P K N W #POS
+}
+{
+RT REF What's wrong with Scala/Ruby ppl? I find them boring, for script kiddies. Java/JNUMEE is the reason I wake up in the mornings
+#POS J I L A P B N W O V D A W P N N W B V D N O V T P D N #POS
+}
+{
+Filter Android docs by their release version! Check it out: URL (I had a small part in this URL)
+#POS N B N P D N N W V O T W U W O V D A N P O U W #POS
+}
+{
+REF what's your problem with HTML-formatted email? It's NUM, I think we're ready to mix bold, fixed-width, and hyperlinks in email.
+#POS I L D N P B N W L K W O V L A P V A W V W F N P N W #POS
+}
+{
+REF With Guice NUM, constructors on servlets can take parameters! Full docs are here: URL
+#POS I P B K W N P N V V N W A N V R W U #POS
+}
+{
+Wowsers! Manning's Dependency Injection is half price today! Use code popNUM URL (via REF
+#POS C W Z N N V A N N W V N K U W P I W #POS
+}
+{
+REF while you're in San Jose, wanna come for lunch at the Googleplex? Low key, just a social lunch with this LB fan. DM me.
+#POS I P L P B B W V V P N P D B W A N W R D A N P D N N W V O W #POS
+}
+{
+The new Twidroid is fast! Its like, Snow Twitdroid.
+#POS D A B V A W L A W B B W #POS
+}
+{
+One spot left for tomorrow's GTUG Guice talk! URL (via REF
+#POS K N V P S B B V W U W P I W #POS
+}
+{
+The underwater hippo was fun at the San Diego zoo. It walked along the bottom of its pool, jumped, and Mario-NUM-Princessed back down. Yay!
+#POS D A N V N P D B B N W O V P D N P D N W V W F B R R W C W #POS
+}
+{
+An early screenshot of the Android card game I'm working on, "Schotten": URL TAG
+#POS D A N P D B N N L V P W W B W W U H #POS
+}
+{
+HOT! Got a dead-tree version of Manning's Dependency Injection. Congratulations, REF URL
+#POS A W V D A N P Z N N W N W I U #POS
+}
+{
+REF no, you can't. Maybe 'Void', but definitely not void. The following is a syntax error:
+#POS I C W O V W R W N W W F R R N W D N V D N N W #POS
+}
+{
+REF you're gonna have to explain that one, buddy
+#POS I L V V P V D K W N #POS
+}
+{
+Had cheesesteaks with REF REF REF and a drunk stranger. But the cops took the drunk guy away before he could eat his!
+#POS V N P I W I W I W F D A N W F D N V D A N R P O V V D W #POS
+}
+{
+REF how did it go? Did you run into any problems? We're thinking about improving Dependency Injection for Android...
+#POS I R V O V W V O V P D N W L V P V N N P B W #POS
+}
+{
+According to my trusted source, MVEL is the best expression language for Java: URL
+#POS V P D A N W B V D A N N P B W U #POS
+}
+{
+I'm excited to present Guice NUM.NUM to the Silicon Valley Google Tech User Group, REF The talk is Sept. NUMnd at the Googleplex. Hooray!
+#POS L A P V B K P D B B B B B B W I W D N V B W K P D B W C W #POS
+}
+{
+Billy Joe brought his mommy on stage! green day swoon
+#POS B B V D N P N W A N N #POS
+}
+{
+Shush! update makes usage clear and supports vibrate: URL
+  Get it for your Android!
+#POS C W N V N A F V N W U
+V O P D B W #POS
+}
+{
+Shush! Ringer Restorer: my Android app that turns your ringer back on after the movie:
+URL
+#POS C W B N W D B N P V D N R P P D N W
+U #POS
+}
+{
+Butters the dog is afraid of balloons.
+#POS N D N V A P N W #POS
+}
+{
+I survived Alcatraz! I'm glad I had a wetsuit to keep me warm and floatey. And my generous friends gave $NUM to liver disease. Hooray!
+#POS O V B W L A O V D N P V O A F N W F D A N V K P N N W C W #POS
+}
+{
+Tomorrow I'm swiming from Alcatraz for charity! Please show your support with a small donation: URL
+#POS N L N P B P N W V V D N P D A N W U #POS
+}
+{
+I love my Hudson build server. It took only a few minutes to set up, and it does everything I need and more. URL
+#POS O V D B V N W O V R D A N P V T W F O V N O V F A W U #POS
+}
+{
+Spring on VMWare :: Guice on AppEngine ?
+#POS N P B G B P B W #POS
+}
+{
+Wowsers, my broke younger sister just donated $NUM for my Alcatraz swim! URL
+#POS C W D A A N R V K P D B N W U #POS
+}
+{
+Censored dictionaries. No maps, dialer or podcaster that challenges Apple's own. No NUMrd party music store or background streaming. sighPhone
+#POS V N W D N W N F N P N Z N W D A N N N F N N W G #POS
+}
+{
+In Waterloo, Canada today. Anyone up for beers tonight?
+#POS P B W B N W N T P N R W #POS
+}
+{
+REF that's icy water. I'm only wearing a Speedo if the two of us net $NUM,NUM+ URL
+#POS I L A N W L R V D N P D K P O N G K F U #POS
+}
+{
+...or stop climate change with your personal and political actions. REF has the seal clubber's link: URL
+#POS W F V N N P D A F A N W I V D N Z N W U #POS
+}
+{
+Climate change kills polar bears. Bears kill seals. Seals kill fish. To enjoy sushi and your SUV, break the chain and club a baby seal.
+#POS N N V A N W B V N W N V N W P V N F D N W V D N F N D N N W #POS
+}
+{
+I prefer the new UW logo. It says "SCIENCE" to me. URL
+ TAG
+#POS O V D A B N W O V W N W P O W U
+H #POS
+}
+{
+Limp Bizkit IS better than everyone. In addition to the free show, everyone in the audience gets a free concert tee.
+#POS A N V A P N W P N P D A N W N P D N V D A N N W #POS
+}
+{
+I'm taking a NUM½ hour vacation to Vegas to see REF & friend's first US show in NUM years. As URL, I'm obligated!
+#POS L V D K N N P B P V I F S A B N P K N W P U W L A W #POS
+}
+{
+A scene from Jerome's bachelor party at the Reno roller derby. (I'm the one wearing pink) URL
+#POS D N P Z N N P D B N N W W L D K V A W U #POS
+}
+{
+REF girls are hiot, sushi is so-so. whetre the F are you?
+#POS I N V N W N V A W V D N V O W #POS
+}
+{
+REF I'm heading to Reno this weekend for a bachelor party. We should definitely hookup for sushi at the gentlemen's club!
+#POS I L V P B D N P D N N W O V R N P N P D N N W #POS
+}
+{
+REF Google won't autocorrect if you quote the query term. Try "guice" like so: URL
+#POS I B V V P O V D N N W V W N W V R W U #POS
+}
+{
+An amigurumi Android for me: URL Thanks REF
+#POS D N B P O W U N I W #POS
+}
+{
+Yay! A cameo in Twittch: URL Instead of killing Groovy, I'd use the time machine to build a stockpile of Crystal Pepsi.
+#POS C W D N P N W U R P V A W L V D N N P V D N P B B W #POS
+}
+{
+When they make the Twittch movie, I hope Adam Sandler is REF and Ryan Reynolds plays me in a cameo! URL
+#POS R O V D N N W O V B B V I F B B V O P D N W U #POS
+}
+{
+Perhaps JC uses Bing? URL
+#POS R B V B W U #POS
+}
+{
+Kid sister and myself at the Riders' home opener! URL
+#POS B N F O P D N W N N W U #POS
+}
+{
+REF yup, I'm the Jesse that created the jessescript font. But no new fonts in almost NUM years! URL
+#POS I C W L D B O V D B N W F D A N P R K N W U #POS
+}
+{
+REF Greed is good for Podcasting. For Audiobooks, I posted some instructions for converting Audible tracks: URL
+#POS I J N V A P V W P B W O V D N P V A N W U #POS
+}
+{
+Both Android and webOS run Apache Harmony behind-the-scenes. Congrats, Harmony team!
+#POS D B F B V B N N W C W B N W #POS
+}
+{
+REF index
+#POS I N #POS
+}
+{
+REF it tells you if a binding is a singleton! It follows links and normalizes REF Scopes.SINGLETON and asEagerSingleton().
+#POS I O V O P D N V D N W O V N F B I W N W B F B B W #POS
+}
+{
+NUM new Guice features in NUM days! Multibinder.permitDuplicates() fills a gap in my favourite extension. Plus, Scopes.isSingleton(). Yay!
+#POS K A B V P K N W B W G G V D N P D A N W A W N W G G W C W #POS
+}
+{
+Best Twittch since Guice NUM: URL
+#POS A N P B K W U #POS
+}
+{
+REF I put together a quick doc for ya: URL
+#POS I O V R D A N P O W U #POS
+}
+{
+I ❤ Mac OS X. But the green button for resizing windows is weak. iTunes always does it wrong, Safari often does it wrong. It feels broken.
+#POS O V B B B W F D A N P V N V A W B R V O A W B R V O A W O V V W #POS
+}
+{
+REF sent me the code back in March! We're past the vNUM release, and exploring new features again!
+#POS I V O D N R P B W L A D N N W F V A N R W #POS
+}
+{
+Made Guice slightly more extensible. You can now inject arbitrary constructors with a tiny bit of reflection: bind(...).toConstructor(...);
+#POS V B R A N W O V R V A N P D A N P N W N W W G G #POS
+}
+{
+Wow! REF got engaged *and* Mavenized Guice NUM.NUM in the same day! Congratulations Greg, and LGTM.
+#POS C W I V V W F W B B K P D A N W N B W F B W #POS
+}
+{
+Finally wrote up a cute Guice AOP example. URL ...what's your favourite method interceptor?
+#POS R V T D A B B N W U W L D N N N W #POS
+}
+{
+REF go from unmodular to modular with Guice; URL
+#POS I V P B P A P B W U #POS
+}
+{
+Anxious about Butters' sick digestive system: our dog's been on a gerber and rice diet for four days! ...Will Taco Bell unclog a puppy?
+#POS A P N W A A N W D S V P D B F N N P K N W W V B B V D N W #POS
+}
+{
+Sam Berlin ran into Guice bug NUM. So I gave him a long writeup on what caused it:  URL
+#POS B B V P B N K W P O V O D A N P O V O W U #POS
+}
+{
+Enjoy REF untwittched face on the front page of URL (as a part of our I/O intro video)
+#POS V Z A N P D N N P U W P D N P D N N N W #POS
+}
+{
+Due to peer pressure from REF I will no longer be afraid to experiment with the psychedelic effects of functional languages.
+#POS A P N N P I W O V D N V A P V P D N N P A N W #POS
+}
+{
+Really enjoyed Ben & Dion's talk, AJAX vs. FX. Conversational, funny, and edutaining. REF says he still prefers Silverlight.
+#POS R V B F Z N W B P W B W A W A W F V W I V O R V B W #POS
+}
+{
+Finish your TAG week with NUM talks from Google: my Guice intro in ENUM at TIM and REF web stack in ENUM immediately afterwards.
+#POS V D B N P K N P B W D B N P B P K F Z N N P B R R W #POS
+}
+{
+Learning about actors in Scala. They're concise because they use ! and !? and !! as operators. Scala code reads like LOLCATS!! TAG
+#POS V P N P B W L A P O V W F W F W P N W B N V P B W H #POS
+}
+{
+Dearests REF and REF REF and i wish you were here at dueling piano bar in SF...
+#POS J I F I W I F O V O V R P N N N P B W #POS
+}
+{
+REF dude, guts-events sounds way cool. I listed my aspirations for the perfect event bus here: URL
+#POS I N W N V R A W O V D N P D A N N R W U #POS
+}
+{
+Ready to see inside LimeWire, the world's most popular Swing app. (It uses Guice and Glazed Lists! yay!) Room E-NUM at TIM TAG
+#POS A P V P B W D S R A N N W W O V B F A N W C W W B K P K N #POS
+}
+{
+REF is there a specific problem I could help you with? Guice tries its best to balance flexibility and predictability...
+#POS I V X D A N O V V O P W B V L A P N N F N W #POS
+}
+{
+Dude, you need Google Collections Library in your Java application. (Unbiased!) TAG
+#POS N W O V B N N P D B N W W A W W H #POS
+}
+{
+JSR NUM, the thing that adds support for URL String&gt; is actually quite awesome, and not as invasive as I'd feared! Yay! TAG
+#POS B K W D N P V V P N J I N W V R R A W F R P A P L V W C W H #POS
+}
+{
+REF if a change is beneficial, let the submitter do the work! This permits an unbounded number of improvements. (modulo reviews)
+#POS I P D N V A W V D N V D N W D V D A N P N W W A N W #POS
+}
+{
+At the TAG small language changes talk. I don't buy the argument 'our napsack's capacity is limited to exactly NUM changes'
+#POS P D B A N V V W O V V D N W D Z N V A P R K N W #POS
+}
+{
+Heading to Hall E NUM for the Clojure intro. I liked the Clojure approach to coding from the Script Bowl.  TAG
+#POS V P B B K P D B N W O V D B N P V P D N N W H #POS
+}
+{
+Watchin' the Script Bowl with REF at TAG. Cheering for REF and Scala's concise type safety.
+#POS V W D N N P I P B W V P I F Z A N N W #POS
+}
+{
+If you're attending TAG tomorrow, please come to the Collections BOF at TIMpm. URL
+#POS P L V N N W V V P D N B P K N W U #POS
+}
+{
+"Your mother is a hamster and you father smells of elderberries"  ... enjoying Spamalot with REF
+#POS W D N V D N F O N V P N W W V B P I #POS
+}
+{
+Guice intro at TAGNUM is Room NUM at TIM. We went overboard with Keynote effects so our slides look like a Geocities page.
+#POS B N P B V N K P K W O V R P B N P D N V P D B N W #POS
+}
+{
+Drinkin with REF and REF at the Thirsty Bear. D.A.' pretty trashed, just left the mensroom without his pants... Happy Wednesday!
+#POS V P I F I P D A N W N W D W W R A W R V D N P D N W A B W #POS
+}
+{
+Held REF hair back as he had bad times in the men's room in the Thirsty Bear. Drunken times at TAGNUM ...
+#POS V Z N R P O V A N P D S N P D A N W A N P G J #POS
+}
+{
+Sitting in "The Myth of the Genius Programmer" with REF at TAGNUM. He disagrees...
+#POS V P W D N P D N N W P I P B W O V W #POS
+}
+{
+On the shuttle with REF to TAGNUM. REF was supposed to ride with us, but he missed the bus due to a drink mix up at starb ...
+#POS P D N P I P B W I V A P V P O W F O V D N P P D N N T P B W #POS
+}
+{
+REF according to the source, Android uses HTTP client rev NUM. If you need newer, let me know. URL
+#POS I V P D N W B V B N N K W P O V A W V O V W U #POS
+}
+{
+REF uh dude, please don't melt down on me NUM days before we share a stage! Object oriented programming is teh bomb! polymorphism rulez!!NUM
+#POS I C N W V V V T P O K N P O V D N W N N N V D N W N V W K #POS
+}
+{
+REF there's one private modules solution in the FAQ: URL ...or you can try parameterized types.
+#POS I L K A N N P D N W U W F O V V A N W #POS
+}
+{
+REF for Android, be sure build Guice without AOP. I'll upload no-AOP version of Guice NUM.NUM soon! URL
+#POS I P B W V A V B P N W L V D N P B K R W U #POS
+}
+{
+Hooray! REF is using Guice (even though it hasn't been approved by management yet!) URL
+#POS C W I V V B W R P O V V V P N R W W U #POS
+}
+{
+Maven artifacts for Guice are coming very soon. REF promises!
+#POS B N P B V V R R W I V W #POS
+}
+{
+REF nope, binding all matching types automatically is too magic for Guice. But you can easily write that yourself in a few minutes.
+#POS I C W V D A N R V R A P B W F O V R V P O P D A N W #POS
+}
+{
+REF if you'd like Guice NUM.NUM to inject a parameterized type, it can do that: URL
+#POS I P L V B K P V D A N W O V V O W U #POS
+}
+{
+I forgot to thank REF who bent over backwards to ensure Guice NUM.NUM plays nicely with OSGi and Java EE containers. Thanks Stuart!
+#POS O V P V I W O V P R P V B K V R P B F B B N W N B W #POS
+}
+{
+Guice NUM.NUM released! Thanks REF REF REF REF  and of course REF URL
+#POS B K V W N I I I I F P N I U #POS
+}
+{
+Finally documented the hooks we put in for Guiceyfruit:
+URL
+#POS R V D N O V P P B W
+U #POS
+}
+{
+REF faulty Glazed Lists jar? tell me more.
+#POS I A A N N W V O R W #POS
+}
+{
+A fine surf day with REF and Butters. Who's gonna join us next weekend?
+#POS D A N N P I F N W L V V O A N W #POS
+}
+{
+Green Day's new album: $NUM on iTunes, or $NUM on Amazon (today only!) URL Each site has its own exclusive tracks.
+#POS A Z A N W K P B W F K P B W N R W W U D N V L A A N W #POS
+}
+{
+"Compare with Clipboard" is a ridiculously handy feature in IntelliJ. Its diff tool is the best I've ever seen.
+#POS W V P N W V D R A N P N W L A N V D A L R V W #POS
+}
+{
+When zombies happen, I predict the outbreak will start at this abandoned amusement park: URL   via REF
+#POS R N V W O V D N V V P O V N N W U P I #POS
+}
+{
+the new Jay Leno show: "ellen for men" URL
+#POS D A B B N W W B P N W U #POS
+}
+{
+Dear Bloggers: Your commenting system sucks ass. Love Jesse.
+#POS A N W D V N V N W V B W #POS
+}
+{
+REF I'm just fixing your bad syntax: Microsoft Word is not a good IDE! It's too bad that JetBrains doesn't sell a word processor.
+#POS I L R V D A N W B B V R D A N W L R A P B V V D N N W #POS
+}
+{
+Wanna save NUM¢ ? Download the new Green Day MPNUM from rhapsody.com for free. I can't believe it's been almost NUM years since American Idiot...
+#POS V V K W V D A A N N P U P A W O V V L V R K N P B N W #POS
+}
+{
+Guice? WebBeans? JSRs? Standards? Here's my take on Atinject: URL
+#POS B W B W B W N W L D N P B W U #POS
+}
+{
+REF and providers are also injectable. In fact, provider methods are implemented behind-the-scenes on top of Providers.
+#POS I F N V R A W P N W N N V V A P N P N W #POS
+}
+{
+REF generally in Guice provider methods, you just pass the context in as a parameter...
+#POS I R P B N N W O R V D N P P D N W #POS
+}
+{
+REF look for Jetcet, the first PDF viewer for Android: URL
+#POS I V P B W D A N N P B W U #POS
+}
+{
+REF have you covered compare-and-swap on your refcard?
+#POS I V O V V P D N W #POS
+}
+{
+Celebrating Cinco de Mayo by drinking Crystal Pepsi and vokda.
+#POS V B B B P V B B F N W #POS
+}
+{
+Socialized telecom for the win: SaskTel is upgrading their network for NUMG/NUMG. via REF URL
+#POS B B P D N W B V V D N P N W P I U #POS
+}
+{
+YourKit is awesome. In two hours I found & fixed some bottlenecks and sped up Guice creations by NUM%. URL
+#POS O V A W P K N O V F V D N F V T B N P K W U #POS
+}
+{
+My favourites? The Overlook: URL On Intelligence: URL Whack-a-Mole: URL
+#POS D N W D N W U P N W U N W U #POS
+}
+{
+The REF library of myself and REF just passed NUM days of audio. NUM audiobooks, NUM GB.
+#POS D I N P O F I R V K N P N W K N W K N W #POS
+}
+{
+Playing Taboo with a friend who doesn't watch sports. To get him to say "Dallas", I ask "Where do the Cowboys play?" He answers "the Rodeo!"
+#POS V B P D N O V V N W P V O P V W B W W O V W R V D B V W W O V W D N W W #POS
+}
+{
+best method ever: public static boolean isNaN(float f) { return f != f; }
+#POS A N R W A A N V N W W V N W W G W W #POS
+}
+{
+REF neato
+#POS I A #POS
+}
+{
+REF URL - tee hee hee I miss you guys
+#POS I U W N C C O V O N #POS
+}
+{
+Finally submitted my JavaOne slides for the Guice talk. The introductory talk uses a tweets client as the example app. And lots of clipart.
+#POS R V D B V P D B V W D A N V D N N P D N N W F N P N W #POS
+}
+{
+REF we're considering using Google Collections' Function and Predicate interfaces in Glazed Lists NUM.NUM...
+#POS I L V V B N W N F N N P A N K W #POS
+}
+{
+The writing in REF upcoming book on Dependency Injection is colourful. "all the right left turns and the occasional wrong right turns"
+#POS D N P Z A N P N N V A W W X D A V V F D A A R V W #POS
+}
+{
+I'm baffled that Oracle paid $NUM.NUM billion for BEA, but Sun only cost $NUM.NUM billion.
+#POS L V P B V K K P B W F B A N K K W #POS
+}
+{
+Oracle owns WebLogic, PeopleSoft, Siebel, Tangosol, Sparc, Solaris, JD Edwards, MySQL, StorageTek, StarOffice, Cray, NetBeans, SCO & SavaJe
+#POS B V B W B W B W B W B W B W B B W B W B W B W B W B W B F B #POS
+}
+{
+I'm givin' a Google I/O talk with REF about managing big apps with Guice. URL
+#POS L V W D B B V P I P V A N P B W U #POS
+}
+{
+REF wow that's an awesome tattoo
+#POS I C L D A N #POS
+}
+{
+REF don't you mean AARGHNUM ?
+#POS I V O V B W #POS
+}
+{
+REF updated Guice to compile and pass tests without AOP.
+URL
+#POS I V B P V F V N P N W
+U #POS
+}
+{
+REF have you run into problems using it on larger projects?
+#POS I V O V P N V O P A N W #POS
+}
+{
+Our dog's name is Butters cause she kinda acts like the South Park character. So when we were given a Roomba, its name was obvious: AWESOM-O
+#POS D S N V B P O R V P D B B N W R R O V V D N W L N V A W A #POS
+}
+{
+REF Guice got child injectors a few months ago. URL Use the NUM.NUM snapshot on our downloads page.
+#POS I B V N N D A N R W U V D K N P D N N W #POS
+}
+{
+REF Guice is fully enterprise capable. Especially with Guiceyfruit for JEE integration: URL
+#POS I B V R R A W R P B P B N W U #POS
+}
+{
+REF wow, you have glasses? I'm glad you kept the sideburns.
+#POS I C W O V N W L A O V D N W #POS
+}
+{
+REF what's the problem? Last time I checked our JXTable integration was pretty straightforward.
+#POS I L D N W A N O V D B N V R A W #POS
+}
+{
+REF are you using the Guice NUM TypeLiteral? getReturnType() makes for quite powerful reflection. URL
+#POS I V O V D B K B W G G V P R A N W U #POS
+}
+{
+I told the agent that I was gay-married to my sister's boyfriend Paul so Paul could rent his car on my credit card. Don't lose your wallet!
+#POS O V D N P O V A P D S N B P B V V D N P D N N W V V D N W #POS
+}
+{
+Back at Lake Tahoe, trip #NUM on the season! Hopefully the snow holds up for a #NUM and a #NUM...
+#POS R P B B W N K P D N W R D N V T P D K F D K J #POS
+}
+{
+Hooray Limp Bizkit tour planned! Hooray!
+#POS C A N N V W C W #POS
+}
+{
+Proposal: Method and Field Literals.
+URL
+#POS N W N F B B W
+U #POS
+}
+{
+REF Allison, congratulations on getting to run your own history department; that's a dream job for many geeks. See you on August NUM?
+#POS I B W N P V P V D A N N W L D N N P A N W V O P B K W #POS
+}
+{
+If you browse with Safari, check out this link URL
+#POS P O V P B W V T D N U #POS
+}
+{
+After NUM hours, I'm still impressed with the Hyundai I rented.
+#POS P K N W L R V P D B O V W #POS
+}
+{
+Finally convinced by REF and REF to improve Guice interop better with the Java EE annotations. Sorry it took so long.
+#POS R V P I F I P V B B R P D B B N W V O V R A W #POS
+}
+{
+REF uWink is awesome! You get to press a button whenever you want and a guy has to bring you mustard
+#POS I B V A W O V P V D N R O V F D N V P V O N #POS
+}
+{
+Got a GNUM? Get the NUMbanana notes app. It can even share notes to twitter! URL via REF
+#POS V D B W V D B N N W O V R V N P B W U P I #POS
+}
+{
+It's the same guy who wants Glazed Lists without "import ca.odell.glazedlists" and Guice without "import com.google.inject". Frustrating!
+#POS L D A N O V A N P W V B W B W G W F B P W N N W B W V W W A W #POS
+}
+{
+REF WOW that is way hot, possibly even rivalling REF pink snow stick. We all need to get a snowday together soon...
+#POS I C O V R A W R R V I W A N N W O D V P V D N R R W #POS
+}
+{
+Tahoe rained us out today; no snowboarding! ...but I discovered Amp Black Tea, an energy drink that tastes like iced tea + lemonade. Yummy!
+#POS B V O T N W D N W W F O V B B B W D N V P V P A N F N W A W #POS
+}
+{
+REF I'm doing Andoid development in IntelliJ too. REF recommends the create project script and the build.xml it generates.
+#POS I L V B N P N R W I V D N N N F D N W V O V W #POS
+}
+{
+I love hockey, and the HP Pavilion has Molson on tap. Tonight I get to see Oilers vs. Sharks with REF Go Oilers!
+#POS O V N W F D B N V B P N W N O V P V B B W B P I W V B W #POS
+}
+{
+Traffic on the I-NUM West has been stopped for NUM minutes. Hope it picks up soon 'cause the snow is piling up!
+#POS N P D K B V V V P K N W V O V T R W P D N V V T W #POS
+}
+{
+Released on the same day (by coincidence!) URL and URL
+#POS V P D A N W P N W W U F U #POS
+}
+{
+Guice application graphing is ready for prime-time. URL
+#POS B N N V A P A W U #POS
+}
+{
+The new Guice snapshot should be the last before NUM.NUM: URL
+#POS D A B N V V D A P K W U #POS
+}
+{
+REF which book? I'm one of those guys who liked Religulous so you've piqued my interest
+#POS I D N W L K P D N O V B P L V D N #POS
+}
+{
+"Dependency Injection is like violence; if it isn't working for you, you aren't using enough of it." via URL
+#POS W N N V P N W P O V V P O W O V V N P O W W P U #POS
+}
+{
+Sweet, one of the worst Wii games URL uses one of my best fonts! URL
+#POS A W K P D A B N U V K P D A N W U #POS
+}
+{
+Yay, one of our critics is blogging praise for Glazed Lists: URL
+#POS C W K P D N V V V P A N W U #POS
+}
+{
+My new favourite Android app is 'Greed', a slick Google Reader app. Dev blog is URL
+#POS D A A B N V W N W W D A B B N W N N V U #POS
+}
+{
+Friendly lady demoing Grape Crush at the Save Mart in Tahoe City. When you're wiped from snowboarding Grape Crush is crazy delicious!
+#POS A N V B B P D B B P B B W R L V P B B B V A A W #POS
+}
+{
+REF jesse is a friend... yah he's always been a good friend of mine. But lately something's changed, it ain't hard to define...
+#POS I B V D N W C L R V D A N P O W F R L V W O V A P V J #POS
+}
+{
+Pretty pictures reveal the math behind Bézier curves: URL via REF
+#POS A N V D N P B N W U P I #POS
+}
+{
+LineForm is hot, but I miss the bezier tools from CorelDraw. Here's my waiting-at-the-airport doodle: URL
+#POS B V A W F O V D B N P B W L D N V O N W U #POS
+}
+{
+REF Glazed Lists on GWT is a good idea, particular if you push a events to clients Ajax-style. Not workin on it though, too busy!
+#POS I A N P B V D A N W A P O V D N P N B W R V P O R W R A W #POS
+}
+{
+Glazed Lists new release is out, hooray! URL
+#POS A N A N V A W C W U #POS
+}
+{
+Loves the funny words at Starbucks. "I'll have a venti mocha frappucino and a tall, extra hot, nonfat barista"
+#POS V D A N P B W W L V D A N N F D A W A A W A N W #POS
+}
+{
+Reason for going to San Diego? NUM hour hackathon to release Glazed Lists NUM.NUM with James. Hooray!
+#POS N P V P B B W K N N P V A N K P B W C W #POS
+}
+{
+Was way too late to check in for my flight to San Diego. But it worked out because the flight was delayed. Great success!
+#POS V N R A P V T P D N P B B W F O V T P D N V A W A N W #POS
+}
+{
+Up at Tahoe, hoping for snowey goodness. This season I wanna learn to jib a box. Videogames make it look easy!
+#POS T P B W V P B B W D N O V V P V D N W B V O V A W #POS
+}
+{
+Upset about the American media's insensitivity regarding the Canadians lost in today's US Airways crash. Now if they were American Geese…
+#POS V P D B S N V D B V P S B B N W R P O V A N W #POS
+}
+{
+Would the people who are asking for closures in the Java language please just use Groovy, Scala, Fan etc.? Java shouldn't have to change.
+#POS V D N O V V P N P D B N V R V B W B W B B W B V V P V W #POS
+}
+{
+Sometimes the best way to fix an OutOfMemoryError is to just supply more memory. Strangely, it's the opposite of what my instincts tell me.
+#POS R D A N P V D B V P R V A N W R W L D N P O D N V O W #POS
+}
+{
+REF Factories and Providers do the same job. But factories are usually looked-up (ie. getInstance()), whereas providers are injected.
+#POS I N F N V D A N W F N V R V W G W G G W L N V V W #POS
+}
+{
+Factories are bad. Dependency injection is good. And Guice makes dependency injection easy & concise.
+#POS N V A W N N V A W F B V N N A F A W #POS
+}
+{
+REF discipline as an alternative to Guice? How?
+#POS I N P D N P B W R W #POS
+}
+{
+REF Java libraries are a tough to sell because there's so many good ones for free! And for-pay prevents our open source freedoms.
+#POS I B N V D A P V P L R A A N P A W F P V D A N N W #POS
+}
+{
+♺ REF I hope when the ball drops in NYC they are all "NUM! NUM! NUM! NUM!" to celebrate the leap second!
+#POS J I O V R D N V P B O V D W K W K W K W K W W P V D N A W #POS
+}
+{
+The USB-powered beverage chiller I got for Christmas works! Happy day.
+#POS D A N N O V P B N W A N W #POS
+}
+{
+♺ REF OH: "Communism failed due to hiding the economic truth. Capitalism will fail as it hides the ecological truth"
+#POS J I C W W N V A P V D A N W N V V P O V D A N W #POS
+}
+{
+Got a new XBox ID. I mistakenly set up my last one for Canada and they don't let you change countries: URL
+#POS V D A B B W O R V T D A K P B F O V V O V N W U #POS
+}
+{
+XBox is my new social network: URL
+#POS B V D A A N W U #POS
+}
+{
+the sky continues to dump powder on the Lake Tahoe mountains. NUMcm and going since yesterday!
+#POS D N V P V N P D B B N W K F V P N W #POS
+}
+{
+pink scotty jammies on my legs, rain coat on my dog, marley & me on my ipod
+#POS A B B P D N W N N P D N W B F O P D N #POS
+}
+{
+REF nope, there's no event bus JSR. Although Web Beans (JSR NUM) includes one. Theirs doesn't address the hard problems though.
+#POS I C W Y D N N B W P B B W B K W V K W O V V D A N P W #POS
+}
+{
+REF I'm shooting for Dec NUMst, but will be happy if I hit the end of the year. My todo list: URL
+#POS I L V P B A W F V V A P O V D N P D N W D N N W U #POS
+}
+{
+Glazed Lists could be better and simpler if we get a kickass EventBus to build on top of. My wishlist: URL
+#POS A N V V R F A P O V D A N P V P N P W D N W U #POS
+}
+{
+REF fancy meal, shopping, street booze, magician, jimmy buffet's. And now... something exotic!
+#POS I J A N W N W N N W N W B B W F R W N A W #POS
+}
+{
+REF child injectors? Use PrivateModule at configuration time, or Injector.createChildInjector at runtime: URL
+#POS I N N W V B P N N W F N W G P N W U #POS
+}
+{
+REF me too. I watched both parts of the the Clojure for Java programmers talk: URLNUM
+#POS I O R W O V D N P D D B P B N V W U #POS
+}
+{
+REF in case you're curious, English rules are here: URL
+#POS I P N L A W B N V R W U #POS
+}
+{
+Profiling with Eclipse isn't supported on Mac. And despite a struggle, it fails with a cryptic error on my Ubuntu box. Frustrating!
+#POS N P B V V P B W F P D N W O V P D A N P D B N W A W #POS
+}
+{
+REF the game that's tempting me to get an Xbox NUM is Portal.
+#POS I D N L A O P V D B B V N W #POS
+}
+{
+Fresh Guice! URL
+#POS A N W U #POS
+}
+{
+Took Butters the dog for a stroll down University Ave. in Palo Alto while listening to REF on my GNUM. Yay for Sunday morning.
+#POS V B D N P D N P B B W P B B P V P I P D B W C P B N W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Like Guitar Hero? Stop what you're doing and watch this: URL
+#POS P B N W V O L V F V O W U #POS
+}
+{
+Guice punches erasure in the face! URL
+#POS B V B P D N W U #POS
+}
+{
+♺ REF Wow, Keith's special comment on gay marriage is so spot on. Why... why! URL
+#POS J I C W Z A N P A N V R N P W R W R W U #POS
+}
+{
+"Zack and Mira" was raunchy fun.
+#POS W B F B W V A N W #POS
+}
+{
+SF housewarming was good times, yet i still miss drinkin with my kickball peeps
+#POS B N V A N W R O R V V P D N N #POS
+}
+{
+REF scorch! I guess I'll keep my day job...
+#POS I N W O V L V D N N W #POS
+}
+{
+See the offensive t-shirt slogan that won me $NUM: URL
+#POS V D A N N P V O K W U #POS
+}
+{
+Spent my Saturday closing the gaps in Guice's exception story. NUM issues to resolve or defer for vNUM: URL
+#POS V D B V D N P Z N N W K N P V F V P N W U #POS
+}
+{
+at walk-in clinic with REF trying to turn her red eye blue again...
+#POS P A N P I W V P V D A N N R W #POS
+}
+{
+uh oh, McFlurries are habit forming...
+#POS C C W B V N V W #POS
+}
+{
+Republicans have given up on being fiscally conservative. No matter how many earmarks you kill, you will not save $NUM billion per day.
+#POS N V V T P V R A W D N R A N O V W O V R V K K P N W #POS
+}
+{
+green+menu+red to hard reboot a GNUM. Not that you'll have to.
+#POS A P A N D B W R P L V P W #POS
+}
+{
+REF just brought home Guitar Hero World Tour primo edition. You know a videogame is huge when it requires rearranging furniture.
+#POS I R V N B B B B B N W O V D N V A R O V V N W #POS
+}
+{
+Highlight of the "Yes On NUM" propaganda video: URL
+#POS N P D W C P K W N N W U #POS
+}
+{
+Religulous movie was good.
+#POS B N V A W #POS
+}
+{
+Fresh Guice! URL
+#POS A N W U #POS
+}
+{
+REF we're still working hard on Guice NUM. Current (delayed) release is November: URL
+#POS I L R V A P B K W A W V W N V B W U #POS
+}
+{
+I lost my GNUM and now I am sad.
+#POS O V D B F R O V A W #POS
+}
+{
+I've cranked out much new Guice code today: rewritten parent injectors and a new privatemodules extension. I'll blog the details shortly...
+#POS L V T R A B N N W V N N F D A B N W L V D N R W #POS
+}
+{
+REF tweet your interests. But deficit-loving, rapekit-purchasing Republican fans should probably limit themselves to technical tweets.
+#POS I V D N W F N W V A N V R V O P A N W #POS
+}
+{
+My only gripe w Amazon MPNUM  is they don't let you redownload if your computer/Android gets killed.
+#POS D A N P B B V O V V O V P D N V V W #POS
+}
+{
+panic! at! the! disco! today, I'm in the minority who thinks 'Pretty Odd' is pretty good...
+#POS N W P W D W N W N W L P D N O V W R A W V R A W #POS
+}
+{
+REF yup, Guice benefits from compiler support. If you misspell a class, your app won't build. Regardless, DSL config is declarative.
+#POS I C W B N P N N W P O V D N W D N V V W R W B N V A W #POS
+}
+{
+REF do Guice Modules qualify as declarative wiring?
+#POS I V B N V P A N W #POS
+}
+{
+One time in Saskachewan, I ate a whole bag of prunes then pooped my name in the snow.
+#POS K N P B W O V D A N P N R V D N P D N W #POS
+}
+{
+california prop NUM:  homophobia is the new racism
+#POS B N K W N V D A N #POS
+}
+{
+... Warhols, three years after moving to Portland. (and two years since moving from Portland!)
+#POS W N W K N P V P B W W F K N P V P B W W #POS
+}
+{
+Finally going to see The Dandy
+#POS R V P V D B #POS
+}
+{
+GWT doesn't support java.util.regex.Pattern or java.util.Random. FAIL.
+#POS B V V N W G W N W N F N W G W A W V W #POS
+}
+{
+bought the book about Canadian English. Gonna start spellin' my tweets the proper way.
+#POS V D N P B B W V V V W D N D A N W #POS
+}
+{
+REF Have you considered plain old Java RMI?
+#POS I V O V A A B B W #POS
+}
+{
+REF and I are signed up for a place to stay at Tahoe all winter. hot tub + snowboard = happy place
+#POS I F O V V T P D N P V P B D N W A N F B W A N #POS
+}
+{
+REF oh wow, four double doubles is impressive. I'm intimidated.
+#POS I C C W K A N V A W L V W #POS
+}
+{
+Even though I woke up at TIMam, we were too late for good waves at this morning's surf session. Wake up earlier next Saturday?
+#POS R P O V T P K N W O V R A P A N P D S N N W V T R A B W #POS
+}
+{
+REF For-pay bug fixes is a fair business model, but it doesn't encourage quality. Commercial, bug-free software is better.
+#POS I P N N V D A N N W F O V V N W N W N N V A W #POS
+}
+{
+REF yeah, our Irish terrier Butters is named after Butters from South Park URL
+#POS I C W D A N N V V P N P B B U #POS
+}
+{
+I love Amazon MPNUM downloads. Today they've got Superunknown/Soundgarden for two bucks! URL
+#POS O V B B N W N L V B P K N W U #POS
+}
+{
+Took Butters to the dog park. She loves to dig in shiny water bowls.
+#POS V B P D N N W O V P V P A N N W #POS
+}
+{
+REF snake-guice is a clever name, but i'm anxious about people thinking its a Google thing...
+#POS I N V D A N W F L A P N V L D B N W #POS
+}
+{
+Pepsi Twist is back as "NFL Kickoff Lemon Pepsi" - Hooray! Still hoping for "CFL Kickoff Maple Pepsi" in Canada.
+#POS B N V R P W B B B B W W C W R V P W B B B B W P B W #POS
+}
+{
+Java lesson of the day: Using java.lang.reflect.Field.set() on final fields is completely unsafe and should be avoided.
+#POS B N P D N W V N W C W V W B W V W P A N V R A F V V V W #POS
+}
+{
+REF what I really want is hierarchical modules. With the right model, it'll allow for encapsulation of module dependencies.
+#POS I O O R V V A N W P D A N W L V P N P N N W #POS
+}
+{
+REF it's guicey, but not Guice - could you elaborate?
+#POS I L N W F R B W V O V W #POS
+}
+{
+REF would you be referring to the Banjo Bowl? I love that the Riders still won despite the terrible no-touchdown ref screwup
+#POS I V O V V P D B N W O V P D N R V P D A D N N #POS
+}
+{
+REF REF has the whole Freaks and Geeks series on DVD if yer interested...
+#POS I I V D A N F N N P B P L A W #POS
+}
+{
+REF sweeet! What's your angle?
+#POS I A W L D N W #POS
+}
+{
+REF a soberizing pill is a clever idea, but it's not worth doing since it prevents ugly people from getting laid
+#POS I D N N V D A N W F L R V V P O V A N P V V #POS
+}
+{
+REF your policy now covers more cars and it costs less? You should continue to add cars 'til it's free!
+#POS I D N R V A N F O V A W O V V P V N W P L A W #POS
+}
+{
+I'll have to include more HD porn on my Java blog to increase utilization. Why let all those bytes go to waste!
+#POS L V P V A N N P D B N P V N W R V D D N V P V W #POS
+}
+{
+dreamhost tells me I'm using NUM% of my NUMGb of storage and NUM% of my NUM terabytes of bandwidth
+#POS B V O L V K P D N P N F K P D K N P N #POS
+}
+{
+REF Taco Bell is Jodie's weakness. If I mention their soft tacos during the day, I give up a chance at a homemade meal.
+#POS I B B V Z N W P O V D A N P D N W O V T D N P D A N W #POS
+}
+{
+REF IntelliJ works best for me when generated source code is included as a third party library.
+#POS I B V A P O R V N N V V P D A N N W #POS
+}
+{
+Google Collections' latest release tightens the API even further: URL
+#POS B N W A N V D N R A W U #POS
+}
+{
+REF IntelliJ can do it in one project. Trust me.
+#POS I B V V O P K N W V O W #POS
+}
+{
+I'm teaching Butters to sit and stay when feeding her her kibbles. Today she literally bit the hand that feeds her. Naughty, but still cute.
+#POS L V N P V F V R V O D N W N O R V D N P V O W A W F R A W #POS
+}
+{
+Today Guice flexes its PECS and allows wildcards in bindings. ProviderMethods are necessary since TypeLiteral&lt;?&gt; isn't allowed.
+#POS N B V D N F V N P N W G V A P B B V A W #POS
+}
+{
+REF dude, that is so awesome. You'll be able to evangelize warp-* from the inside!
+#POS I N W O V R A W L V A P V N P D N W #POS
+}
+{
+Apple: DRM is bad for music, but great for iPhone apps.
+#POS B W N V A P N W F A P B N W #POS
+}
+{
+My parents' DSL has integrated WiFi via something called "NUMWire". I detest this device. I provide an hour of phone support every NUM months.
+#POS D N W B V A N P N V W B W W O V D N W O V D N P N V D K N W #POS
+}
+{
+John Stewart did a fantastic job making Ben Wattenberg look foolish on the Daily Show. I love the fake news.
+#POS B B V D A N V B B V A P D B B W O V D A N W #POS
+}
+{
+REF it's cause we all wanna show off that our TV is a Sony, our car is a Lexus and our jeans are Apple Bottoms
+#POS I L P O D V V T P D N V D B W D N V D B F D N V B N #POS
+}
+{
+REF I'll submit yours, you submit mine?
+#POS I L V O W O V O W #POS
+}
+{
+Jerome Mourits and I have a simple, reasonable idea for hierarchical injectors in Guice vNUM. Write a proposal? Or just write the code?
+#POS B B F O V D A W A N P A N P B N W V D N W F R V D N W #POS
+}
+{
+REF 'finish this comic' -- either madlibs or an empty frame for a stuffthathappens.com comic
+#POS I W V D N W W F B F D A N P D U A #POS
+}
+{
+REF pen & paper! they're the best details for mockups and story telling
+#POS I N F N W L D A N P N F N V #POS
+}
+{
+REF fixed. The funny part is I double-checked the spelling of 'Burke'.
+#POS I V W D A N V O V D N P W B W W #POS
+}
+{
+REF at $NUM, you can't go wrong with Audiobook Builder. URL
+#POS I P K W O V V A P B B W U #POS
+}
+{
+Whoops, I made a bad TinyURL. Try URL to see my puppy's brother Doyle.
+#POS C W O V D A N W V U P V D S N B W #POS
+}
+{
+Last week we got a new puppy, Butters. By Internet miracle, Jodie found Butters' brother on Flickr! URL
+#POS A N O V D A N W B W P N N W B V B W N P B W U #POS
+}
+{
+REF GWT + Guice? You've got my attention. Please blog all about it approach once you've got some code to share!
+#POS I B F B W L V D N W V V D P O V R L V D N P V W #POS
+}
+{
+REF the Quaqua look & feel includes native Swing dialog boxes for Mac OS X: URL
+#POS I D B V F V V A N N N P B B E E U #POS
+}
+{
+None of my NUM regular *$ locations are closing. What a relief! URL  ("*$" is NUMPNUMK for "Starbucks")
+#POS N P D K A K N V V W O D N W U B G W V K P W B W W #POS
+}
+{
+REF I found it - iPhone allows VOIP over WiFi, but not NUMG. I pay the bandwidth, but I can't use it how I want. URL
+#POS I O V O W B V N P N W F R K W O V D N W F O V V O R O V W U #POS
+}
+{
+REF really? Apple explicitly allows VOIP on the iPhone? Show me where they say this! This page says no: URL
+#POS I R W B R V N P D B W V O R O V O W D N V D W U #POS
+}
+{
+Lenovo U-Series laptops are more attractive than iBooks. Plus NUM trackpad buttons & dedicated volume buttons. URL
+#POS B B B V R A P B W A K N N F V N N W U #POS
+}
+{
+New hobby: trying to housebreak Butters, our new Irish terrier: URL
+#POS A N W V P B B W D A A N W U #POS
+}
+{
+REF you missed it? It was the Rockstar Mayhem festival, at Shoreline in Mountain View
+#POS I O V O W O V D B B N W P B P B B #POS
+}
+{
+Just returned from a heavy metal rock show. Best surprises: Slipknot's drumkit hydraulics and a wind fan that emphasized Dragonforce's hair.
+#POS R V P D A N N N W A N W Z N N F D N N P V Z N W #POS
+}
+{
+REF A good Twitter client will remember what I've read, even across sessions. I'm not opposed to a web based Twitter client.
+#POS I D A B N V V O L V W R P N W L R V P D N V B N W #POS
+}
+{
+Just met with REF to discuss Guice NUM.NUM. I love working with people who are detail-oriented.
+#POS R V P I P V B K W O V V P N O V N W #POS
+}
+{
+Just got a nasty gram from Crown Royal. I'm totally drinking to celebrate. URL
+#POS R V D A N P B B W L R V P V W U #POS
+}
+{
+REF multibinding Lists is problematic since there's no guarantees on the order that modules are run. URL
+#POS I V N V A P L D N P D N D N V V W U #POS
+}
+{
+REF I'm definitely excited about multibindings for my own use cases. They let you use bindings to register services like servlets.
+#POS I L R V P N P D A N N W O V O V N P V N P N W #POS
+}
+{
+REF Sweet! Glad you like. Some guy said publicobject.com was ugly and so I just couldn't sleep until something was done
+#POS I A W V O V W D N V U V A F R O R V V P N V V #POS
+}
+{
+REF I nominate Glazed Lists as a widely used collections library
+#POS I O V A N P D R A N N #POS
+}
+{
+Canada Day binges: Shreddies, ketchup chips, and Molson. (but no poutine)
+#POS B N N W N W N N W F B W W F D N W #POS
+}
+{
+My new favourite pattern is to implement a user-specified interface with a dynamic proxy. I'm using it for message queues and factories.
+#POS D A A N V P V D A N P D A N W L V O P N N F N W #POS
+}
+{
+"How It's Made" is my new favourite show. I love how they refer to people as 'workers', which are just fleshy robots that need potty breaks.
+#POS W R L V W V D A A N W O V R O V P N P W N W W D V R A N P V A N W #POS
+}
+{
+REF shitty! Perhaps you can try parking next to a nicer car, which birds will prefer?
+#POS I A W R O V V N P P D A N W D N V V W #POS
+}
+{
+I'm quite enjoying Graphviz. With help from OmniGraffle and some code, I now have an easy way to embed graphs in my blogs and other docs.
+#POS L R V B W P N P B F D N W O R V D A N P V N P D N F A N W #POS
+}
+{
+Today I bought stuff online. The emailed receipt included my Visa number in the clear. It's NUM. Why isn't my email secure?
+#POS N O V N A W D N N V D N N P D A W L K W R V D N A W #POS
+}
+{
+Floor tickets to the Dandy Warhols, just three short years since moving to Portland
+#POS N N P D B B W R K A N P V P B #POS
+}
+{
+REF I'm really happy with how my Logitech Harmony remote tames my complex AV system
+#POS I L R A P R D B B A V D A B N #POS
+}
+{
+Software development without IDEs is like forestry without chainsaws.
+#POS N N P B V P N P N W #POS
+}
+{
+REF I use LineForm. It's pretty good. For a very thorough comparison, see URL
+#POS I O V B W L R A W P D R A N W V U #POS
+}
+{
+My Mac is making very unhealthy sounds - I think the fan is dying
+#POS D B V V R A N W O V D N V V #POS
+}
+{
+It's really hard to watch myself fidget on YouTube! REF and me on Guice - URL
+#POS L R A P V O V P B W I F O P B W U #POS
+}
+{
+REF wrapping a Double doesn't bother me at all. It's purpose is now in code rather than Javadoc. And now you can add behaviour!
+#POS I V D N V V O P D W L N V R P N R P B W F R O V V N W #POS
+}
+{
+REF ScreenFlow is extremely slick
+#POS I B V R A #POS
+}
+{
+At Calgary Airport after a busy wedding weekend. My sister's new hubby is a great guy (a lawyer!) and also not a bad dancer. Who knew?
+#POS P B N P D A N N W D S A N V D A N W D N W W F R R D A N W O V W #POS
+}
+{
+REF dude go on a gameshow. Regis Philbin and Alex Trebek have nothing on MXC
+#POS I N V P D N W B B F B B V N P B #POS
+}
+{
+REF I'm so consumed by Guice that I don't know if/when I'll have time for another open source project. (but it could be benchmarking)
+#POS I L R V P B P O V V P L V N P D A N N W W F O V V N W #POS
+}
+{
+I told Mike to use Twitter 'cause it's blogging for lazy people: "Oh it's for lazy people like me? Sweet! I'll look into it later!"
+#POS O V B P V B W P L V P A N W W C L P A N P O W A W L V P O R W W #POS
+}
+{
+Today's phrase "Shottenfreude", when your opponent must injure himself at Schotten Totten. URL
+#POS S N W B W W R D N V V O P B B W U #POS
+}
+{
+Spent NUMpm till midnight last night putting together my new BBQ. This morning, I treated my wife to breakfast in bed! (hamburgers)
+#POS V K P N A N V R D A B W D N W O V D N P N P N W W N W #POS
+}
+{
+REF highly recommend audible.com for carrides
+#POS I R V U P B #POS
+}
+{
+Looks like OSGi support in Guice NUM is going to be seamless thanks to peaberry, URL
+#POS V P B N P B K V V P V A N P B W U #POS
+}
+{
+Old busted: Collections.unmodifiableMap. New hotness: ImmutableMap.
+#POS A A W N W G W A N W B W #POS
+}
+{
+MWM seeks SWM for email relationship and pedantic code reviews: URL ... or just a Guice lover who knows Java EE
+#POS B V B P N N F A N N W U W F R D B N O V B B #POS
+}
+{
+REF audible is much cheaper than hardcover if you can stomach buying the book credits a dozen at a time (I get mine NUM at a time)
+#POS I A V R A P N P O V N V D N N D N P D N W O V O K P D N W #POS
+}
+{
+REF sexy globals? Could you elaborate?
+#POS I A N W V O V W #POS
+}
+{
+Intending to make the Guice core types Serializable. Got use for this? URL
+#POS V P V D B N N B W V V P O W U #POS
+}
+{
+REF yup. it's from a forthcoming project that I'm intending to open source...
+#POS I C W L P D A N P L V P V N W #POS
+}
+{
+Out surfing today, I totally smoked my head on the bottom. Very happy that the only damage is a rash on my forehead.
+#POS P V N W O R V D N P D N W R A P D A N V D N P D N W #POS
+}
+{
+no ham & pineapple pizza at honolulu airport. wtf?
+#POS D N F N N P B N W C W #POS
+}
+{
+REF i use lineform. its like coreldraw from NUM, plus dropshadows.
+#POS I O V B W L P N P K W A N W #POS
+}
+{
+REF I remember my JBoss/JAAS pain from vNUM. Does this help?  URL
+#POS I O V D B N P B W V O V W U #POS
+}
+{
+baz is the RC Cola of variable names
+#POS B V D B N P A N #POS
+}
+{
+REF if you're looking for a change of scenery, I'd love for you to apply here
+#POS I P L V P D N P N W L V P O P V R #POS
+}
+{
+just had my car window smashed at St. Mary's Square Garage, downtown SF. Only loot stolen is my Rx sunglasses.
+#POS R V D N N V P B B B N W A N W A N V V D N N W #POS
+}
+{
+REF put your cursor on the symbol, then ^J to view Javadoc on a Mac, or ^Q on a PC
+#POS I V D N P D N W R B P V B P D B W F N P D N #POS
+}
+{
+REF my most recent fav is alexisonfire, which took quite a while to get into
+#POS I D A A N V B W D V R D N P V P #POS
+}
+{
+New "Quest" Doritos doesn't say the flavour on the bag. I'm thinking it's gotta be Margarita flavour.
+#POS A W N W B V V D N P D N W L V L V V B N W #POS
+}
+{
+actually it was REF who beat me at Ticket to Ride. REF is older and has neater hair.
+#POS R O V I O V O P N P V W I V A F V A N W #POS
+}
+{
+Ticket to Ride is absolutely the best boardgame. REF beat me at it again.
+#POS N P V V R D A N W I V O P O R W #POS
+}
+{
+REF Glazed Lists powers data-driven rich client apps: URL
+#POS I A N N N A N N W U #POS
+}
+{
+at glazed lists talk. rm NUM TAG
+#POS P A N V W G K N #POS
+}
+{
+at hudson talk.  this app is AWESOME. TAG
+#POS P B V W D N V A W H #POS
+}
+{
+upcoming java lang changes talk cancelled. would've preferred upcoming java lang changes to be cancelled.
+#POS A N N V V V W V V A N N V P V V W #POS
+}
+{
+REF drives a honda to compensate for his abnormally large penis...
+#POS I V D B P V P D R A N W #POS
+}
+{
+going to thirsty bear after javaposse bof TAG
+#POS V P A N P B B B #POS
+}
+{
+thinkin of stayin in san francisco tonight... Provider&lt;Beer&gt; injected into me
+#POS V P V P B B R W N J N G V P O #POS
+}
+{
+en route to REF REF drives faster when discussing closures
+#POS D N P I W I V R R V N #POS
+}
+{
+My mom is now addicted to Mac screensharing as the cure to all her technical problems
+#POS D N V R V P B N P D N P D D N N #POS
+}
+{
+Starbucks coffee
+#POS B N #POS
+}
+{
+REF I'm addicted to *$
+#POS I L A P B #POS
+}
+{
+Meet me at TAG: At the Google booth Tuesday day, the Guice BOF Thursday night, and at the Glazed Lists talk Friday afternoon.
+#POS V O P B W P D B N B N W D B B B N W F P D A N V B N W #POS
+}
+{
+REF tech support to my mom over iChat screen sharing. So easy.
+#POS I N N P D N P B N V W R A W #POS
+}
+{
+Has blogged six times in the last NUM hours! How much is too much?
+#POS V V K N P D A K N W R A V R A W #POS
+}
+{
+Americans with health insurance can see a doctor without waiting in line. Canadians need to wait in line - behind poor people!
+#POS B P N N V V D N P V P N W B V P V P N W P A N W #POS
+}
+{
+Beating REF NUM games to NUM at Schotten-Totten in our new NUM team Schotten Totten league
+#POS V I K N P K P B P D A K N B B B #POS
+}
+{
+EasyMock was the perfect solution to today's problem. finally blocks with try blocks inside need careful testing.
+#POS B V D A N P S N W R V P V N P V A N W #POS
+}
+{
+Left my wallet at the movie theatre last night, but recovered it this morning. Whew.
+#POS V D N P D N N A N W F V O D N W C W #POS
+}
+{
+Glazed Lists has the exact same time and the exact same room as last year. I smell Cut & Paste.
+#POS A N V D A A N F D A A N P A N W O V N F V W #POS
+}
+{
+Planning on being on site at JavaOne on Tuesday and Thursday night and Friday only
+#POS V P V P N P B P B F B N F B R #POS
+}
+{
+Planning on being on site at JavaOne on Tuesday and Friday only
+#POS V P V P N P B P B F B R #POS
+}
+{
+Bush just told America the next president will be John McCain. I'm so glad we're spreading democracy!
+#POS B R V B D A N V V B B W L R A L V N W #POS
+}
+{
+REF I get Dobb's. I'll bring you the copy when it comes...
+#POS I O V Z W L V O D N R O V W #POS
+}
+{
+"Expelled" fails to prove its argument. It exercises many logical fallacies and compares between Darwinists to Nazis. ID still sucks.
+#POS W V W V P V D N W O V A A N F V P B P B W L R V W #POS
+}
+{
+My wife's in the studio audience of Ellen today - should be airing sometime later this week.
+#POS D N P D N N P B N W V V V R R D N W #POS
+}
+{
+Surprisingly, the phrase "Separated at birth" is unrelated to being cojoined.
+#POS R W D N W V P N W V A P V N W #POS
+}
+{
+Is totally dropping off a case of Bud Light's at Mike's on Wednesday
+#POS V R V T D N P B N P Z P B #POS
+}
+{
+Brazillian Fart Porn video uses my Ninja Turtles font
+#POS A N N N V D B B N #POS
+}
+{
+Scheizer Permanente!
+#POS B B W #POS
+}

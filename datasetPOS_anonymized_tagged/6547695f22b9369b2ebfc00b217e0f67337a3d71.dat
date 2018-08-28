@@ -1,0 +1,5436 @@
+{
+Mom: You have a choice.
+Me: Ok, no.
+Mom: Nevermind, you're doing it.
+#POS N W O V D N W
+O W C W C W
+N W C W L V O W #POS
+}
+{
+I wanna unmeet you. I wanna start my life over and erase you completely from my life.
+#POS O V A O W O V V D N P F V O R P D N W #POS
+}
+{
+Don't you just love when people assume everything about you?
+#POS V O R V R N V N P O W #POS
+}
+{
+Spend your life with the people who make you happy, not the people who you have to impress.
+#POS V D N P D N O V O A W R D N O O V P V W #POS
+}
+{
+There's a "Send",  There's a "Resend",  But why can't there be an "Unsend"!?!?
+#POS L D W V W W L D W V W W F R V R V D W N W W #POS
+}
+{
+The worst feeling is regretting not having done something when you had the chance.
+#POS D A N V V R V V N R O V D N W #POS
+}
+{
+People who ignore you now, will somehow need you later.
+#POS N O V O R W V R V O R W #POS
+}
+{
+" Antidepressants may increase thoughts of suicide." THEN WHAT THE FUCK AM I USING IT FOR.
+#POS W B V V N P N W W R O D N V O V O P W #POS
+}
+{
+How can you face your problem if your problem is your face.
+#POS R V O V D N P D N V D N W #POS
+}
+{
+All in all, you're just another brick in the wall.
+#POS D P D W L R D N P D N W #POS
+}
+{
+The reason I don't speak up for you to do something is because I don't want to have to tell you to do it, I want you to want to do it.
+#POS D N O V V T P O P V N V P O V V P V P V O P V O W O V O P V P V O W #POS
+}
+{
+Just because I'm not talking, doesn't mean I'm in a bad mood. Sometimes I just like to be quiet.
+#POS R P L R V W V V L P D A N W R O R V P V A W #POS
+}
+{
+This love was out of control. NUM, NUM, NUM where did it go?
+#POS D N V P P N W K W K W K R V O V W #POS
+}
+{
+I have nothing left to say to you, let's just leave it at that.
+#POS O V N V P V P O W L R V O P O W #POS
+}
+{
+I'm never shocked when people let me down nowadays. I just hate the fact that I put myself in a position to be let down in the first place.
+#POS L R V R N V O R R W O R V D N P O V O P D N P V V T P D A N W #POS
+}
+{
+I fell for you, what a stupid mistake that turned out to be.
+#POS O V P O W O D A N P V T P V W #POS
+}
+{
+Theres only NUM thing NUM do NUM words NUM you. I love you.
+#POS L A K N P V K N P O W O V O W #POS
+}
+{
+What happened between us?
+#POS O V P O W #POS
+}
+{
+Long live the reckless and the brave.
+#POS A V D A F D A W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Never give up on someone who won't go a second without thinking or you.
+#POS R V T P N O V V D A P V F O W #POS
+}
+{
+I'm not a second option.
+#POS L R D A N W #POS
+}
+{
+Life is too short to worry about what others say or think about you. Have fun and give them something to talk about.
+#POS N V R A P V P O N V F V P O W V N F V O N P V P W #POS
+}
+{
+When all of your friends get invited to something you didn't. URL
+#POS R D P D N V V P V O V W U #POS
+}
+{
+I'm so scared that I'll stay here being in love with you, waiting for you and in the end, you'll just leave.
+#POS L R A P L V R V P N P O W V P O F P D N W L R V W #POS
+}
+{
+Sometimes I'm amazed at how much stupidity can be conveyed in NUM characters.
+#POS R L V P R A N V V V P K N W #POS
+}
+{
+REF You almost had a heart..
+#POS I O R V D N W #POS
+}
+{
+Sometimes two people fall apart to realize how much they need to fall back together.
+#POS R K N V R P V R A O V P V R R W #POS
+}
+{
+Simple pleasures. URL
+#POS A N W U #POS
+}
+{
+You're beautiful. URL
+#POS L A W U #POS
+}
+{
+All in all. URL
+#POS D P D W U #POS
+}
+{
+Don't get too close. URL
+#POS V V R A W U #POS
+}
+{
+You can't. URL
+#POS O V W U #POS
+}
+{
+If you ever said you miss me. URL
+#POS P O R V O V O W U #POS
+}
+{
+Music is our only salvation. URL
+#POS N V D A N W U #POS
+}
+{
+Me in math class. URL
+#POS O P N N W U #POS
+}
+{
+Only then. URL
+#POS R R W U #POS
+}
+{
+Flappy Bird ruined my life..
+#POS A N V D N W #POS
+}
+{
+I'm a person, not a game. Don't play with me.
+#POS L D N W R D N W V V P O W #POS
+}
+{
+Even the wisest man has yet to learn.
+#POS R D A N V R P V W #POS
+}
+{
+Too True. URL
+#POS R A W U #POS
+}
+{
+People who laugh so hard at their own jokes that they can't finish the joke because they're laughing so hard are my favorite kind of people.
+#POS N O V R A P D A N P O V V D N P L V R A V D A N P N W #POS
+}
+{
+When my mom continues to talk after I said "Okay" URL
+#POS R D N V P V P O V W C W U #POS
+}
+{
+When the world says "Give up". Hope whispers "Try one more time".
+#POS R D N V W V T W W V N W V K A N W W #POS
+}
+{
+Smart man. URL
+#POS A N W U #POS
+}
+{
+Monsters don't sleep under your bed. URL
+#POS N V V P D N W U #POS
+}
+{
+&lt;NUM URL
+#POS E U #POS
+}
+{
+If you want something. You go get it. Period. ~Chris Gardener URL
+#POS P O V N W O V V O W N W G B B U #POS
+}
+{
+I grew too comfortable with you. I thought you'd always be there, I was wrong.
+#POS O V R A P O W O V L R V R W O V A W #POS
+}
+{
+Me in every group project ever. URL
+#POS O P D N N R W U #POS
+}
+{
+Oh my god. Ahahahah. URL
+#POS C D N W C W U #POS
+}
+{
+IT HAS BEGUN. URL
+#POS O V V W U #POS
+}
+{
+Me everyday. URL
+#POS O N W U #POS
+}
+{
+URL Too cute. &lt;NUM
+#POS U R A W E #POS
+}
+{
+Going to London this summer!  ^.^
+#POS V P B D N W E #POS
+}
+{
+She's broken. URL
+#POS L A W U #POS
+}
+{
+Valentines Day is coming.. URL
+#POS B N V V W U #POS
+}
+{
+Remember: Someone is happier than you with less than you have.
+#POS V W N V A P O P A P O V W #POS
+}
+{
+Worry is a total waste of time. It changes nothing. All it does is steal your joy and happiness and keep you busy doing nothing.
+#POS V V D A N P N W O V N W X O V V V D N F N F V O A V N W #POS
+}
+{
+Ahahahh. Can I have him as my neighbor?  URL via REF
+#POS C W V O V O P D N W U P I #POS
+}
+{
+I never run voluntarily so if u ever see me running, you should start running too because something is coming..
+#POS O R V R R P O R V O V W O V V V R P N V V W #POS
+}
+{
+"You're NUM, you're not depressed, you're attention seeking."
+Since when did someone's age determine their emotions?
+#POS W L K W L R A W L N V W W
+P R V L N V D N W #POS
+}
+{
+You know her, not her story.
+#POS O V O W R D N W #POS
+}
+{
+I'm just being me.
+#POS L R V O W #POS
+}
+{
+Devil's Due sucked by the way..
+#POS Z A V P D N W #POS
+}
+{
+Watching Devil's Due tomorrow. ^.^
+#POS V Z A N W E #POS
+}
+{
+Papa Murphy's &gt;&gt;&gt;&gt;
+#POS B Z G #POS
+}
+{
+If you're not Ken, don't expect me to be Barbie.
+#POS P L R B W V V O P V N W #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+TAG Yes. URL
+#POS H C W U #POS
+}
+{
+TAG THROWBACKKK URL
+#POS H B U #POS
+}
+{
+Life advice from REF  URL via REF
+#POS N N P I U P I #POS
+}
+{
+When I wake up, I'm afraid somebody else may take my place.
+#POS R O V T W L A N R V V D N W #POS
+}
+{
+How would you describe your country in three words? — What went wrong. URL
+#POS R V O V D N P K N W J O V A W U #POS
+}
+{
+NUMst liker = NUM likes + follow ? — Uhh kay. URL
+#POS A N W K V F V W J C B W U #POS
+}
+{
+What do you like to talk about the most? — Food. URL
+#POS O V O V P V P D R W J N W U #POS
+}
+{
+What is your favorite sport to watch? — UFC &lt;NUM URL
+#POS O V D A N P V W J B E U #POS
+}
+{
+Attention seekers like RT if you're human.
+#POS N N P V P L A W #POS
+}
+{
+Ever try to compliment someone, don't know how to say it so you just say it and end up sounding weird so you try to fix it and make it worse
+#POS R V P V N W V V R P V O P O R V O F V T V A P O V P V O F V O A #POS
+}
+{
+See my heart, not my past.
+#POS V D N W R D A W #POS
+}
+{
+If she cries it doesn't mean she's weak, it means she's been strong for too long.
+#POS P O V O V V L A W O V L V A P R A W #POS
+}
+{
+Be who you are, not who they want you to be.
+#POS V O O V W R O O V O P V W #POS
+}
+{
+It's hard to pretend to love someone you don't. It's even harder to pretend not to love someone when you do.
+#POS L A P V P V N O V W L R A P V R P V N R O V W #POS
+}
+{
+The past cannot be changed, removed, or forgotten. It can only be accepted.
+#POS D A V V V W V W F V W O V R V V W #POS
+}
+{
+Sometimes, all you can do is laugh to keep yourself  from crying.
+#POS R W X O V V V V P V O P V W #POS
+}
+{
+School starts again tomorrow. URL
+#POS N V R N W U #POS
+}
+{
+If you like me, it's okay to tell me. If you don't, stop acting like you do.
+#POS P O V O W L A P V O W P O V W V V P O V W #POS
+}
+{
+I hate when I'm trying to be serious and then I accidentally laugh.
+#POS O V R L V P V A F R O R V W #POS
+}
+{
+Setting the alarm:
+Most people - "TIM AM"  
+Me - "TIM AM, TIM AM, TIM AM, TIM AM, TIM AM."
+#POS V D N W
+A N W W K N W
+O W W K N W K N W K N W K N W K N W W #POS
+}
+{
+Distance doesn't ruin relationships, doubts do.
+#POS N V V N W N V W #POS
+}
+{
+I'm sorry. I get jealous sometimes, thinking that someone else could make you happier than I ever could.
+#POS L A W O V A R W V P N R V V O A P O R V W #POS
+}
+{
+REF YES WE ARE. :D  And** oops. ;)
+#POS I C O V W E F W C W E #POS
+}
+{
+REF REF That makes so much more sense, Kaitie.
+#POS I I O V R R A N W B W #POS
+}
+{
+REF YES. YOU BETTER VISIT ME OR I WILL FIND YOU AND AGGRESSIVELY STAB YOU IN THE THROAT.
+#POS I C W O R V O F O V V O F R V O P D N W #POS
+}
+{
+REF Oooh kill em.
+#POS I C V O W #POS
+}
+{
+REF CAN YOU TYPE IN FULL SENTENCES PLEASE. Thank You.
+#POS I V O V P A N V W V O W #POS
+}
+{
+REF I miss you. ;) URL
+#POS I O V O W E U #POS
+}
+{
+For everyone who didn't get a New Years kiss. URL
+#POS P N O V V D A N N W U #POS
+}
+{
+That moment of joy when you see your food coming at a restaurant. Then you realize it's not for you.. URL
+#POS D N P N R O V D N V P D N W R O V L R P O W U #POS
+}
+{
+I was in mid-blink. :P URL
+#POS O V P A W E U #POS
+}
+{
+Love means giving someone the chance to hurt you but trusting them not to.
+#POS V V V N D N P V O F V O R P W #POS
+}
+{
+"You’re a girl so act like one."  
+Oh, I'm sorry.  I didn't realize having a vagina came with a terms and conditions manual.
+#POS W L D N P V P K W W
+C W L A W O V V V D N V P D N F N N W #POS
+}
+{
+Is "no" an emotion because I feel it.
+#POS V W C W D N P O V O W #POS
+}
+{
+That is a demon. URL
+#POS O V D N W U #POS
+}
+{
+Ahhahaaaa. URL
+#POS C W U #POS
+}
+{
+I remember NUM like it was just yesterday! ....Sorry.
+#POS O V K P O V R N W W A W #POS
+}
+{
+Remember the past. Live in the present. Think for the future.
+#POS V D N W V P D N W V P D N W #POS
+}
+{
+I hate when I'm trying to explain something funny but I explain it so badly that it's not even funny anymore.
+#POS O V R L V P V N A F O V O R R P L R R A R W #POS
+}
+{
+I heard you like bad girls. Not to brag but I'm bad....at life.
+#POS O V O V A N W R P V F L A W P N W #POS
+}
+{
+You need to go on a diet. URL
+#POS O V P V P D N W U #POS
+}
+{
+When you introduce two friends of your together and they become best friends and hang out without you, URL
+#POS R O V K N P D R F O V A N F V T P O W U #POS
+}
+{
+Ahahaa the REF got pranked. DEA Drug Bust Prank. URL
+#POS C D I V V W G N N N W U #POS
+}
+{
+I don't understand how they can advertise alcohol on TV, sell cigarettes everywhere and then send people to jail for smoking weed.
+#POS O V V R O V V N P N W V N R F R V N P N P V N W #POS
+}
+{
+I just like to be left alone sometimes. No I’m not angry, no I’m not sad. I just like to be alone.
+#POS O R V P V V R R W C L R A W C L R A W O R V P V R W #POS
+}
+{
+I can't want it.
+#POS O V V O W #POS
+}
+{
+Do I look like Jessica? URL
+#POS V O V P B W U #POS
+}
+{
+Neon lights, nobel prize. When a leader speaks, that leader dies. You don't have to follow me, only you can set me free ~
+#POS B N W N N W R D N V W D N V W O V V P V O W R O V V O A G #POS
+}
+{
+Monsters Inc. &gt;&gt;&gt;&gt;
+#POS B B W E #POS
+}
+{
+NUM% of people in this world are stupid. Luckily I'm part of the other NUM%..
+#POS K P N P D N V A W R L N P D A K W #POS
+}
+{
+It's great to have something to live for, but I want something to die for too.
+#POS L A P V N P V P W F O V N P V P R W #POS
+}
+{
+My Life. My Choice. My Mistakes. My Lessons. Not. Your. Business.
+#POS D N W D N W D N W D N W R W L W N W #POS
+}
+{
+I'm got a PSNUM!! Can't believe it!!!!!!!!
+#POS L V D B W V V O W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Me at school. URL
+#POS O P N W U #POS
+}
+{
+Pros of dating me: I'm cute
+Cons: Sike.
+#POS N P V O W L A
+N W B W #POS
+}
+{
+I've passed the test, I've earned an A. Not just in school, but in life.
+#POS L V D N W L V D N W R R P N W F P N W #POS
+}
+{
+Those who are heartless, once cared too much.
+#POS O O V A W R V R A W #POS
+}
+{
+Am I hipster enough yet? URL
+#POS V O N R R W U #POS
+}
+{
+Florida's weather is so bipolar.
+#POS Z N V R A W #POS
+}
+{
+Do I regret it? Yes. Will I do it again? Probably.
+#POS V O V O W C W V O V O R W R W #POS
+}
+{
+When I see a security camera. URL
+#POS R O V D N N W U #POS
+}
+{
+When you see your food coming at a resturaunt. URL
+#POS R O V D N V P D N W U #POS
+}
+{
+REF do you think ms alt will mind if I didnt color mine in cause theres a lot of details i drew with pencil URL
+#POS I V O V B B V V P O V V O P N L D N P N O V P N U #POS
+}
+{
+Imagine reading a book about every conversation where people have spoken about you..
+#POS V V D N P D N R N V V P O W #POS
+}
+{
+As soon as I put my headphones on, my life becomes a music video.
+#POS P R P O V D N P W D N V D N N W #POS
+}
+{
+Me in class like URL
+#POS O P N P U #POS
+}
+{
+The worst thing about Fridays are when you figure out it's actually Thursday.
+#POS D A N P B V R O V T L R B W #POS
+}
+{
+When I'm bored, I eat.
+When I'm happy, I eat.
+When I'm sad, I eat.
+When I'm tired, I eat.
+
+I just like to eat.
+#POS R L A W O V W
+R L A W O V W
+R L A W O V W
+R L A W O V W
+
+O R V P V W #POS
+}
+{
+I really wanna be friends with some people but I just can't start conversations. It's not that I'm shy, I just suck at being a human.
+#POS O R V V N P D N F O R V V N W L R P L A W O R V P V D N W #POS
+}
+{
+Don't tell me about myself when you don't know my story..
+#POS V V O P O R O V V D N W #POS
+}
+{
+TAG I'm taking part in no shave month!
+#POS H L V N P D N N W #POS
+}
+{
+I am  ∞% done.
+#POS O V W V W #POS
+}
+{
+There is ALWAYS someone there for you.
+#POS X V R N R P O W #POS
+}
+{
+Me at school. URL
+#POS O P N W U #POS
+}
+{
+I hate people. But I hate saying I hate people because I like people and feel mean.I love people and all it's just that I hate people.
+#POS O V N W F O V V O V N P O V N F V A W O V N F D L R P O V N W #POS
+}
+{
+Every morning.. URL
+#POS D N W U #POS
+}
+{
+Accurate. URL
+#POS A W U #POS
+}
+{
+It hurts the most when the person that made you feel special yesterday, makes you feel so unwanted today.
+#POS O V D R R D N P V O V A N W V O V R A N W #POS
+}
+{
+Do you ever pretend you didn't see or hear something so the other person doesn't get embarrassed?
+#POS V O R V O V V F V N P D A N V V V W #POS
+}
+{
+I promised myself I wouldn't risk the chance of getting hurt again, but for some reason, when I'm with you, it all seems worth it.
+#POS O V O O V V D N P V V R W F P D N W R L P O W O D V V O W #POS
+}
+{
+I hate acting like I don't care when it's tearing me up inside.
+#POS O V V P O V V R L V O T R W #POS
+}
+{
+I don't miss you, I miss who I thought you were.
+#POS O V V O W O V O O V O V W #POS
+}
+{
+Boy: You have a boyfriend?
+Me: No.
+Boy: Why?
+I'm ugly, fat, selfish....
+Me: I don't know..
+#POS N W O V D N W
+O W C W
+N W R W
+L A W A W A W
+O W O V V W #POS
+}
+{
+Words mean nothing when your actions contradict.
+#POS N V N R D N V W #POS
+}
+{
+When someone unfollows me. URL
+#POS R N V O W U #POS
+}
+{
+It's hard to be confident when you know you're ugly.
+#POS L A P V A R O V L A W #POS
+}
+{
+When someone walks slow in the hallways. URL
+#POS R N V A P D N W U #POS
+}
+{
+Fun fact: shut up.
+#POS A N W V T W #POS
+}
+{
+REF So I bought a shirt that says "CAUTION I'M ALLERGIC TO FAKE PEOPLE" because of last year.... :p
+#POS I P O V D N P V W N L A P A N W P P A N W E #POS
+}
+{
+REF REF Thanks! I love you keep track of this stuff!! I miss you! &lt;NUM
+#POS I I N W O V O V N P D N W O V O W E #POS
+}
+{
+What you heard could be true....or it could be as fake as the person who told you.
+#POS O O V V V A W F O V V R A P D N O V O W #POS
+}
+{
+REF Imagine if we can get TAG trending....
+#POS I V P O V V H V W #POS
+}
+{
+REF But they kinda do look alike....
+#POS I F O R V V R W #POS
+}
+{
+Creative people have a short attention span, are easily distracted and tend to talk to themselves more often.
+#POS A N V D A N N W V R V F V P V P O R R W #POS
+}
+{
+I don't run. In fact, if you see me running, you better follow because it's likely something is chasing me.
+#POS O V V W P N W P O V O V W O R V P L A N V V O W #POS
+}
+{
+I'm holding on to something that used to be there, hoping it'll come back, knowing it won't
+#POS L V P P N P V P V R W V L V R W V O V #POS
+}
+{
+Me: I'll just get on twitter for a few minutes before I go to bed.
+Me:
+Me:
+Me:
+Me: Is that the sun?
+#POS O W L R V P B P D A N P O V P N W
+O W
+O W
+O W
+O W V P D N W #POS
+}
+{
+If your boyfriend texted you in the middle of Call of Duty he doesn't love you, he just died in the game.
+#POS P D N V O P D N P N P N O V V O W O R V P D N W #POS
+}
+{
+I found a special medication for your bitching. It's called Shut The Fuck Up.
+#POS O V D A N P D N W L V V D N T W #POS
+}
+{
+Sometimes. URL
+#POS R W U #POS
+}
+{
+Turns off lights.
+Dives for bed.
+Misses....
+#POS V T N W
+V P N W
+V W #POS
+}
+{
+Everyone has an annoying friend. If you don’t have one, it’s probably you.
+#POS N V D A N W P O V V K W L R O W #POS
+}
+{
+Take me as I am, or watch me as I go.
+#POS V O P O V W F V O P O V W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+If I let you control the music in my car, it means I would probably take a bullet for you
+#POS P O V O V D N P D N W O V O V R V D N P O #POS
+}
+{
+Grand Theft Auto URL
+#POS A N N U #POS
+}
+{
+Sad isn't it? URL
+#POS A V O W U #POS
+}
+{
+No matter how many gross things you tell me about McDonalds I’m still going to eat it and you can’t stop me.
+#POS D N R A A N O V O P B L R V P V O F O V V O W #POS
+}
+{
+No one said life is going to be easy.
+#POS D N V N V V P V A W #POS
+}
+{
+JUST DO YOU ✔
+#POS R V O W #POS
+}
+{
+Don't tell me the sky's the limit when there's footprints on the moon.
+#POS V V O D N D N R L N P D N W #POS
+}
+{
+You don't realize how strong a person really is until you see them at their weakest moment.
+#POS O V V R A D N R V P O V O P D A N W #POS
+}
+{
+When a girl cries, it's not usually over one thing. It's built up anger and emotions that she's been holding in for too long.
+#POS R D N V W L R R P K N W L V T N F N P L V V P P R A W #POS
+}
+{
+I like what I like. I love what I love. I do what I want. I am who I am. Get off my back and deal with it. It's my life, not yours.
+#POS O V O O V W O V O O V W O V O O V W O V O O V W V T D N F N P O W L D N W R O W #POS
+}
+{
+There are NUM people in the world that look similar to you. URL
+#POS X V K N P D N P V A P O W U #POS
+}
+{
+Can you imagine if twitter just shut down and you see all these confused teenagers coming out of their house squinting at the sun.
+#POS V O V P B R V T F O V D D A N V P P D N V P D N W #POS
+}
+{
+Just got my nose pierced....ow.
+#POS R V D N V W C W #POS
+}
+{
+Do you ever just rub your eyes so hard that you just start entering some other fucking galaxy of swirls, patterns, and dots?
+#POS V O R R V D N R A P O R V V D A A N P N W N W F N W #POS
+}
+{
+REF Hey. Can I get the picture of your header?
+#POS I C W V O V D N P D N W #POS
+}
+{
+Half the shit you think I don't know, I found out a long time ago.
+#POS N D N O V O V V W O V T D A N R W #POS
+}
+{
+In elementary school when you and your friend would pretend to sharpen your pencils to have talk at the trash bin.
+#POS P A N R O F D N V V P V D N P V N P D N N W #POS
+}
+{
+Do you ever play a song and then realize you were too distracted to appreciate the beauty of it so you just replay it?
+#POS V O R V D N F R V O V R V P V D N P O P O R V O W #POS
+}
+{
+I hate how your born out of no where forced to go to school then work endless hours like this isn't fair, what if I wanted to be a duck?
+#POS O V R D V P P D R A P V P N R N A N P O V A W O P O V P V D N W #POS
+}
+{
+This. URL
+#POS O W U #POS
+}
+{
+I'm not perfect. I'll annoy you, make you mad but put all that aside....You'll never find someone who cares and loves you more than me.
+#POS L R A W L V O W V O A F V D D N W L R V N O V F V O A P O W #POS
+}
+{
+REF you still got that scarlet fever professor?
+#POS I O R V D A N N W #POS
+}
+{
+Bubble butt. Bubble bubble bubble butt.
+#POS A N W A A A N W #POS
+}
+{
+Go get something to eat or watch another REF video? Decisions, decisions....
+#POS V V N P V F V D I N W N W N W #POS
+}
+{
+I. Hate. Country. Music.
+#POS O W V W N W N W #POS
+}
+{
+Never introduce your friends to one another because they end up liking each other more than they ever liked you.
+#POS R V D N P K D P O V T V D A A P O R V O W #POS
+}
+{
+REF WE NEED TO SKYPE!
+#POS I O V P B W #POS
+}
+{
+REF EEEERRRRRIIIINNNN
+#POS I B #POS
+}
+{
+Drinking REF and watching REF Best. Day. Ever.
+#POS V I F V I W A W N W R W #POS
+}
+{
+You smoke? You're so cool! Lol jk have fun dying.
+#POS O V W L R A W C C V N V W #POS
+}
+{
+-Me on Pandora-
+
+Me: Skip
+Me: Skip
+Me: Skip
+Me: *Good song*
+Me: *Skips on accident*
+Me:
+Me:
+Me: NOOO....WHYYYYYYYY??!??
+#POS V P B
+
+O W V
+O W V
+O W V
+O W W A N W
+O W W V P N W
+O W
+O W
+O W C W C W #POS
+}
+{
+I will never get over this song REF this is my song of the month.
+URL
+#POS O V R V P D N I O V D N P D N W
+U #POS
+}
+{
+Shy people usually end up being some of the coolest people you know after you start talking to them.
+#POS A N R V T V D P D A N O V P O V V P O W #POS
+}
+{
+People will stab you in they back and ask you why you're bleeding.
+#POS N V V O P O R F V O R L V W #POS
+}
+{
+I always knew looking back on the tears would make me laugh, but I never knew looking back on the laughs would make me cry.
+#POS O R V V R P D N V V O V W F O R V V R P D N V V O V W #POS
+}
+{
+REF How'd the game go?
+#POS I P D N V W #POS
+}
+{
+REF I MISS YOUU! We need ro skype or something.
+#POS I O V O W O V B B F N W #POS
+}
+{
+Went to Orange Buffet and watched Insidious NUM last night with REF and REF ! It was awesome!!
+#POS V P B B F V B K A N P I F I W O V A W #POS
+}
+{
+Watching Insidious NUM tonight with REF !!
+#POS V B K N P I W #POS
+}
+{
+XD URL
+#POS E U #POS
+}
+{
+My bed suddenly becomes comfier when I have to get out of it.
+#POS D N R V A R O V P V P P O W #POS
+}
+{
+CLEATUS!
+#POS N W #POS
+}
+{
+Be a fruit loop in a world full of cheerios.
+#POS V D N N P D N A P N W #POS
+}
+{
+If you can't convince them, confuse them.
+#POS P O V V O W V O W #POS
+}
+{
+When you know something doesn't fit in the fridge but you force the door shut and let it fall out on someone else.
+#POS R O V N V V P D N F O V D N V F V O V T P N R W #POS
+}
+{
+Reality of Fear. URL
+#POS N P N W U #POS
+}
+{
+Reality of Fear. URL
+#POS N P N W U #POS
+}
+{
+All I care about is pasta, pizza, and like NUM people.
+#POS D O V P V N W N W F V K N W #POS
+}
+{
+A moment of silence for all the teenagers whose parents won’t let them eat in their room....
+#POS D N P N P D D N L N V V O V P D N W #POS
+}
+{
+That it is. URL
+#POS P O V W U #POS
+}
+{
+My attitude towards you depends NUM% on the way that you decide to treat me. If you don't like the way I'm acting, change what you're doing.
+#POS D N P O V K P D N P O V P V O W P O V V D N L V W V O L V W #POS
+}
+{
+I don't miss you. I miss the laughs. The smiles. The good times. The way things were. Now, I don't know who you are.
+#POS O V V O W O V D N W D N W D A N W D N N V W R W O V V O O V W #POS
+}
+{
+Cant. Breathe. URL
+#POS V W N W U #POS
+}
+{
+Imagine if.... URL
+#POS V P W U #POS
+}
+{
+I can't change and I won't change, so stop trying.
+#POS O V V F O V V W P V V W #POS
+}
+{
+I smile and act like nothing is wrong, it's called putting shit aside and being strong.
+#POS O V F V P N V A W L V V N R F V A W #POS
+}
+{
+I miss you.
+#POS O V O W #POS
+}
+{
+Sarcasm is the body's natural instinct to stupid.
+#POS N V D N A N P A W #POS
+}
+{
+When we realize. URL
+#POS R O V W U #POS
+}
+{
+My ex? We're not friends, we're not enemies. We're just strangers with some memories.
+#POS D N W L R N W L R N W L R N P D N W #POS
+}
+{
+The best part about smoking cigarettes is the part where you don't smoke them....
+#POS D A N P V N V D N R O V V O W #POS
+}
+{
+If you won’t sing in the car with me when we drive, we can’t be friends.
+#POS P O V V P D N P O R O V W O V V N W #POS
+}
+{
+That one password you use for everything and if anyone ever figured it out they could single-handedly ruin your entire life.
+#POS D K N O V P N F P N R V O T O V R V D A N W #POS
+}
+{
+If you're background phone picture is of you....I'm judging you.
+#POS P L N N N V P O W L V O W #POS
+}
+{
+Ask me a question URL
+#POS V O D N U #POS
+}
+{
+Do you care what other people think of you? — Nope. Not really. URL
+#POS V O V O A N V P O W J C W R R W U #POS
+}
+{
+Tried put for volleyball and sprained my ankle. This is why I don't do exercise.
+#POS V V P N F V D N W O V R O V V N W #POS
+}
+{
+REF REF Thanks. Happy....Thursday.
+#POS I I N W A W B W #POS
+}
+{
+One should love you, the way you are. Not the way they want you to be. If they try to change you then it's not love, it's a compromise.
+#POS K V V O W D N O V W R D N O V O P V W P O V P V O R L R V W L D N W #POS
+}
+{
+REF Happy Birthday You special child you. :D
+#POS I A N O A N O W E #POS
+}
+{
+Dear people who question why girls go to the bathroom together, Hermione from Harry Potter went alone and got attacked by a troll.
+#POS A N O V R N V P D N R W B P B B V R F V V P D N W #POS
+}
+{
+REF Hahah Thanks!! I miss you so much and you need to visit me soon!
+#POS I C N W O V O R R F O V P V O R W #POS
+}
+{
+The Evil Dead movie was so stupid. It wasn't scary, I was laughing through most of it.
+#POS D A A N V R A W O V A W O V V P R P O W #POS
+}
+{
+I just realized that REF 's song Best Song Ever comes out on my birthday. That's cool.
+#POS O R V P I W G N A N R V T P D N W L A W #POS
+}
+{
+REF Hahah okay :) I miss you so much!!
+#POS I C C E O V O R R W #POS
+}
+{
+REF In August we're having a birthday party since we're fasting on our birthday.Can you come?I'll call you when we find out the date
+#POS I P B L V D N N P L V P D N W V O V W L V O R O V T D N #POS
+}
+{
+REF Awwee I miss you too. :( You, rea, and tay were supposed to come over but you were grounded or something so we just ditched it.
+#POS I C O V O R W E O W G W F B V A P V P F O V A F N P O R V O W #POS
+}
+{
+The pinky is the smallest finger, but holds the biggest secrets.
+#POS D N V D A N W F V D A N W #POS
+}
+{
+My hobbies include: Twitter, food, and long naps.
+#POS D N V W B W N W F A N W #POS
+}
+{
+Every time I watch a REF movie I'm either laughing or I'm crying.
+#POS D N O V D I N L D V F L V W #POS
+}
+{
+Sometimes your knight in shining armor is just a retard in tin foil.
+#POS R D N P V N V R D N P N N W #POS
+}
+{
+Do you ever think your special to someone but then you see this person acting the same with everyone else and you're just kind of
+oh....ok.
+#POS V O R V D A P N F R O V D N V D A P N R F L R N P
+C W C W #POS
+}
+{
+Sleep is good. Black Ops is better.
+#POS N V A W A B V A W #POS
+}
+{
+You think I don't know but truth is, I've known before it even happened.
+#POS O V O V V F N V W L V P O R V W #POS
+}
+{
+I let you in and now I'm regretting it.
+#POS O V O P F R L V O W #POS
+}
+{
+You know that friend you had since like first grade? You think you'll be best friends forever and do everything together. Think again.
+#POS O V D N O V P P A N W O V L V A N R F V N R W V R W #POS
+}
+{
+TAG twitter really needs to go back to grammar school.
+#POS H B R V P V R P N N W #POS
+}
+{
+What is love? Love is friendship.
+#POS O V N W N V N W #POS
+}
+{
+Don't ask for my opinion and then get mad when I tell you the truth.
+#POS V V P D N F R V A R O V O D N W #POS
+}
+{
+All guys are just simply jerks.
+#POS D N V R R N W #POS
+}
+{
+Back in my day, making a duck face needed two Pringles.
+#POS R P D N W V D N N V K N W #POS
+}
+{
+TAG When I see you happy.
+#POS H R O V O A W #POS
+}
+{
+Don't be racist. URL
+#POS V V A W U #POS
+}
+{
+Is that a space? URL
+#POS V O D N W U #POS
+}
+{
+You know you're in love when you can't go to sleep because reality is finally better than your dreams.
+#POS O V L P N R O V V P V P N V R A P D N W #POS
+}
+{
+I "pressure" you because I care about you. You obviously don't want me to do that so fine, I'll stop caring.
+#POS O W N W O P O V P O W O R V V O P V O R A W L V V W #POS
+}
+{
+Before you assume things, try asking first.
+#POS P O V N W V V A W #POS
+}
+{
+I'm sitting here missing you, hoping things could go back to the way they used to be and you've probably already moved on.
+#POS L V R V O W V N V V R P D N O V P V F L R R V P W #POS
+}
+{
+I thought we were friends. I should stop thinking.
+#POS O V O V N W O V V V W #POS
+}
+{
+-Laughs for NUM minutes-
+-Catches breath-
+-Stops-
+-Thinks about the funny thing-
+-Laughs for NUM more minutes-
+#POS C P K N
+V N
+C
+V P D A N
+C P K A N #POS
+}
+{
+I thought you actually cared....my bad.
+#POS O V O R V W D A W #POS
+}
+{
+In class:   NUM% of the time: What the fuck is going on.  NUM% of the time: Sleeping.
+#POS P N W K P D N W O D N V V T W K P D N W V W #POS
+}
+{
+The best thing in life is finding someone who knows all your flaws, mistakes, and your weaknesses and still thinks you're perfect.
+#POS D A N P N V V N O V D D N W N W F D N F R V L A W #POS
+}
+{
+Our brains are amazing. It functions DAT from the second we were born and only stops working when we take tests.
+#POS D N V A W O N K P D A O V V F R V V R O V N W #POS
+}
+{
+Twitter is like your fridge. If you're bored you just keep opening and closing it every few minutes to see if there's anything good in it.
+#POS B V P D N W P L V O R V V F V O D A N P V P L N A P O W #POS
+}
+{
+Not telling me something because you "don't want to piss me off" is probably the best way to piss me off.
+#POS R V O N P O W V V P V O T W V R D A N P V O T W #POS
+}
+{
+REF REF I read  it fast and all I read was I, Just, Made, Some, Love, and It so I automatically thought it said that. :P
+#POS I I O V O A F D O V V O W R W V W D W N W F O P O R V O V O W E #POS
+}
+{
+REF REF I don't doubt you did.
+#POS I I O V V O V W #POS
+}
+{
+REF REF Lucky. When I first read that I thought you said I just made some love to it.
+#POS I I A W R O R V P O V O V O R V D N P O W #POS
+}
+{
+REF REF Me too. I'm probably gonna go get some tomorrow with some fries. I can't today because my cousins came over.
+#POS I I O R W L R V V V D N P D N W O V N P D N V T W #POS
+}
+{
+REF REF No I meant your :P you n Erin's sweet tea is beautiful. and awwweee thanksss. Your's is too!!!
+#POS I I C O V D E O F Z A N V A W F C N W O V R W #POS
+}
+{
+REF REF Both of your icons are pretty. :)
+#POS I I O P D N V R W E #POS
+}
+{
+REF Yusss. :D
+#POS I C W E #POS
+}
+{
+REF REF Thanks Erin. Reagan made it for me because I was to lazy to....
+#POS I I N B W B V O P O P O V R A P W #POS
+}
+{
+REF REF Oh....okay then. You may proceed living.
+#POS I I C W C R W O V V V W #POS
+}
+{
+REF REF since when were meatballs white?
+#POS I I P R V N A W #POS
+}
+{
+Believe. &lt;NUM URL
+#POS V W E U #POS
+}
+{
+One day she'll start sending you mixed signals and you'll get mad because she learned how to play your game.
+#POS K N V V V O A N F L V A P O V R P V D N W #POS
+}
+{
+Teacher: Now copy down these notes while I stand in front of them.
+#POS N W R V T D N P O V P N P O W #POS
+}
+{
+Things my family need to understand. URL
+#POS N D N V P V W U #POS
+}
+{
+Me: Better check my phone to see if my friends texted me. *Checks phone* Me: Better get some friends.
+#POS O W A V D N P V P D N V O W W V N W O W A V D N W #POS
+}
+{
+I never know what to wear because I look ugly in everything.
+#POS O R V O P V P O V A P N W #POS
+}
+{
+A little girl said I look like Princess Jasmine today.
+#POS D A N V O V P B B N W #POS
+}
+{
+REF I LOVE YOU TOO. &lt;NUM
+#POS I O V O R W E #POS
+}
+{
+Mom, dad, meet my boyfrie-
+URL your poster away.
+#POS N W N W V D N
+N W V D N R W #POS
+}
+{
+When life hands you lemons be like get the fuck out of here with those lemons life.
+#POS R N N O N V P V D N P P R P D N N W #POS
+}
+{
+I die a little inside whenever I see an old person eating alone at a restaurant.
+#POS O V D A P R O V D A N V R P D N W #POS
+}
+{
+When I get home from school. URL
+#POS R O V N P N W U #POS
+}
+{
+It's your face, not a coloring book.
+#POS L D N W R D N N W #POS
+}
+{
+Most girls. URL
+#POS A N W U #POS
+}
+{
+Madonna is NUM, her boyfriend is NUM. Jennifer Lopez is NUM, her boyfriend is NUM. Don't worry if you're not dating, they might not be born yet.
+#POS B V K W D N V K W B B V K W D N V K W V V P L R V W O V R V V R W #POS
+}
+{
+Power just went out. Worst. NUM minutes. Of. My life.
+#POS N R V T W A W K N W P W D N W #POS
+}
+{
+Don't like me? URL
+#POS V V O W U #POS
+}
+{
+Girls have periods, cramps, babies, and everything else. The least a guy could do is text her first.
+#POS N V N W N W N W F N R W D A D N V V V V D A W #POS
+}
+{
+Me: I haven't taken a photo of me in a while. *Takes photo* Me: Oh....that's why.
+#POS O W O V V D N P O P D N W W V N W O W C W L R W #POS
+}
+{
+Cancel....cancel....cancel,cancel, CANCEL....*Message Sent*....kill me now.
+#POS V W V W V W V W V W W N V W W V O R W #POS
+}
+{
+*Watching a scary movie* Me: That wasn't scary" TV: "Based on a true story" Me: "HOLY SHIIT! LOCK THE DOORS!! LOCK THE DOOOORRSSS!!!!"
+#POS W V D A N W O W O V A W N W W V P D A N W O W W A N W V D N W V D N W W #POS
+}
+{
+When someone says they hate me. URL
+#POS R N V O V O W U #POS
+}
+{
+TAG you changed. You forgot who was always there for you.
+#POS H O V W O V O V R R P O W #POS
+}
+{
+Just because the past taps your shoulder, doesn't mean you have to turn around.
+#POS R P D A N D N W V V O V P V R W #POS
+}
+{
+Dentist: You can't eat for NUM hours      Me: Dying whale noise
+#POS N W O V V P K N O W V N N #POS
+}
+{
+I don't care if it's NUM a.m., In don't consider it tomorrow until I wake up.
+#POS O V V P L K N W P V V O N P O V T W #POS
+}
+{
+TAG You've never had to hold your charger a certain way to get it to work.
+#POS H L R V P V D N D A N P V O P N W #POS
+}
+{
+TAG You've never had a flip phone.
+#POS H L R V D A N W #POS
+}
+{
+"Smells fresh. Like a meadow."
+"Ok. Now take off the blindfold! Your family's been dead in this car for a week! We Febrezed it."
+#POS W V A W P D N W W
+W C W R V T D N W D N V A P D N P D N W O V O W W #POS
+}
+{
+That awkward moment when I hate you and you're still breathing....
+#POS D A N R O V O F L R V W #POS
+}
+{
+REF REF DRINK MY KOOL-AID RIGHT NOW!
+#POS I I V D N R R W #POS
+}
+{
+REF REF -in a british whisper voice- drink. my. hot. kool-aid.
+#POS I I V D N N N N W D W A W N W #POS
+}
+{
+REF REF Oh I saw that! :P Ya it's funny.
+#POS I I C O V O W E C L A W #POS
+}
+{
+REF REF ahahahahah :P
+#POS I I C E #POS
+}
+{
+Saddest movie in history. URL
+#POS A N P N W U #POS
+}
+{
+REF REF Ya I found it :) and I'm pretty sure we're all lazy. :P
+#POS I I C O V O E F L R A L D A W E #POS
+}
+{
+When someone insults me. URL
+#POS R N V O W U #POS
+}
+{
+REF REF Nevermind found it. :P
+#POS I I C V O W E #POS
+}
+{
+REF REF Where??
+#POS I I R W #POS
+}
+{
+REF REF You're supposed to find NUM Jade. :P
+#POS I I L A P V K B W E #POS
+}
+{
+REF REF Nope. That's about right Erin. ;)
+#POS I I C W L P A B W E #POS
+}
+{
+REF REF I got Happy, Impatient, Elegant, and Mental....Perfect. :p URL
+#POS I I O V A W A W A W F N W A W E U #POS
+}
+{
+REF REF I got fat bad lad....awesome.
+#POS I I O V A A N W A W #POS
+}
+{
+The anatomy of the Jumbo Freezie. URL
+#POS D N P D B B W U #POS
+}
+{
+TAG I would be hiding in a closet....
+#POS H O V V V P D N W #POS
+}
+{
+TAG the NUM's were the best times in the history of earth.
+#POS H D K V D A N P D N P N W #POS
+}
+{
+This year went by so fast! I kinda miss it but I'm looking forward to next year.
+#POS D N V P R A W O R V O F L V R P A N W #POS
+}
+{
+I'm gonna miss all of you so much!
+#POS L V V D P O R R W #POS
+}
+{
+"He-" I don't like you, don't talk to me.
+#POS W O W O V V O W V V P O W #POS
+}
+{
+TAG talking too much in all my classes.
+#POS H V R A P D D N W #POS
+}
+{
+The person you could take a bullet for could be the one shooting the gun.
+#POS D N O V V D N P V V D K V D N W #POS
+}
+{
+I'm really jealous of girls with cute laughs because its probably a turn off when guys tell jokes and I start making seal noises.
+#POS L R A P N P A V P L R D N T R N V N F O V V N N W #POS
+}
+{
+Why does life have so much drama? Like why can;t we all just be friends and eat gumdrops or something?
+#POS R V N V R A N W P R V W G O D R V N F V N F N W #POS
+}
+{
+Can I get a scholarship for eating?
+#POS V O V D N P V W #POS
+}
+{
+I hate when.... URL
+#POS O V R W U #POS
+}
+{
+I don't trip, I just check to make sure gravity is doing it's job.
+#POS O V V W O R V P V A B V V L N W #POS
+}
+{
+Dear life, when I said "Can my life get any worse?" it was a rhetorical question not a challenge.
+#POS A N W R O V W V D N V D A W W O V D A N R D N W #POS
+}
+{
+I'm sorry I offended you when I called you a Bitch, I really thought you knew.
+#POS L A O V O R O V O D N W O R V O V W #POS
+}
+{
+That scary moment when you lean back in your chair a little too far.
+#POS D A N R O V R P D N D A R R W #POS
+}
+{
+TAG .... Well looks like Twitter forgot how to use proper grammar.
+#POS H W C V P B V R P V A N W #POS
+}
+{
+Me: Maybe I'll look good today.
+Face: Nope.
+Hair: Nope.
+Body: Nope.
+#POS O W R L V A N W
+N W C W
+N W C W
+N W C W #POS
+}
+{
+It's awesome to have something to live for but I want something to die for too.
+#POS L A P V N P V P F O V N P V P R W #POS
+}
+{
+I love how REF makes a video every day so if I'm upset or just wanna watch something, I'll always have a new thing to watch and laugh at.
+#POS O V R I V D N D N P P L A F R V V N W L R V D A N P V F V P W #POS
+}
+{
+Every time I see your face, I want to shoot myself.
+#POS D N O V D N W O V P V O W #POS
+}
+{
+I act like i don't care but in reality, it means a lot more than you think.
+#POS O V P O V V F P N W O V D N A P O V W #POS
+}
+{
+REF Read your DM's. :D
+#POS I V D N W E #POS
+}
+{
+TAGNUM Let's do this for REF &lt;NUM URL
+#POS H L V O P I E U #POS
+}
+{
+TAG REF REF :)
+#POS H I I E #POS
+}
+{
+I don't understand how my room is so messy when I just sit in one spot with a laptop all day.
+#POS O V V R D N V R A R O R V P K N P D N D N W #POS
+}
+{
+Hey are you a bank? Cause you need to leave me a loan.
+#POS C V O D N W P O V P V O D N W #POS
+}
+{
+Sad backwards is das. As in das not good you should smile.
+#POS A R V N W P P L R A O V V W #POS
+}
+{
+Day NUM in the yard; My milkshake has melted and is beginning to spoil, still no sign of boys.
+#POS N K P D N W D N V V F V V P V W R D N P N W #POS
+}
+{
+Why have April Fools when my whole life's a joke.
+#POS R V B B R D A L D N W #POS
+}
+{
+I have a boyfriend. Oh wait....That-that's a fridge....I have a fridge.
+#POS O V D N W C V W L D N W O V D N W #POS
+}
+{
+Basically URL
+#POS R U #POS
+}
+{
+NUM.NUM% of my sentences start with: Oh my god, Yeah, No, Basically, Wait, So yeah, Like, You know, Oh, Um, What, Well .
+#POS K P D N V P W C D N W C W C W R W V W P C W R W O V W C W C W O W C W #POS
+}
+{
+My final thought before making most decisions: Fuck it.
+#POS D A V P V A N W V O W #POS
+}
+{
+Rumors are carried by haters, spread by fools, and accepted by idiots.
+#POS N V V P N W V P B W F V P N W #POS
+}
+{
+REF  REF You guys should do the space monkey challenge!
+#POS I I O N V V D N N N W #POS
+}
+{
+REF REF hah no you won't!
+#POS I I C C O V #POS
+}
+{
+REF REF Girl you as white as paper.
+#POS I I N O R A P N W #POS
+}
+{
+My life....
+     My choices....
+          My mistakes....
+              My lessons....
+                   Not your business....
+#POS D N W
+D N W
+D N W
+D N W
+R D N W #POS
+}
+{
+I will respect you NUM times more if you say what you have to say to me to my face rather than to someone else.
+#POS O V V O K N R P O V O O V P V P O P D N R P P N R W #POS
+}
+{
+When you can't hear what someone says and they repeat it like NUM times and you're still like. URL
+#POS R O V V O N V F O V O P K N F L R R W U #POS
+}
+{
+REF TAG I'll give you Cookies! URL
+#POS I H L V O N W U #POS
+}
+{
+I'm afraid if I told you i liked you, you wouldn't feel the same and our friendship would be over.
+#POS L A P O V O O V O W O V V D A F D N V V P W #POS
+}
+{
+People need to learn to shut the fuck up.
+#POS N V P V P V D N T W #POS
+}
+{
+REF REF hahahahaahahh IM THE DOPPELGANGERRRR!!
+#POS I I C L D B W #POS
+}
+{
+REF Oh. and they don't go to school or work. Well you'll enjoy reading that for ten pages. :)
+#POS I C W F O V V P N F N W C L V V O P K N W E #POS
+}
+{
+REF all i know is : A Jewish Holiday, also known as Day of Antonement. So have fun reading that NUM,NUM,NUM,NUM times.
+#POS I D O V V W D A N W R V P N P B W P V N V D K N W #POS
+}
+{
+REF I know. I Googled it.
+#POS I O V W O V O W #POS
+}
+{
+REF ..............what.
+#POS I W O W #POS
+}
+{
+REF hhahhah art veil.
+#POS I C N N W #POS
+}
+{
+REF Moon Orange.
+#POS I N N W #POS
+}
+{
+REF Potato pie.
+#POS I N N W #POS
+}
+{
+REF carrot juice.
+#POS I N N W #POS
+}
+{
+REF REF O.O Woah. Weird huh?
+#POS I I E C W A C W #POS
+}
+{
+REF TAG amy winehouse died the day after my NUMth birthday. ;)
+#POS I H B B V D N P D A N W E #POS
+}
+{
+Textiety - A condition where an individual becomes impatient/anxious while waiting for someone to text them back.
+#POS B W D N R D N V A P V P N P V O R W #POS
+}
+{
+You act like we're friends, but I know you talk shit about me behind my back.
+#POS O V P L N W F O V O V N P O P D N W #POS
+}
+{
+REF Thanks. I get that a lot. :D
+#POS I N W O V P D N W E #POS
+}
+{
+TAG I've never watched Star Trek and don't want to. It looks stupid.
+#POS H L R V B N F V V P W O V A W #POS
+}
+{
+"Hey. Haven't see you in forever, let's chill!" "No. It's been forever for a reason."
+#POS W C W V V O P R W L V W W W C W L V R P D N W W #POS
+}
+{
+That frustrating moment when you accidentally hit the backspace button &amp; you go back to the previous page &amp; you were typing something long.
+#POS D A N R O R V D N N F O V R P D A N F O V V N A W #POS
+}
+{
+I hate when my friends whisper secrets right in front of me.
+#POS O V R D N V N R P N P O W #POS
+}
+{
+I like people who can keep the conversation going no matter how random the topics get.
+#POS O V N O V V D N V D N R A D N V W #POS
+}
+{
+The awkward moment when your parents try to make your friends laugh.
+#POS D A N R D N V P V D N V W #POS
+}
+{
+It's amazing how you can go from really excited and happy to upset and annoyed in a matter of seconds. REF REF
+#POS L A R O V V P R A F A P V F V P D N P N W I I #POS
+}
+{
+Falling for someone you never thought you'd fall for.
+#POS V P N O R V L V P W #POS
+}
+{
+I like how you give me an excuse for something and when I have a solution you create another excuse.
+#POS O V R O V O D N P N F R O V D N O V D N W #POS
+}
+{
+TAG You don't tell me who I am, what I do, and how I feel. Only I can do that.
+#POS H O V V O O O V W O O V W F R O V W R O V V O W #POS
+}
+{
+TAG decide to cancel plans even though you're extremely exited for it....
+#POS H V P V N R P L R V P O W #POS
+}
+{
+Well my day's ruined.
+#POS C D N V W #POS
+}
+{
+TAG Varsity jacket, red polo, stripes, plaid shirt, blazer *harry's voice* IF WE COULD ONLY HAVE THIS LIFE FOR ONE MORE DAY.
+#POS H B N W A N W N W A N W N W Z N W P O V R V D N P K A N W #POS
+}
+{
+TAG This was the good times in the fandom.
+#POS H O V D A N P D N W #POS
+}
+{
+TAG This made me sooooo sad.
+#POS H O V O R A W #POS
+}
+{
+When I text someone first and they don't text back. URL
+#POS R O V N R F O V V R W U #POS
+}
+{
+There's a story behind everyone. There's a reason the act how they act and do what they do. A reason they are who they are.
+#POS L D N P N W L D N D N R O V F V O O V W D N O V O O V W #POS
+}
+{
+Don't judge people. You don't know what they've been through or what they've dealt with.
+#POS V V N W O V V O L V P F O L V P W #POS
+}
+{
+You'll never be happy if you never let go of the sad things.
+#POS L R V A P O R V V P D A N W #POS
+}
+{
+REF REF REF Don't worry you'll have enough one direction magazines and fat food to last you a lifetime. ;)
+#POS I I I V V L V A K N N F A N P V O D N W E #POS
+}
+{
+REF REF REF Haha I found another one. This is completely true. URL
+#POS I I I C O V D K W O V R A W U #POS
+}
+{
+REF REF REF EEERRRIIIIIINNNN. Haii :D URL
+#POS I I I B W C E U #POS
+}
+{
+REF REF REF Hey...Jadiee.
+#POS I I I C W B W #POS
+}
+{
+REF REF REF me tooo. &lt;NUM
+#POS I I I O R W E #POS
+}
+{
+Voted for REF and REF (BBC Radio NUM) to win the Sony Golden Headphones Award URL help them &amp; vote too!!
+#POS V P I F I W B B K W P V D B B B B U V O F V R W #POS
+}
+{
+Hello NUM? Yes I’d like to report a murder....This bitch killed my vibe.
+#POS C K W C L V P V D N W D N V D N W #POS
+}
+{
+I Love You. &lt;NUM URL
+#POS O V O W E U #POS
+}
+{
+Hey you. Ya you. I Love You.
+#POS C O W C O W O V O W #POS
+}
+{
+Me when my friends are sad: Becomes a psychologist. My friends when I'm sad: Ok.
+#POS O R D N V A W V D N W D N R L A W C W #POS
+}
+{
+I’m a leader. Not a follower. Unless it’s a dark, creepy place. Then screw it you’re going first.
+#POS L D N W R D N W P L D N W A N W R V O L V A W #POS
+}
+{
+The unpopular girl in movies is really pretty....
+#POS D A N P N V R R W #POS
+}
+{
+Caring too much only screws you over.
+#POS V R R A V O R W #POS
+}
+{
+You say "tall redhead". I say "Gingeraffe" They're basically the same thing.
+#POS O V W A N W W O V W B W L R D A N W #POS
+}
+{
+TAG money wasn't such a problem.
+#POS H N V A D N W #POS
+}
+{
+TAG everyone would just stop judging people.
+#POS H N V R V V N W #POS
+}
+{
+TAG I was more confident and less awkward.
+#POS H O V R A F A A W #POS
+}
+{
+TAG You wouldn't be judged for what you look like.
+#POS H O V V V P O O V P W #POS
+}
+{
+TAG you could mute people.
+#POS H O V A N W #POS
+}
+{
+TAG you could eat and NOT get fat.
+#POS H O V V F R V A W #POS
+}
+{
+TAG We could delete memories we didn't want.
+#POS H O V V N O V V W #POS
+}
+{
+I like animals. They don't judge you by what you look like, they judge you by who you are. Why can't humans be like animals?
+#POS O V N W O V V O P O O V P W O V O P O O V W R V V V P N W #POS
+}
+{
+*Feels cute* *Takes selfie* Never mind.
+#POS W V A W W V N W R N W #POS
+}
+{
+Iron Man NUM is amazing!! You have to watch it it's awesome!!!! &lt;NUM
+#POS B B K V A W O V P V O L A W E #POS
+}
+{
+Was it something I did or said?
+#POS V O N O V F V W #POS
+}
+{
+TAG good tasting food is bad for you and bad tasting food is good for you.
+#POS R A N N V A P O F A N N V A P O W #POS
+}
+{
+Please click this link for my friend. Her little sister has cancer and she's doing this for her URL  &lt;NUM
+#POS V V D N P D N W D A N V N F L V O P O U E #POS
+}
+{
+Sometimes TAG an octopus so I could slap NUM people at once.
+#POS R H D N P O V V K N P R W #POS
+}
+{
+Reloading after firing like NUM shots. TAG
+#POS V P V P K N W H #POS
+}
+{
+WHY CANT I HAVE THE METABOLISM OF A TEENAGE BOY THAT EATS DAT OF HIS KITCHEN EVERY DAY AND STILL MANAGES TO BE NUM POUNDS OF LANKY WEIRDNESS.
+#POS R V O V D N P D A N O V K P D N D N F R V P V K N P A N W #POS
+}
+{
+Yes, I am a girl. Yes, I play Call of Duty. Problem?
+#POS C W O V D N W C W O V N P N W N W #POS
+}
+{
+TAG I only exist when you want something.
+#POS H O R V R O V N W #POS
+}
+{
+TAG REF  REF
+#POS H I I #POS
+}
+{
+TAG when a pinky promise your oath.
+#POS H R D N V D N W #POS
+}
+{
+TAG real friends existed.
+#POS H A N V W #POS
+}
+{
+TAG food.
+#POS H N W #POS
+}
+{
+TAG running.
+#POS H V W #POS
+}
+{
+TAG my best friends. They're all crazy, funny, weird, annoying, stupid, and silly at one time.
+#POS H D A N W L D A W A W A W A W A W F A P K N W #POS
+}
+{
+TAG we would laugh and hang out together. What happened?
+#POS H O V V F V T R W O V W #POS
+}
+{
+TAG there was this thing called recess.
+#POS H X V D N V N W #POS
+}
+{
+Stop chasing what's now and create what's next.
+#POS V V L R F V L A W #POS
+}
+{
+I'm NUM% done with today and about NUM% done with tomorrow already.
+#POS L K V P N F P K V P N R W #POS
+}
+{
+What would you do? URL
+#POS O V O V W U #POS
+}
+{
+REF REF You guys are such a cute couple! &lt;NUM
+#POS I I O N V A D A N W E #POS
+}
+{
+The sentence ''The quick brown fox jumps over a lazy dog.'' uses every letter in the alphabet.
+#POS D N W D A A N V P D A N W W V D N P D N W #POS
+}
+{
+Ok no more space monkey....ever! REF REF URL
+#POS C C A N N W R W I I U #POS
+}
+{
+To my last tweet. Don't do it you could die. But if you want to no one's stopping you. ;)
+#POS P D A N W V V O O V V W F P O V P D N V O W E #POS
+}
+{
+REF REF Ok sorry.
+#POS I I C A W #POS
+}
+{
+Space Monkey Challenge is so much fun! You people need to try it. Feels like I've been sleeping for ages. :P REF REF
+#POS B B B V R A N W O N V P V O W V P L V V P N W E I I #POS
+}
+{
+You're NUM% of the reason I get every morning. The NUM% is because I have to pee. :)
+#POS L K P D N O V D N W D K V P O V P V W E #POS
+}
+{
+Me when my birthday comes before my friend's URL
+#POS O R D N V P D N U #POS
+}
+{
+Girl "Boys are all the same." Yes because Jim Carrey, Zac Efron, Adolf Hitler, and Barack Obama are exactly alike.
+#POS N W N V X D A W W C P B B W B B W B B W F B B V R R W #POS
+}
+{
+I notice a lot of things but I just act like I don't.
+#POS O V D N P N F O R V P O V W #POS
+}
+{
+TAG Excuse you. Move out of my way.
+#POS H V O W V P P D N W #POS
+}
+{
+TAG I'm tired.
+#POS H L A W #POS
+}
+{
+I'm just gonna take a quick nap -Wakes up July NUM NUM-
+#POS L R V V D A N V T B K K #POS
+}
+{
+food &gt;&gt;&gt;&gt;&gt;&gt;&gt; boys
+#POS N G N #POS
+}
+{
+NUM% of people in this world are stupid. Luckily I'm part of the other NUM%.
+#POS K P N P D N V A W R L N P D A K W #POS
+}
+{
+I wanna get drunk when I wake up.
+#POS O V V A R O V T W #POS
+}
+{
+Like seriously, Just stop.
+#POS P R W R V W #POS
+}
+{
+Happiness can be found in even the darkest of times. If one only remembers to turn on the light.
+#POS N V V V P R D A P N W P K R V P V P D N W #POS
+}
+{
+Perfect has NUM letters and so does meeeeee ....Coincidence? I think not.
+#POS A V K N F R V O W N W O V R W #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+TAG Fake friends. If you don't like me, tell me. I'd rather know than have awkward conversations with you pretending to be friends.
+#POS R A N W P O V V O W V O W L R V P V A N P O V P V N W #POS
+}
+{
+TAG being the third wheel.
+#POS H V D A N W #POS
+}
+{
+TAG being a second option.
+#POS H V D A N W #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+TAG your lies.
+#POS H D N W #POS
+}
+{
+*Slowly backs out of the room and closes the door while you're still talking*
+#POS W R V P P D N F V D N P L R V W #POS
+}
+{
+REF Oh hahahah oops. Well no I just remembered it.
+#POS I C C C W C C O R V O W #POS
+}
+{
+REF No.... I was there when this happened smart one.
+#POS I C W O V R R O V A K W #POS
+}
+{
+REF Well if you do you're coming to our house first. Mmkay? Mkay. ;) Oh and WHAM!
+#POS I C P O V L V P D N A W C W C W E C F C W #POS
+}
+{
+REF :( I haven't seen you all week.
+#POS I E O V V O D N W #POS
+}
+{
+REF did you leave yet?
+#POS I V O V R W #POS
+}
+{
+TAG I could read people's mind and see what they think of me.
+#POS H O V V S N F V O O V P O W #POS
+}
+{
+TAG My boyfriend actually knew he was my boyfriend.
+#POS H D N R V O V D N W #POS
+}
+{
+I will never understand how British people lose their accents when they sing.
+#POS O V R V R A N V D N R O V W #POS
+}
+{
+I don't wanna be your second choice.
+#POS O V V V D A N W #POS
+}
+{
+Boys who like me: NUM Boys who like my friend: NUM
+#POS N O V O W K N O V D N W E #POS
+}
+{
+If fear didn't exist I'd run up and kiss you.
+#POS P N V V L V T F V O W #POS
+}
+{
+TAGNUM URL
+#POS H U #POS
+}
+{
+REF Hahah they do! Extremists think Americans are problems, I'm not an extremist so don't accuse me....not you. :p
+#POS I C O V W N V B V N W L R D N P V V O W R O W E #POS
+}
+{
+#NUMWordsiHateToHear You're gonna have homework today.
+#POS H L V V N N W #POS
+}
+{
+#NUMWordsiHateToHear Things just aren't working out.
+#POS H N R V V T W #POS
+}
+{
+#NUMWordsiHateToHear Can I see your phone?
+#POS H V O V D N W #POS
+}
+{
+#NUMWordsiHateToHear Failed to connect to internet. URL
+#POS H V P V P N W U #POS
+}
+{
+I'm Muslim so I'm a terrorist right?Look at all these things Americans do. They're not terrorists.Since we're a different race you label us?
+#POS L A P L D A A W V P D D N N V W L R N W P L D A N O V O W #POS
+}
+{
+Oh Muslims did the bombing now did they? I suppose they shot little kids at a school too. Oh and shot people at a theater. Stop assuming.
+#POS C B V D N R V O W O V O V A N P D N R W C F N N P D N W V V W #POS
+}
+{
+REF Why don't we do it on Wednesday?
+#POS I R V O V O P B W #POS
+}
+{
+REF this thursday?!
+#POS I D B W #POS
+}
+{
+REF Uhm when do you leave?
+#POS I C R V O V W #POS
+}
+{
+REF You, Jade, Reagan, Salina, and I need to all hang out while you're here.
+#POS I O W B W B W B W F O V P D V T P L R W #POS
+}
+{
+REF hahah my brother said he's not driving us and you should come here.
+#POS I C D N V L R V O F O V V R W #POS
+}
+{
+REF Uhm I doubt we could go.
+#POS I C O V O V V W #POS
+}
+{
+REF Oh ehrm which publix?
+#POS I C C D B W #POS
+}
+{
+REF My big sister? I don't know where she is.
+#POS I D A N W O V V R O V W #POS
+}
+{
+REF Yup. Why?
+#POS I C W R W #POS
+}
+{
+REF Just say you're like coming over to my house or something. I dunno. Ask them. :P
+#POS I R V L P V P P D N F N W O V W V O W E #POS
+}
+{
+REF hahahaha!! DOOOO ITTTTTTTTT!!!!!!!!!!!!!!!!!!!!!!!!!! Seriously just walk on to campus on during NUMth period just do it.
+#POS I C W V O W R R V P P N P P A N R V O W #POS
+}
+{
+REF I'm gonna die!! I need to go back to Maine with you!! OR you could just stay here. You could live in my horses pen thing.
+#POS I L V V W O V P V R P B P O W F O V R V R W O V V P D N N N W #POS
+}
+{
+The leading cause of depression is reality.
+#POS D A N P N V N W #POS
+}
+{
+REF Girl learn to type. ;) You should come over!!!! Like not right now though but before you leave!
+#POS I N V P V W E O V V P W R R R R P F P O V W #POS
+}
+{
+REF You should so go to Ms. Stokes' classroom and be like "I'm back!!!!" she'd probably shoot herself right there and then.
+#POS I O V R V P B B W N F V P W L R W W V R V O R R F R W #POS
+}
+{
+REF RIGHT NOWWWW?!?!?!?!!?!?
+#POS I R R W #POS
+}
+{
+TAG My song comes on.
+#POS H D N V T W #POS
+}
+{
+TAG I'm in the car.
+#POS H L P D N W #POS
+}
+{
+TAG a piece of gum.
+#POS H D N P N W #POS
+}
+{
+TAG you can't prove that you care.
+#POS H O V V P O V W #POS
+}
+{
+TAG You don't you don't have a sense of humor.
+#POS H O V O V V D N P N W #POS
+}
+{
+I'm sorry I'm a fuck up.
+#POS L A L D N T W #POS
+}
+{
+TAG TAG please. &lt;NUM
+#POS H H V W E #POS
+}
+{
+"Us" I like the sound of that.
+#POS W O W O V D N P O W #POS
+}
+{
+TAG URL  watch it. :P
+#POS H U V O W E #POS
+}
+{
+TAG  I get hungry....who am I kidding, I'm always hungry.
+#POS H O V A W O V O V W L R A W #POS
+}
+{
+Allah knows. TAG URL
+#POS B V W H U #POS
+}
+{
+That moment. URL
+#POS D N W U #POS
+}
+{
+Maybe. URL
+#POS R W U #POS
+}
+{
+Listen. URL
+#POS V W U #POS
+}
+{
+Jealousy. URL
+#POS N W U #POS
+}
+{
+It's unhealthy. URL
+#POS L A W U #POS
+}
+{
+It's unhealthy. URL
+#POS L A W U #POS
+}
+{
+Take a chill pill. URL
+#POS V D A N W U #POS
+}
+{
+Mad? URL
+#POS A W U #POS
+}
+{
+Awkward eye contact. URL
+#POS A N N W U #POS
+}
+{
+REF But it was a beautiful, beautiful joke. :)
+#POS I F O V D A W A N W E #POS
+}
+{
+I hate flu season. URL
+#POS O V N N W U #POS
+}
+{
+Its kinda the same thing. URL
+#POS L R D A N W U #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+Me. URL
+#POS O W U #POS
+}
+{
+Sad isn't it? URL
+#POS A V O W U #POS
+}
+{
+I will carry NUM grocery-bags or die trying before making two trips.
+#POS O V V K N F V V P V K N W #POS
+}
+{
+The awkward moment when the person you didn't want to invite somewhere asks if they can come with you.
+#POS D A N R D N O V V P V R V P O V V P O W #POS
+}
+{
+TAG Calm down.
+#POS H A T W #POS
+}
+{
+TAG You are beautiful
+#POS H O V A #POS
+}
+{
+TAG  You are right.
+#POS H O V A W #POS
+}
+{
+I just can't. URL
+#POS O R V W U #POS
+}
+{
+TAG I Love You.
+#POS H O V O W #POS
+}
+{
+TAG If you flirt with anything that walks.
+#POS H P O V P N P V W #POS
+}
+{
+TAG I'm just another option.
+#POS H L R D N W #POS
+}
+{
+I never asked you what you think because I don't care.
+#POS O R V O O O V P O V V W #POS
+}
+{
+My parents URL
+#POS D N U #POS
+}
+{
+TAG You don't make each other happy?
+#POS P O V V D A A W #POS
+}
+{
+TAG You don't even talk.
+#POS P O V R V W #POS
+}
+{
+TAG REF I don't care what you think. I never asked for your opinon. I like what I like. TAG
+#POS H I O V V O O V W O R V P D N W O V O O V W H #POS
+}
+{
+TAG I don't care if you're the most popular girl in school, I don't care how your day went.
+#POS H O V V P L D R A N P N W O V V R D N V W #POS
+}
+{
+TAG I hate country music soo much....well some of it is ok. I live in the south.
+#POS H O V N N R A W C D P O V A W O V P D N W #POS
+}
+{
+Me after just cleaning my room: Wow I am never letting my room get messy again! The next day: Has anyone seen my bed.
+#POS O P R V D N W C O V R V D N V A R W D A N W V N V D N W #POS
+}
+{
+*Just buys food from grocery store* What's there to eat?
+#POS W R V N P N N W L R P V W #POS
+}
+{
+If you're not doing what you love, you're wasting your time.
+#POS P L R V O O V W L V D N W #POS
+}
+{
+Always know the difference between what you're getting, and what you deserve.
+#POS R V D N P O L V W F O O V W #POS
+}
+{
+TAG otherwise known as nachos.
+#POS H R V P N W #POS
+}
+{
+TAG Moms yelling your name NUM blocks away, standing in the door with rollers in her hair, bat in her right hand.
+#POS H N V D N K N R W V P D N P N P D N W N P D A N W #POS
+}
+{
+Yes, I dance in my car.  Yes, I see you staring at me.  No, I don't care.
+#POS C W O V P D N W C W O V O V P O W C W O V V W #POS
+}
+{
+You have a bright future ahead of you. The only way someone can stop you from shining is if you let them.
+#POS O V D A N R P O W D A N N V V O P V V P O V O W #POS
+}
+{
+You ask.
+No, you ask!
+Will you please ask?
+Why can`t you ask?
+Fine….Hey, my FRIEND wants to ask you something.
+#POS O V W
+C W O V W
+V O V V W
+R V O V W
+A W C W D N V P V O N W #POS
+}
+{
+But despite their differences, they had one important thing in common. They were crazy about each other.
+#POS F P D N W O V K A N P N W O V A P D A W #POS
+}
+{
+You've got higher grades than mine, not because you're smarter than me, but because I'm lazier than you.
+#POS L V A N P O W R P L R P O W F P L A P O W #POS
+}
+{
+I never realized what a good bed school desks make until I was being lectured by my teacher.
+#POS O R V O D A N N N V P O V V V P D N W #POS
+}
+{
+"Can I copy your homework?"   "Yeah but I don't know if its right..."   "I don't care."
+#POS W V O V D N W W W C F O V V P L R W W W O V V W W #POS
+}
+{
+I never make the same mistake twice...I make it like five or six times, you know, to be sure.
+#POS O R V D A N R W O V O P K F K N W O V W P V A W #POS
+}
+{
+We love you REF forever and always TAG TAG TAG  URL
+#POS O V O I R F R H H H U #POS
+}
+{
+I hate when I'm  singing to a song and the artist gets the lyrics wrong.
+#POS O V R L V P D N F D N V D N A W #POS
+}
+{
+Fuck a fake friend, where your real friends at?
+#POS V D A N W R D A N P W #POS
+}
+{
+I water my plant friends with my lonely tears.
+#POS O V D N N P D A N W #POS
+}
+{
+TAG a kid took my paper &amp; ran away.I pulled on his hood, he choked &amp; fell &amp; got my paper and innocently walked away
+#POS H D N V D N F V R W O V P D N W O V F V F V D N F R V R #POS
+}
+{
+When I was younger. URL
+#POS R O V A W U #POS
+}
+{
+TAG If the teacher said to pick up NUM pieces of trash off the ground, I'd pick up paper and rip it into NUM pieces.
+#POS H P D N V P V T K N P N P D N W L V T N F V O P K N W #POS
+}
+{
+TAG when the teacher told me not to sniff the Mr.Sketch scented markers, I would do it when he turned around.
+#POS H R D N V O R P V D B N A N W O V V O R O V R W #POS
+}
+{
+TAG I always cheated at heads up seven up.
+#POS H O R V P V T K T W #POS
+}
+{
+Me: "Why am I still single?" Brain: "You're weird af." Body: "And you're fat." Face: "Don't forget you're ugly." Food: "I'm here for you."
+#POS O W W R V O R A W W N W W L A R W W N W W F L A W W N W W V V L A W W N W W L R P O W W #POS
+}
+{
+TAG HAAHAHAHAHHAHAHAHA you're funny.
+#POS H C L A W #POS
+}
+{
+If I did something bad in the past, it's done, it's over with, you can't change it so stop bringing it up every chance you get.
+#POS P O V N A P D A W L V W L P P W O V V O P V V O T D N O V W #POS
+}
+{
+TAG used to blow on their Nintendo cartridge to get it to work?
+#POS H V P V P D B N P V O P N W #POS
+}
+{
+Everything happens for a reason, but it would be nice for once to know what the reason is.
+#POS N V P D N W F O V V A P R P V O D N V W #POS
+}
+{
+REF TAG It's friday :) so follow me....don't say maybe. ;)
+#POS I H L B E P V O W V V R W E #POS
+}
+{
+REF TAG cause im just a teenage dirtbag baby, like you. :)
+#POS I H P L R D A N N W P O W E #POS
+}
+{
+REF hahaha :D.
+#POS I C E W #POS
+}
+{
+REF hahaha he does? well we can go over the summer and deliver them to you and since we're there we could stay for a while. ;)
+#POS I C O V W C O V V P D N F V O P O F P L R O V V P D N W E #POS
+}
+{
+REF Ya....he does, doesn't he?
+#POS I C W O V W V O W #POS
+}
+{
+REF When you're here. -_-. He lectures so much. I learned how to pretend to listen to what people are listening to from him.
+#POS I R L R W E W O V R A W O V R P V P V P O N V V P P O W #POS
+}
+{
+REF I'll ask later my dad's home and will start a giant lecture. Like " listen....come here, now............"
+#POS I L V R D N N F V V D A N W P W V W V R W R W W #POS
+}
+{
+REF I already know what she's gonna say "no. why would you go just to see your friend. You don't need to do those things." -_-
+#POS I O R V O L V V W C W R V O V R P V D N W O V V P V D N W W E #POS
+}
+{
+You have something to say? I don't care.
+#POS O V N P V W O V V W #POS
+}
+{
+Funny how fast you can get up in the morning when you realize you overslept.
+#POS A R A O V V T P D N R O V O V W #POS
+}
+{
+REF nope! should I? Do you want to now....I'll go ask.
+#POS I C W V O W V O V P R W L V V W #POS
+}
+{
+REF :D BASEMENNTTTTT! Now watch me not come because my mom and dad said no. -_-
+#POS I E N W R V O R V P D N F N V C W E #POS
+}
+{
+REF Ya and so did Jade, Reagan, and everyone else who knows you. I'm so excited! I'm gonna try to come over during summer.
+#POS I C F R V B W B W F N R O V O W L R A W L V V P V P P N W #POS
+}
+{
+TAG
+Who lives in a pineapple under the sea
+SpongeBob SquarePants
+Absorbent &amp; yellow &amp; porous is he
+SpongeBob SquarePants
+#POS H
+O V P D N P D N
+B B
+A F A F A V O
+B B #POS
+}
+{
+REF Ya because Florida has basements. -_- If you want rocks I'll feed you rocks! :D And we can listen to One Direction all day.
+#POS I C P B V N W E P O V V L V O V W E F O V V P K N D N W #POS
+}
+{
+REF OKAYYYY!! I'll pick you up in my white pedophile van.
+#POS I C W L V O T P D A N N W #POS
+}
+{
+REF Then come back!! You can stay in my attic. I'll give you a flashlight and you can just hide in a box. :D
+#POS I R V R W O V V P D N W L V O D N F O V R V P D N W E #POS
+}
+{
+REF School is pointless since you left. :( There's no one going around saying random things and screaming in peoples faces.
+#POS I N V A P O V W E L D N V R V A N F V P N V W #POS
+}
+{
+REF REF REF REF REF Middleburg misses you. :( BABY COME BACK!! YOU CAN BLAME IT ALL ON ME!! &lt;NUM
+#POS I I I I I B V O W E N V R W O V V O R P O W E #POS
+}
+{
+You can either agree with me, or be wrong.
+#POS O V D V P O W F V A W #POS
+}
+{
+I'm a girl. I cry over stupid boys. My room is a mess. Sometimes music is my only friend. I'm not perfect. I never will be, but I'm me.
+#POS L D N W O V R A N W D N V D N W R N V D A N W L R A W O R V V W F L O W #POS
+}
+{
+I really need to learn the difference between being hungry and being bored.
+#POS O R V P V D N P V A F V A W #POS
+}
+{
+Never change who you are just because somebody else has a problem with it.
+#POS R V O O V R P N R V D N P O W #POS
+}
+{
+Find a guy that looks past your awkward tendencies and clumsy mistakes and finds something that makes him want to stay.
+#POS V D N P V A D A N F A N F V N P V O V P V W #POS
+}
+{
+I don't need a guy to make me feel perfect. I need a guy to make me feel like i don't need to be perfect.
+#POS O V V D N P V O V A W O V D N P V O V P O V V P V A W #POS
+}
+{
+Better late than really late.
+#POS R A P R A W #POS
+}
+{
+I'm not shy. I'm just very good at figuring out who's worth talking to.
+#POS L R A W L R R A P V T L A N P W #POS
+}
+{
+Don't judge me, you don't know what I've been through. I might just kill you.
+#POS V V O W O V V O L V P W O V R V O W #POS
+}
+{
+Best Friends. ♥ URL
+#POS A N W E U #POS
+}
+{
+Love never fades. If you stop loving someone, you never loved them in the first place.
+#POS V R V W P O V V N W O R V O P D A N W #POS
+}
+{
+Love someone for who they are, not what they wear or how they look.
+#POS V N P O O V W R O O V F R O V W #POS
+}
+{
+We've NUM hands to hold NUM legs to walk NUM eyes to see NUM ears to listen,but why NUM heart?Cause the other was given to someone else for us to find
+#POS L K N P V K N P V K N P V K N P V W F R K N W P D A V V P N R P O P V #POS
+}
+{
+I remember our first kiss....oh wait....I've never had a first kiss.
+#POS O V D A N W C V W L R V D A N W #POS
+}
+{
+I want you to miss me like I'm missing you.
+#POS O V O P V O P L V O W #POS
+}
+{
+NUM horrible things in life: NUM. Seeing your mom cry. NUM. Seeing the love of your life fall in love with somebody else. NUM. Slow Internet.
+#POS K A N P N W K W V D N V W K W V D N P D N V P N P N R W K W A N W #POS
+}
+{
+I put the pro in procrastinating.
+#POS O V D N P N W #POS
+}
+{
+TAG what is life?
+#POS H O V N W #POS
+}
+{
+TAG remember that horror film when....
+#POS H V D N N R W #POS
+}
+{
+True love lasts a lifetime? Explain my empty bowl of ice cream.
+#POS A N V D N W V D A N P N N W #POS
+}
+{
+If karma doesn't hit you, I gladly will.
+#POS P B V V O W O R V W #POS
+}
+{
+I am who I am and there's no use trying to change that. It won't happen.
+#POS O V O O V F L D N V P V O W O V V W #POS
+}
+{
+TAG Food....don't touch my food.
+#POS H N W V V D N W #POS
+}
+{
+Tahahah! URL
+#POS B W U #POS
+}
+{
+Is your name Wifi? Because I'm feeling the connection.
+#POS V D N N W P L V D N W #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+Spring breeeaakkkk!!
+#POS N N W #POS
+}
+{
+I don't want to get up. If I get up i have to see people and do things.
+#POS O V V P V T W P O V T O V P V N F V N W #POS
+}
+{
+TAG cause whats the point in going on if you can't smile, laugh, and move on?
+#POS H P L D N P V P P O V V W V W F V T W #POS
+}
+{
+What's that thing called when your crush likes you back? Oh yeah! It's called imagination....TAG
+#POS L D N V R D N V O R W C C W L V N W H #POS
+}
+{
+TAG Sabrina get out of bed you need to go to school!!
+#POS H B V P P N O V P V P N W #POS
+}
+{
+TAG because the pizza guy is here.
+#POS H P D N N V R W #POS
+}
+{
+TAG because the oven just rang so my cookies are done.
+#POS H P D N R V P D N V V W #POS
+}
+{
+TAG because of my best friends, they never fail to cheer me up whenever I get down, we laugh and have fun together.
+#POS H P P D A N W O R V P V O T R O V T W O V F V N R W #POS
+}
+{
+I hate all of you.
+#POS O V D P O W #POS
+}
+{
+Must be skinny for summer. Must be skinny for summer. Must be skinny for summer. Must be skinny for summer. Must be ski- ooh look a brownie!
+#POS V V A P N W V V A P N W V V A P N W V V A P N W V V N C V D N W #POS
+}
+{
+When boys. URL
+#POS R N W U #POS
+}
+{
+That sad moment.... URL
+#POS D A N W U #POS
+}
+{
+That awkward moment when your phone rings so loud it scares.
+#POS D A N R D N N R A O V W #POS
+}
+{
+My relationship is like an IphoneNUM. I don't have an IPhone NUM.
+#POS D N V P D N W O V V D B K W #POS
+}
+{
+Me: I'm so lonely. Person: Hey. Me: Leave me alone.
+#POS O W L R A W N W C W O W V O R W #POS
+}
+{
+REF  I saw a picture of you and started to miss you....so I started petting you.
+#POS I O V D N P O F V P V O W R O V V O W #POS
+}
+{
+I have NUM personalities. NUM when I'm alone. NUM when I'm with friends. NUM when I'm with me parents. NUM when I'm with someone I like.
+#POS O V K N W K R L A W K R L P N W K R L P O N W K R L P N O V W #POS
+}
+{
+I hate how when I'm in the dark and my brain is like "Remember that horror story when...."
+#POS O V R R L P D N F D N V P W V D N N R W W #POS
+}
+{
+No I'm not being immature, I'm having fun
+ Try it.
+#POS C L R V A W L V N
+V O W #POS
+}
+{
+I hate when people don't understand me sarcasm....they ruin everything
+#POS O V R N V V O N W O V N #POS
+}
+{
+Nothing to do on a Friday night? HAHAHAHAHHHAHHHAHAHAHAHAHHAGAHAHAHA same.
+#POS N P V P D B N W R A W #POS
+}
+{
+Dear math, buy a calculator and solve your own problems. I'm a teenager, not a therapist.
+#POS A N W V D N F V D A N W L D N W R D N W #POS
+}
+{
+Pain makes you stronger. Fear makes you braver. Heartbreaks make you wiser.
+#POS N V O A W N V O A W B V O A W #POS
+}
+{
+If it still hurts, you still care.
+#POS P O R V W O R V W #POS
+}
+{
+I never say how I really feel.
+#POS O R V R O R V W #POS
+}
+{
+Things change so quickly, but there's no use in trying to fight it or even understand it.
+#POS N V R R W F L D N P V P V O F R V O W #POS
+}
+{
+I'm no photographer but I can picture us together.
+#POS L D N F O V V O R W #POS
+}
+{
+I live for two reasons NUM. I was born. NUM. I haven't died yet.
+#POS O V P K N K W O V V W K W O V V R W #POS
+}
+{
+I hate it when I say I hate everyone and someone says "oh excepted me LOL" haha no especially you.
+#POS O V O R O V O V N F N V W C V O C W C C R O W #POS
+}
+{
+Tomorrow is a blank page for you to write down your dreams.
+#POS N V D A N P O P V T D N W #POS
+}
+{
+REF  well....now we know what niall does on his free time.
+#POS I C W R O V O B V P D A N W #POS
+}
+{
+REF REF Yes, yes I do. ;)
+#POS I I C W C O V W E #POS
+}
+{
+Root beer and orange soda. All day. &lt;NUM
+#POS N N F A N W D N W E #POS
+}
+{
+Dressing up really cute for school but once you get there you feel really insecure because you never dress that way....
+#POS V T R A P N F R O V R O V R A P O R V D N W #POS
+}
+{
+REF REF Well then be a Seminole and run away to Floriiiiddddaaaaa....see that's something I learned in History/
+#POS I I C R V D B F V R P B W V L N O V P N #POS
+}
+{
+REF REF there cant just not be any chick-fil-a's!! just saying.
+#POS I I R V R R V D N R V W #POS
+}
+{
+TAG R.M.O
+#POS H V #POS
+}
+{
+Don't waste your life trying to be different when you were born to stand out.
+#POS V V D N V P V A R O V V P V T W #POS
+}
+{
+REF If you dont read your DMs, I will kill you in the night. ;) get it.
+#POS I P O V V D N W O V V O P D N W E V O W #POS
+}
+{
+Pringles: the only chip company that doesn't sell air.
+#POS N W D A N N P V V N W #POS
+}
+{
+A thousand feelings inside hidden behind a smile, that's life
+#POS D K N P V P D N W L N #POS
+}
+{
+I don't hate you. I'm just not necessarily excited about your existence.
+#POS O V V O W L R R R V P D N W #POS
+}
+{
+Live life with no regrets.
+#POS A N P D N W #POS
+}
+{
+#NUMDNUMRND &lt;NUM It breaks my heart to see all those kids in trouble in Africa.
+#POS H E O V D N P V D D N P N P B W #POS
+}
+{
+TAG Being accused.
+#POS H V V W #POS
+}
+{
+TAG When people just happen to stare at you.
+#POS H R N R V P V P O W #POS
+}
+{
+TAG NUM) Slow internet connection NUM) Being cheated NUM) Being ignored NUM) Being replaced NUM) Homework NUM) Drama
+#POS H K W A N N K W V V K W V V K W V V K W N K W N #POS
+}
+{
+Flaws? Imperfections? Forget it all, I love you anyways....
+#POS N W N W V O D W O V O V W #POS
+}
+{
+Forget how much it hurts and try again.
+#POS V R A O V F V R W #POS
+}
+{
+There's a story behind every person. There's a reason why they're the way they are. Think about that before you judge someone.
+#POS L D N P D N W L D N R L D N O V W V P O P O V N W #POS
+}
+{
+Don't judge me. You can't handle half of what I've dealt with. There's a reason I do the things I do, there's a reason I am who I am.
+#POS V V O W O V V N P O L V P W L D N O V D N O V W L D N O V O O V W #POS
+}
+{
+TAG get extremely fake tans and look like cheese-puffs.
+#POS H V R A N F V P N W #POS
+}
+{
+Pretending to be someone you're not takes a toll on the real you and the real you is more important than anyone else.
+#POS V P V N L R V D N P D A O F D A O V R A P N R W #POS
+}
+{
+Be real because a mask only fools people on the outside.
+#POS V A P D N R B N P D N W #POS
+}
+{
+REF Check your dm's girl.
+#POS I V D N N W #POS
+}
+{
+Tell a girl she's pretty, she'll believe it for a second. Tell a girl she's ugly, she'll believe it her entire life.
+#POS V D N L R W L V O P D A W V D N L A W L V O D A N W #POS
+}
+{
+I've changed? No, I just grew up. I stopped letting people push me around, I learned that I can't always be happy, I accepted reality.
+#POS L V W C W O R V T W O V V N V O R W O V P O V R V A W O V N W #POS
+}
+{
+Have you ever noticed that when people say you've changed it's really just because you've stopped living your life their way?
+#POS V O R V O R N V L V L R R P L V V D N D N W #POS
+}
+{
+I don't care how old you are, if you don't respect me I'm not respecting you.
+#POS O V V R A O V W P O V V O L R V O W #POS
+}
+{
+Life is all about finding who you are and working towards who you want to be.
+#POS N V D P V O O V F V P O O V P V W #POS
+}
+{
+Making mistakes is a part of life, so long as we all learn from them.
+#POS V N V D N P N W R A P O D V P O W #POS
+}
+{
+We are best friends. Always remember that if you fall, I will pick you up....after I finish laughing.
+#POS O V A N W R V O P O V W O V V O T W P O V V W #POS
+}
+{
+TAG people who don't close the freakin door FULLY when they leave my room.
+#POS H N O V V D A N R R O V D N W #POS
+}
+{
+TAG who can't be serious/responsible/mature when they NEED to be.
+#POS H O V V A R O V P V W #POS
+}
+{
+TAG people who are so hardheaded that I'm pretty sure they're deaf.
+#POS H N O V R A P L R A L A W #POS
+}
+{
+TAG people who assume things automatically.
+#POS H N O V N R W #POS
+}
+{
+TAG Block the hallways like it's nobody's business.
+#POS H V D N P L L N W #POS
+}
+{
+TAG You know that little handle on the toilet? The one that makes it flush? Yeah, you're supposed to USE THAT.
+#POS H O V D A V P D N W D K P V O V W C W L A P V O W #POS
+}
+{
+TAG ratchet this. ratchet that. ratchet everything.
+#POS H A O W A P W A N W #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+Live your life to the fullest because you never know when its gonna end.
+#POS V D N P D A P O R V R L V N W #POS
+}
+{
+How do I manage make such a mess in my room when all I do is sit in the same spot for NUM hours?
+#POS R V O V V A D N P D N R D O V V V P D A N P K N W #POS
+}
+{
+Touch her heart, not her body. Steal her attention, not her virginity. Make her smile, don't waste her tears.
+#POS V D N W R D N W V D N W R D N W V D N W V V D N W #POS
+}
+{
+Sarcasm is bliss.
+#POS N V N W #POS
+}
+{
+Life is short, live it. Love is rare, grab it. Anger is bad, dump it. Fear is cowardly, face it. Memories are sweet, cherish them.
+#POS N V A W V O W N V A W V O W N V A W V O W N V A W N O W N V A W V O W #POS
+}
+{
+Both headphones in: Don't talk to me. 
+One headphone in: Don't talk to me
+No headphones in: Don't talk to me.
+#POS D N P W V V P O W
+K N P W V V P O
+D N P W V V P O W #POS
+}
+{
+Boyfri(end) Girlfri(end) Fo(forever)od
+#POS B W B W B #POS
+}
+{
+That feeling like you just got shot when your hip hits the corner of something.
+#POS O V P O R V N R D N V D N P N W #POS
+}
+{
+TAG TAG TAG TAG TAG TAG TAG TAG TAG TAG TAG
+#POS H H H R A B H H H H H #POS
+}
+{
+TAG food, foood, internet, twitter, im bored, get, me out of here, food, i hate all you peasants, im tired, i hate school, FOOD
+#POS H N W N W N W B W L A W V W O P P R W N W O V D O N W L A W O V N W N #POS
+}
+{
+TAG *Singing random song* ....Wait what do we do?
+#POS H W V A N W W V O V O V W #POS
+}
+{
+TAG I hate you, I hate you, I really hate you, your annoying, stop talking. Did the bell ring yet?
+#POS H O V O W O V O W O R V O W D A W V V W V D N N R W #POS
+}
+{
+REF REF Erin PLEASE DON'T LEAVE ME :(
+#POS I I B V V V O E #POS
+}
+{
+REF Okay! Come to Florida. ;)
+#POS I C W V P B W E #POS
+}
+{
+TAG loved it! &lt;NUM That was awesome.
+#POS H V O W E O V A W #POS
+}
+{
+Refuse to lose!
+#POS V P V W #POS
+}
+{
+TAG &lt;NUM So exited!!
+#POS H E R A W #POS
+}
+{
+As we grow up we don't lose friends, we just find out who the real ones are.
+#POS P O V T O V V N W O R V T O D A N V W #POS
+}
+{
+Reasons to date me: NUM. No one will try and steal me from you. NUM. Sometimes, I'm funny.
+#POS N P V O W K W D N V V F V O P O W K W R W L A W #POS
+}
+{
+We should love. Not fall in love because when things fall, they get broken.
+#POS O V V W R V P N P R N V W O V V W #POS
+}
+{
+I don't want a perfect person. I just want someone I could be silly with, to cuddle with and someone who will love me more than anything.
+#POS O V V D A N W O R V N O V V A P W P V P F N O V V O A P N W #POS
+}
+{
+Sad? You will Soon be happy. Crying? You will later smile. Because according to Newton for every action, there is an opposite reaction.
+#POS A W O V R V A W V W O V R V W P V P B P D N W X V D N N W #POS
+}
+{
+Its all fun and games till you see a picture of you in the NUMth grade.
+#POS L D N F N P O V D N P O P D A N W #POS
+}
+{
+I am what I am today because of the choices I made yesterday.
+#POS O V O O V N P P D N O V N W #POS
+}
+{
+Promise me you'll always remember that you are braver than you believe, stronger than you seem, and smarter than you think.
+#POS V O L R V P O V A P O V W A P O V W F R P O V W #POS
+}
+{
+TAG I can't stop eating Nutella.
+#POS H O V V V N W #POS
+}
+{
+TAG You think you can treat me like I'm nothing and still expect me to want to be around you.
+#POS H O V O V V O P L N F R V O P V P V P O W #POS
+}
+{
+Made Nutella brownies....took an hour to bake but it was worth it.
+#POS V B N W V D N P V F O V A O W #POS
+}
+{
+I can go days without talking to you, months without seeing you, but not a second goes by when I don't think of you.
+#POS O V V N P V P O W N P V O W F R D A V P R O V V P O W #POS
+}
+{
+That was a close game!! But the Ravens wooonnn!!!!
+#POS O V D A N W F D B V W #POS
+}
+{
+TAGNUM RAVENS WONNNNN!!!!
+#POS H B V W #POS
+}
+{
+YEEEAAAHHHH!!!! RAVENS WON!!!! :D
+#POS C W B V W E #POS
+}
+{
+Its almost time!!!! GO RAVENS!!!! :)
+#POS L R N W V B W E #POS
+}
+{
+REF  :( don't talk about it.
+#POS I E V V P O W #POS
+}
+{
+Dear weekend, I always wanted to be with you. Don't let the weekdays take me away from you. Sincerely, I love you.
+#POS A N W O R V P V P O W V V D N V O R P O W R W O V O W #POS
+}
+{
+Life isn't about waiting for the storms to pass. Its about learning to dance in the rain.
+#POS N V P V P D N P V W L P V P V P D N W #POS
+}
+{
+Be fearless when it comes to life and careless when it comes to what people think of you.
+#POS V A R O V P N F A R O V P O N V P O W #POS
+}
+{
+What defines us is how well we rise after falling.
+#POS O V O V R R O V P V W #POS
+}
+{
+I am who I am. Your opinion is neither desired nor required.
+#POS O V O O V W D N V D A F V W #POS
+}
+{
+Every choice I make every decision....I disappoint somebody.
+#POS D N O V D N W O V N W #POS
+}
+{
+I'm so excited the Ravens are soo gonna win tomorrow!
+#POS L R V D B V R V V N W #POS
+}
+{
+REF  yup!
+#POS I C W #POS
+}
+{
+When you really miss someone, everything you see, everything you do reminds you of them.
+#POS R O R V N W N O V W N O V V O P O W #POS
+}
+{
+That moment when your teacher's perverted.
+#POS D N R D S A W #POS
+}
+{
+REF  Hans awwwwee I'm sorry it was super funny though. :)
+#POS I B C L A O V R A P W E #POS
+}
+{
+REF TAG I Love You! &lt;NUM :)
+#POS I H O V O W E E #POS
+}
+{
+REF those are some big balls. ;)
+#POS I O V D A N W E #POS
+}
+{
+That moment when you say, "Just Kidding" but you're actually dead serious.
+#POS D N R O V W W R V W F L R A A W #POS
+}
+{
+TAG distance yourself to see who actually notices. You'll then know where you stand.
+#POS H V O P V O R V W L R V R O V W #POS
+}
+{
+REF Bye guys it's been nice sleeping with you. XD
+#POS I C N L V A V P O W E #POS
+}
+{
+REF JAAAAAAADDDEEE.
+#POS I B W #POS
+}
+{
+REF hahah yesh. :)
+#POS I C C W E #POS
+}
+{
+TAG someone you once knew is now a total stranger.
+#POS H N O R V V R D A N W #POS
+}
+{
+I was so stupid for letting you go, but I know that you're still the one.
+#POS O V R A P V O V W F O V P L R D K W #POS
+}
+{
+Hey [ insert teacher's name here ] can we have homework today TAG
+#POS C W V S N R W V O V N N H #POS
+}
+{
+Yay! I have school tomorrow! TAG
+#POS C W O V N N W H #POS
+}
+{
+REF :D No Problem. But I don't know who to do for most creative....
+#POS I E D N W F O V V O P V P R A W #POS
+}
+{
+TAG I voted you for class beauty. :)
+#POS H O V O P N N W E #POS
+}
+{
+Think before you speak because once your words are said, they can only be forgiven, never forgotten.
+#POS V P O V P R D N V V W O V R V V W R V W #POS
+}
+{
+TAG F is for friends who do stuff together, U is for you and mee, Ne is for anywhere and anytime at all....
+#POS H N V P N O V N R W O V P O F O W B V P R F R P D W #POS
+}
+{
+TAG I'm sexy and I know it.
+#POS H L A F O V O W #POS
+}
+{
+REF REF I followed him before you said this but.... I followed him. :)
+#POS I I O V O P O V O F W O V O W E #POS
+}
+{
+You got this spell on me.
+#POS O V D N P O W #POS
+}
+{
+REF TAG Beeaaauuu!!
+#POS I H B W #POS
+}
+{
+REF I doo!! TAG  &lt;NUM
+#POS I O V W H E #POS
+}
+{
+REF Hahaha okay! &lt;NUM
+#POS I C C W E #POS
+}
+{
+REF  TAG . &lt;NUM
+#POS I H W E #POS
+}
+{
+TAGNUMWords Food, Twitter, Food, Sleep, and Repeat.
+#POS H N W B W N W N W F N W #POS
+}
+{
+TAG You seemed to make enough time for everyone but me.
+#POS H O V P V A N P N F O W #POS
+}
+{
+TAG Hahaahahahaaa! What date?
+#POS H C W O N W #POS
+}
+{
+Me on Monday morning: Don't look at me, don't smile at me, don't even wave to me. I will pitch slap you.
+#POS O P B N W V V P O W V V P O W V R V P O W O V V V O W #POS
+}
+{
+Don't choose the better person, choose the person who makes you a better you.
+#POS V V D A N W V D N O V O D A O W #POS
+}
+{
+TAG people with a lack of tolerance, who think too highly of themselves, and can't take a joke.
+#POS H N P D N P N W O V R R P O W F V V D N W #POS
+}
+{
+TAG when you "friend" does something that totally screws it up.
+#POS H R O W N W V N P R V O T W #POS
+}
+{
+TAG you can make me laugh
+#POS H O V V O V #POS
+}
+{
+TAG O.A.U
+#POS H C #POS
+}
+{
+TAG you have dimples.
+#POS H O V N W #POS
+}
+{
+TAG R.M.O
+#POS H V #POS
+}
+{
+It's in all the things and other things that make you who you are.
+#POS L P X D N F A N P V O O O V W #POS
+}
+{
+You hate me? Oh okay, well grab a chair and wait for me to care.
+#POS O V O W C C W R V D N F V P O P V W #POS
+}
+{
+I wish I could just fast forward to summer.
+#POS O V O V R R R P N W #POS
+}
+{
+The problem with some people is that they’re still alive.
+#POS D N P D N V O L R A W #POS
+}
+{
+Be Optimistic: All the people you hate are going to die eventually.
+#POS V A W X D N O V V V P V R W #POS
+}
+{
+When you wake up tomorrow, you're one day closer to Summer. ;)
+#POS R O V T N W L K N R P B W E #POS
+}
+{
+REF haha no problem, its the truth. ;)
+#POS I C D N W L D N W E #POS
+}
+{
+TAG REF both beautiful and gorgeous. :)
+#POS H I D A F A W E #POS
+}
+{
+TAG If you had a Tamagotchi you were cool.
+#POS H P O V D N O V A W #POS
+}
+{
+TAGNUMProblemsBut I'm still here and I'm still breathing.
+#POS H L R R F L R V W #POS
+}
+{
+TAG Fakes. Plastics. Posers. Wannabes. All dem people.
+#POS H N W N W N W N W D D N W #POS
+}
+{
+TAG Call me short just one more time.
+#POS H V O A R K A N W #POS
+}
+{
+TAGNUMProblemsBut going to sleep just seems way easier.
+#POS H V P V R V R A W #POS
+}
+{
+TAG The Original Bop It was the most intense game ever.
+#POS H D N N O V D R A N R W #POS
+}
+{
+TAG If you are my child you'll be lucky to be half as awesome as me ;) no just kidding you'll probably get smacked and yelled at
+#POS H P O V D N L V A P V R R A P O E C R V L R V V F V P #POS
+}
+{
+TAG being pushed around like i mean nothing to you.
+#POS H V V R P O V N P O W #POS
+}
+{
+This is the worst thing ever! I feel so sad. :( URL
+#POS O V D A N R W O V R A W E U #POS
+}
+{
+TAGNUMDsongswithSWAG she's not swag, live while we're swag, little swags, swag you, swag me, gotta be swag, another swag, summer swag.
+#POS H L R N W V P L N W A N W N O W N O W V V N W D N W N N W #POS
+}
+{
+TAG DON'T PACK UP, THERE'S STILL NUM SECONDS OF CLASS LEFT!
+#POS H V V T W L R K N P N V W #POS
+}
+{
+TAG *Sees you working on problem* "Sabrina what is the answer?"
+#POS H W V O V P N W W B O V D N W W #POS
+}
+{
+TAG "Can I go to the bathroom?" "I don't know, can you?"
+#POS H W V O V P D N W W W O V V W V O W W #POS
+}
+{
+TAG Go back in time and fix my mistakes.
+#POS L V R P N F V D N W #POS
+}
+{
+TAG  eat whatever I want and never get fat. But no exercise.
+#POS L V C O V F R V A W F D N W #POS
+}
+{
+TAG Call me the wrong name on purpose.
+#POS H V O D A N P N W #POS
+}
+{
+TAG Touching my food.
+#POS H V D N W #POS
+}
+{
+TAG A bloody tampon.
+#POS H D A N W #POS
+}
+{
+TAG KidzBop cd's.
+#POS H A N W #POS
+}
+{
+I nominate REF for a Shorty Award in TAG because he's a great person who makes me smile. :) &lt;NUM URL
+#POS O V I P D N N P B P L D A N O V O V W E E U #POS
+}
+{
+I nominate REF for a Shorty Award in TAG because he's Frantastic. &lt;NUM URL
+#POS O V I P D N N P B P L B W E U #POS
+}
+{
+Whenever I get mad at someone, I'll just tell them to go suck a tampon.
+#POS R O V A P N W L R V O P V V D N W #POS
+}
+{
+Whenever I get embarrassed I just say to myself, at least I didn't suck a tampon.
+#POS R O V V O R V P O W P A O V V D N W #POS
+}
+{
+REF Let me explain. Pick up a jar of Nutella and eat it. You'll understand.
+#POS I V O V W V T D N P B F V O W L V W #POS
+}
+{
+Sorry, I can't hangout. My uncle's cousin's sister in law's best friend's insurance agent's roommate's pet goldfish drowned. It was tragic
+#POS A W O V V W D S S N P S A N N S S N N V W O V A #POS
+}
+{
+TAG REF ;)
+#POS H I E #POS
+}
+{
+As soon as you get braces everyone asks "Have you always had braces?"
+#POS P R P O V N N V W V O R V N W W #POS
+}
+{
+REF I Love how in your last weeks ONUML video, you got over NUM,NUM people to stare at your butt.
+#POS I O V R P D A N K N W O V P K N P V P D N W #POS
+}
+{
+Approximately NUM% of my regrets involve hitting send.
+#POS R K P D N V V V W #POS
+}
+{
+REF I Doo!! ;) :P &lt;NUM
+#POS I O V W E E E #POS
+}
+{
+My parents should be proud of me because I'm addicted to Twitter and not drugs.
+#POS D N V V A P O P L A P B F R N W #POS
+}
+{
+Even a boring text becomes a secret when someones looking over your shoulder.
+#POS R D A N V D A R L V P D N W #POS
+}
+{
+REF Haha you know it. ;)
+#POS I C O V O W E #POS
+}
+{
+REF no it's not! You won't hurt his feelings... ugh I'll just dm you.
+#POS I C L R W O V V D N W C L R V O W #POS
+}
+{
+Yes, that last tweet was about you.
+#POS C W D A N V P O W #POS
+}
+{
+REF Haha I know what you're talking about....it's kinda funny actually. :) You should just do what I said.
+#POS I C O V O L V P W L R A R W E O V R V O O V W #POS
+}
+{
+TAG You can hurt me like that and then act like you did nothing wrong.
+#POS H O V V O P O F R V P O V N A W #POS
+}
+{
+TAG Go on Twitter.
+#POS H V P B W #POS
+}
+{
+TAG the dress code is more important than the education.
+#POS H D N N V R A P D N W #POS
+}
+{
+TAG people walk slow and take up the entire sidewalk and refuse to move to let people through.
+#POS H N V A F V T D A N F V P V P V N P W #POS
+}
+{
+TAG The kids there are higher than their grades are.
+#POS H D N R V A P D N V W #POS
+}
+{
+REF I Love You. I remember you before you were famous. &lt;NUM :)
+#POS I O V O W O V O P O V A W E E #POS
+}
+{
+REF "Why were you late then? Did the family caravan break down? Did your mom get in and the wheels fell off?"
+#POS I W R V O A R W V D N N V T W V D N V P F D N V T W W #POS
+}
+{
+Florida's weather is so bipolar!!
+#POS Z N V R A W #POS
+}
+{
+Sometimes, I just want to escape the prison they call life.
+#POS R W O R V P V D N O V N W #POS
+}
+{
+REF DM me your address and everything my sister lost it or whatever.
+#POS I V O D N F N D N V O F C W #POS
+}
+{
+Me: I really can't stay........... Shower: But baby it's cold outside.
+#POS O W O R V V W N W F N L A N W #POS
+}
+{
+My mom tried to kill me when I was a baby. She denied it. she thought the plastic bag would keep me fresh. - Bob Monkhouse
+#POS D N V P V O R O V D N W O V O W O V D N N V V O A W G B B #POS
+}
+{
+Dear Karma, I have a list of people you seemed to have missed.
+#POS A B W O V D N P N O V P V V W #POS
+}
+{
+REF Thanks so much for the follow! &lt;NUM
+#POS I N R R P D N W E #POS
+}
+{
+REF REF It's fine we'll try another time.
+#POS I I L A L V D N W #POS
+}
+{
+Need to sleep, but Twitter won't let me. I hate you Twitter. No I'm just kidding i didn't mean it, I love you so much.
+#POS V P V W F B V V O W O V O B W C L R V O V V O W O V O R A W #POS
+}
+{
+If you don't want sarcastic answers, don't ask stupid questions.
+#POS P O V V A N W V V A N W #POS
+}
+{
+*people at school* "What day is it?" "Wednesday January NUM NUM." *people during summer* "What day is it?" " I dunno"
+#POS W N P N W W O N V O W W W B B K K W W W N P N W W O N V O W W W O V W #POS
+}
+{
+"DELETE YOUR TWITTER IF...." Shut up you can't tell me what to do.
+#POS W V D B P W W V T O V V O O P V W #POS
+}
+{
+REF good smelling guy cologne?
+#POS I A V N N W #POS
+}
+{
+Just saw someone followed me and realized it was REF .... nearly fell out of my chair.
+#POS R V N V O F V O V I W R V P P D N W #POS
+}
+{
+You know your in trouble when your mom screams your whole name.
+#POS O V L P N R D N V D A N W #POS
+}
+{
+Story of My Life. URL
+#POS N P D N W U #POS
+}
+{
+I'm just a girl. URL
+#POS L R D N W U #POS
+}
+{
+Just me? URL
+#POS R O W U #POS
+}
+{
+Judge me.... URL
+#POS V O W U #POS
+}
+{
+Someday. URL
+#POS R W U #POS
+}
+{
+It's hard. URL
+#POS L A W U #POS
+}
+{
+This is so adorable. &lt;NUM URL
+#POS O V R A W E U #POS
+}
+{
+REF TAG I Love You, have a great day....or night. Stay Average. ;)
+#POS I H O V O W V D A N W F N W V A W E #POS
+}
+{
+Lets flip a coin. Heads I'm yours, Tails you're mine.
+#POS L V D N W V L O W N L O W #POS
+}
+{
+Roses are red, violets are blue, faces like yours belong in the zoo. Don't be mad, I'll be there too. Not in the cage, but laughing at you.
+#POS N V A W N V A W V P O V P D N W V V A W L V R R W R P D N W F V P O W #POS
+}
+{
+Imma do me and you do you.
+#POS L V O F O V O W #POS
+}
+{
+NUM things you cannot recover in life: the WORD after its said, the MOMENT after its missed, and the TIME after its gone.
+#POS K N O V V P N W D N P L V W D N P L V W F D N P L A W #POS
+}
+{
+The worst thing about being lied to is knowing you're not worth the truth.
+#POS D A N P V V P V V L R V D N W #POS
+}
+{
+When the person you thought you knew your entire life turns out to be a whole other person....everything changes.
+#POS R D N O V O V D A N V T P V D A A N W N N W #POS
+}
+{
+Respect your parents, they pay for your internet.
+#POS V D N W O V P D N W #POS
+}
+{
+Disaster - The moment of disappointment when you cant find the answer to your homework on google.
+#POS N W D N P N R O V V D N P D N P B W #POS
+}
+{
+Dear  Kindergarten children, If you don't like nap time, please give it to us. Sincerely, High Schoolers.
+#POS A B N W P O V V N N W V V O P O W R W A N W #POS
+}
+{
+H.O.M.E.W.O.R.K Half of me energy wasted on random knowledge.
+#POS N W C W G W G W G W C W N W B B P O N V P A N W #POS
+}
+{
+If you have something to say, raise your hand and put it over your mouth because I don't care.
+#POS P O V N P V W V D N F V O P D N P O V V W #POS
+}
+{
+No one's home? Oh yeah, I can do what ever I want! *Goes pee with door open*
+#POS D S N W C C W O V V O R O V W W V V P N A W #POS
+}
+{
+TAG I'm sleeping. It's not important enough for me to wake up, tell me in the morning.
+#POS H L V W L R A N P O P V T W V O P D N W #POS
+}
+{
+TAG My headphones are in.
+#POS H D N V P W #POS
+}
+{
+Don't be mad when someone else starts to appreciate the person you took for granted. What you won't do, someone else will.
+#POS V V A R N R V P V D N O V P V W O O V V W N R V W #POS
+}
+{
+TAG  Courage the Cowardly Dog. &lt;NUM
+#POS H N D A N W E #POS
+}
+{
+Me: Can I go to the Library to return my books? Teacher: Does anyone else have books to return? Give them to [your name here]. Me: -_-
+#POS O W V O V P D N P V D N W N W V N R V N P V W V O P W D N R W W O W E #POS
+}
+{
+Nah, I didn't "change"... I just realized some stuff.
+#POS C W O V W N W W O R V D N W #POS
+}
+{
+How to prepare for exams: bring out work to study, place on the table, crawl up into a ball and cry.
+#POS R P V P N W V T N P N W N P D N W V T P D N F V W #POS
+}
+{
+TAG ? well its not gonna end with you sitting at the computer tweeting about it.
+#POS H W C L R V V P O V P D N V P O W #POS
+}
+{
+We’re not friends anymore, just strangers with memories.
+#POS L R N R W R N P N W #POS
+}
+{
+Best Threesome: Me. My Bed. My Pillow.
+#POS A N W O W D N W D N W #POS
+}
+{
+I like people who can keep the conversation going no matter how random the topics get.
+#POS O V N O V V D N V D N R A D N V W #POS
+}
+{
+Congratulations, you have successfully hurt my feelings, again.
+#POS C W O V R V D N W R W #POS
+}
+{
+Sure I miss you and I still want to be with you but I can't handle the pain you caused me.
+#POS A O V O F O R V P V P O F O V V D N O V O W #POS
+}
+{
+All those "I love you"s mean nothing anymore.
+#POS X D W O V O W G V N R W #POS
+}
+{
+Think before you act, it can change our entire relationship.
+#POS V P O V W O V V D A N W #POS
+}
+{
+If you really cared about me, you wouldn't do it.
+#POS P O R V P O W O V V O W #POS
+}
+{
+Bestfriends dont hide things .Bestfriends think about effect it'll make on a friend before acting. Bestfriends are true.You? Not even close.
+#POS N V V N W B V P N L V P D N P V W B V A W O W R R A W #POS
+}
+{
+I don't miss you. I miss the laughs, the smiles, the good times, the way things were. Now, I don't know who you are.
+#POS O V V O W O V D N W D N W D A N W D N N V W R W O V V O O V W #POS
+}
+{
+I don't chase after anyone no matter who you are, if you wanna walk out my life then I'll hold the door open for you.
+#POS O V V P N D N O O V W P O V V T D N R L V D N V P O W #POS
+}
+{
+Saying you'll wake up EARLY to get something done then waking up and convincing yourself it's not important....
+#POS V L V T R P V N V R V T F V O L R A W #POS
+}
+{
+My best friend and I can speak to each other through facial expressions.
+#POS D A N F O V V P D A P A N W #POS
+}
+{
+They say the human imagination is infinite, try to imagine a new color.
+#POS O V D A N V A W V P V D A N W #POS
+}
+{
+Does anyone ever see things in their dreams and then later in life see the exact same thing and freak out for a couple seconds?
+#POS V N R V N P D N F R R P N V D A A N F V T P D N N W #POS
+}
+{
+According to chain messages, I should've died NUM times, been raped twice, been cut NUM times. Either chain messages are fake or I'm Superman.
+#POS V P V N W O V V K N W V V R W V V K N W D N N V A F L B W #POS
+}
+{
+I have NUM fingers for a reason. URL
+#POS O V K N P D N W U #POS
+}
+{
+TAG "SABRINAAAA....I looovee you, just kidding I hate you get away from me ;).OOOOHH Fudge Round! Did we have homework?"
+#POS H W B W O V O W R V O V O V R P O E W C B B W V O V N W W #POS
+}
+{
+That awkward moment when someone yells at you for clicking a pen too much but you have to click it one more time to use it.
+#POS D A N R N V P O P V D N R A F O V P V O K A N P V O W #POS
+}
+{
+REF please give me a follow TAG
+#POS I V V O D N H #POS
+}
+{
+It’s like you can’t have a friend of the opposite gender without the entire galaxy asking if you’re dating.
+#POS L P O V V D N P D A N P D A N V P L V W #POS
+}
+{
+"Money doesn't make you happy" Really? I'm pretty sure if I lived in a mansion I'd be happy.
+#POS W N V V O A W R W L R A P O V P D N L V A W #POS
+}
+{
+Today I'm super lazy....it's not much different from my normal lazy I'm just wearing a cape.
+#POS N L R A W L R R A P D A A L R V D N W #POS
+}
+{
+TAG REF
+#POS H I #POS
+}
+{
+Morning: Lazy Afternoon: Dying for a rest. Night: Cant sleep.
+#POS N W A N W V P D N W N W V V W #POS
+}
+{
+A word to the wise ain't necessary, its the stupid ones that need advice.
+#POS D N P D A V A W L D A N P V N W #POS
+}
+{
+Behind every great man a woman is rolling her eyes.
+#POS P D A N D N V V D N W #POS
+}
+{
+Find a place inside where there's joy, the joy will burn out the pain.
+#POS V D N P R L N W D N V V T D N W #POS
+}
+{
+The best and most beautiful things cannot be touched - they must be felt with your heart.
+#POS D A F R A N V V V W O V V V P D N W #POS
+}
+{
+Life doesn't come with instructions, mistakes are meant to be made.
+#POS N V V P N W N V V P V V W #POS
+}
+{
+Everyone has a story left untold.Never judge someone as if you know their entire life story because truth is...you probably don't.
+#POS N V D N V A W R V N P P O V D A N N P N V W O R V W #POS
+}
+{
+The fridge is a perfect example of it's what's inside that matters.
+#POS D N V D A N P L L P O V W #POS
+}
+{
+Don't confuse my personality with my attitude. My personality is who I am. My attitude depends on who you are.
+#POS V V D N P D N W D N V O O V W D N V P O O V W #POS
+}
+{
+You think I'm not on Twitter, but I'm always here. Even if I'm not tweeting, I'm here. Scrolling.
+#POS O V L R P B W F L R R W R P L R V W L R W V W #POS
+}
+{
+Cutest baby ever! TAG URL
+#POS A N R W H U #POS
+}
+{
+Person: I like you.... Me: Why?
+#POS N W O V O W O W R W #POS
+}
+{
+Don't ask for my opinion and then get mad when I tell you the truth.
+#POS V V P D N F R V A R O V O D N W #POS
+}
+{
+Whenever you fall, I'll be there-floor.
+#POS R O V W L V R W #POS
+}
+{
+You can't deny laughter and when it comes, it plops down in your favorite chair and stays as long as it wants.
+#POS O V V N F R O V W O V T P D A N F V R A P O V W #POS
+}
+{
+If you're not going to tell me something, don't bring it up.
+#POS P L R V P V O N W V V O T W #POS
+}
+{
+REF  *dying* TAG &lt;NUM
+#POS I W V W H E #POS
+}
+{
+REF  SO TELL ME GIRL IF EVERYTIME WE TO-OU-UCH.... O.O
+#POS I P V O N P R O G G O W E #POS
+}
+{
+REF  I had difficulty living!! So basically yes.
+#POS I O V N V W R R C W #POS
+}
+{
+Just  watched One Direction's new music video, Kiss You with REF REF One of the best things I've ever seen.
+#POS R V K Z A N N W V O P I I W K P D A N L R V W #POS
+}
+{
+REF  Can I be your addiction or the prescription that you need. ;)
+#POS I V O V D N F D N P O V W E #POS
+}
+{
+Me: I wonder how I look. Mirror: You're looking hot today! Camera: Lol, no you're ugly.
+#POS O W O V R O V W N W L V A N W N W C W C L A W #POS
+}
+{
+Everything's funnier when you're not allowed to laugh.
+#POS L A R L R V P V W #POS
+}
+{
+In life there are no problems, only solutions waiting to be solved.
+#POS P N X V D N W A N V P V V W #POS
+}
+{
+That feeling when you get fresh new clothes out of the dryer. &lt;NUM
+#POS O V R O V A A N P P D N W E #POS
+}
+{
+I'm not a perfect person, I make a lot of mistakes but I love everyone who stays with me after they know who I really am.
+#POS L R D A N W O V D N P N F O V N O V P O P O V O O R V W #POS
+}
+{
+Another day, another year. Another smile, another tear. Another winter, another summer too. But there will never be another you. &lt;NUM
+#POS D N W D N W D N W D N W D N W D N R W F R V R V D O W E #POS
+}
+{
+Nothings impossible, the word says it itself "I'm possible" - Marilyn Monroe
+#POS L A W D N V O O W L A W W B B #POS
+}
+{
+REF remember me? Ya I saw you at Fye today. ;)  URL
+#POS I V O W C O V O P B N W E U #POS
+}
+{
+Person: "Oh my God did you just fall?!" Me: "No, the floor looked lonely so I kissed it."
+#POS N W W C D B V O R V W W O W W C W D N V A P O V O W W #POS
+}
+{
+People are like music. Some speak the truth others just make noise.
+#POS N V P N W D V D N N R V N W #POS
+}
+{
+The older I get, the more I realize how much I hate people.
+#POS D A O V W D A O V R R O V N W #POS
+}
+{
+Don't let anyone's ignorance, hate, drama, or negativity stop you from being the best person you can be.
+#POS V V D N W V W N W F N V O P V D A N O V V W #POS
+}
+{
+Don't think too much, you'll create a problem that wasn't there in the first place.
+#POS V V R A W L V D N P V R P D A N W #POS
+}
+{
+Happy New Year Everyone!!!! I love you all!!!!
+#POS A A N N W O V O D W #POS
+}
+{
+HAPPY NEW YEAR!!!!
+#POS A A N W #POS
+}
+{
+Don't make a girl fall for you if you don't plan on catching her.
+#POS V V D N V P O P O V V P V O W #POS
+}
+{
+Love is about trust.
+#POS N V P N W #POS
+}
+{
+I'm not playing hard to get, I'm playing leave me alone.
+#POS L R V A P V W L V V O R W #POS
+}
+{
+I cared, you didn't. I cried, you laughed. I hurt, you smiled. I moved on, you realized. Too late.
+#POS O V W O V W O V W O V W O V W O V W O V P W O V W R A W #POS
+}
+{
+I hate when people text "k" hit me up when you learn the other NUM letters of the alphabet.
+#POS O V R N N W N W V O T R O V D A K N P D N W #POS
+}
+{
+REF Don't worry I still love and support you. :)
+#POS I V V O R V F V O W E #POS
+}
+{
+Nutella popcorn = eating a piece of chocolate heaven.
+#POS B B W V D N P N N W #POS
+}
+{
+REF = happiness. I Love TAG &lt;NUM
+#POS I W N W O V H E #POS
+}
+{
+Just spent the last NUM min. voting for REF REF TAG on URL nonstop....yup.
+#POS R V D A K N W V P I I H P U A W C W #POS
+}
+{
+TAG is like this. URL
+#POS B V P O W U #POS
+}
+{
+Why can't a T-Rex clap? Because it's dead.
+#POS R V D N N W P L A W #POS
+}
+{
+Society is funny. They ask you to be yourself and yet they judge you.
+#POS N V A W O V O P V O F R O V O W #POS
+}
+{
+REF PARKOUR!! :)
+#POS I B W E #POS
+}
+{
+"....I wasn't that drunk" "Dude, you locked us in a room and yelled 'let the Hunger Games begin!'"
+#POS W W O V O A W W N W O V O P D N F V W V D N N V W #POS
+}
+{
+"....I wasn't that drunk" "Dude, you threw a squirrel into my pool and yelled 'Sandy, Bikini Bottom needs you!'"
+#POS W W O V O A W W N W O V D N P D N F V W B W B B V O W #POS
+}
+{
+"....I wasn't that drunk""Dude, you asked your girlfriend if she was single!"
+#POS W W O V O A W N W O V D N P O V A W W #POS
+}
+{
+"I wasn't that drunk"...."Dude, you argued with yourself on the phone and got upset when you hung up on yourself!"
+#POS W O V O A W W W N W O V P O P D N F V A R O V T P O W W #POS
+}
+{
+Heart Surgery. URL
+#POS N N W U #POS
+}
+{
+TAG I Love You!! &lt;NUM ;)
+#POS H O V O W E E #POS
+}
+{
+So REF just randomly follows me and I watch one of his videos....I love him now. :)
+#POS P I R R V O F O V K P D N W O V O R W E #POS
+}
+{
+I don't know if this is creepy or awesome but it took forever to draw, so....ya REF REF  :) URL
+#POS O V V P O V A F A F O V R P V W P W O I I E U #POS
+}
+{
+REF Could I get a follow? &lt;NUM
+#POS I V O V D N W E #POS
+}
+{
+*Doctor pokes gums with sharp point object of death* " Your gums are bleeding because you don't floss." Oh is that the reason? -_-
+#POS W N V N P A N N P N W W D N V V P O V V W W C V O D N W E #POS
+}
+{
+How'd everyone enjoy dying??
+#POS R N V V W #POS
+}
+{
+Answering Machine: "Hi! I'm probably home. I'm just avoiding someone I don't like. Leave a message. If I don't call back, it's you."
+#POS V N W W C W L R N W L R V N O V V W V D N W P O V V R W L O W W #POS
+}
+{
+REF REF I looovvvveeee youuuu guyysss....just in case you were wondering. ;)
+#POS I I O V O N W R P N O V V W E #POS
+}
+{
+Am I supposed to die now?
+#POS V O V P V R W #POS
+}
+{
+F.R.I.E.N.D.S : Fight for you. Respect you. Include you. Encourage you. Need you. Deserve you. Stand by you.
+#POS N W N W O W G W F W N W G J V P O W V O W V O W V O W V O W V O W V P O W #POS
+}
+{
+I don't secretly hate you , I hate you, hate you.
+#POS O V R V O W O V O W V O W #POS
+}
+{
+TAG Carly!!
+#POS H B W #POS
+}
+{
+REF -,- thanks.
+#POS I E N W #POS
+}
+{
+REF Yesh!!!! &lt;NUM
+#POS I C W E #POS
+}
+{
+My grades need to be higher. My weight needs to be lower. My stomach needs to be flatter. My wallet needs to be fatter.
+#POS D N V P V A W D N V P V A W D N V P V V W D N V P V A W #POS
+}
+{
+TAG I don't think the world is gonna end tomorrow.
+#POS H O V V D N V V N N W #POS
+}
+{
+TAG I let the dogs out.
+#POS H O V D N P W #POS
+}
+{
+Schooolllss finnaalllyyy oooouuttttt!!!!!
+#POS B R P W #POS
+}
+{
+heheheh. :P URL
+#POS C W E U #POS
+}
+{
+I don't hate you, but if you were on fire and I had water, I'd drink it.
+#POS O V V O W F P O V P N F O V N W L V O W #POS
+}
+{
+Me every night: I can have exactly NUM hours NUM minutes and NUM seconds of sleep if I fall asleep right now....NUM....NUM....NUM....NUM....
+#POS O D N W O V V R K N K N F K N P N P O V R R R W K W K W K W K W #POS
+}
+{
+REF REF I don't know how many times I voted for you guys but my hand hurts now....
+#POS I I O V V R A N O V P O N F D N V R W #POS
+}
+{
+REF You've gotten so famous! I love you. &lt;NUM
+#POS I L V R A W O V O W E #POS
+}
+{
+Voldemort's parents took the "I got your nose" game a little too seriously.
+#POS D N V D W O V D N W N D A R R W #POS
+}
+{
+Poor Kids. URL
+#POS A N W U #POS
+}
+{
+Smile, It looks good on you ;) URL
+#POS V W O V A P O E U #POS
+}
+{
+Rest In Peace you beautiful little angels. TAG TAG TAG. &lt;NUM
+#POS N P B O A A N W H H H W E #POS
+}
+{
+What I think while I'm driving. URL
+#POS O O V P L V W U #POS
+}
+{
+One of the biggest lies will always be "yeah i'm fine, i'm just tired."
+#POS K P D A N V R V W C L A W L R A W W #POS
+}
+{
+Horror movie! URL
+#POS B N W U #POS
+}
+{
+Sooooo = I don't know what to say, but I don't wanna stop talking to you.
+#POS R W O V V O P V W F O V V V V P O W #POS
+}
+{
+REF Love you toooo.
+#POS I V O R W #POS
+}
+{
+REF have a great birthday! I love your beautiful face! &lt;NUM
+#POS I V D A N W O V D A N W E #POS
+}
+{
+Happy Birthday REF I Love you! &lt;NUM ;) URL
+#POS A N I O V O W E E U #POS
+}
+{
+I love my mom no matter what we go through and no matter how much we argue because I know, in the end, she’ll always be there for me.
+#POS O V D N D N O O V P F D N R A O V P O V W P D N W L R V R P O W #POS
+}
+{
+When I say that I won’t tell anybody, my best friend doesn't count.
+#POS R O V P O V V N W D A N V V W #POS
+}
+{
+I'm so ready for school....to end.
+#POS L R A P N W P N W #POS
+}
+{
+TAG NOW FLIP! REF hahahaa. &lt;NUM
+#POS H R V W I C W E #POS
+}
+{
+When life knocks me down, instead of getting back up I usually lie there and take a nap.
+#POS R N V O R W R P V R T O R V R F V D N W #POS
+}
+{
+"What’s wrong?" I'm depressed, lonely, broken, sad, hurt, pained, and dying inside "I'm tired."
+#POS W L A W W L A W A W V W A W V W A W F V P W L A W W #POS
+}
+{
+Smile, it looks good on you. ;)
+#POS V W O V A P O W E #POS
+}
+{
+Hardest decision ever: Make/eat food or play/listen to music.
+#POS A N R W V N F V P N W #POS
+}
+{
+I watch CSI, NCIS, Criminal Minds, Law &amp; Order, and Bones, I can make your death look like an accident.
+#POS O V B W B W A N W N F N W F N W O V V D N V P D N W #POS
+}
+{
+It's the perfect cuddling weather.......Hi bed, Hi pillow. Tonight we're having a date.
+#POS L D A N N W C N W C N W N L V D N W #POS
+}
+{
+I hate it when you have to be nice to someone you really want to throw a brick at.
+#POS O V O R O V P V A P V O R V P V D N P W #POS
+}
+{
+The story of Newtown changed my life. Who can look at a NUM year old in the face and shoot them?!? TAG
+#POS D N P B V D N W O V V P D K N A P D N F V O W H #POS
+}
+{
+REF hahah thanks :)
+#POS I C N E #POS
+}
+{
+Doesn't everyone just hate how people care more about Justin Beiber more than the death of innocent kids and humans?
+#POS V N R V R N V R P B B A P D N P A N F N W #POS
+}
+{
+REF Conorrrr Franttaaaa you're so frantaaaasstic. &lt;NUM
+#POS I B B L R R W E #POS
+}
+{
+You gotta dance like no one's watching,love like you'll never be hurt,sing like there's nobody listening,and live like it's heaven on earth.
+#POS O V V P D N V W V P L R V V W V P L N V W F V P L B P N W #POS
+}
+{
+If you don't like something change it, if you can't change it — change the way you think about it.
+#POS P O V V N V O W P O V V O W V D N O V P O W #POS
+}
+{
+If nothing ever changed, there'd be no butterflies.
+#POS P N R V W L V D N W #POS
+}
+{
+I'm so happy twitter doesn't show how many times people visit your profile, who visited your profile.
+#POS L R A B V V R A N N V D N W O V D N W #POS
+}
+{
+the colors red, white, and blue are the colors of freedom until they're flashing behind you.
+#POS D N A W A W F A V D N P N P L V P O W #POS
+}
+{
+Apparently the world's gonna end next week....who's ready to die? -_-
+#POS R D S V V A N W L A P V W E #POS
+}
+{
+Dear cupid, next time you decide to shoot me with one of your freaking arrows, shoot them too!
+#POS A B W A N O V P V O P K P D A N W V O R W #POS
+}
+{
+I was so stupid for letting you go, but I know you're still the one.
+#POS O V R A P V O V W F O V L R D K W #POS
+}
+{
+So c'mon c'mon move a little closer now. ;) #NUMD &lt;NUM
+#POS P N N V D A R R W E H E #POS
+}
+{
+If I was Morgan Freeman. I would just sit around talking to myself all day.
+#POS P O V B B W O V R V R V P O D N W #POS
+}
+{
+But you'll never know. Baby I loved you first. &lt;NUM
+#POS F L R V W N O V O A W E #POS
+}
+{
+REF It looks like you....But younger and with blonde hair. :P
+#POS I O V P O W F A F P A N W E #POS
+}
+{
+Girls are the weaker sex. Oh yeah? Try getting the blanket back to your side.
+#POS N V D A N W C C W V V D N R P D N W #POS
+}
+{
+Whenever I have a problem, I sing. Then I realize my voice is worse then the problem.
+#POS R O V D N W O V W R O V D N V A P D N W #POS
+}
+{
+They don't know about the things we do. They don't know about the 'I Love you's. &lt;NUM
+#POS O V V P D N O V W O V V P D W O V O W E #POS
+}
+{
+Being called weird is like being called Limited Edition.It means you're something people don't see that often. Remember that.
+#POS V V A V P V V A N W O V L N N V V D R W V O W #POS
+}
+{
+Don’t do something permanently stupid because you’re temporarily upset.
+#POS V V N R A P L R A W #POS
+}
+{
+You call it "jealousy". I call it "fear of losing you".
+#POS O V O W N W W O V O W N P V O W W #POS
+}
+{
+My past is my past, I've made mistakes but I have learned from them too.
+#POS D A V D A W L V N F O V V P O R W #POS
+}
+{
+That awkward moment when someone asks what's wrong, when they're the problem.
+#POS D A N R N V L A W R L D N W #POS
+}
+{
+Telling someone we cant date but we can be 'Just Friends' is like saying someone don't eat this food but you can smell it and look at it.
+#POS V N O V V F O V V W R N W V P V N V V D N F O V V O F V P O W #POS
+}
+{
+It's hard enough to watch people change, but it's even harder to remember who they used to be.
+#POS L A N P V N V W F L R A P V O O V P V W #POS
+}
+{
+When I say "I wont tell anyone" My best friend doesn't count.
+#POS R O V W O V V N W D A N V V W #POS
+}
+{
+Best Joke Ever. My Life.
+#POS A N R W D N W #POS
+}
+{
+That awkward moment when you don't know how to smile when someone is taking a picture.
+#POS D A N R O V V R P V R N V V D N W #POS
+}
+{
+Positive thought. ;) URL
+#POS A N W E U #POS
+}
+{
+Me: I Love You Mom. Mom: Okay.
+#POS O W O V O N W N W C W #POS
+}
+{
+The sound of children laughing always makes me happy. Unless I'm home alone and my power goes out....
+#POS D N P N V R V O A W P L N R F D N V T W #POS
+}
+{
+There is a difference between knowing the path and walking the path.
+#POS X V D N P V D N F V D N W #POS
+}
+{
+We either make ourselves miserable, or we make ourselves happy. The amount of work is the same.
+#POS O D V D A W F O V D A W D N P N V D A W #POS
+}
+{
+Dear sleep, I'm sorry we broke up this morning, I want you back.
+#POS A N W L A O V T D N W O V O R W #POS
+}
+{
+If you don't know who this is.... I have no words to say to you. URL
+#POS P O V V O O V W O V D N P V P O W U #POS
+}
+{
+I ask my parents a simple "Yes" or "No" question and I get a lecture that doesn't even answer my question.
+#POS O V D N D A W C W F W C W N F O V D N P V R V D N W #POS
+}
+{
+REF REF  Funniest/best memory ever? TAG
+#POS I I A N R W H #POS
+}
+{
+Spongebob: | ( • )( • ) | Patrick: / (•)(•) \ Squidward: ( (•)(•) ) Plankton: | (•) | Mr. Krabs: |•||•| Can you see them?
+#POS B W G W J W J W G B W W G G G B W W E E W B W G G G B B W G V O V O W #POS
+}
+{
+That sad moment when you look inside your pocket, and it's not full of sunshine.
+#POS D A N R O V P D N W F L R A P N W #POS
+}
+{
+Dude....I was there, don't try to change the story.
+#POS N W O V R W V V P V D N W #POS
+}
+{
+REF Yes. Yes I am. :)
+#POS I C W C O V W E #POS
+}
+{
+REF You liarrr....  and haha sucks for you. ;)
+#POS I O N W F C V P O W E #POS
+}
+{
+REF pshhhh you didn't have to do that i was just messing around. ;) i loovee you &lt;NUM
+#POS I C O V V P V O O V R V R W E O V O E #POS
+}
+{
+REF REF REF well you forgot me.... thanks.
+#POS I I I C O V O W N W #POS
+}
+{
+Work hard, play harder and love even more. Only Pointers will understand this. REF REF
+#POS N A W V A F V R A W A N V V O W I I #POS
+}
+{
+Just watched the last episode of Phil of the Future again....excuse me while I go cry in that corner over there.
+#POS R V D A N P B P D N R W V O P O V V P D N P R W #POS
+}
+{
+Miley isn't Hannah anymore. Demi isn't Sonny anymore. Selena isn't Alex anymore. Disney isn't Disney anymore.
+#POS B V B R W B V B R W B V B R W N V N R W #POS
+}
+{
+TAG Jingles bells, Mermaid Man smells, Barnacle Boy laid an egg.
+#POS H N N W N N V W B B V D N W #POS
+}
+{
+Watching your best friend turn into somebody you no longer know, it hurts.
+#POS V D A N V P N O D N V W O V W #POS
+}
+{
+The future hasn't happened yet. So there's no reason to be negative about it
+#POS D N V V R W P L D N P V A P O #POS
+}
+{
+It rains the hardest on the people who shine the most.
+#POS O V D A P D N O V D A W #POS
+}
+{
+Oh, I'm sorry. I didn't realize you were an expert on my life and how I should live it. Please continue while I take notes.
+#POS C W L A W O V V O V D N P D N F R O V V O W V V P O V N W #POS
+}
+{
+I wish I could download food....
+#POS O V O V V N W #POS
+}
+{
+That moment when you've already said “what?” three times and still have no idea what the person said, so you just nod and smile.
+#POS D N R L R V W O W W K N F R V D N O D N V W P O R V F N W #POS
+}
+{
+REF pssssttt I am now. :)
+#POS I N O V R W E #POS
+}
+{
+REF No, I'm pretty sure the ground will too. ;)
+#POS I C W L R A D N V R W E #POS
+}
+{
+Random Person: "How you ever seen Project X" REF : "I'm in the movie!" Hahaah
+#POS A N W W R O R V N E W I J W L P D N W W C #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+This is amazing! Looking at rain from an airplane. URL
+#POS O V A W V P N P D N W U #POS
+}
+{
+Dear Karma, I have a list of people you missed.
+#POS A B W O V D N P N O V W #POS
+}
+{
+Everything I like is either: illegal, immoral, fattening, addictive, expensive, or impossible.
+#POS N O V V D W A W A W V W A W A W F A W #POS
+}
+{
+Fool me once, fine by me. Fool me twice, jokes on you. I still don't care.
+#POS N O R W A P O W N O R W N P O W O R V V W #POS
+}
+{
+Those who stand for nothing fall for anything.
+#POS O O V P N V P N W #POS
+}
+{
+If you don't live for something, you die for nothing.
+#POS P O V V P N W O V P N W #POS
+}
+{
+REF Good Night!! &lt;NUM
+#POS I A N W E #POS
+}
+{
+Don't ever try to judge me because you don't know what I've been through.
+#POS V R V P V O P O V V O L V P W #POS
+}
+{
+REF Hey are you coming today??
+#POS I C V O V N W #POS
+}
+{
+REF Just don't burn it. ;)
+#POS I R V V O W E #POS
+}
+{
+REF Haahaah :P
+#POS I C E #POS
+}
+{
+REF REF He dropped like a couple drops of it!Like only what was in his mouth!And you still lost! &lt;NUM haha its ok!
+#POS I I O V P D N N P O W P R O V P D N W F O R A W E C L A W #POS
+}
+{
+Just watched Twilight Breaking Dawn Part NUM, I'm not a fan of Twilight like at all but THAT WAS A GOOD MOVIE!!
+#POS R V B B B N K W L R D N P B P P D F O V D A N W #POS
+}
+{
+REF wow REF coughed up his lungs for like NUM minutes and you still lost to that water drinking race thing.
+#POS I C I V T D N P A K N F O R V P D N V N N W #POS
+}
+{
+REF Nutella Brownies. ;) URL
+#POS I B N W E U #POS
+}
+{
+Here's to the girls. URL
+#POS L P D N W U #POS
+}
+{
+REF Whhaaattt????
+#POS I O W #POS
+}
+{
+My parents say it’s their house but when it comes time to clean, it magically becomes my house too.
+#POS D N V L D N F R O V N P V W O R V D N R W #POS
+}
+{
+Shout out to all the girls who say their photos aren't edited yet their eyes look like they're shooting lasers out of them.
+#POS V T P X D N O V D N V V R D N V P L V N P P O W #POS
+}
+{
+At least when you're hanging out with yourself, you get to pick the music.
+#POS P A R L V T P O W O V P V D N W #POS
+}
+{
+REF oh.... i think goats are better. :)
+#POS I C W O V N V A W E #POS
+}
+{
+REF your never calm -_-
+#POS I L R A E #POS
+}
+{
+REF Oh i used to live in Narnia! I live in Bikini Bottom now the krabby patties are really good!
+#POS I C O V P V P B W O V P B B R D A N V R A W #POS
+}
+{
+REF hahah  i love your face. ;)
+#POS I C O V D N W E #POS
+}
+{
+REF Hiding from you because you yell wayyyyyyyyyyyy too much.... calm yo self.
+#POS I V P O P O V N R A W A D N W #POS
+}
+{
+"I'm going to bed" really means "I'm going to go lay in my bed and be on my phone for about an hour or so."
+#POS W L V P N W R V W L V P V V P D N F V P D N P P D N F R W W #POS
+}
+{
+I won’t take a bullet for anyone because if I have time to jump in front of a bullet, you have time to move.
+#POS O V V D N P N P P O V N P V P N P D N W O V N P V W #POS
+}
+{
+REF REF Yup he's do gonna follow you now. ;)
+#POS I I C L V V V O R W E #POS
+}
+{
+How I feel like everyday. URL
+#POS R O V P N W U #POS
+}
+{
+Sometimes the laugh is funnier than the joke itself.
+#POS R D N V A P D N O W #POS
+}
+{
+REF I LOVE YOUR FACE. ;) :P &lt;NUM
+#POS I O V D N W E E E #POS
+}
+{
+REF REF Hating*
+#POS I I V W #POS
+}
+{
+REF I'm not heting i love you!! but you are seriously stupid.
+#POS I L R V O V O W F O V R A W #POS
+}
+{
+REF Oh how stupid you are. ;)
+#POS I C R A O V W E #POS
+}
+{
+REF  How did you think of the name Exclamation Point? TAG
+#POS I R V O V P D N N N W H #POS
+}
+{
+Lately I've been going crazy so I'm coming back for you.
+#POS R L V V A P L V R P O W #POS
+}
+{
+To all my followers, friends, family, haters, and pretty much everyone in this world. &lt;NUM ;) URL
+#POS P X D N W N W N W N W F R A N P D N W E E U #POS
+}
+{
+REF I didn't get to talk to you but i'm glad i got to help it trend!! &lt;NUM
+#POS I O V V P V P O F L A O V P V O V W E #POS
+}
+{
+REF Gurl your awkward is always showing.
+#POS I C D A V R V W #POS
+}
+{
+TAG I want to get it to the top!!
+#POS H O V P V O P D N W #POS
+}
+{
+TAG TAG TAG TAG &lt;NUM
+#POS H H H H E #POS
+}
+{
+REF Ok.... :P
+#POS I C W E #POS
+}
+{
+REF Well someone's on a rant.
+#POS I C L P D N W #POS
+}
+{
+REF They're beautiful.
+#POS I L A W #POS
+}
+{
+TAG ;) :D
+#POS H E E #POS
+}
+{
+TAG I Love your faces! &lt;NUM
+#POS H O V D N W E #POS
+}
+{
+TAG TAG TAG TAG TAG TAG
+#POS H H H H H H #POS
+}
+{
+TAG TAG It's the forth biggest trend!!!!!!
+REF REF
+#POS H H L D R A N W
+I I #POS
+}
+{
+REF REF You read Niall Horan demonstrating the real meaning of man love and slapping Logan Henderson with a huge wet fish.
+#POS I I O V B B V D A N P N N F V B B P D A A N W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+TAG TAG TAG TAG REF REF Is it trending now? ;)
+#POS H H H H I I V O V R W E #POS
+}
+{
+I'm watching ExclamationPointBAND's live broadcast on REF Come join me URL !
+#POS L V Z A N P I W V V O U W #POS
+}
+{
+I can't compete with your boyfriend he's got NUM tattoos.
+#POS O V V P D N L V K N W #POS
+}
+{
+Saying " I'm tired " as an excuse when you're actually sad.
+#POS V W L A W P D N R L R A W #POS
+}
+{
+REF Not if its Iced Tea. ;)
+#POS I R P L A N W E #POS
+}
+{
+Baby let me be your  last first kiss.
+#POS N V O V D A A N W #POS
+}
+{
+Your still the one.
+#POS L R D K W #POS
+}
+{
+REF How high is your roof from there?
+#POS I R A V D N P R W #POS
+}
+{
+They don't know about the things we do, they don't know about the 'I Love You's.
+#POS O V V P D N O V W O V V P D W O V O W #POS
+}
+{
+Saying "Oh yeah, I remember that" when you really don't and just want them to shut up.
+#POS V W C C W O V O W R O R V F R V O P V T W #POS
+}
+{
+Admit it you want to know the krabby patty secret formula....
+#POS V O O V P V D A N A N W #POS
+}
+{
+REF In the sea....Don't forget he lives in the sea.
+#POS I P D N W V V O V P D N W #POS
+}
+{
+"Let's watch a scary movie!" *Movie Finishes* "Dude walk me to the bathroom....''
+#POS W L V D A N W W W N V W W N V O P D N W W #POS
+}
+{
+REF I love you forever. &lt;NUM Hoping to see new videos up soon!!
+#POS I O V O R W E V P V A N T R W #POS
+}
+{
+REF Anyday Paul, Anyday.... ;)
+#POS I N B W N W E #POS
+}
+{
+Twitter has a bird as its logo, that's why when you join you're an egg and the home button is a birdhouse....why am I getting this now?!
+#POS B V D N P L N W L R R O V L D N F D N N V D N W R V O V O R W #POS
+}
+{
+REF I want you to hit the pedal, heavy metal, show me you care.
+#POS I O V O P V D N W A N W V O O V W #POS
+}
+{
+REF :) I love you guys. &lt;NUM
+#POS I E O V O N W E #POS
+}
+{
+REF O.O YES.
+#POS I E C W #POS
+}
+{
+REF REF REF REF REF I'm in love with you and all your little things. &lt;NUM
+#POS I I I I I L P N P O F D D A N W E #POS
+}
+{
+REF Hey!! I'm so happy for you tomorrow!!
+#POS I C W L R A P O N W #POS
+}
+{
+I'm so sorry for all of you guys who didn't get to celebrate Halloween because of hurricane Sandy. I hope you guys are okay!
+#POS L R A P D P O N O V V P V B P P N B W O V O N V C W #POS
+}
+{
+REF What's up?
+#POS I L T W #POS
+}
+{
+REF JASONNNNNN!!!! Ayee. :)
+#POS I B W C W E #POS
+}
+{
+REF Hope you guys will be okay!!!! Stay Safe!! &lt;NUM
+#POS I V O N V V A W V B W E #POS
+}
+{
+REF Could you give me a follow?? :D I Love You So Much. &lt;NUM
+#POS I V O V O D N W E O V O R A W E #POS
+}
+{
+REF I live like an hour away....
+#POS I O V P D N R W #POS
+}
+{
+URL Check this out!! ;) TAG REF
+#POS U V O T W E H I #POS
+}
+{
+REF Could I get a follow??
+#POS I V O V D N W #POS
+}
+{
+REF Could you follow me?? I Love You. &lt;NUM :)
+#POS I V O V O W O V O W E E #POS
+}
+{
+URL &lt;&lt;Ryan Beatty on iTunes check it out!! TAG
+#POS U J B B P B V O T W H #POS
+}
+{
+I'm starting to think every shopping cart has a retarded wheel....
+#POS L V P V D N N V D A N W #POS
+}
+{
+Yup. So true. ;) URL
+#POS C W R A W E U #POS
+}
+{
+I’m weird, I’m lame, I run into things, I spill food, I trip over nothing, I talk about random &amp; stupid stuff, but I like it that way.
+#POS L A W L A W O V P N W O V N W O V P N W O V P A F A N W F O V O D N W #POS
+}
+{
+REF ....-_- seriously.... I never knew of this. I love you. &lt;NUM
+#POS I W E R W O R V P O W O V O W E #POS
+}
+{
+When someone says "You just made my day," it makes my day....
+#POS R N V W O R V D N W W O V D N W #POS
+}
+{
+REF  you need to make more videos. :( URL
+#POS I O V P V A N W E U #POS
+}
+{
+There are these two boys that I'm always thinking about. They're talented, beautiful and hilarious. They're REF REF . &lt;NUM
+#POS X V D K N P L R V P W L A W A F A W L I I W E #POS
+}
+{
+REF oh....heheh thanks! :)
+#POS I C W C N W E #POS
+}
+{
+REF Delicious.
+#POS I A W #POS
+}
+{
+REF gimme your number. ;)
+#POS I L D N W E #POS
+}
+{
+REF So you know that water diet thing you said on younow....what about soup or cereal??
+#POS I P O V D N N N O V P B W O P N F N W #POS
+}
+{
+REF URL :)
+#POS I U E #POS
+}
+{
+URL Who remembers this?
+#POS U O V O W #POS
+}
+{
+I'm the kind of person who drinks hot chocolate when it's hot and ice cream when it's cold.
+#POS L D N P N O V A N R L A F N N R L A W #POS
+}
+{
+REF I don't have soup. :'(
+#POS I O V V N W E #POS
+}
+{
+REF ;) URL
+#POS I E U #POS
+}
+{
+REF Haii :D
+#POS I C E #POS
+}
+{
+Life with no REF REF REF REF REF REF REF is a life I'd hate to live
+#POS N P D I I I I I I I V D N L V P V #POS
+}
+{
+REF Hey Niall!! How are you today?? &lt;NUM
+#POS I C B W R V O N W E #POS
+}
+{
+REF Burma. ;)
+#POS I B W E #POS
+}
+{
+REF I close my eyes and I pray. v.v &lt;NUM
+#POS I O V D N F O V W G E #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+NUM year olds today: "Omg Iove smokin pot. I get like so drunk. YOLO!" Me when I was NUM: "I forgot to feed my tamagotchi this morning."
+#POS K N N N W W C L V N W O V P R A W B W W O R O V K W W O V P V D N D N W W #POS
+}
+{
+Teens love to be alone because alone is where they know themselves, and where they dream.
+#POS N V P V R P R V R O V O W F R O V W #POS
+}
+{
+REF Yes, and I'm also a cat...who can type....ya, that right I'm special. :D
+#POS I C W F L R D N W O V V W C W O R L A W E #POS
+}
+{
+REF I'm  "Mrs. Cool" I don't have a Facebook so I use my dad's one.
+#POS I L W B B W O V V D B P O V D S K W #POS
+}
+{
+REF : Do you think One Direction is ugly? Random person: Ya.... REF : I THINK YOU"RE A LESBIAN!!
+#POS I J V O V K N V A W A N W C W I J O V O W V D B W #POS
+}
+{
+Friend: Your parents are so nice!! Me: That's cause you're here. -_-
+#POS N W D N V R A W O W L P L R W E #POS
+}
+{
+Oh you're too cool for school? Great. In ten years when I make up to  $NUM,NUM a year just remember I don't like pickles on my burger.
+#POS C L R A P N W A W P K N R O V T P G K D N R V O V V N P D N W #POS
+}
+{
+Verified Directioner.  Heck Ya. URL
+#POS V N W V C W U #POS
+}
+{
+You're the reason why she wakes up every morning, does her hair, wears make up, and looks nice just for you. You just never notice.
+#POS L D N R O V T D N W V D N W V V T W F V A R P O W O R R V W #POS
+}
+{
+Evyday Iz shufflin. URL
+#POS B V V W U #POS
+}
+{
+*cough cough* Guilty as Charged. URL
+#POS W V V W A P V W U #POS
+}
+{
+REF Anyday. ;)
+#POS I N W E #POS
+}
+{
+REF SUPRAAAMAANNN!!!!
+#POS I B W #POS
+}
+{
+REF  REF  *reads question* " What is you number?" * commercial* URL
+#POS I I W V N W W O V O N W W W N W U #POS
+}
+{
+I hate those when websites ask "Are you human?" " Nope I'm a vacuum, you got me I'm sorry."
+#POS O V O R N V W V O A W W W C L D N W O V O L A W W #POS
+}
+{
+Parent: *yells your name* You: Whaatt? *silence* Whaaaattttt?? *more silence* WWWHHHAAATTT DOO YOUU WANTT?!?! Parent: WHY ARE YOU YELLING?!
+#POS N W W V D N W O W C W W N W O W W A N W O V O V W N W R V O V W #POS
+}
+{
+I know this is in October, but its never too late for this. DAT tribute: Believe - Yellowcard. &lt;NUM URL
+#POS O V O V P B W F L R R A P O W K N W V W B W E U #POS
+}
+{
+REF Aww did you fall down another escalator?? :(
+#POS I C V O V T D N W E #POS
+}
+{
+Ain't chasin', you dreamin' and I'm workin', you sleepin' you mad bro, quit trippin' and I'm laughin', dismissin' REF TAG &lt;NUM
+#POS V V W W O V W F L V W W O V W O A N W V V W F L V W W V W I H E #POS
+}
+{
+Universal Truth: Ever notice when you yell "HEY STUPID!!" about NUM people turn around....?
+#POS A N W R V R O V W C A W W P K N V T W #POS
+}
+{
+Always speak the truth no matter how bitter or harsh, and run immediately after it.
+#POS R V D N D N R A F A W F V R P O W #POS
+}
+{
+Ohhhhh sweet gossip how we all hate you!!
+#POS C A N R O X V O W #POS
+}
+{
+*Slips off couch faceplants faceplants pillow, dies* I die wayy too much.
+#POS W V T N V V N W V W O V N R A W #POS
+}
+{
+REF I'm the one who tripped. TAGNUMAgain
+#POS I L D K O V W H #POS
+}
+{
+[Floor is lava] *jumps to a pillow* YAY *Trips off of pillow, faceplants other pillow and dies* TAG
+#POS W N V N W W V P D N W C W N P P N W V A N F V W H #POS
+}
+{
+TIM Dreams do come true. &lt;NUM URL
+#POS K N V V A W E U #POS
+}
+{
+Finished first page of test *Flips paper over really loudly so everyone knows I'm ahead of them*.
+#POS V A N P N W V N P R R P N V L R P O W W #POS
+}
+{
+URL REF You must watch this it's the cutest thing ever. &lt;NUM
+#POS U I O V V O L D A N R W E #POS
+}
+{
+Things I'm bad at: Singing. Things I do a lot: Sing.
+#POS N L A P W V W N O V D N W V W #POS
+}
+{
+Pretending to cough really badly by someone who smokes to make them feel bad.
+#POS V P V R R P N O V P V O V A W #POS
+}
+{
+That awkward moment when you yell at someone for something and realize that they were just doing something nice for you and you feel bad.
+#POS D A N R O V P N P N F V P O V R V N A P O F O V A W #POS
+}
+{
+Ever wonder if the money you have used to belong to some stripper??
+#POS R V P D N O V V P V P D N W #POS
+}
+{
+REF I'm sorry I have to watch this like every day. You're so weird. &lt;NUM URL
+#POS I L A O V P V O P D N W L R A W E U #POS
+}
+{
+If a turtle doesn't have a shell is it naked or homeless??
+#POS P D N V V D N V O A F A W #POS
+}
+{
+RAWWRRR.... Did I scare you?
+#POS C W V O V O W #POS
+}
+{
+I laugh three times at a joke. NUM.When it's told. NUM.When its explained to me. NUM. When I actually get it.
+#POS O V K N P D N W K W R L V W K W R L V P O W K W R O R V O W #POS
+}
+{
+REF Don't worry I wont. :D
+#POS I V V O V W E #POS
+}
+{
+REF Oh Erin u sure are strange. ;)
+#POS I C B O A V A W E #POS
+}
+{
+REF I Love You. &lt;NUM URL
+#POS I O V O W E U #POS
+}
+{
+REF I Love You. &lt;NUM URL
+#POS I O V O W E U #POS
+}
+{
+URL Been stuck in my head ALL day. REF  It's so catchy. &lt;NUM
+#POS U V V P D N D N W I L R A W E #POS
+}
+{
+Too cold. *Puts on blanket* Too hot. *Turns on fan* Perfect.
+#POS R A W W V P N W R A W W V P N W A W #POS
+}
+{
+REF REF I sent you guys a poster. I accidentely put my info where yours should be. smh -_-. So I resent it yesterday! :D
+#POS I I O V O N D N W O V V D N R O V V W G E W P O V O N W E #POS
+}
+{
+REF  Oh You Fancy, Huh? &lt;NUM
+#POS I C O A W C W E #POS
+}
+{
+REF :D I told you.
+#POS I E O V O W #POS
+}
+{
+"Where are the cover pages to this magazine?" "I DON'T KNOW!!"
+#POS W R V D N N P D N W W W O V V W W #POS
+}
+{
+REF Love you too. :)
+#POS I V O R W E #POS
+}
+{
+REF You inspire me. I Love You. &lt;NUM
+#POS I O V O W O V O W E #POS
+}
+{
+REF We love you forever and always. &lt;NUM URL
+#POS I O V O R F R W E U #POS
+}
+{
+REF I watched it, Haha You're So Weird!!!!!! :D That's a good thing.
+#POS I O V O W C L R A W E L D A N W #POS
+}
+{
+REF .... I made one but I have to send it tomorrow!! :D
+#POS I W O V K F O V P V O N W E #POS
+}
+{
+REF GRRRRRR I KNOW!!!!!
+#POS I C O V W #POS
+}
+{
+For all you guys who are feeling alone or sad lately. I Love You. &lt;NUM URL
+#POS P D O N O V V R F A R W O V O W E U #POS
+}
+{
+REF Pffffft I do that anyway.
+#POS I C O V O R W #POS
+}
+{
+That awkward moment when you let someone use your laptop and you wonder what they'll find.
+#POS D A N R O V N V D N F O V O L V W #POS
+}
+{
+REF You don't know me but I know who you are. ;) URL
+#POS I O V V O F O V O O V W E U #POS
+}
+{
+Night World!!
+#POS N N W #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF  I'm a danosaur.... RAWR!!
+#POS I L D N W C W #POS
+}
+{
+Bye!
+
+ (REF live on URL)
+#POS C W
+
+W I V P U W #POS
+}
+{
+Ayyyyyyyyyyeeeeeeeeeee. :) How's life? (REF live on URL)
+#POS C W E L N W W I A P U W #POS
+}
+{
+REF TAG TAG. :D
+#POS I H H W E #POS
+}
+{
+I'm nice to the weird kid so he'll spare my life when he snaps.
+#POS L A P D A N P L V D N R O V W #POS
+}
+{
+Just saw the an awesome movie trailer! So excited for it to come out. TAG .
+#POS R V D D A N N W R A P O P V T W H W #POS
+}
+{
+For men who thinks a women's place is the kitchen. Remember....that's where the knives are kept.
+#POS P N O V D S N V D N W V W L R D N V V W #POS
+}
+{
+I always have to wet my toothbrush, put the toothpaste on, then re-wet it in order for me to brush my teeth.
+#POS O R V P V D N W V D N P W R V O P N P O P V D N W #POS
+}
+{
+"Are you cold?" No, I'm on vibrate. -.-
+#POS W V O A W W C W L P N W E #POS
+}
+{
+I thought I was the only one who does this. URL
+#POS O V O V D A K O V O W U #POS
+}
+{
+REF I Cant!!!!!! :(
+#POS I O V W E #POS
+}
+{
+REF  REF A reason for my smile. :) URL
+#POS I I D N P D N W E U #POS
+}
+{
+REF REF  REF REF REF A Reason for my smile. :) URL
+#POS I I I I I D N P D N W E U #POS
+}
+{
+Would you take a bullet for someone?.... If you had time to jump in front of it wouldn't they have time to move?
+#POS V O V D N P N W P O V N P V P N P O V O V N P V W #POS
+}
+{
+If you've never jumped from one couch to another to save yourself from the lava, then you didn't have a childhood.
+#POS P L R V P K N P D P V O P D N W R O V V D N W #POS
+}
+{
+Yup. URL
+#POS C W U #POS
+}
+{
+REF REF Sorry it took forever for me to read this. I'll follow her. :P
+#POS I I V O V R P O P V O W L V O W E #POS
+}
+{
+Teacher:"Class what does one plus one equal?" Me: "WINDOW!"
+#POS N W W N O V K A K A W W O W W N W W #POS
+}
+{
+Ya I'm WEIRD (W)onderful (E)xciting (I)nteresting (R)eal (D)ifferent .
+#POS C L A W A W N W A W A W A W #POS
+}
+{
+REF Well I think it's beautimus.
+#POS I C O V L N W #POS
+}
+{
+TAG "Is your hair real?"
+#POS H W V D N A W W #POS
+}
+{
+My brain is NUM% song lyrics and NUM% of going to sleep.
+#POS D N V K N N F K P V P V W #POS
+}
+{
+REF REF Me? :)
+#POS I I O W E #POS
+}
+{
+Why so serious? URL
+#POS R R A W U #POS
+}
+{
+Who else does this? URL
+#POS O R V O W U #POS
+}
+{
+REF Ayyyyeeeeee.
+#POS I C W #POS
+}
+{
+Best friends notice the hurt in your eyes while everyone else is fooled by your smile.
+#POS A N V D N P D N P N R V V P D N W #POS
+}
+{
+REF They're Beautiful!! .... I wish I could play guitar. :|
+#POS I L A W W O V O V V N W E #POS
+}
+{
+REF Haha on youtube looking through videos you made.... feel like a stalker. o.o
+#POS I C P B V P N O V W V P D N W E #POS
+}
+{
+REF YES WE ARE SINGLE. REF  Haha Someones mad over here *points to Paul*. &lt;NUM
+#POS I C O V A W I C L A P R W N P B W W E #POS
+}
+{
+If you fall I'll be there. ~ Floor
+#POS P O V L V R W G N #POS
+}
+{
+REF Hahahand that's why I love you. :)
+#POS I B L R O V O W E #POS
+}
+{
+"Yeah, I'm fine", (F)alling apart, (I)nsecure, (N)eeding help, (E)verything's wrong. I'm definitely "Fine".
+#POS W C W L A W W W V N W W B W W V V W W L A W L R W A W W #POS
+}
+{
+When I get bored, I read those cheesy posters the teachers put up around the room.
+#POS R O V A W O V D A N D N V T P D N W #POS
+}
+{
+REF What time?
+#POS I O N W #POS
+}
+{
+Dream what you wanna dream, go where you wanna go, love who you need to love, know what you need to know.... &lt;NUM
+REF
+#POS V O O V V W V R O V V W V O O V P V W V O O V P V W E
+I #POS
+}
+{
+REF Look him up. This boy can rap....and sing! &lt;NUM URL
+#POS I V O T W D N V V W F V W E U #POS
+}
+{
+REF Thank you for calling me crazy.. -_-
+#POS I V O P V O A W E #POS
+}
+{
+There's something about your face that makes me want to punch you.
+#POS L N P D N P V O V P V O W #POS
+}
+{
+REF Tell me if it's a good movie!! Haven't watched it yet.
+#POS I V O P L D A N W V V O R W #POS
+}
+{
+"Are you sleeping?"  "No I'm training how to die...."
+#POS W V O V W W W C L N R P V W W #POS
+}
+{
+REF Haha except One Direction is NUM% Irish and NUM% British.
+#POS I C V K N V K A F K A W #POS
+}
+{
+REF I miss them. :)
+#POS I O V O W E #POS
+}
+{
+REF Loved your Younow. But now I have to do my homework.
+#POS I V D B W F R O V P V D N W #POS
+}
+{
+REF Ayyyyeee. :D
+#POS I C W E #POS
+}
+{
+TAG friend for saying you "don't want to take sides" for basically saying you don't want to take MY side.
+#POS H N P V O W V V P V N W P R V O V V P V D N W #POS
+}
+{
+TAG taco shells for surviving the journey from the factory, supermarket to my plate &amp; then breaking when I put something inside you.
+#POS H N N P V D N P D N W N P D N F R V R O V N P O W #POS
+}
+{
+"I'm Bored" is a useless thing to say. You live in a great, big, vast world that you've seen none percent of. ~Louis C.K.
+#POS W L A W V D A N P V W O V P D A W A W A N P L V N N P W G B B #POS
+}
+{
+Whats it like being a baby? Its like being in love in Paris for the first time after drinking three double espressos. ~Alison Gopnik
+#POS L O P V D N W L P V P N P B P D A N P V K A N W G B B #POS
+}
+{
+Sometimes when I say "I'm fine", I want someone to look me in the eye and say " Tell me the truth".
+#POS R R O V W L A W W O V N P V O P D N F V W V O D N W W #POS
+}
+{
+REF :O I Have A Cat Just Like That!
+#POS I E O V D B R P O W #POS
+}
+{
+REF you play piano?I just found out..sorry i'm late on everything.I'm learning to play!I felt sucky when I saw the song you wrote.
+#POS I O V N W O R V T W A L A P N W L V P V W O V A R O V D N O V W #POS
+}
+{
+REF Wouldn't you basically be the thousands of people reading it?.... so us?
+#POS I V O R V D N P N V O W P O W #POS
+}
+{
+REF  You seem to love your fans because you actually reply to them rather than just read it and move on or not read it at all. &lt;NUM
+#POS I O V P V D N P O R V P O R P R V O F V P F R V O P D W E #POS
+}
+{
+REF Haha so you close your eyes?
+#POS I C P O V D N W #POS
+}
+{
+REF I'm sorry. :/ It's not raining here anymore. :D
+#POS I L A W E L R V R R W E #POS
+}
+{
+REF I am! :D I miss the NUM's.
+#POS I O V W E O V D K W #POS
+}
+{
+When you have to pee so bad you look like a limp chicken running to the bathroom.
+#POS R O V P V R A O V P D A N V P D N W #POS
+}
+{
+Every time I lose my phone, its always on silent .... how convenient.
+#POS D N O V D N W L R P A W R A W #POS
+}
+{
+There's a fine line between funny and shut up you're annoying everybody now.
+#POS L D A N P A F V T L A N R W #POS
+}
+{
+Most of the time when I eat, I'm not hungry. I'm just bored.
+#POS A P D N R O V W L R A W L R A W #POS
+}
+{
+I tweet to express, not to impress.
+#POS O V P V W R P V W #POS
+}
+{
+REF The part when you sing. ;)
+#POS I D N R O V W E #POS
+}
+{
+REF you left out REF and REF .
+#POS I O V T I F I W #POS
+}
+{
+REF :D
+#POS I E #POS
+}
+{
+REF It's ok! We all still love you and got a good laugh! :D &lt;NUM
+#POS I L C W O D R V O F V D A N W E E #POS
+}
+{
+REF I Know! :D It was just really funny.
+#POS I O V W E O V R R A W #POS
+}
+{
+REF sings off key REF laughs through entire Ustream. &lt;NUM
+#POS I V T N I V P A B W E #POS
+}
+{
+REF So Excited! :P
+#POS I R A W E #POS
+}
+{
+REF can NUM hour come faster??
+#POS I V K N V R W #POS
+}
+{
+REF Love You Too! :D &lt;NUM
+#POS I V O R W E E #POS
+}
+{
+REF Any of your real fans will love you and forgive you anyway. &lt;NUM Sorry if that made no sense.
+#POS I D P D A N V V O F V O R W E A P O V D N W #POS
+}
+{
+REF 
+Hi! How was your day? :)
+#POS I
+C W R V D N W E #POS
+}
+{
+REF Oh hi. :D .... Now it seems kind of awkward.
+#POS I C C W E W R O V N P A W #POS
+}
+{
+I love how in scary movies the person yells, "Hello?" Like bad guy will say, "I'm in the living room watching The Office! Wait a minute!"
+#POS O V R P A N D N V W W C W W R A N V V W W L P D A N V D N W V D N W W #POS
+}
+{
+That moment when someone who hasn't posted anything has more followers than you.
+#POS D N R N O V V N V A N P O W #POS
+}
+{
+REF TAG P Sherman NUM Wallaby Way Sydney.
+#POS I H B B K B B B W #POS
+}
+{
+sad moment when you try to say hi to REF REF and they don't answer but some else says hi and they reply.
+#POS A N R O V P V C P I I F O V V F D R V C F O V W #POS
+}
+{
+It's on.
+URL
+#POS L P W
+U #POS
+}
+{
+I'm not fat, my sexy just overflows.
+#POS L R A W D A R V W #POS
+}
+{
+If you talk behind my back, it just means my life is way more interesting then yours.
+#POS P O V P D N W O R V D N V R R A R O W #POS
+}
+{
+REF  REF That's for you guys. &lt;NUM URL
+#POS I I L P O N W E U #POS
+}
+{
+Sometimes you need to distance yourself from people, if they care, they'll notice. 
+if they don't, you know where you stand.
+#POS R O V P V O P N W P O V W L V W
+P O V W O V R O V W #POS
+}
+{
+I hate when someone turns on the light when I'm sleeping.
+#POS O V R N V P D N R L V W #POS
+}
+{
+phone*
+#POS N W #POS
+}
+{
+TAG When people try to look at my phonne when I'm texting.
+#POS H R N V P V P D N R L V W #POS
+}
+{
+REF Morning. :D
+#POS I N W E #POS
+}
+{
+you're*
+#POS L W #POS
+}
+{
+That moment when you super hungry.......but you're too lazy to go get food.
+#POS D N R O R A W F L R A P V V N W #POS
+}
+{
+I wonder if British people sit around trying to do American accents.
+#POS O V P A N V P V P V B N W #POS
+}
+{
+That moment when you close your eyes in the shower and you fear someone will jump out and kill you.
+#POS D N R O V D N P D N F O V N V V T F V O W #POS
+}
+{
+REF Me please?
+#POS I O V W #POS
+}
+{
+REF That happened to me, I hit the metal part of it and face planted to the ground.
+#POS I O V P O W O V D N N P O F N V P D N W #POS
+}
+{
+I wanna go there so bad!! I'm excited!! :)
+URL
+#POS O V V R R A W L A W E
+U #POS
+}
+{
+Happy NUMth Birthday Niall. :)
+ URL via REF
+#POS A A N B W E
+U P I #POS
+}
+{
+REF I'm good, how are you?
+#POS I L A W R V O W #POS
+}
+{
+REF so hows life?
+#POS I P D N W #POS
+}
+{
+REF :D yup i'm bored now.
+#POS I E C L A R W #POS
+}
+{
+REF Then she said im lying.... one does not joke about one direction talking to them.
+#POS I R O V L V W K V R V P K N V P O W #POS
+}
+{
+REF Oh haha. any ways rea told me harry kiked her to get me to talk to her. -_-
+#POS I C C W D N G V O B V O P V O P V P O W E #POS
+}
+{
+REF Awesome. :)
+#POS I A W E #POS
+}
+{
+REF -__- I'm Sabrina.
+#POS I E L B W #POS
+}
+{
+REF I. Hate. Reagan. :|
+#POS I O W V W B W E #POS
+}
+{
+REF Love you, too.
+#POS I V O W R W #POS
+}
+{
+REF Haha Sharkkkkeeeeeeyyyy!! :D
+#POS I C B W E #POS
+}
+{
+REF  TAG I hope you have a great birthday/day!! I Love You!! NUM-)
+#POS I H O V O V D A N W O V O W E #POS
+}
+{
+REF Heyy :D
+#POS I C E #POS
+}
+{
+REF Hello! :D
+#POS I C W E #POS
+}
+{
+:D How is the world today?
+#POS E R V D N N W #POS
+}
+{
+REF Hello! :D
+#POS I C W E #POS
+}

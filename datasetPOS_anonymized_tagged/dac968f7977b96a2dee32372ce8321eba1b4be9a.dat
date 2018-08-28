@@ -1,0 +1,1416 @@
+{
+REF  والله يا خوي ما مداني ذحين العب معااك في وقت ثاني ان شاء الله
+#POS I C N N N N N N N N N N N N N #POS
+}
+{
+REF اوك
+#POS I C #POS
+}
+{
+REF  انت زدت السعر انا قاعد استنى روني ينبااع !!!
+#POS I C N N N N N N N W #POS
+}
+{
+REF NUM
+#POS I K #POS
+}
+{
+REF  اوك اصبر
+#POS I C C #POS
+}
+{
+REF  يب
+#POS I C #POS
+}
+{
+REF يب
+#POS I C #POS
+}
+{
+REF  اصبر اخلص مباراة والععب معاك ان شاء الله
+#POS I C N N N N N N N #POS
+}
+{
+REF ياسر القحطاني قلي بعد ما تعرفه -.-
+#POS I C N N N N N E #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF  لاعب برنزي
+اسمه : SPALVIS 
+يلعب ST
+اسم الفريق IINUMMKHASHIM
+#POS I C C
+N W B
+B B
+C C K #POS
+}
+{
+REF لييش ؟؟
+#POS I C W #POS
+}
+{
+REF  يا فهد انا اعرف الطريقة من زماان انا قبل كذا لعبت معك =) بلعب معاك ذحين وش هو الاعب عشان اشتريه ؟؟
+#POS I C N N N N N N N N N N N E E E E E E E E E E #POS
+}
+{
+لقد قمت بالاشتراك في خدمة
+URL
+
+انضم إلي الآن واحصل على النقود مقابل تغريداتك!
+
+TAGNUMlanSaudi
+#POS B B B B B
+U
+
+B B B B B B B B W
+
+H #POS
+}
+{
+REF  ابي اتحداك على NUM الف
+#POS I C N N K N #POS
+}
+{
+REF انا والله
+#POS I C C #POS
+}
+{
+REF تم URL
+#POS I W G U #POS
+}
+{
+REF لا اصبر
+#POS I C C #POS
+}
+{
+REF ذهبي ولا وش ؟
+#POS I C N N W #POS
+}
+{
+REF انت تقول الساعة NUM الحين الساعة NUM.NUM
+#POS I C N V K N N K #POS
+}
+{
+REF  الا ابي -.-
+#POS I C N E #POS
+}
+{
+REF  الحين كييف طريقة الدفع ؟؟
+#POS I C N N V W #POS
+}
+{
+REF اوك خلاص
+#POS I C C #POS
+}
+{
+REF ضيفني : FoFo_Gamal بلعب معاك بعد شوية ان شاء الله خلك لا تسحب مثل امس =)
+#POS I N W G G G G G G G G G G G G G E #POS
+}
+{
+REF نلعب مواسم من مباراة وحدة ضيفني وعلى NUM الف !! تسليم بعد المباراة احسن هي موجودة معي والله بس خلهها بعد المباراة  وفي ذمتي
+#POS I C N N N N N V K N W V R V R V R V R V R V V R G #POS
+}
+{
+REF حلوة بس على psNUM ولا NUM
+#POS I C N N N N P #POS
+}
+{
+REF نتحدى مواسم ولا التمت
+#POS I C N N N #POS
+}
+{
+REF اوك
+#POS I C #POS
+}
+{
+REF  اوك خلاص بس هذي في ذمتك ؟؟
+#POS I C N N N N N W #POS
+}
+{
+REF ايه اذكرك بس وش اللي يخليني اضمن انك اذا خذيت NUM الاف ما رح تسحب
+#POS I C N N N N N N N N V K N N N N #POS
+}
+{
+REF يب
+#POS I C #POS
+}
+{
+REF  البطولة بتكون اليوم ولا بكرة؟؟
+#POS I C N N V G #POS
+}
+{
+REF  يب
+#POS I C #POS
+}
+{
+REF انا دخلت البطولة ؟؟
+#POS I C N N W #POS
+}
+{
+REF انا مانشستر ستي
+#POS I C N N #POS
+}
+{
+REF  الحمد لله
+#POS I C C #POS
+}
+{
+REF باااكــ يلا نلعب الحين
+#POS I C N N N #POS
+}
+{
+REF ضيفني
+#POS I C #POS
+}
+{
+REF  اوك
+#POS I C #POS
+}
+{
+REF  واذا انا فزت تردها لي NUM الف اوك ؟
+#POS I C N N N V K N N W #POS
+}
+{
+REF اسلمك قبل المباراة NUM الاف
+#POS I C N N K N #POS
+}
+{
+REF اشتغل معي والله ... ضيفني : X_NUMMK_Hashim_X
+#POS I C N G W N W E #POS
+}
+{
+REF  اوك ... يعطيك العافية .. لا اشتغل معي بقلك ونلعب ان شاء الله
+#POS I G J G G W N N N N N N N N #POS
+}
+{
+REF قفلته وفتحته نفس المشكلة
+#POS I C N N N #POS
+}
+{
+REF اوك
+#POS I C #POS
+}
+{
+REF  انا بس السيرفرات عندي صيانة =(
+#POS I C N N V N E #POS
+}
+{
+REF انا معي ايدي ما العب فيه بس موجود فيه NUM$
+#POS I C N N N N N N N V K #POS
+}
+{
+من يلعب الان على الكووينز اللي يبيه
+psNUM
+#POS B B B B B B B
+B #POS
+}
+{
+REF NUM.NUM
+#POS I K #POS
+}
+{
+REF السيرفرات صيانة الحين =(
+#POS I C N N E #POS
+}
+{
+REF انا العب بس تشكيلتي فضية كورية وم عندي مشكلة اسلمك قبل المباراة واذا ما تبي التمت نلعب عبر الشبكة وش رايك ؟؟
+#POS I C N N N N N N N N N N N N N N N N N N N N W #POS
+}
+{
+REF انا
+#POS I C #POS
+}
+{
+صبااااااح الخير =)
+
+لا اله الا الله
+#POS C C E
+
+B B B B #POS
+}
+{
+REF ايه
+#POS I C #POS
+}
+{
+تسجل في NUM قيف اوي وما تفوز !!
+الله يرزقنا بس =)
+#POS B B K N N N N W
+B B B E #POS
+}
+{
+REF سوني
+#POS I C #POS
+}
+{
+REF سواريز
+#POS I C #POS
+}
+{
+REF  لا اله الا الله
+#POS I C N N N #POS
+}
+{
+REF نوير
+#POS I C #POS
+}
+{
+REF  قلنا من جاك لاهنت
+#POS I C N N N #POS
+}
+{
+REF ما هي جاهزة لكن تعال خاص ونتفاهم
+#POS I C N N N N N N #POS
+}
+{
+REF  يا خوي اسعار الكوينز عندك رخيصة  !! انا ابي اشتري منك , لكن وش اللي يخليني اضمنك؟؟
+#POS I C N N N N N W V R V N W B B B B B #POS
+}
+{
+REF REF لا اله الا الله
+#POS I I B B B B #POS
+}
+{
+REF انا اتحدى
+#POS I C C #POS
+}
+{
+REF REF في ذمتك م تنصب ؟؟
+#POS I I B B B B B #POS
+}
+{
+من يلعب الان على NUM الاف 
+مواسم
+؟؟؟؟؟
+#POS B B B B K N
+C
+C #POS
+}
+{
+REF اعطينا مثال !! لاني ما فهمت
+#POS I C N W V R A #POS
+}
+{
+REF م علييك محد يقدر يهرك يلا الله يوفقك انشاء الله =) وحى لو احد زرف ايديك م يعرف الجوب حق الالتمت =)
+#POS I C N N N N N N N N N E E E E E E E E E E E E #POS
+}
+{
+REF مواافق ؟
+#POS I C W #POS
+}
+{
+REF والله ما معي غير NUM =(
+#POS I C N N V K E #POS
+}
+{
+REF NUM الاف
+#POS I K N #POS
+}
+{
+REF  انا العب معاك واسلمك قبل اللعب بس نلعب مواسم لاهنت لان ما عندي تشكيلة حاليا اوك ؟؟
+#POS I C N N N N N N N N N N N N N N G G #POS
+}
+{
+REF  مبروووووووووووكــ يرزقنا مثلك =)
+#POS I C N N E #POS
+}
+{
+REF   تصير صديقي :( هههههههههههههههههههه
+#POS I C N E E #POS
+}
+{
+REF  م تقصر والله  الله يوفقكــ
+#POS I C N N V G #POS
+}
+{
+REF REF  حاول تشيك مرة ثانية والله كل شوية اجاوب من بدري !!
+#POS I I B B B B B B B B B B W #POS
+}
+{
+REF  تشافي
+#POS I C #POS
+}
+{
+REF  لوبيز
+#POS I C #POS
+}
+{
+REF جوردي البا
+#POS I C C #POS
+}
+{
+@ FUT_Fi اشري
+#POS P B B #POS
+}
+{
+@ HunTor_FuT ا
+#POS P B B #POS
+}
+{
+# بنگ _ سلب _Gamer NUM
+#POS H G G G B K #POS
+}
+{
+DAT-DAT REF REF
+#POS K I I #POS
+}
+{
+REF  انا قلت السعودية والله
+#POS I C N N N #POS
+}
+{
+REF REF ياا خي لييش !! انا قلت مثله والله العظيم
+#POS I I B B B W V R R G G #POS
+}
+{
+REF REF  NUM كل سنتين 
+NUM  كل اربعة سنوات 
+NUM رياضة الجودو
+NUM السعودية
+#POS I I K N N
+K N N N
+K N N
+K N #POS
+}
+{
+REF REF  غير الاسئلة والله انا فاتح السوني وجالس ادور وفيه ناس من الموقع يجيبواكل شيء =(
+#POS I I B B B B B B B B B B B B B B E #POS
+}
+{
+REF  خلها اصعب
+#POS I C C #POS
+}
+{
+REF  توران
+#POS I C #POS
+}
+{
+REF  اوزييل
+#POS I C #POS
+}
+{
+REF ماندانوفيتش
+#POS I C #POS
+}
+{
+REF  ديفيد لويز
+#POS I C C #POS
+}
+{
+REF  الله يوفقكــ" =)
+#POS I C N W E #POS
+}
+{
+REF  انت متاكد ان سعره بيرتفع ؟؟ لان انا عندي ادبيور مطور وش تنصحني ابيعه واشتري نسختين من شورله ولا استنى ينزلوا اب قريد لادبيور ؟؟
+#POS I C N N N N W G G G G G G G G G G G G G G G G G G G #POS
+}
+{
+REF REF اسمه بيانيتش
+#POS I I G G #POS
+}
+{
+REF جوردادو
+#POS I C #POS
+}
+{
+REF  اوك
+#POS I C #POS
+}
+{
+REF  خوي يقول يبغى اقين توافق ولا لا على NUM الف ؟
+#POS I C N N N N N N V K N W #POS
+}
+{
+REF  رسلك دعوة
+#POS I C C #POS
+}
+{
+REF  تم يا خوي
+#POS I C N N #POS
+}
+{
+REF ابشر
+#POS I C #POS
+}
+{
+REF  الحين اروح اكلمه عشان يشتريه =)
+#POS I C N N V N E #POS
+}
+{
+REF  اعرض لاعب ب NUM الف عشان تبدا المباراة معااه
+#POS I C N V K N N N N G #POS
+}
+{
+REF  خويي جااا يا فهد يتحداك على NUM الف ايديه : MoDy-Vip
+#POS I C N N N N V K N N W A #POS
+}
+{
+REF  مدري عنه =(
+#POS I C N E #POS
+}
+{
+REF  ترضى نلعب وبعدين اذا فزت اسلمك الكوينزوالله
+#POS I C N N N N N N #POS
+}
+{
+REF  يب بس الان ما عندي كوينز استنى خوي يدخل ويعطيني
+#POS I C N N N N N N N V G #POS
+}
+{
+REF  Fut
+#POS I C #POS
+}
+{
+REF  وعليكم السلام تلعب الان ؟؟
+#POS I C N N V W #POS
+}
+{
+REF  شباب من يتحدى على كوينز 
+
+على psNUM 
+ريتويت يا فهد لاهنت =)
+#POS I C N N V G
+
+B B
+B B B B E #POS
+}
+{
+REF  تلعب معي الحين انا داخل بحساب خوي نلعب على NUM الف
+#POS I C N N N N N N N V K N #POS
+}
+{
+REF  انا اتحداك على كوينز
+#POS I C N N N #POS
+}
+{
+REF الله ل يوفق الحكم على هجمتي صفر عوافي :(
+#POS I C N N N N N N N E #POS
+}
+{
+REF  اوكــ
+#POS I C #POS
+}
+{
+REF  باااكــ يلا ارسل دعوة
+#POS I C N N N #POS
+}
+{
+REF  هههههههههههههه
+#POS I C #POS
+}
+{
+REF  والله اكثر شيء يرعب ابراهيم موفيتش الله يستر :(
+#POS I C N N N N N N N E #POS
+}
+{
+REF  الحين رح تقوم الصلاة عندنا والله خلها بعد الصلاة
+#POS I C N N N N N N N G #POS
+}
+{
+REF  مبروكــ اقيين ؟؟
+#POS I C N W #POS
+}
+{
+REF  يب
+#POS I C #POS
+}
+{
+REF  اوك
+#POS I C #POS
+}
+{
+REF  اوك ما عندي مشكلة
+#POS I C N N N #POS
+}
+{
+REF  من يوم*
+#POS I C C #POS
+}
+{
+REF ميوم*
+#POS I C #POS
+}
+{
+REF والله منيوم ما دخلت ابراهيم موفيتش قمط ههه
+#POS I C N N N N N N N #POS
+}
+{
+REF  من مبارة وحدة !!
+#POS I C N N W #POS
+}
+{
+REF  هاردك يا شنب
+#POS I C N N #POS
+}
+{
+REF  يلا انا برسلك
+#POS I C N N #POS
+}
+{
+REF  يلا اشتغلت مي بس اسمع الريتنق ( التصنيف) عندي NUM تبغاني ازيده او اخليه زي ما هو ؟؟
+#POS I C N N N N N W G G K N N N N N G G G #POS
+}
+{
+REF  بااكـ سيرفرات EA شغالة عندك ؟؟؟
+#POS I C G B B B B #POS
+}
+{
+REF يلا انا ضمنتك تكفى لا تنصب بروح اصلي وبرجعلك دي الفلوس في ذمتك يلا برب شوس وبرجع ان شاء الله
+#POS I C N N N N N N N N N N N N N N N N N N N #POS
+}
+{
+REF والله م معي غير NUM الف ؟؟
+#POS I C N N V K N W #POS
+}
+{
+REF  اروح اشتريه ولا كيف ؟
+#POS I C N N V W #POS
+}
+{
+REF  ضيفني FouadNUMGamer
+#POS I C B #POS
+}
+{
+REF  يب اكيد
+#POS I C C #POS
+}
+{
+REF انا العب الان على NUM.NUM
+#POS I C N N V K #POS
+}
+{
+REF REF  انا
+#POS I I G #POS
+}
+{
+REF  تلعب معي الحين ؟؟ قبل م يجي فهد ؟
+#POS I C N N W G G G G G #POS
+}
+{
+REF اوك ما عندي مشكلة
+#POS I C N N N #POS
+}
+{
+REF انا
+#POS I C #POS
+}
+{
+REF  يا فهد انا اعب معك الحين على الكوينز للي تبيه هذا ايدي :  FouadNUMGamer اتمنى ترد ضروري:)
+#POS I C N N N N N N N N N N N W B B B B E #POS
+}
+{
+REF أيدي FouadNUMGamer
+#POS I C B #POS
+}
+{
+REF أنا العب
+#POS I C C #POS
+}
+{
+REF خلص ألقيف أوي :)
+#POS I C N N E #POS
+}
+{
+REF NUM ألف كوينز في التم التيم :)
+#POS I K N N N N N E #POS
+}
+{
+والمركز الثالث لنا الحمد لله ^^
+#POS B B B B B E #POS
+}
+{
+REF الوقت اللي تكون فاضي فيه سواء الحين أو بكرة بس انت قلنا يوم تفضى
+#POS I C N N N N N N N N N N N N N #POS
+}
+{
+REF أنا جيتك آخر مرة وقلتلك آباريك على كوينز بس انت ما وافقت واليوم كان البث المباشر بس م لحقته الآن أو بعد المباراة تقدر تلعب ؟
+#POS I C N N N N N N N N N N N N N N N N N N N N N N N N G #POS
+}
+{
+أتمنى دعمكم يا شباب URL
+#POS B B B B U #POS
+}
+{
+يا شباب القليتش على سوني NUM ولا NUM بس ؟!
+#POS B B B B B K N P N N W #POS
+}
+{
+أتوقعها DAT للنصر ~
+#POS B K N G #POS
+}
+{
+REF تلعب الآن على كوينز أو مباراة عادي ؟؟!
+#POS I C N N N N N N N W #POS
+}
+{
+REF ي هلا يا مشعل تلعب معي مباراة على كوينز ؟؟ الآن لاهنت
+#POS I C N N N N N N N N W G G #POS
+}
+{
+مين يلعب معي مباراة التيمت التيم على السعر اللي يبيه أو على لاعب من يلعب ؟
+#POS B B B B B B B B B B B B B B B B #POS
+}
+{
+REF تلعب معي مباراة على NUM آلاف الحين ؟
+#POS I C N N V K N N W #POS
+}
+{
+REF أوك أنا أقولك أنو سكايب حقي تهكر فقلت يمكن لما دخل سب اللي عندي في سكايب فهمت
+#POS I C N N N N N N N N N N N N N N G G #POS
+}
+{
+REF مشعل في أحد جاك سكايب وسبك لأن حسابي تهكر :(
+#POS I C N N N N N N N G E #POS
+}
+{
+REF ؟؟؟؟
+#POS I C #POS
+}
+{
+REF مشعل تسمحلي بأني أنزل تشكيلتك البرازيلية في قناتي ؟؟؟
+#POS I C N N N N N N N G #POS
+}
+{
+REF السلام عليكم
+#POS I C C #POS
+}
+{
+REF بي كولا أبي سكايب حقك عندي مشكلة في اللعبة
+#POS I C N N N N N N N G #POS
+}
+{
+REF أبي الحل رد عليه لاهنت
+#POS I C N N V G #POS
+}
+{
+REF هلا بي كولا أنا عندي مشكلة في ماين كرافت شف الحين ماين كرافت NUM.NUM.NUM تشتغل السيرفرات فيها لكن لما أحط NUM.NUM.NUM يجيني كل السيرفرات eroor
+#POS I C N N N N N N N N N N N V K N N N N N V K N N G G #POS
+}
+{
+والله من بداية اليوم كل شيء قافل لكن الحمد لله ع كل حال ومعوضين أن شاء الله يا ملوك :)
+#POS B B B B B B B B B B B B B B B B B B B E #POS
+}
+{
+REF لو جاك NUM أن شاء الله متى بيكون السحب عليه ؟؟؟
+#POS I C V K N N N N N V N G #POS
+}
+{
+REF NUM مرات
+#POS I K N #POS
+}
+{
+REF NUM
+#POS I K #POS
+}
+{
+REF عام NUMفي الاورغواي
+#POS I C K N #POS
+}
+{
+REF هههههه والله أني ما لحقت مثله ماشاء الله
+#POS I C N N N N N N N #POS
+}
+{
+REF NUM
+#POS I K #POS
+}
+{
+REF NUM
+#POS I K #POS
+}
+{
+REF اخر مرة NUM وNUM مرات
+#POS I C G K K N #POS
+}
+{
+REF عبدالرحمن الغافقي
+#POS I C C #POS
+}
+{
+REF سؤال صعب :(
+#POS I C N E #POS
+}
+{
+REF كلمتك بس ما أظن وصلك كلامي
+#POS I C N N V R A #POS
+}
+{
+REF أنا احتكر وعندي ؤاتساب
+#POS I C N N N #POS
+}
+{
+REF ولا بس **
+#POS I C N W #POS
+}
+{
+REF بتلغي سلسلة التحدي وبس كنت مشغول ؟؟؟
+#POS I C N N N N N W #POS
+}
+{
+REF NICE ! متى بتبدأ المسابقة ؟
+#POS I A W G G G G #POS
+}
+{
+REF بتكون صعبة بس بتكون أفضل ! وايش الجائزة ؟
+#POS I C N N N N W G G G #POS
+}
+{
+REF كيف يعني !!!!.... قصدك مواصفاته في التمت ولا جسمه والخ.... ؟؟؟
+#POS I C N W V R V R V R G W G #POS
+}
+{
+REF وفي فكرة مثلا قول مواصفات اللاعب وحنا نجأوب عليه
+#POS I C N N N N N N N G #POS
+}
+{
+REF خلصت المسابقة ؟؟
+#POS I C N W #POS
+}
+{
+REF ما سويت ريتويت للفائز :؟؟؟
+#POS I C N N N W E #POS
+}
+{
+REF تياجو
+#POS I C #POS
+}
+{
+REF ديفيد فيا
+#POS I C C #POS
+}
+{
+REF ليش ما تقول اسم اللي فاز بعد كل سؤال ؟؟
+#POS I C N N N N N N N V W #POS
+}
+{
+REF فالكأو
+#POS I C #POS
+}
+{
+REF لا كويسة كذا
+#POS I C N N #POS
+}
+{
+REF نيني
+#POS I C #POS
+}
+{
+REF ناني
+#POS I C #POS
+}
+{
+REF توريس
+#POS I C #POS
+}
+{
+REF مشعل تلعب مباراة على NUM.NUM بعد الفجر ؟؟
+#POS I C N N V K N N W #POS
+}
+{
+REF مشعل تلعب مباراة على NUM.NUM بعد الفجر؟؟؟؟
+#POS I C N N V K N N #POS
+}
+{
+REF البطولة دحين هيا عبر الشبكة ولا التمت التيم ؟؟؟؟
+#POS I C N N N N N N N G #POS
+}
+{
+REF يعطيك العافية أخوي
+#POS I C N N #POS
+}
+{
+REF شكرا على الدعم :)
+#POS I C N N E #POS
+}
+{
+REF مبروك واهني إخوك على لعبوا ماشاء أالله ، ؤخلاص عطيتك ال NUM.NUM
+#POS I C N N N N N N W G G G K #POS
+}
+{
+REF يلا
+#POS I C #POS
+}
+{
+REF دقائق توي داخل فيفا
+#POS I C N N N #POS
+}
+{
+REF يلا إقبل
+#POS I C C #POS
+}
+{
+REF تشكيلتي فيها هاندي كب عادي ؟؟
+#POS I C N N V R W #POS
+}
+{
+REF أوكك
+#POS I C #POS
+}
+{
+REF شريته جاك الكوينز
+#POS I C N N #POS
+}
+{
+REF ب NUM.NUM
+#POS I A K #POS
+}
+{
+REF عطني الأيدي عشان أضيفك
+#POS I C N N N #POS
+}
+{
+REF أوكك شيكت متى نلعب ؟؟
+#POS I C N N V W #POS
+}
+{
+REF أنا العب بس أيش يخليني أضمن انك بتعطيني NUM.NUM
+#POS I C N N N N N N N K #POS
+}
+{
+الحمد لله على كل حال ، وبأذن الله ننتصر المباراة القادمة :)
+#POS B B B B B B B B B B B E #POS
+}
+{
+قوووووووول
+#POS C #POS
+}
+{
+REF توشيبا
+#POS I C #POS
+}
+{
+REF مدري ههههه بس أذكر قريبي أو أحد من أقربائي اسمو كذا
+#POS I C N N N N N N N V N N #POS
+}
+{
+REF أنا لو ولد بسمي مصطفى ولو بنت زكريا هههههه شغل دوافير
+#POS I C N N N N N N N V N N #POS
+}
+{
+REF العفو :)
+#POS I C E #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF مشعل ، إذا تبغى تستفسر عن قطعة التصوير عندك مقطع مونستر قعمي نزلها و مكان بيعها في الدسكربشن.  ؛)
+#POS I C W G G G G G G G G G G G G G G G G W E #POS
+}
+{
+REF تسلم والله أي وقت فاضي تبي تلعب كلمني وبلعب معاك أن شاء الله
+#POS I C N N N N N N N N N N N N #POS
+}
+{
+REF بقتلكك؟؟ لا عادي اللي يريحك
+#POS I C N N V G #POS
+}
+{
+REF ليش يا مشعل لمن قلتلك تلعب قلت لا ؟؟؟؟؟
+#POS I C N N N N N N N G #POS
+}
+{
+REF ليش ؟
+#POS I C W #POS
+}
+{
+REF تلعب ذحين ؟؟
+#POS I C N W #POS
+}
+{
+REF شكرا :)
+#POS I C E #POS
+}
+{
+REF البائع FouadNUMGamer
+#POS I C B #POS
+}
+{
+REF موقع اللاعب : GK خطته : DAT-NUM وجنسيتوا : أرجنتيني والدوري : Primera Liga والنادي : River Plate وحطيتوا NUM ساعة واسم
+#POS I C N W B B W K N W G G W B B B W B N P K N N #POS
+}
+{
+REF أوكي العصر ما أظن اني أكون موجود فأنا حطيت اللاعب NUM ساعة فأي وقت اشتري الحين برسلك معلومات عنو واشتري العصر أو الوقت اللي تبغاه
+#POS I C N N N N N N N N V K N N N N N N N N N N N N N N #POS
+}
+{
+REF مشعل
+#POS I C #POS
+}
+{
+REF مشعل متى بتعطيني الكوينز ذحين ولا العصر حددلي ضروري ؟؟
+#POS I C N N N N N N N V W #POS
+}
+{
+REF هاردلك (؛
+#POS I C W #POS
+}
+{
+REF مش ممكن هدف
+#POS I C N N #POS
+}
+{
+REF ايه حقي لكن بلعب بأيدي خوي اسمه xX_SuHaiB_XxNUM أنا ضايفك يلا نلعب
+#POS I C N N N N N N E E E E E #POS
+}
+{
+REF ؟؟؟؟؟؟
+#POS I C #POS
+}
+{
+REF اسم الأيدي ؟؟ ولا اسمي أنا
+#POS I C N W V R A #POS
+}
+{
+REF ايوه ضايفك
+#POS I C C #POS
+}
+{
+REF أناا اتحدى
+#POS I C C #POS
+}
+{
+REF تم
+#POS I C #POS
+}
+{
+REF تقدر تلعب الحين ؟؟؟!!!
+#POS I C N N W W #POS
+}
+{
+REF مشعل حاول تفتح تويتر كثير عشان بعض الأوقات أكلمك ما ترد !!
+#POS I C N N N N N N N N N N W #POS
+}
+{
+REF اشتغل يلا تلعب ؟؟
+#POS I C N N W #POS
+}
+{
+REF الى الآن الصيانة :(
+#POS I C N N E #POS
+}
+{
+REF يلا
+#POS I C #POS
+}
+{
+REF أوكي بلعب
+#POS I C C #POS
+}
+{
+REF أوك إذا اشتغل بلعب معاك. أن شاء الله :)
+#POS I C N N N N W G G G E #POS
+}
+{
+REF من متى الصيانة ؟؟؟
+#POS I C N N W #POS
+}
+{
+REF أوكك عرفت خلاص بس متى بتبدأ ؟؟
+#POS I C N N N N N W #POS
+}
+{
+REF السحب على أيش ؟؟
+#POS I C N N W #POS
+}
+{
+REF بلعب معاك مرة ثانية تلعب الحين يا مشعل ؟؟؟؟
+#POS I C N N N N N N N G #POS
+}
+{
+REF تلعب مرة ثانية ولا بس مرة وحدة ؟؟؟
+#POS I C N N N N N N W #POS
+}
+{
+REF جاتني الفلوس مشكور أخوي :)
+#POS I C N N N E #POS
+}
+{
+REF الدوري ؛ Liga Portuguesa والفريق : V.Barcelos
+#POS I C W B B B W N W B #POS
+}
+{
+REF والله ما أذكر لكن مكتوب ليقا أظن وبعدين برتغال
+#POS I C N N N N N N N G #POS
+}
+{
+REF أوك بانتظارك
+#POS I C C #POS
+}
+{
+REF مع خشة ايوب ؟؟؟
+#POS I C N N W #POS
+}
+{
+REF لاعب برونزي يلعب RB جنسيتوا برتغالي يلعب فالدوري البرتغالي وتلقى اسم البائع FouadNUMGamer
+#POS I C N G B B B B B B B B B B #POS
+}
+{
+REF أوك يلا دقائق وأقولك
+#POS I C N N N #POS
+}
+{
+REF أوك
+#POS I C #POS
+}
+{
+REF يا مشعل تكفى استعجل
+#POS I C N N N #POS
+}
+{
+REF أوك لمن تخلص وتعطيهم كملني عشان أقلك اللاعب اللي يعرضه
+#POS I C N N N N N N N V G #POS
+}
+{
+REF مشعل متى تكون فاضي عشان نكمل المباراة
+#POS I C N N N N N N #POS
+}
+{
+REF متى طيب ؟؟؟ عشان أعرف ؟؟
+#POS I C N W V R W #POS
+}
+{
+REF يلا طيب العب !!!
+#POS I C N N W #POS
+}
+{
+REF يلا إقبل الإضافة ؟؟
+#POS I C N N W #POS
+}
+{
+REF إبشر
+#POS I C #POS
+}
+{
+REF ايه رجعت يلا نلعب بس إقبل أضافتي
+#POS I C N N N N N N #POS
+}
+{
+REF رسلتلك دعوة إقبل ونلعب بعد الصلاة أن شاء الله برب والأيدي xX_SuHaiB_XxNUM
+#POS I C N N N N N N N N N N E #POS
+}
+{
+REF مشعل خلصت عندي التناغم NUM بس في حساب ثاني الحين مقدر بس بعد الصلاة يمديك تلعب معي ؟؟؟؟
+#POS I C N N V K N N N N N N N N N N G G G #POS
+}
+{
+REF ما عندي إلا NUM ما أظن أقدر أجيب لعيبة ؟
+#POS I C N V K N N N N V W #POS
+}
+{
+REF الحين انت قصدك أنو أغير كل اللعيبة ولا بس أخلي التناغم NUM ؟؟
+#POS I C N N N N N N N N N V K W #POS
+}
+{
+REF انا رسلتلك قلتلك تناغمي NUM تقبل ولال لا ما رديت على العموم بخليه NUM ونلعب أن شاء الله ؟؟
+#POS I C N N V K N N N N N N N V K N N G G G #POS
+}
+{
+REF رسلت الإضافة إقبل الأيدي FouadNUMGamer
+#POS I C N N V B #POS
+}
+{
+REF مشعل يلا أنا جأهز تلعب ؟؟؟ بسرعة بالله
+#POS I C N N N N W G G #POS
+}
+{
+REF الآن جاهز
+#POS I C C #POS
+}
+{
+REF مشعل تلعب تحدي الحين على NUM.NUM ؟؟؟
+#POS I C N N N V K W #POS
+}
+{
+REF مشعل تلعب الحيت التحدي ع NUM.NUM ؟؟؟
+#POS I C N N N V K W #POS
+}
+{
+REF انت جربت التشكيلة ، وهل تنصحنا نسويها ، وكم الكمستري ؟؟؟
+#POS I C N N W G G G G G G G #POS
+}
+{
+REF يقولوا اندنوسيا حلوة مدري والله
+#POS I C N N V G #POS
+}
+{
+REF بكرة فاضي تلعب ؟؟؟
+#POS I C N N W #POS
+}
+{
+REF تبغى مكان طبيعة ولا كيف ؟؟؟
+#POS I C N N V R W #POS
+}
+{
+REF أصلا عادي عندي NUM نسخ من الدون ههههههه
+#POS I C N N K G G G G #POS
+}
+{
+REF في قيف أوي ثاني ؟
+#POS I C N N V W #POS
+}
+{
+REF حاول تحذف ناس ما تبغاهم وضيفني FouadNUMGamer
+#POS I C N N N N N G #POS
+}
+{
+REF ايوب انت اليوم دخلت سيرفر اسمه xwafii Open
+#POS I C N N N N N V V #POS
+}
+{
+كبيير يا بصاص :)ماشاء الله
+#POS B B B E E E #POS
+}
+{
+REF الله يعينك
+#POS I C C #POS
+}
+{
+REF مشعل متى بتسحب ؟؟
+#POS I C N N W #POS
+}
+{
+REF متى تنزل في سيرفر ماي كرافت
+#POS I C N N V R A #POS
+}
+{
+REF هههههه وقتها تحس انك غبي :)
+#POS I C N N V N E #POS
+}
+{
+REF سفيان قلي لاعب محدد (مطور( عشان أتاجر بيه
+#POS I C N N N N N N N #POS
+}
+{
+REF عبد الرحمن ليش ساحب على قناتك.  ؟
+#POS I C N N N N N W G #POS
+}
+{
+REF فراس بسألك سؤال انت عندك تيم سبيك ؟؟؟
+#POS I C N N N N N N W #POS
+}
+{
+REF طيب البطولة أيش جائزتها
+#POS I C N N N #POS
+}
+{
+REF إهااا بالتوفيق
+#POS I C C #POS
+}
+{
+REF بطولة عبر الشبكة ولا التم التيم ؟؟
+#POS I C N N N N N W #POS
+}
+{
+REF ايوب دخلني سيرفر ارت كرافت
+#POS I C N N V G #POS
+}
+{
+بَ التوفيق لأهلينآ الغآلي    في البطولة الآسيوية .. ♥♥♥
+#POS B B B B B B B W E #POS
+}
+{
+[قرعة دوري أبطال آسيا NUM م]  ؛. المجموعة الثالثة : - ساباهان.  - الغرافة.       - الأهلي - الفائز من النصر  ✗ لوكوموتيف
+#POS B B B B K N N W G G J W N W W N W W N W N N N E E #POS
+}
+{
+_   ​لاا تستهين بَ لحظة ﺈستغفاار فقد !     تبعدک ﺎلف ميل عن ﺎبواب ﺎلنار ♡̶'       #ﺎستغفر ﺎللهہ ۈ آتوب إليهه !*
+#POS G G G G G G G W G G G G G G E E H G G G G W W #POS
+}
+{
+#‏​​اسرائيل تعلن فك حصآر غزة و إيقاف آﻟﺣرب و الآن احتفالات عارمة ﻓيّ شوارع غزه لانتصار المقاومة بعد حصّار امتد من NUM مَ ، آلحممد لله '
+#POS H G G G G G G G G G G G G G G G G G G G G K N W G G G W #POS
+}
+{
+المدرب سيء ﻓيـے تشكيلة اليوم
+#POS B B B B B #POS
+}
+{
+أعطِ ربكَ قليلاً ، يعطك الكثير تقرب إليہ شبراً ، يتقرب إليك ذراعاً آترك شيئاً من أجلہ يعوضك خيراً كثيراً   ﺳبحانہ ۅ هو الغنيّ عنك ♡♡
+#POS B B B B B B B B B B B B B B B B B B B B B B B B B E #POS
+}
+{
+-  إن بليت فكن صبورًاا فسوف تفرج وإن كسرت فلا تبالي فسيجبر الله كسر القلوب ♡♡
+#POS W N N N N N N N N N N N N N N E #POS
+}
+{
+#صباح_الخير
+#POS H #POS
+}
+{
+صباح هادئ مُودع للسهر الطويل صباح رواية اجازةٍ اوشكت على الرحيل صباح نسمات بارده و طيور مُهاجره و صباح مُعلن دخول شِتاءً جديد ♡♡♡
+#POS B B B B B B B B B B B B B B B B B B B B B B B E #POS
+}
+{
+REF ﻓيـے السيارة ☺
+#POS I C N E #POS
+}
+{
+#رجل_المباراة_كان_بالومينو ♥
+#POS H E #POS
+}
+{
+#صباح_الخير
+#POS H #POS
+}
+{
+REF العفو ♥
+#POS I C E #POS
+}
+{
+REF تصميم رائع
+#POS I C C #POS
+}
+{
+مـبروڳ  يا ملوك ، وهاردلك للجار
+#POS B B B B B B #POS
+}
+{
+أنا أتوقعها DAT  ان شـاء اللّـہ‏​​​
+#POS B B K N V G #POS
+}
+{
+ايش توقعاتكم لدريبي جـدھ لمباراة الأياب ؟
+#POS B B B B B B B #POS
+}
+{
+صَــبـآآآحْ الّـخَّيِـرْ
+#POS C C #POS
+}
+{
+REF ☺
+#POS I E #POS
+}
+{
+اللهم لاتغيب شمس عرفة إلا وقد أصلحت حالنا وأحوالنا ،و أشفيت مرضانا ، و رضيت عنا ..و إجعلنا فيہ من العتقاء المغفور لهم
+#POS B B B B B B B B B B B B B B B B W N N N N N N N #POS
+}
+{
+REF god
+#POS I B #POS
+}
+{
+♧.                                              ˛ساعات بإذن اللّہ ۈتهب ﻋلينا ﻧسآئم ﻋرفة ھٓنيئا ﻟﻣ̉ن ﻧوى اﻟصيآم ​♡ '
+#POS B W G G G G G G G G G G G G G E W #POS
+}
+{
+*‏​‏​ غداً موعد تحقيق اﻷمنيات ، يقول أحد الصالحين ; والله ما دعوت دعوة يوم عرفةةٍ ، وما دارَ عليها الحولُ إﻻ رأيتها مثل فلق الصبح ♥
+#POS B B B B B B B B B W V R V R V R W G G G G G G G G G E #POS
+}
+{
+صباح الخير ☺
+#POS C C E #POS
+}
+{
+‏​‏​‏​‏‏​‏​‏​‏​‏​ذنوبَ ﺳنتين ﺗغفر ﮨصيام ﻳوم ﻋرفة ﻳوم וلخميس וلموافق - DAT ♥ !          ـ DAT ♥ ! ذكر فأن וلذكرى ﺗنفع וلمؤمنين ♡
+#POS B B B B B B B B B W K E W V K E W G G G G G E #POS
+}
+{
+-يوم الخميس وقفة عرفه ترفع جميع الاعمال الى  آلله مَا عدا  المتخاصمين فخيركم الذي يبدأ بالسلام ربي إني سامحت كل من أخطأ علي #فسامحونيO:)
+#POS G G G G G G G G G G G G G G G G G G G G G G G H E #POS
+}
+{
+‏​​‏​‏​‏​‏   کممَ أناا بحاجهہ ل فرحهہ ٺجدد ♪'     الروح فيَ حيااتي .. اللھممَ سر #   خاطري بِ خبر ججميل  ♥♥!
+#POS B B B B B B B G W B B B W N G G G G G G E W #POS
+}
+{
+كل قصور الملوك مكتوب على أبوابها( ممنوع الإقتراب والتصوير )إلا ملك الملوك فإنه يقول لعباده( واسجد و اقترب )^ من أجمل مأقرات ♥O:)&lt;NUM
+#POS B B B B B B B B B B B B B B B B B B B B B B E E E E #POS
+}
+{
+'                 ﯙ كل ميت يحتاج احياء يحيونه .. اللهم ارحمهم برحمتك التي وسعت كل شيء *
+#POS W B B B B B B W N N N N N N N W #POS
+}
+{
++  ﺎلأم : شجرة من ﺎشجار ﺎلفردۈسﺎسقها بالبر ۈتقبيل ﺎلجبين ۈاليدين كي تحملك فرۈعها ﺎلى ﺎلجنة ♥
+#POS F B W G G G G G G G G G G G G G E #POS
+}
+{
+™&lt;NUMO:)  URL
+#POS G G J E E E U #POS
+}
+{
+- ♪                                                                  لآ إلہَ إلآ أنتّ سُبحآنک.                      أإني كنت من الظآلمين ..♡
+#POS W G G G G G G W G G G G W E #POS
+}
+{
+- ♪                                                                        لآ إلہَ إلآ أنتّ سُبحآنک            أإني كنت من الظآلمين ..♡
+#POS W G G G G G G G G G G W E #POS
+}
+{
+جرب آنَ تستغفر كثيراً هذا اليوم      ستجد يومك مختلفاً ،      والأبوآب ألمغلقه ستفتح لك♡*    + آستغفرالله العظيم وأتوبُ إليه ♡♡
+#POS B B B B B B B B B B B B B B E W F B B B B E #POS
+}
+{
+صباحٌ يبدأ بحمدِ الله على كُل شيء ♡
+#POS B B B B B B B E #POS
+}
+{
+" أخبار الملكي في الصحافة ليوم الجمعه الموافق NUM شوال NUM هـ #الأهلي TAG... URL"
+#POS W V V R V R V R K G K N H H J U W #POS
+}
+{
+"@ URL اخبار الاهلي ليوم الجمعه الموافق-سبعه-سبتمبر..بطريقه مختلفه رايكم يهمني لكم ودي..قروب فوتبول رياضه واكثرر.."
+#POS W P U G G G G G G G W N N N N N N W N N N N W W #POS
+}
+{
+‏"ﻣن رضى بقضاء ربه أرضاه ربه بجمال قدره ♥ ~"
+#POS G W N N N N N N N N E E W #POS
+}
+{
+فيكتور يحتفل مع احد الاصحاب ويرقص المزمار شاهد "المعلم فيكتور رقص حجازي" على YouTube - URL
+#POS B B B B B B B B W N N N N W G B W U #POS
+}
+{
+لك ﺂلححمد ربيّ : من قآع ﺂﻷرضحتىى عرشك في ﺂلسسماء ..♡'ﺂلحمدللہ .. ♡'
+#POS B B B W G G G G G G W E W N W E W #POS
+}
+{
+"سامحوا من أساء إليكم والعوض من الله والعمر قصير وما عند الله خير وأبقى."
+#POS W V V R V R V R V R V R V R A W W #POS
+}
+{
+آعطوه آلقليلل ؛$من وقتكم وصلوا عليهَ( صل الله عليييهہ )·̵ .. وسلممَ ♡♡
+#POS B B B B B B B B B B W N E #POS
+}
+{
+استغفر اﻟﻟہ اﻟذي لاا إلہ الا هو ..                          اﻟحي اﻟقيوم ۈ ااتوب إليہ ♥♥♥"
+#POS B B B B B B B W N N N N N E W #POS
+}
+{
+معلمة سألت طالبة وش تعمل امك : فالبيت،ما ردت فصرخت امام الطالبات:يا غبية ما تعرفي أمك وش تسوي في البيت،رفعت رأسها قالت ايه نايمه في قبرها.."
+#POS B B B B B B W G G G G G W G G G G G G G G G G G G G G G W W #POS
+}
+{
+ElNUMmdllah NUMla kl NUMal :)
+#POS B G B B E #POS
+}
+{
+لآاتحاول ألدخول كثيراً في :نوايا الآخرين ، أمنح ألفرصه للمواقف أن / توضّح لك .
+#POS B B B B W G G G G G G G W G G W #POS
+}
+{
+ۅ ﻛﻟمااَ : ﺣﻣﻣدَت ربّي $؛ ۅﺟدت مِنہٌ مااَ ﯾرﺿﯾﻧي ! فَاﻟﺣمَد اﻟله دآئممااَ ؛$ ♥
+#POS B B W G G G G G G G W G G G G E #POS
+}
+{
+شكراً فيكتور قلت مايمكن يقوله عاشق بحق الاهلي وليس مجرد لاعب حضر بعقد مالي .....!"
+#POS B B B B B B B B B B B B B B W W #POS
+}
+{
+مآ أجمل الجنہ ة                              [لآيرون فيها شمسًا ولآزمهريرآ أسأل اللہ أن نكون من أهلهآ"
+#POS B B B B B B B B B B B B B B W #POS
+}
+{
+هلا
+#POS C #POS
+}
+{
+jojo
+#POS B #POS
+}

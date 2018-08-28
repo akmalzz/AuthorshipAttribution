@@ -1,0 +1,44 @@
+{
+REF we look forward to your tweets :) TAG
+#POS I O V R P D N E H #POS
+}
+{
+REF sure URL please :)
+#POS I A U V E #POS
+}
+{
+REF ok great, keep us posted :)
+#POS I C A W V O V E #POS
+}
+{
+Hi REF is Ard still going?
+#POS C I V C R V W #POS
+}
+{
+REF oh yer sorry our bad lol ok great thanks :)
+#POS I C L A D A C C A N E #POS
+}
+{
+Hi REF is the quiz still on every Tuesday?
+#POS C I V D N R P D B W #POS
+}
+{
+Hi REF is Loaded still on Tuesdays?
+#POS C I V A R P B W #POS
+}
+{
+Hi REF is Nostalgia still going?
+#POS C I V N R V W #POS
+}
+{
+Hi REF is the cookie jar still going?
+#POS C I V D N N R V W #POS
+}
+{
+Hi REF is Switch still going?
+#POS C I V N R V W #POS
+}
+{
+REF REF is this every week/month?
+#POS I I V O D N W #POS
+}

@@ -1,0 +1,614 @@
+{
+Sprichst du lieber oder schreibst du lieber? — Beides ;) URL
+#POS B B B B B B B W J B E U #POS
+}
+{
+Ab welchem Alter würdest du jemanden als „alt“ bezeichnen? — NUM. URL
+#POS B B B B B B B B W B W J K W U #POS
+}
+{
+Welches Tier würdest du gerne mal haben wollen? — Affen ^^ URL
+#POS B B B B B B B B W J B E U #POS
+}
+{
+Was würde es kosten, deine Liebe zu kaufen? — Ich bin nicht kaeuflich!!! URL
+#POS V A N B W G B G G W G G G G G W U #POS
+}
+{
+Kannst du eine Leseempfehlung geben? — Nope! URL
+#POS B G G B B W J C W U #POS
+}
+{
+Denkst du, dass man ohne Geld     auch glücklich sein... — Ja kann man :) aber manche brauchen es einfach..und d... URL
+#POS B B W L N W B B B G J J B B N E G G G G G W G G J U #POS
+}
+{
+Ersten NUM Likern NUM Likes, bitte? &lt;NUM — Habe grad keine Lust, sonst wirklich gerne :) sowas muss man mich Mittags ... URL
+#POS B K B K V W V W E E V N N N W V G N E G G N G G J U #POS
+}
+{
+Wen würdest du gerne einmal treffen? — Slipknot und Fall out Boy &lt;NUM :) URL
+#POS R A N V N N W J B B B T N E E U #POS
+}
+{
+Wie fühlst du dich gerade? — Gut :) URL
+#POS B B G G G W J N E U #POS
+}
+{
+Ohne welche Sache könntest du nicht leben? — Handy ^^ URL
+#POS W G B B G G B W G B E U #POS
+}
+{
+Nimmst du irgendetwas wahr, dass kein anderer sieht? — Irgendwie schon, voll Scary! URL
+#POS B B B B W L G G N W J B B W V A W U #POS
+}
+{
+Wenn du tanzt, siehst du aus wie…? — Ich :D URL
+#POS R G N W B G G G J J B E U #POS
+}
+{
+Hältst du dich selbst für kreativ? — Nein ^^ URL
+#POS B G G G G B W J C E U #POS
+}
+{
+Was machst du um glücklich zu sein? — Mich mit Freunden treffen &lt;NUM URL
+#POS V G G C B B B W J B G B B E U #POS
+}
+{
+Welche Webseiten besuchst du jeden Tag? — Ask, Twitter :) URL
+#POS B B B B B N W J V W B E U #POS
+}
+{
+Bist du eine ehrgeizige Person? — Geht so :) URL
+#POS B G G A N W J B R E U #POS
+}
+{
+Hast du schon einmal darüber nachgedacht, Vegetarier zu werden? — Ich bin Vegetarier &lt;NUM URL
+#POS V G G G G N W B B B W G G G B E U #POS
+}
+{
+Welche Länder würdest du nie besuchen? — Ich wuerde jedes Land besuchen :) URL
+#POS B B B G G G W G G G B B B E U #POS
+}
+{
+Wie groß bist du? — NUM.NUM URL
+#POS B B B B W J K U #POS
+}
+{
+Welcher ist dein hektischster Tag der Woche? — Montag -.- URL
+#POS B G G N V R B W J B E U #POS
+}
+{
+Würdest du dich selber klonen lassen? — Nein, lieber nicht ^^ URL
+#POS B G G G B B W J C W B B E U #POS
+}
+{
+Wie geht man mit Stress am besten um? — Mach Sport oder treff dich mit Freunden, das funktioniert immer :) URL
+#POS G G N G N V V C W G B B B B B B B W L A G E U #POS
+}
+{
+Welche Person hast du zuletzt getroffen? — Beste Freundin und Bester Freund &lt;NUM URL
+#POS B B V D N V W G B B B B B E U #POS
+}
+{
+Glaubst du, dass Geld die Menschen verdirbt? — Ohja. URL
+#POS B B W L B V B B W J C W U #POS
+}
+{
+Wenn du der letzte Mensch auf Erden wärst, was würdes... — Langweilen, ist ja dann keiner mehr da mit dem ich da... URL
+#POS R P N N B B B B W V G J W B W G G G G G D G G G G J U #POS
+}
+{
+Wen hättest du am liebsten niemals kennen gelernt? — ... URL
+#POS R A N V A N V V W G J U #POS
+}
+{
+Wie wird die Zukunft aussehen? — Hmm..weiss nicht URL
+#POS G G V B B W J C W B B U #POS
+}
+{
+Über was sprechen Frauen, wenn keine Männer dabei sind? — Geheimnis :p URL
+#POS R V R B W R A N N N W J B E U #POS
+}
+{
+Hast du schon einmal jemandem das Leben gerettet? — Nein, leider nicht! URL
+#POS V G G G G L B B W J C W B B W U #POS
+}
+{
+Ich habe auch deutsche Herkunft! :p — Freut mich sehr für dich :) URL
+#POS B V B B B W E W B B G G G E U #POS
+}
+{
+Zu welchem Song musst du einfach tanzen? — Zu allen Songs die es auf Just Dance gibt :) URL
+#POS B B N V G G G W G G B N V B B R V G E U #POS
+}
+{
+Würdest du lieber ohne TV oder ohne Musik leben? — TV ^^ URL
+#POS B B B W N G G B B W J N E U #POS
+}
+{
+Mit wem telefonierst du am häufigsten? — Mum oder Dad :) URL
+#POS B B B B V B W J B B B E U #POS
+}
+{
+Wie oft gehst du auf Partys? — Nicht oft.. URL
+#POS B A N G G B W J B R W U #POS
+}
+{
+Kannst du irgendein Instrument spielen? — Nein :/ URL
+#POS B B B B B W J C E U #POS
+}
+{
+Sind Sie Deutscher? — Ja, merkt man daran das ich nur auf Deutsch schreibe und nicht auf einer anderen Sprache :) URL
+#POS B B B W J B W A N V L G G G B B B B B B B B E U #POS
+}
+{
+hey, auf dem channel startet bald etwas, wäre mega nett wenn du schon mal abonnieren könntest:))... — Mal Gucken :) URL
+#POS C W G D N V A N W V R A R G G G G N E J W B B E U #POS
+}
+{
+Wer sind deine Feinde? — Willste nicht wissen xD URL
+#POS V G G B W J B B B E U #POS
+}
+{
+Was ist das erste, das du dir anschaust, wenn du deinen Rechner einschaltest? — Bildschirm :p URL
+#POS V A L A W L G G N W R G V B B W J B E U #POS
+}
+{
+Was ist in deinem Kühlschrank? — Essen und Trinken xo URL
+#POS V V P N N W G B B B E U #POS
+}
+{
+Was magst du an deinem Heimatland? — Alles :) URL
+#POS V B G D N B W J B E U #POS
+}
+{
+Cap de poser une question a ceux qui aiment ? — Waaaas? Geht das auch in Deutsch? URL
+#POS B D N G N D N G N W W V W B L G P B W U #POS
+}
+{
+Welcher ist der beste Film, den du je gesehen hast? — Hangover :D URL
+#POS B B B B B W R G G G V W G N E U #POS
+}
+{
+Mit welchem Menschen warst du zuletzt auf einem Foto zu sehen? — Beste Freundin &lt;NUM URL
+#POS B B B B B B B B B B B W G B B E U #POS
+}
+{
+Glaubst du, dass man Liebe mit Geld kaufen kann? — Nein. URL
+#POS B B W L N B G B B B W J C W U #POS
+}
+{
+Wenn du nur ein Wort hättest, um dich zu beschreiben, welches wäre es? — Verrückt :D URL
+#POS R G G N N N W C C G B W B B B W J B E U #POS
+}
+{
+Meinungen zu meinem Tumblr? :) ♥ URL — Ich mag dein Tumblr :) URL
+#POS B B B B W E E U W B B B B E U #POS
+}
+{
+Ohne welche Sache könntest du nicht leben? — Handy! ^^ URL
+#POS W G B B G G B W G B W E U #POS
+}
+{
+Was würdest du machen, wenn du unsichtbar wärst? — Leute Aergern :p URL
+#POS V R G B W R G G N W J B B E U #POS
+}
+{
+Findest du es richtig, Wildtiere im Zoo zu halten? — Nein URL
+#POS R G G G W B L B B B W J C U #POS
+}
+{
+Welches Sternzeichen bist du? — Zwilling xx URL
+#POS B B B B W J B E U #POS
+}
+{
+Hast du jemals etwas gestohlen? — Nein. URL
+#POS V D B B B W J C W U #POS
+}
+{
+Womit bist du heute beschäftigt? — Mit Chillen Zuhause ^^ URL
+#POS C G G G G W G B B B E U #POS
+}
+{
+Erinnerst du dich an deine Träume? — An manche, aber nicht an alle.. URL
+#POS B G G D N N W W D B W G G D N W U #POS
+}
+{
+Wenn du einen Teil deines Körpers vergrößern könntest, welchen würdest du wählen? — Gar keinen :o URL
+#POS R G G N N B B B W B B B B W G B B E U #POS
+}
+{
+Kannst du gut Schwimmen? — Yep :D URL
+#POS B D N B W J C E U #POS
+}
+{
+Was trägst du gerade? — Klamotten ^^ URL
+#POS V R G G W J B E U #POS
+}
+{
+Welche Homepage besuchst du am meisten? — Ask und FB :p URL
+#POS B B B B V A W J V B B E U #POS
+}
+{
+Stadt oder Land? Was magst du lieber? — Land :D URL
+#POS B B B W V B B B W W N E U #POS
+}
+{
+Denkst du nicht, dass sich alles zu schnell verändert? — Doch -.- URL
+#POS B G G W L G G G B B W J B E U #POS
+}
+{
+Wie ehrgeizig bist du? — Geht so xD URL
+#POS B B B B W J B R E U #POS
+}
+{
+Welcher Monat ist dein Lieblingsmonat des Jahres? — Juni/Dezember :) &lt;NUM URL
+#POS B B G G B B B W J B E E U #POS
+}
+{
+Was ist im Moment dein Lieblingslied? — Ylivis - The Fox :) URL
+#POS V G L N V B W J B W D B E U #POS
+}
+{
+Ohne welche Sache könntest du nicht leben? — Handy :p URL
+#POS W G B B G G B W G B E U #POS
+}
+{
+Hast du Angst im Dunkeln? — Nope ^^ URL
+#POS V D N L B W J C E U #POS
+}
+{
+Was hast du dir als letztes gekauft? — Handy :) URL
+#POS V V G G G G G W G B E U #POS
+}
+{
+Welches Sternzeichen bist du? — Zwilling :) URL
+#POS B B B B W J B E U #POS
+}
+{
+Was ist deine Lieblingssportart? — Joggen/ Tanzen :D URL
+#POS V G G B W J B B E U #POS
+}
+{
+Was schätzt du an deinen Freunden am meisten? — Das sie immer für mich da sind &lt;NUM URL
+#POS V G G D N B V A W W L G G G G D N E U #POS
+}
+{
+Hast du eine beste Freundin oder einen besten Freund? — Beides &lt;NUM URL
+#POS V G G G B B B B B W J B E U #POS
+}
+{
+Welchen Tag der Woche hasst du am meisten? — Sonntag, ugh -.- hasstag. URL
+#POS B V N B V O V A W G B W C E N W U #POS
+}
+{
+Was möchtest du in einer Beziehung vermeiden? — Luegen .. URL
+#POS V R V P B B B W J B W U #POS
+}
+{
+Magst du lieber Obst oder Gemüse? — Beides :D URL
+#POS B B B B B B W J B E U #POS
+}
+{
+Wo würdest du gerne leben? — L.A oder NY &lt;NUM URL
+#POS V G G G B W G B B B E U #POS
+}
+{
+Um wie viel Uhr wachst du normalerweise morgens auf? — Unterschiedlich xD ^^ URL
+#POS C G G B B B B B B W J B E E U #POS
+}
+{
+Glaubst du, dass jeder Mensch eine zweite Chance verdient? — Yep :) URL
+#POS B B W L R B B B B B W J C E U #POS
+}
+{
+Welches Wort benützt du am häufigsten? — YOLO :D haha URL
+#POS B B B B V B W J B E C U #POS
+}
+{
+Hübsche ! ♥ — Danke :) URL
+#POS B W E J C E U #POS
+}
+{
+Was hältst du vom Klonen von Menschen? — :o :o :o URL
+#POS V A N V B B B W J E E E U #POS
+}
+{
+Yo yo yo — Hey hey hey :) URL
+#POS O O O W C C C E U #POS
+}
+{
+Hältst du dich selbst für kreativ? — Nein! URL
+#POS B G G G G B W J C W U #POS
+}
+{
+Wo triffst du dich am liebsten mit Freunden? — Bei ihnen oder bei mir Zuhause &lt;NUM URL
+#POS V B G G V R G B W G B B B B B B E U #POS
+}
+{
+Wer ist die lustigste Person, die du kennst? — Onkel :D &lt;NUM URL
+#POS V G V A N W V D N W J B E E U #POS
+}
+{
+Wie viel Schlaf brauchst du, um fit zu sein? — NUMh :) URL
+#POS G G B B B W C V G G W J K E U #POS
+}
+{
+Glaubst du an das Karma? — Wer bitte nicht? :p URL
+#POS B G D L B W J V V N W E U #POS
+}
+{
+Hast du Angst vor dem Fliegen? — Ohja, ich koennte heulen wenn ich da nur dran denke :( URL
+#POS V D N P G B W J C W G G B R G D G G N E U #POS
+}
+{
+Vertraust du Menschen leicht? — Nicht mehr... :/ URL
+#POS B B B B W J B G J E U #POS
+}
+{
+Hast du eine beste Freundin oder einen besten Freund? — Beides :) ( mein Leben ) &lt;NUM URL
+#POS V G G G B B B B B W J B E W V B W E U #POS
+}
+{
+Vermisst du gerade jemanden? — Yeah :'( URL
+#POS B G G B W J C E U #POS
+}
+{
+Wie siehst du gerade aus? — Verschwitzt, durchs Tanzen xo URL
+#POS B B G G B W J B W N B E U #POS
+}
+{
+Stadt oder Land? Was magst du lieber? — Land :) URL
+#POS B B B W V B B B W W N E U #POS
+}
+{
+Was kann dich immer in eine bessere Laune versetzen? — Meine Freunde &lt;NUM URL
+#POS V B B B P N V B B W J B B E U #POS
+}
+{
+Wen hast du heute schon umarmt? — Niemanden :/ URL
+#POS R V G G G G W J B E U #POS
+}
+{
+iPhone oder Android? — Android - forever :))) URL
+#POS B B B W J B W R E U #POS
+}
+{
+Was hörst du gerade? — Nichts :p URL
+#POS V A N N W J B E U #POS
+}
+{
+Hast du in letzter Zeit irgendein Kunstmuseum oder Museum besucht? — Nope xD URL
+#POS V V P B B B B B B B W J C E U #POS
+}
+{
+Ich wünscht ich wär dein Kuscheltier. Dann wär ich jede Nacht bei dir.... — Wie süß Anonym :) 
+Ein Herz für dich &lt;NUM URL
+#POS B B B B B B W B G G B B G G J J B B B E
+N B G G E U #POS
+}
+{
+Was machst du am liebsten im Sommer? — Chillen mit Freunden &lt;NUM URL
+#POS V G G V A L B W J B B B E U #POS
+}
+{
+Welche Pläne hast du für morgen? — Ein Projekt für die Schule fertig stellen ;) URL
+#POS B B V G G G W G B B W V B B B E U #POS
+}
+{
+Bereust du irgendetwas? — Tut doch jeder! URL
+#POS B B B W J C C N W U #POS
+}
+{
+Wen hättest du am liebsten niemals kennen gelernt? — Da gibt es so viele Personen, aufzaehlen will ich die liebe... URL
+#POS R A N V A N V V W G D G G P B B W B V V V G J U #POS
+}
+{
+Hattest du damals Angst, wenn du auf einen Baum gekle... — Ich bin frueher, nie auf einen Baum geklettert!!! Als... URL
+#POS B B B N W R G G G B G J J B G B W B B B B B W G J U #POS
+}
+{
+Wenn du einen Teil deines Körpers vergrößern könntest, welchen würdest du wählen? — Gar keinen :o URL
+#POS R G G N N B B B W B B B B W G B B E U #POS
+}
+{
+Hast du schon einmal darüber nachgedacht, Vegetarier zu werden? — Ich bin :D URL
+#POS V G G G G N W B B B W G G G E U #POS
+}
+{
+Was hast du zuletzt gekauft? — Handy xx URL
+#POS V V D N N W G B E U #POS
+}
+{
+Wenn du NUM beliebige Sprachen perfekt sprechen könntest, welche Sprachen... — Englisch, Spanisch und Franzoesisch &lt;NUM URL
+#POS R D K N N A N N W B B W W B W B B B E U #POS
+}
+{
+Wer ist der schönste Mensch in deinem Land? — Jeder ist schoen, auf seine eigene Art und Weise &lt;NUM URL
+#POS V V N N B P N N W J B G B W B B B B B B E U #POS
+}
+{
+Würdest du lieber ohne TV oder ohne Musik leben? — TV ;) URL
+#POS B B B W N G G B B W J N E U #POS
+}
+{
+Magst du lieber Kino oder Theater? — Kino :) URL
+#POS B B B B B B W G B E U #POS
+}
+{
+Wie viel Geld hast du heute ausgegeben und für welche Dinge? — Ich nicht, nur meine Mum xo URL
+#POS G G B V G G G G G G B W G G G W G G N E U #POS
+}
+{
+Wie viele Zähne hast du? — Als ob ich die Zaehle xD URL
+#POS B B B V N W J B B B V B B U #POS
+}
+{
+Welchen Tag der Woche hasst du am meisten? — Sonntag.. URL
+#POS B V N B V O V A W G B W U #POS
+}
+{
+bild ? — Scroll weiter runter, dann hast du eins :) URL
+#POS B W J A N N W B V D N E U #POS
+}
+{
+Wie oft zeichnest du? — :o ich hasse zeichnen xD URL
+#POS B A N N W J E G G G E U #POS
+}
+{
+Hast du irgendwelche seltsamen Phobien? — Nicht das ich wüsste... URL
+#POS V D N V B W J B L G G J U #POS
+}
+{
+Was ist deine wichtigste Regel? — Sei du selbst und verstell dich für niemanden &lt;NUM URL
+#POS V G G G B W J B G G G G G G G E U #POS
+}
+{
+Bist du lieber alleine oder in Gesellschaft? — Gesellschaft :) URL
+#POS B G B B B P B W J B E U #POS
+}
+{
+Wie findest du es, wenn ein Mann anderen Frauen hinterherschaut, obwohl seine Freundin dabei is... — Schrecklich :o URL
+#POS B B G G W R N N V B B W B B B B V W W B E U #POS
+}
+{
+Welches Wort benützt du am häufigsten? — Yolo  ^^ URL
+#POS B B B B V B W J B E U #POS
+}
+{
+Wem vertraust du mehr: deinen Freunden oder deinen Eltern?... — Freunden  &lt;NUM URL
+#POS B B G G W V B B B B W W B E U #POS
+}
+{
+Über was sprechen Frauen, wenn keine Männer dabei sind? — Geheimnis , ;D URL
+#POS R V R B W R A N N N W J B W E U #POS
+}
+{
+Welche Dinge trägst du immer bei dir? — Handy :) URL
+#POS B B B G G G G W G B E U #POS
+}
+{
+Jedem Liker NUM Likes? — Nein. URL
+#POS B B K V W J C W U #POS
+}
+{
+Sollte das Jagen von Tieren verboten werden? — Ja! URL
+#POS B L B B B V B W J B W U #POS
+}
+{
+Glaubst du an ein Happy End? — Yep &lt;NUM URL
+#POS B G D N A N W J C E U #POS
+}
+{
+Was machst du, wenn du allein zuhause bist? — Chillen ^^ URL
+#POS V G G W R G G G G W J B E U #POS
+}
+{
+In welchem Alter hast du deinen ersten Computer bekommen?... — DAT URL
+#POS P B B V D N V N N W W K U #POS
+}
+{
+Mit welchen Menschen verbringst du am meisten Zeit? — Mit meiner Familie :) URL
+#POS B B B B B V B B W G B B B E U #POS
+}
+{
+Spielst du Online-Spiele? — Nicht mehr. URL
+#POS B B B W J B B W U #POS
+}
+{
+Wie lange lebt die Liebe? — Solange wie sie lebt, würde ich jetzt mal sagen :p URL
+#POS B B B V B W G B B B B W B G G G G E U #POS
+}
+{
+Werden Roboter den Menschen ersetzen? — Nein ;) sollten sie auch niemals xD URL
+#POS B B B B B W J C E V G G G E U #POS
+}
+{
+Wie geht man mit Stress am besten um? — Wenn ich das wüsste ... URL
+#POS G G N G N V V C W W R A L A W U #POS
+}
+{
+Was ist dein Lieblings-Brettspiel? — Mensch aergere dich nicht xD URL
+#POS V G G G W J B B B B E U #POS
+}
+{
+♥ — &lt;NUM URL
+#POS E E E U #POS
+}
+{
+Was magst du lieber: Laufen oder Fahrradfahren? — laufen :) URL
+#POS V B B B W B B B W J B E U #POS
+}
+{
+Magst du lieber Kino oder Theater? — Kino ;) URL
+#POS B B B B B B W G B E U #POS
+}
+{
+Was hast du auf dem Herzen?  — nix :D URL
+#POS V V G G G B W G G E U #POS
+}
+{
+Wem vertraust du am meisten? — Schwester &lt;NUM URL
+#POS B B B V A W J B E U #POS
+}
+{
+Bist du schon einmal von zuhause weggelaufen? — nope .. URL
+#POS B G G G N N N W J C W U #POS
+}
+{
+Nimmst du irgendetwas wahr, dass kein anderer sieht?  — nope! URL
+#POS B B B B W L G G N W J C W U #POS
+}
+{
+Like NUM Antworte bei REF &amp; Du bekommst ein Geschenk ! — nope. URL
+#POS P K B B I F B B N N W W C W U #POS
+}
+{
+Was machst du, wenn du gestresst bist, um den Stress zu reduzieren?... — Sport :) URL
+#POS V G G W R G G N W C F N G G W W N E U #POS
+}
+{
+Schau in den Spiegel. Was siehst du? — Mich xD URL
+#POS B P B B W V A N W J B E U #POS
+}
+{
+Welche Länder würdest du nie besuchen? — Ich würde jedes Land besuchen :) URL
+#POS B B B G G G W G G G B B B E U #POS
+}
+{
+Magst du lieber den Tag oder die Nacht? — Nacht :) URL
+#POS B B B F N N V B W G B E U #POS
+}
+{
+Was magst du an deinem Heimatland? — Alles :p URL
+#POS V B G D N B W J B E U #POS
+}
+{
+Wenn du der letzte Mensch auf Erden wärst, was würdest du tun?... — Langweilen xD URL
+#POS R P N N B B B B W V R D N W W B E U #POS
+}
+{
+Wie sieht dein Zimmer aus? — Normal halt :D URL
+#POS B B B B B W J A N E U #POS
+}
+{
+Würdest du lieber ohne TV oder ohne Musik leben? — TV URL
+#POS B B B W N G G B B W G N U #POS
+}
+{
+Wo bist du im Moment? — Zuhause :D URL
+#POS C C G L N W J B E U #POS
+}
+{
+Auf einer Skala von NUM bis NUM, wie glücklich bist du? — NUM :) URL
+#POS B B B B K N K W G G G G W J K E U #POS
+}
+{
+Wenn du jetzt alles machen könntest, das du willst, was würdest du tun?... — Leute aergern ;) URL
+#POS R G G G G N W L G G W V R D N W J B B E U #POS
+}
+{
+Wer ist dein Lieblingslehrer? — Ich habe keine lieblingslehrer mehr. :o URL
+#POS V G G B W G B V B B B W E U #POS
+}

@@ -1,0 +1,880 @@
+{
+REF Génial !!! Merci !!! J'ai presque les même ! :D
+#POS I B W C W B B B B W E #POS
+}
+{
+REF Je suis en train de regarder TAG saison NUM épisode NUM ! :D Si tu aime la saison NUM alors tu ne pourra qu'adorer celle là !
+#POS I B B B B P G B N K A K W E B G G B N K N G G G G G G W #POS
+}
+{
+REF Trop mignon ! :)
+#POS I B N W E #POS
+}
+{
+REF Vous êtes vraiment trop géniaux !
+TAG
+#POS I B B B B B W
+H #POS
+}
+{
+REF C'est ça ! :D URL
+#POS I N G W E U #POS
+}
+{
+D'après toi, c'est quoi ?! ;) REF URL
+#POS N N W N G W E I U #POS
+}
+{
+Si mon portable ne s'était pas suicidé en tombant de ma mezzanine, j'aurai du répondre au mec que ne supporte pas. TAGécieTonSacrifice ❤📱
+#POS B B A N G G G R G P D N W B B B G G G G G G W H G E E #POS
+}
+{
+REF Ouais, j'ai pas de chance surtout ! -.-'
+#POS I C W B B B N N W E #POS
+}
+{
+REF Et la prof d'histoire qui va nous dire "alors ? J'espère que vous avez bien travaillé !?" Elle croit quoi ?! x)
+#POS I B B N G G G G A W N W B B B B B B W W B N G W E E #POS
+}
+{
+REF Eh ba non ! J'ai rien foutu non plus et j'ai hiberné dans mon lit pendant presque toutes les vacances ! ^^'
+#POS I C B B W B B B B A N G G D N V N B B B B W E #POS
+}
+{
+Laisse tomber j'arrête de bosser et je me remet à l'aquarelle et au dessin ! TAGême
+#POS B B B P B B B O R G G N G N W H H #POS
+}
+{
+Moi pour le goûter j'ai mangé de la purée. TAGÉtaitUnePersonneBizarre
+#POS B V B B B B P B N W H H #POS
+}
+{
+REF De même et Arthur te passe le bonjour ! ;)
+#POS I B B B B B A N C W E #POS
+}
+{
+REF Alors comme ça on est le cousin d'Arthur et on me dit rien ?! O.o
+#POS I C V G P N N N G N P O G G W E #POS
+}
+{
+REF Resident Evil :)
+#POS I N A E #POS
+}
+{
+REF Tout le monde s'en rend compte...sauf le mec en question ! XD
+#POS I B B B B V V W G G G G N W E #POS
+}
+{
+REF REF REF Je suis totalement fan ! Et j'ai la musique dans la tête aussi ! ^^'
+#POS I I I B B B N W N G G N N G G B W E #POS
+}
+{
+L'autre jour j'écrivais un tweet quand mon correcteur d'orthographe à voulu remplacer mon hashtag "TweetRigolo" par "TweetInutile"... TAGée
+#POS B B B B V B B B B B B B B N W B W N W B W W H H #POS
+}
+{
+REF REF Je viens de le rendre compte que mon TAG faisait un peu narcissique... XD TAG
+#POS I I B B P G V V G N H G G G G J E H #POS
+}
+{
+REF REF Mon rp avance ponctué de dessins sur la jolie Cassyopée ! ;)
+#POS I I B G G G P N G G B B W E #POS
+}
+{
+Cette nuit j'ai rêvé que j'allais dans un dépôt-vente avec REF ... :NUM TAG
+#POS B G G G G G G G G P I J E H #POS
+}
+{
+REF Ouaw ! :NUM Moi aussi il m'a mis NUM ! ^^ Mais mes dessins sont moins bons que les tiens ! :/
+#POS I C W W K B B B G G K W E B B B B B B B B B W E #POS
+}
+{
+REF Je suis en train de me repasser toute la série en ce moment même ! ^^
+#POS I B B B B P O R G G G G G N N W E #POS
+}
+{
+REF Ah la chance que tu as !
+#POS I C B N G G P W #POS
+}
+{
+REF T'as vu ça ! :D TAGère ;)
+#POS I B B B W E H N E #POS
+}
+{
+REF REF Faute de frappe... *Mais ^^'
+#POS I I B P N W W B E #POS
+}
+{
+REF REF :D Pais t'as fait ça comment ?! Tu l'as trouvée où ?! NUMoNUM❤
+#POS I I E B B G G V W B B B B W K E #POS
+}
+{
+TIM
+#POS K #POS
+}
+{
+REF When will you post blue hair ?! :)
+#POS I R V O V A N W E #POS
+}
+{
+REF I'm crazy about your work ! :D Just amazing !
+#POS I L A P D N W E R A W #POS
+}
+{
+Là je repeint ma salle de bain ! XD
+#POS B B B D N P N W E #POS
+}
+{
+Mon TAGéEtTisane ! NUM REF REF REF REF URL
+#POS B B B W K I I I I U #POS
+}
+{
+I'm reading tweets about REF when suddenly the music of the tv series begin in my phone ! That's called destiny ! NUMO REF
+#POS L V N P I R R D N P D N N V P D N W L V N W E I #POS
+}
+{
+Magnifique, fantastique, dangereux, FROID TAGœurDeGlace TAG REF REF REF REF REF
+#POS A W A W N W B B B H I I I I I #POS
+}
+{
+Il y a une semaine à TAG ! TAGéeHaute TAG URL
+#POS B R D G G G H W H B B U #POS
+}
+{
+REF Moi aussi c'est mon NUMème ! Qui fera bientôt place à un NUMème d'ici peu d'ailleurs... --' URL
+#POS I B B N N N W G G A N G G G G G G J E U #POS
+}
+{
+REF J'aime bien voir les gens plagier des tweets en recopiant les mêmes fautes qui se trouvent dans le tweet d'origine ! XD
+#POS I B B G B B B D N P G B B B B G G G G V N W E #POS
+}
+{
+Regardez ce que j'ai trouvé dans mon assiette tout à l'heure ! :D TAG TAGœur TAG URL
+#POS B B B B B B B B B B B W E H H N H U #POS
+}
+{
+REF REF Ça c'est le genre de dispute qui défruite ! Moi aussi je voudrai pouvoir me disputer avec quelqu'un comme ça. XD
+#POS I I B B B B P N G N W B B B B V O R P G V G W E #POS
+}
+{
+Aujourd'hui j'ai essayer d'utiliser un donut pour faire comme dans les tutos de REF ... Ba c'était pas beau à voir ! ^^'
+#POS G G G G G N V N V G B B P I W G G G G G G W E #POS
+}
+{
+REF Après toi Junior ! TAG
+#POS I B B B W H #POS
+}
+{
+TAGNUM TAG TAGéchant TAG
+#POS H H H N H #POS
+}
+{
+Qu'est-ce que ceci ?! Mais un bidon lanterne voyons ! TAG TAG TAG TAGéeQandMême ! XD URL
+#POS G G B W B B B B B W H H H H B W E U #POS
+}
+{
+TAGéDansSaChambreGrâceÀSaPetiteBouilloireEtSonCoinDétenteOùEstAccrochéSonÉtagèreÀFlaconsQuElleARemplieDeThéDeSucreEtDeChocolat ! :d
+#POS H B W E #POS
+}
+{
+Regarder TAG ça me donne envie de manger... remarque ça ne change pas tellement de d'habitude ! ^^' TAG
+#POS N H V O V G P N W A G G V G G P N W E H #POS
+}
+{
+REF REF REF Tu vas me tuer de rire un jour toi ! XD
+#POS I I I B V O R P G G G G W E #POS
+}
+{
+REF Amazing ! I've got the same at home ! :)
+#POS I A W L V D A P N W E #POS
+}
+{
+REF Je me demande pourquoi j'ai mis ce hashtag... Il n'a aucun rapport avec le sujet de mon tweet... --'
+#POS I B O R G G G G G W B B B N P B B P N N W E #POS
+}
+{
+REF REF REF Mercredi de la rentrée on a pas cours !!!! TAG
+#POS I I I B P B N P D N N W H #POS
+}
+{
+REF Et j'ai acheté ça aussi ! Pour pouvoir me faire du thé dans la chambre ! XD URL
+#POS I B B B B B W V V O R P D B B N W E U #POS
+}
+{
+Je voulais dire un grand merci à REF en particulier pour les conseils coiffure ! Ça m'a énormément aidé ! :) Continu ! :D
+#POS B B A N A N G I R A N B B B W G G G G W E B W E #POS
+}
+{
+Mon étagère à flacons !!! REF TAG TAG URL
+#POS B B B B W I H H U #POS
+}
+{
+REF REF REF REF
+Plan-Marvel, la ville des supers-héros ! XD
+#POS I I I I
+N W B B B N W E #POS
+}
+{
+REF Hihi ! Je cultive mon petit côté mystérieux ! ;)
+#POS I C W B B B N N N W E #POS
+}
+{
+TAG Et ça ! *•* TAG URL
+#POS H B B W W H U #POS
+}
+{
+TAG Puis ça ! XD TAG URL
+#POS H B B W E H U #POS
+}
+{
+TAG Quand soudain j'ai vu ça ! &gt;&gt;&gt; TAG !!! ^^ URL
+#POS H B B B G G W G H W E U #POS
+}
+{
+Tranquille dans le canapé avec ma tisane ! x) TAG URL
+#POS B B B B P D N W E W H U #POS
+}
+{
+Flappy Bird !!! Enfin sur mon IPod ! TAGère REF URL
+#POS A N W C G B B W H G I U #POS
+}
+{
+Après une semaine de beug sur mon compte Twitter, il refonctionne enfin ! TAGêtéTesCaprices
+#POS B B B P G G N N B W B B C W H H #POS
+}
+{
+Les voilà enfin ! TAG Rien que pour tes yeux REF ! ;) URL
+#POS B C C W H B B V B B I W E U #POS
+}
+{
+REF REF REF REF Tu as oublié d'écrire ça à la fin: TAG(incompréhensible)DeLaetitia
+#POS I I I I B P B B B B B N W H H #POS
+}
+{
+REF REF REF REF Nous avons la responsabilité de milliard de grenouille entre nos mains ! ^^ *•*
+#POS I I I I B B B B P B P B B B N W E E #POS
+}
+{
+Difficile de continuer mes descriptions quand je n'ai plus d'exemples sous les yeux ! Mais ne t'inquiète pas REF je ferai de mon mieux!
+#POS B P N N N G G G P G A B B W B B B B I B B P N N W #POS
+}
+{
+REF J'en veux !!!!!!!!! :D
+#POS I B B W E #POS
+}
+{
+REF Hihihihi ! ^^ Je suis bizarre je sais...
+#POS I C W E B B A B V W #POS
+}
+{
+C'est ce que j'appelle avoir trop la classe ! On a une TAGéniale TAG REF REF REF URL
+#POS N G G G G G G N W P D N H R H I I I U #POS
+}
+{
+TAG REF URL
+#POS H I U #POS
+}
+{
+REF Le casque nous va si bien ! ^^
+#POS I B B B B B B W E #POS
+}
+{
+Nous en cours de LVA ! :D REF REF REF URL
+#POS B B B P B W E I I I U #POS
+}
+{
+Devant le film "Secret de Famille" ! À voir absolument ! :) REF REF REF REF
+#POS B B N W A P B W W G G N W E I I I I #POS
+}
+{
+REF REF REF REF Les changements d'emploi du temps ! :) URL
+#POS I I I I B B B D N W E U #POS
+}
+{
+REF REF REF Demain, faite moi penser à vous montrer ma nouvelle aquarelle ! :D
+#POS I I I N W B B B B B B D A N W E #POS
+}
+{
+REF REF REF Devant The Silver Linings Play Book ! :D
+#POS I I I V D N N V N W E #POS
+}
+{
+REF REF regarde !!!! Trop la classe quoi ! ;D
+#POS I I N W G G G G W E #POS
+}
+{
+REF Je t'avais pas reconnue ! --'
+#POS I B B B B W E #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF merci ! :)
+#POS I C W E #POS
+}
+{
+En train de regarder TAG ... Désolée mon cher TAG ... :/
+#POS B N P N H W A N N H W E #POS
+}
+{
+REF REF Ce tweet est fait pour toi ma petite licorne préférée !
+#POS I I B V N N V G D A N N W #POS
+}
+{
+REF Ça va être dur là ! --'
+#POS I B B B B B W E #POS
+}
+{
+REF j'adore ton tweet...! Mais dessiner quoi ?! --'
+#POS I C N V W B B B W E #POS
+}
+{
+¿ Comó está ? ¡ Muy bién ! REF REF REF
+#POS C B B W C B B W I I I #POS
+}
+{
+¡ Holà Paola ! REF REF REF
+#POS C B B W I I I #POS
+}
+{
+¡ Buenos días ! REF REF REF
+#POS C B N W I I I #POS
+}
+{
+REF REF REF C'est tellement bien dit !
+#POS I I I N G G G W #POS
+}
+{
+Aujourd'hui est un jour important : j'ai TAG compris le principe de la tresse épis de blé !
+#POS B B B B A W B H B B B P B N G P N W #POS
+}
+{
+Ne jamais sous estimer les bienfaits d'une shopping-thérapie ! NUM€ de bonheur pour moi ce soir ! ^^
+#POS G B B B B B B N W K P N V B B B W E #POS
+}
+{
+Ce soir au TAGéma : TAGève
+Il était juste trop (en japonais sous-titré français) génial !!! URL
+#POS B B G H H W H H
+B B B B W P B B B W B W U #POS
+}
+{
+TAGéi on t'aime !!! URL
+#POS N N P N W U #POS
+}
+{
+L'eau de mon bain après m'être lavé les cheveux et donc mes mèches bleus ! TAG TAGèchesColorées TAG URL
+#POS G P B N N V G B B B B B B B W H H G N U #POS
+}
+{
+REF REF
+:D ;) URL
+#POS I I
+E E U #POS
+}
+{
+REF merci !!!!
+#POS I C W #POS
+}
+{
+Celle qui a sauvé mon devoir d'histoire : REF !!! 💙
+#POS B G D A N N N W I W E #POS
+}
+{
+SOS ! Qui a le plan de la lettre des poilus en histoire ? REF REF REF
+#POS B W G D N N P B B B B R B W I I I #POS
+}
+{
+REF Joyeux anniversaire !!!!
+#POS I C N W #POS
+}
+{
+Après ! REF REF REF URL
+#POS B W I I I U #POS
+}
+{
+Avant ! REF REF REF URL
+#POS B W I I I U #POS
+}
+{
+REF REF REF REF Je regarde Robin des Bois, un pur moment de plaisir, d'émotions et de flash back !
+#POS I I I I B G B D N W G G N P N W B B B N R W #POS
+}
+{
+REF Trouvé !
+#POS I N W #POS
+}
+{
+REF Soupe aux champignoooon o.o
+#POS I B B B E #POS
+}
+{
+L'autre matin je me lavais les dents dans la cuisine avec une bouteille d'eau TAG quoi ! ^^'
+#POS N G V O G B N G B N P B B G H C W E #POS
+}
+{
+Aux âmes bien nées, la valeur n'attend point le nombre des abonnés, mais merci aux abonnés qui ont encore le courage de suivre mes bêtises !
+#POS B B B B W B N F N G G N N W B B B B B B N N N P N G V W #POS
+}
+{
+TAG Pretty Little Liars !!!
+#POS H A A N W #POS
+}
+{
+REF Et après plusieurs jours d'absence... Je fais mon grand come back ! ^^'
+Voilà.
+#POS I N N V B G J B B B A N R W E
+C W #POS
+}
+{
+REF It pops.
+#POS I O N W #POS
+}
+{
+REF It aooooooows.
+#POS I O V W #POS
+}
+{
+REF It schlings.
+#POS I O V W #POS
+}
+{
+REF Si seulement c'était possible de retweeter quelque chose qu'on a déjà retweeté… Je veux pas être à demain !!!
+#POS I B B V A P N N V N D N N W B B B B B N W #POS
+}
+{
+REF J'espère que ce genre de cas ne tue pas, parce que sinon je serai déjà morte ! ^^'
+#POS I B B B B P G G B B W B B C B B B B W E #POS
+}
+{
+REF REF REF C'est exactement ce à quoi je pensais !
+#POS I I I N C G G G G G W #POS
+}
+{
+J'ai fait les TAG !!! :D
+Résultat : bottines + escarpins + bloc à dessin + pinceau avec réservoir d'eau + vapo de poche + T-shirt bleu !
+#POS B G B B W E
+B W N F B F N G V F B P N G F B P N F N N W #POS
+}
+{
+REF Comment t'as deviné ? Tu ne serais extralucide par hasard ?!
+#POS I N N N W G G G G P N W #POS
+}
+{
+Ce que j'ai mangé ce soir ! REF REF REF JT Bacon tu me manques !!! URL
+#POS G G G G G B W I I I B B P O B W U #POS
+}
+{
+REF REF Tu ne serais pas TAG par le plus pur des hasards ?!
+#POS I I B B B B B P B P G N N W #POS
+}
+{
+REF Dans "Ulysse", les hommes mettent des robes, des colliers et ils ont les cheveux longs... On m'expliques ?!
+#POS I B W B W W B N N N N W N N N G G B B V W P N W #POS
+}
+{
+Topos
+Topoï
+Tapas ?
+...euh... Non. Non non.
+REF REF REF TAGérature
+#POS B
+N
+N W
+W C W N W B B W
+I I I H H #POS
+}
+{
+Tomorrow is a great day : I'll finally have my special box TAG ! Thank you REF because your fragrances make me dream !
+#POS N V D A N W L R V D A N H W V O I P D N V O V W #POS
+}
+{
+Je voudrai pouvoir écrire ça en étant sûre que ça impressionne quelqu'un !
+REF est venue ici URL
+#POS B B B B B B B B B B B B W
+I N N G U #POS
+}
+{
+Un matin pendant mon stage j'ai croisé le sosie de Gimini criquet, j'ai pensé à vous REF REF REF REF ! c:
+#POS G G N N N G G G G P B B W B B B B I I I I W N W #POS
+}
+{
+REF Le plus beau message que tu m'ai jamais envoyé ! URL
+#POS I B B B N G G G G G W U #POS
+}
+{
+REF Merci !!!
+#POS I C W #POS
+}
+{
+REF REF REF REF Mais au fait ! Bonne Année ! Et oui, je suis un peu en retard ! ^^'
+#POS I I I I B G N W B B W B B W B B B B R N W E #POS
+}
+{
+REF Elle est trop bien celle là aussi ! :D
+#POS I B N N G G G B W E #POS
+}
+{
+REF REF REF On change tout en NUM : alors hop! nouvelle TAG et nouvelle bannière ! ;D
+#POS I I I P N N P K W N N W A H N A N W E #POS
+}
+{
+REF REF You're so beautiful Sarah ! I wanna have your eyes ! :)
+#POS I I L R A B W O V V D N W E #POS
+}
+{
+REF REF REF Si seulement je pouvais avoir le même ! ❤❤❤❤❤ TAG
+#POS I I I B B B B B B B W E H #POS
+}
+{
+Ça c'est mon NUMème tweet ! TAG --'
+#POS B B B K N W H E #POS
+}
+{
+Mathias avec les maltesers : "Nan mais on va pas compter non plus !", il en donne à Raphaël, "Et attend t'en a un de trop !". TAG'onAMangé
+#POS B P B B W W B B P B Z N N N W W W G G G G B W W N V P D G P N W W W H #POS
+}
+{
+Je lis "stagiaire" à la place de "sagittaire"... Mon TAG me hante... O.o REF REF REF URL
+#POS B G W N W G B N P W N W W B N O R W E I I I U #POS
+}
+{
+Ce matin : TAGéveilParfait --&gt; TAGée + TAG + TAG !
+Elle est cool la vie quand même ! :D
+#POS G G J H G G H G F H F H W
+B N A B B B B W E #POS
+}
+{
+Mon nouvel amour 💙 TAGïd URL
+#POS B B B E H G U #POS
+}
+{
+Mon petit slogan de maintenant ! Ou plutôt le petit slogan de REF , ma source d'inspiration ! URL
+#POS B N N P N W G G G N N P I W D N N W U #POS
+}
+{
+Mon petit slogan d'avant ! URL
+#POS B N N N W U #POS
+}
+{
+REF Ouuuua merciiii !!! ^^' Je sais en qui je vais me déguiser pour le carnaval maintenant ! :)
+#POS I B B W E B V P G G G O R V B B B W E #POS
+}
+{
+REF Non je ne baves pas devant lui désolée ! ^^
+#POS I B B B B B B B B W E #POS
+}
+{
+REF Parce qu'il y'a un NUM ?! Moi c'était celle du NUM, elle était dans les pubs d'un DVD que je suis en train de regarder.
+#POS I B N G G K W B N G G K W B B B B N V B B B B B B P N W #POS
+}
+{
+REF J'ai pensé à toi : je viens de voir la bande-annonce de Sherlock Holmes ! Vive Robert Downey Jr. ! ;)
+#POS I B B B B W G G P G G G G B B W G B B B W E #POS
+}
+{
+REF Pirate des Caraïbes sur TAGNUM !!!!! &lt;NUM
+#POS I B N B G B W E #POS
+}
+{
+REF C'est ce que l'on appel de l'auto clash ! URL
+#POS I N G G G G G N N W U #POS
+}
+{
+Ce que je fais quand je m'ennuie ! I speak the language of drawing, and you, which one do you speak ? :) URL
+#POS G G G G G G V W O V D N P V W F O W D K V O V W E U #POS
+}
+{
+I want a REF !!! URL
+#POS O V D I W U #POS
+}
+{
+J'aime les chiffres totalement identiques #NUM et les photos totalement inutiles ! ;p URL
+#POS B B B B B B B B N V N W E U #POS
+}
+{
+Mon moment préféré ?! La pause déjeuner ! :d :D
+#POS B N N W B V N W E E #POS
+}
+{
+Je voulais faire ça avant, pour mon NUMème et mon NUMème tweet, mais j'ai oublié alors voilà : ceci est mon NUMème tweet ! *fierté inutile*
+#POS B B B B B W V B K N N N V W B B B G C W B B B B V W W V L W #POS
+}
+{
+REF C'est trop génial !!! *voix d'Agnès dans moi moche et méchant*
+#POS I N N N W W B B B B B N N W #POS
+}
+{
+REF Tu reviens demain au moins ?!
+#POS I B B N G G W #POS
+}
+{
+SFR : «Suite à un incident technique, nous ne pouvons donner suite à votre appel.»
+Je ne peux plus envoyer de sms, je suis trop en manque !
+#POS B W E B B B N N W G G G N N G G B W G
+B B B A N P N W B B G G B W #POS
+}
+{
+REF Arg... Tellement vrai ! --'
+#POS I C W B B W E #POS
+}
+{
+REF Hope you'll be better ma petite ! :b
+#POS I V L V R D A W W V #POS
+}
+{
+REF Si ! Avoir son portable mais plus de batterie ! --'
+#POS I B W B N A N P P N W E #POS
+}
+{
+REF Poulet tica... massala ?! TAGNUM
+#POS I B B W N W H #POS
+}
+{
+REF Je mange du guac' avec mon chapeau tacos... TAGNUM
+#POS I B B B N W P B C N W H #POS
+}
+{
+REF L'humour, on a ça dans le sang ! N'est-ce pas frérot !? ;D URL
+#POS I N W P D G G G V W G G G W E U #POS
+}
+{
+REF Ouf ! Je me sens moins seule là ! ^^'
+#POS I C W V O B B B B W E #POS
+}
+{
+C'est ce que j'appelle un calendrier de l'Avent parfais ! I love TAG !!! URL
+#POS N G G G G G G G G W O V B W U #POS
+}
+{
+Un stage enfin !!! TAG !
+#POS B B C W C W #POS
+}
+{
+REF REF REF Partout partout partout !? :D
+#POS I I I B B B W E #POS
+}
+{
+Là je m'entraîne à imiter Damien qui imite un lapin crétin ! Et ba c'est épique ! *honte non dissimulée* ^^'
+#POS B B B B B B B L G G V W N G G B W W V N N W E #POS
+}
+{
+J'lui envoie "Je t'aime", NUMmin après je reçoit un sms, je pense "il a répondu", le texto me disait "Pas de forfait, message non envoyé" ! D:
+#POS B B W B N W W V B B B B B W B B W G D N W W B V O V W B P N W N N N W W E #POS
+}
+{
+REF J'adore cette chose que l'on appelle TAG_Pouvoir_Des_L !!! :D
+#POS I C N V G G B B W E #POS
+}
+{
+REF REF REF Moi aussi j'aime tes conneries, même si je ne les comprend pas tout le temps ! ^^'
+#POS I I I B B B B B W B B B G B B B B B N W E #POS
+}
+{
+REF Moi aussi !!!
+#POS I B B W #POS
+}
+{
+Pourquoi j'ai gardé mon manteau «Pour accompagner Arthur» maman ajoute «Et puis il est nouveau,beau» «Qui, Arthur ?» «Mais non le manteau !»
+#POS C B B B B W V B B G G N W N N G N N W N J J B W B W G J B B B B W G #POS
+}
+{
+REF Tu as tellement raison ! :NUM
+#POS I B P B N W E E #POS
+}
+{
+REF Nice to meet you ! I hope that you will enjoy your week in France ! :)
+#POS I A P V O W O V P O V V D N P B W E #POS
+}
+{
+REF Moi il répond "J'arrive", deux heures après, il répète encore "J'arrive", comme ci le redire allait rendre l'attente moins longue !
+#POS I B B N W B W W N N N W B B N W B W W V G G V V V N N N W #POS
+}
+{
+TAG We will never forget you, you were just awesome. What is Fast and Furious without you ?
+#POS H O V R V O W O V R A W O V A F A P O W #POS
+}
+{
+REF Je veux le même !!!! &lt;NUM
+#POS I B B B B W E #POS
+}
+{
+REF Arthur m'a offert une rose, j'ai trouvé ça trop mignon... mais je lui ai quand même avoué que je n'aimais pas les fleurs ! ^^'
+#POS I B G G G N W B B B B N W G G G G G G G G G F G B B W E #POS
+}
+{
+REF Ce tweet là, je l'ai ajouté à mes favofruits !
+#POS I B V B W B B B B B B W #POS
+}
+{
+REF Happy Birthday !!!!!!!!
+#POS I A N W #POS
+}
+{
+REF Alors là ! C'est vraiment pas de chance ma pauvre, mais au moins elle s'appelle Sarah ! ^^
+#POS I C B W N G G D N G B W B G G B G B W E #POS
+}
+{
+REF REF REF Pas de sport, une heure de cours et ensuite on mange, n'est-ce pas que c'est une belle matinée !? :D
+#POS I I I B B N W B B P N N N P B W G G G G G B N W E #POS
+}
+{
+REF Mais je m'en rend même pas compte moi ! O.o
+#POS I B B B V B B B B W E #POS
+}
+{
+REF Toi aussi quand tu parle des couleurs «La secte du cercle chromatique !» ^^
+#POS I B B B B B B B B B B B B B W J E #POS
+}
+{
+REF T'as vu, j'ai changé ma photo de profil ! J'adore la tresse africaine que Julia m'a faite, elle est trop douée pour les faire ! :)
+#POS I B B W B B D N P N W C B N G G B G N W B N N V V B N W E #POS
+}
+{
+REF Alors comme ça tu ne dors toujours pas !? Remarque, moi non plus ! ^^'
+#POS I C V G G G G G G W B W B N N W E #POS
+}
+{
+REF Dis bonjour à parrain de ma part ! :)
+#POS I D G G G P D N W E #POS
+}
+{
+Il ne veut pas être qualifié pour sa compétition de natation... parce que sinon il est obligé de rester l'après-midi à la piscine ! TAG
+#POS B G G G G G V G G P N W G G G B N G P N G G G N W H #POS
+}
+{
+REF Bravo l'artiste ! ;)
+#POS I B N W E #POS
+}
+{
+REF REF REF Essayez ce jeu ! TAG
+URL
+#POS I I I B B B W H
+U #POS
+}
+{
+REF REF REF C'est fait ! ;)
+#POS I I I N N W E #POS
+}
+{
+REF Congratulations, now the store is even more beautiful than it was before !
+#POS I C W R D N V R A A P O V R W #POS
+}
+{
+REF Devine qui c'est !?
+#POS I B B N W #POS
+}
+{
+REF Trop génial !!! Moi il faut que je fasse une lettre de motivation, sinon je vais finir dans les cuisines, à servir mes amis de S !
+#POS I B B W B B G G G G G G P N W C B B B B B N W G G G B P B W #POS
+}
+{
+REF REF REF JT Bacon, ça c'est la nouvelle version ! TIM URL
+#POS I I I B N W G G G A N W K U #POS
+}
+{
+REF REF REF Moi aussiiiiiiii !!!!!!! ;D
+#POS I I I B G W E #POS
+}
+{
+REF Un jour j'ai trouvé ça, je n'ai pas tout compris mais j'ai adoré les dessins ! TAG URL
+#POS I B B B B B W B B B B B B B B B B W H U #POS
+}
+{
+REF Alors ton stage ?! NUMo
+#POS I C N N W E #POS
+}
+{
+J'adore ces écouteurs. Parce que la musique n'a pas de prix... mais NUM,NUM€ ! quand même ! URL
+#POS C N N W B B B B B B B N W G K W K W G N W U #POS
+}
+{
+Parce que j'adore l'espagnol, mais que je préfère dessiner ! &lt;NUM URL
+#POS B B C N W B B B B B W E U #POS
+}
+{
+REF Moi j'ai mélangé deux pièces de théâtre en mettant un auteur qui n'avait rien à voir avec elles ! --'
+#POS I B B B N N P N P N G B B F B G G P N W E #POS
+}
+{
+TAG Le sandwich au jambon, c'est bien. Mais la baguettine, c'est mieux ! :)
+#POS H B N G B W N N W B B B W N N W E #POS
+}
+{
+Les perles du bac blanc : "le roi Louis XIX" et "le bouquet missaire"... On essayera de faire mieu la prochaine fois ! ^^'
+#POS B B B B B W W B B B B W N W B N N W W P B B B B B N N W E #POS
+}
+{
+REF D'habitude j'aime bien les ES, mais alors ceux qui ne nous donnent pas LA feuille à réviser pour le contrôle de géo, eux... 😡
+#POS I B B B B B W B G G G G G V G B B B B V B B P B W G J E #POS
+}
+{
+REF REF REF Jen étais sûre, Bacon run the world ! ^^'
+#POS I I I B B B W N V D N W E #POS
+}
+{
+REF Merci pour ton soutien,... Moi aussi je l'adore !!! ^^'
+#POS I C V N N W B B B N W E #POS
+}
+{
+REF Alors ça,... Je ne sais pas ce qu'il faut en penser... NUM
+#POS I C G J B B V G G N G G G W K #POS
+}
+{
+REF Le mien aussi, dès que je met la musique de Game of Thrones, il se met à beuguer... Les portables se rebellent ! :o
+#POS I B B B W B B B V B B P N P N W B N V G G W B N G N W E #POS
+}
+{
+J'ai essayé les tisanes miel-citron, lait-miel,... j'ai l'impression d'être un cobaye pour remèdes "anti voix cassée" ! TAGèdedegrandmère
+#POS B B B B B W B W B G G G V V N W N N N W W H H #POS
+}
+{
+REF REF REF Vive le Bacon !!!!!! URL
+#POS I I I B B B W U #POS
+}
+{
+REF REF REF Je test ça demain alors parce que là mon lit m'appelle, lui aussi veut que j'aille me coucher ! ^^
+#POS I I I B N G N G G G G N V N W G B B B B O B W E #POS
+}
+{
+REF REF REF JT Bacon, ce n'est que le début ! J'ai fini, alors vous en pensez quoi ?! :D URL
+#POS I I I B N W G G G G N W B B W G G G G G W E U #POS
+}
+{
+REF "Qui mange vite... mange plus !" Ça c'est mon dicton à moi ! ;D
+#POS I W B B B W N N W W B B B B B B W E #POS
+}
+{
+REF Chère Star, on ne peut pas dire que je ne te connait pas ! :*
+#POS I B B W P G G G A G G G G G G W W W #POS
+}
+{
+REF REF REF Heureusement que t'es là, parce que j'allais oublier moi ! ^^'
+#POS I I I B B B B W B B B B B W E #POS
+}
+{
+REF REF REF Trop bien !!! ^o^ *Danse de la joie*
+#POS I I I B B W E W B P B B W #POS
+}
+{
+REF REF REF Alors ça ! Je m'y attendais pas du tout ! Et vous ça vous fait combien ? :) URL
+#POS I I I C C W G D N G G N W B B G G G B W E U #POS
+}
+{
+REF Quand j'ai trouvé ça, j'ai tout de suite pensé à toi ! TAG URL
+#POS I B B B B W B B B N N G G W H U #POS
+}
+{
+REF REF REF Oups... Erreur de débutante (--&gt;Tweet blanc) Je commence le dessin de JT Bacon d'ici une minute ! ;)
+#POS I I I C W B P N W G V B W B V B B P B B G G N W E #POS
+}
+{
+REF REF
+#POS I I #POS
+}
+{
+REF J'ai pas pu résister... ^_^
+#POS I B B G G J E #POS
+}

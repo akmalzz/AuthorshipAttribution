@@ -1,0 +1,7738 @@
+{
+REF 
+de nada ñ.ñ &lt;NUM
+#POS I
+P G G W G E #POS
+}
+{
+REF 
+ok ñ.ñ
+.... oye mira lo que te deje en face &lt;NUM
+#POS I
+C N W G
+W C B B B B B D N E #POS
+}
+{
+REF 
+bien...
+solo pense eso porque no me hablas tanto como antes....
+..... te siento muy fria, muy lejana... ;(
+#POS I
+G J
+A N G G C O V G G G W
+W G G G G W G G J E #POS
+}
+{
+ñ_ñ
+#POS G #POS
+}
+{
+REF
+porfin te conectas!!!
+hasta llege a pensar que te avias olvidado de mi... :(
+#POS I
+G G N W
+B B D G G G G G P G J E #POS
+}
+{
+REF 
+porque??? :(
+#POS I
+B W E #POS
+}
+{
+REF
+hola!!! existo porsiacaso!!! ;@
+#POS I
+C W V N W W P #POS
+}
+{
+REF 
+como estas ñ.ñ &lt;NUM
+#POS I
+C G G W G E #POS
+}
+{
+REF
+hola n.n
+#POS I
+C E #POS
+}
+{
+good night!
+#POS A N W #POS
+}
+{
+REF 
+good day!!! ;) &lt;NUM
+#POS I
+A N W E E #POS
+}
+{
+REF 
+;) &lt;NUM
+buen dia 
+my hermosa dama ;)
+#POS I
+E E
+B G
+D B B E #POS
+}
+{
+good night!!! REF &lt;NUM ;)
+#POS A N W I E E #POS
+}
+{
+REF 
+esque estoy triste ;(
+#POS I
+G G G E #POS
+}
+{
+REF
+hola :(
+good night!!! &lt;NUM
+#POS I
+C E
+A N W E #POS
+}
+{
+:(
+#POS E #POS
+}
+{
+bye! :'(
+#POS C W E #POS
+}
+{
+REF
+te kiero &lt;NUM
+... no te enojes :'(
+#POS I
+B B E
+W C N N E #POS
+}
+{
+REF 
+te kiero &lt;NUM n.n
+ bye! ;)
+#POS I
+B B E E
+C W E #POS
+}
+{
+REF
+good night!!! &lt;NUM
+#POS I
+A N W E #POS
+}
+{
+REF 
+;) &lt;NUM
+#POS I
+E E #POS
+}
+{
+TAG ganara!!! :NUM
+#POS H C W E #POS
+}
+{
+mañana- juega
+... - chile vs alemania ;)
+....- ojala gane alemania!!!
+#POS N C
+J W B P G E
+W W G G G W #POS
+}
+{
+TAG NUM minutos ok n.n
+#POS H K N C E #POS
+}
+{
+REF 
+obio que si n.n
+#POS I
+B B B E #POS
+}
+{
+REF 
+grasias n.n
+#POS I
+B E #POS
+}
+{
+REF 
+yo igual n.n ;)
+#POS I
+C G E E #POS
+}
+{
+REF 
+hasta mañana oshita n.n
+#POS I
+B N G E #POS
+}
+{
+REF 
+no lo olvidare n.n
+bye! ;)
+&lt;NUM &lt;NUM &lt;NUM
+#POS I
+C N N E
+C W E
+E E E #POS
+}
+{
+REF 
+ah ok n.n
+#POS I
+C C E #POS
+}
+{
+REF
+hola
+#POS I
+C #POS
+}
+{
+bye!!! &gt;&lt;
+#POS C W E E #POS
+}
+{
+&gt;&lt;
+#POS E E #POS
+}
+{
+REF
+hola...
+#POS I
+C W #POS
+}
+{
+x,_,x
+#POS E W B W E #POS
+}
+{
+REF 
+si n.n
+#POS I
+B E #POS
+}
+{
+;)
+#POS E #POS
+}
+{
+REF 
+no lloro...
+YO ESTOY FELIZ :D
+#POS I
+C G J
+C B B E #POS
+}
+{
+-,_,-
+#POS G #POS
+}
+{
+REF REF 
+dm 
+porfa
+#POS I I
+N
+G #POS
+}
+{
+REF REF 
+si lo se...
+me eh dado cuenta desde antes...
+#POS I I
+B B G J
+O C C C C G J #POS
+}
+{
+REF REF 
+...um! si claro"...
+#POS I I
+W C W G G W W #POS
+}
+{
+REF REF 
+um!
+no por nada...
+#POS I I
+C W
+C G G J #POS
+}
+{
+:x
+#POS W E #POS
+}
+{
+REF REF 
+????. y que te paso!???
+#POS I I
+E R G G N W #POS
+}
+{
+jamas!!!! u.u
+#POS B W E #POS
+}
+{
+celos yo noNUM como crees.... u.u
+#POS N C K N G W E #POS
+}
+{
+no inporta... u.u
+#POS C N W E #POS
+}
+{
+u.u ;_;
+#POS O W O E #POS
+}
+{
+REF REF 
+pobre de ella... 
+porque ahi si que me enojo... 
+y cuando me enojo uuyy nadien me para...
+#POS I I
+B P G J
+B B B V O R W
+R V O R G V O G J #POS
+}
+{
+u.u
+#POS O W O #POS
+}
+{
+REF REF 
+no se...
+ella lo dice en su muro u.u
+#POS I I
+C G J
+B B B P G G E #POS
+}
+{
+REF REF 
+ja si es ella la que dice que le gusta otro 
+NO YO OK
+#POS I I
+B B B B B B B B B V G
+C C C #POS
+}
+{
+bueno....
+good day
+#POS N W
+A N #POS
+}
+{
+"amigos solo amigos y nada mas"... -ana gabriel-
+su cancion si que me viene...
+#POS W N A N R G G W W B B
+G G G G O G J #POS
+}
+{
+REF
+y...¿quien te gusta ahora...
+ya que.... see que no soy yo...?
+#POS I
+R W G P V G J
+C B W V V D N O W #POS
+}
+{
+REF 
+quien???
+#POS I
+B W #POS
+}
+{
+good night!!!
+#POS A N W #POS
+}
+{
+hello ;)
+#POS C E #POS
+}
+{
+GÜTE NACHT!!!! ;)
+#POS B B W E #POS
+}
+{
+REF 
+te kiero my vida linda &lt;NUM ;)
+#POS I
+B B D N B E E #POS
+}
+{
+REF REF 
+NUM_NUM
+#POS I I
+E #POS
+}
+{
+REF 
+si ;)
+no te preocupes...
+#POS I
+B E
+C N G J #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+me dejo solito ;'(
+#POS O C N E #POS
+}
+{
+REF
+hola ;) ;(
+#POS I
+C E E #POS
+}
+{
+REF 
+porque no te conectavas? ;(
+#POS I
+B C N N W E #POS
+}
+{
+good night!!! TAG
+#POS A N W H #POS
+}
+{
+REF
+hola...
+#POS I
+C W #POS
+}
+{
+bye!!! GÜTE NACHT
+TAG :c
+#POS C W B B
+H W G #POS
+}
+{
+mi-mi-mi-mi-mi-aáauuuUUU (=^_^=) n.n
+#POS G E E E E #POS
+}
+{
+REF 
+no todavia no xd
+#POS I
+C N C E #POS
+}
+{
+bye! ;(
+#POS C W E #POS
+}
+{
+REF
+hoooooNUMlaaa!!!!!!!!!!! ;(
+#POS I
+C W E #POS
+}
+{
+regrese URL
+#POS C N I #POS
+}
+{
+REF
+face!!! +_+/
+#POS I
+N W W #POS
+}
+{
+REF 
+um hhghukuhhyhh
+jnu
+#POS I
+C C
+C #POS
+}
+{
+REF 
+esque me gusta el yogurt xd x_____x
+#POS I
+V O V B B E E #POS
+}
+{
+X.............X
+#POS E W E #POS
+}
+{
+REF 
+no xd  no es por eso...
+esque me comi un yogurt
+y ami me ase mal el yogurt porque tiene leche... y la leche me ase mal
+#POS I
+C V D N G G J
+V O G G N
+R G O G G G N G G G J R B V O G G #POS
+}
+{
+x..............x
+#POS G W G #POS
+}
+{
+;/ creo que me voy a ... desmayar.....................x
+#POS E C V O R D W N W G #POS
+}
+{
+REF 
+tengo ganas de bomitar xc
+#POS I
+B B B B B #POS
+}
+{
+REF
+me siento mal...
+tengo gana de bomitat ;(
+#POS I
+O G G J
+B B V G E #POS
+}
+{
+me siento mal....
+tengo ganas de bomitar ;/
+#POS O G G W
+B B B B E #POS
+}
+{
+REF REF REF 
+ok alien ;)
+#POS I I I
+C A E #POS
+}
+{
+REF REF REF 
+grasias n.n
+#POS I I I
+B E #POS
+}
+{
+REF REF 
+si n.n
+yo ya la tengo como amiga en face xd
+#POS I I
+B E
+C C B B B B D N E #POS
+}
+{
+REF REF 
+xd
+. . .. hablemos por face
+#POS I I
+E
+W W W N G N #POS
+}
+{
+cx
+#POS E #POS
+}
+{
+REF REF 
+shi n.n &lt;NUM
+#POS I I
+C E E #POS
+}
+{
+REF REF 
+(te abrazo muy fuerte)
+#POS I I
+W G G G G W #POS
+}
+{
+REF REF 
+xd jajsjaja n.n
+#POS I I
+E B E #POS
+}
+{
+REF REF 
+xd hjjgjjjkghjk
+n.n
+#POS I I
+E C
+F W F #POS
+}
+{
+REF REF 
+um! podria ser xd
+#POS I I
+C W G G E #POS
+}
+{
+REF 
+yo siempre te querre my vida!!! &lt;NUM
+(elimine a tom a. kaulitz)
+la elimine... no kiero q nadie nos separe ;')
+#POS I
+C G G V D N W E
+W V D B D W N W
+B G J C N G G G G E #POS
+}
+{
+REF REF 
+te juro por my vida que lo sere!!!! 
+te kiero mucho ;')
+#POS I I
+B B G D N G G G W
+B B A E #POS
+}
+{
+REF REF 
+my vida perdoname porfavor!!!!
+... ago lo que me pidas
+lo que me pidas!!! ;')
+#POS I I
+D N N G W
+W R P V O V
+B B O V W E #POS
+}
+{
+REF 
+;(
+#POS I
+E #POS
+}
+{
+REF 
+:(
+au!
+pero igual no estes triste ;c
+#POS I
+E
+C W
+G G D N N W G #POS
+}
+{
+REF 
+:( no te pongas asi...
+#POS I
+E C N N G J #POS
+}
+{
+REF 
+bueno...
+#POS I
+N W #POS
+}
+{
+REF 
+puedes??? ;/
+#POS I
+B W E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF 
+ok...
+#POS I
+C W #POS
+}
+{
+REF
+tu no puedes hablar con ella por mi? ....
+esque ella me bloqueo....... dile que recuerde lo que le dije.. 
+q noes mebti
+#POS I
+G C N G G B G G W W
+G B O R W G G G G G G G W
+G C B #POS
+}
+{
+REF 
+bueno... eso are.....
+#POS I
+N W C V W #POS
+}
+{
+pobre de mi ;(
+#POS B P G E #POS
+}
+{
+xc porque siempre la jodo......
+... siempre meto la pata... ;c
+#POS B B B B B W
+W G G G G W W G #POS
+}
+{
+REF 
+lo mas lindo que tenia ya lo perdí...
+#POS I
+C B B B B C B B W #POS
+}
+{
+REF 
+hay pasado la pena...
+#POS I
+C C B B W #POS
+}
+{
+REF
+hola amiga... ;(
+#POS I
+C G J E #POS
+}
+{
+good day!!!
+#POS A N W #POS
+}
+{
+bye! ;/
+#POS C W E #POS
+}
+{
+que bien que mi amiga oriana esté feliz....
+se lo merese... merese ser feliz... ;)
+#POS G G G G G B B B W
+G V G W A G G J E #POS
+}
+{
+good day!!! TAG ;)
+#POS A N W H E #POS
+}
+{
+bye!
+#POS C W #POS
+}
+{
+chaoo.... ;_;
+#POS C W E #POS
+}
+{
+REF 
+ella que se enoja...
+.... ahora no puedo ni tener amigos/as
+... ;(
+#POS I
+B B G G J
+W G D N G G N
+J E #POS
+}
+{
+good night!!! TAG ...
+#POS A N W H W #POS
+}
+{
+REF 
+si eso are..
+#POS I
+B B V W #POS
+}
+{
+aser fuerte no mas!!! 
+solo eso me queda...
+#POS B B C N W
+A P O G J #POS
+}
+{
+REF 
+se enojo solo porque yo estaba hablando con un amigo... ;(
+...
+#POS I
+G A N G O G G G G N W E
+J #POS
+}
+{
+&lt;/NUM ;/
+#POS E E #POS
+}
+{
+REF 
+my novia me dejo ;'(
+#POS I
+D G O G E #POS
+}
+{
+x_x
+bye!
+#POS E
+C W #POS
+}
+{
+bye! ;'( forever!
+#POS C W E R W #POS
+}
+{
+REF 
+esque my novia me dejo ;'(
+#POS I
+V D N O C E #POS
+}
+{
+adios... no se si volvere... ;'(
+#POS C W C N G G J E #POS
+}
+{
+me rindo! ;(
+definitivamente... me rindo! ;'(
+#POS O N W E
+G W O N W E #POS
+}
+{
+REF
+adivina que la oriana se enojo conmigo porque estaba hablando con un amigo ;'(
+porque se enoja tanto ;(
+#POS I
+B B B B G G G G G G G G N E
+B G G G E #POS
+}
+{
+....adios mundo cruel
+;'(
+#POS W C B A
+E #POS
+}
+{
+porque siempre la jodo &gt;&lt;
+:(
+#POS B B B B E E
+E #POS
+}
+{
+n.n
+#POS F W F #POS
+}
+{
+REF
+hola ;)
+#POS I
+C E #POS
+}
+{
+hello TAG cx
+#POS C H E #POS
+}
+{
+REF
+good day! my girlfriend
+;)
+#POS I
+A N W D N
+E #POS
+}
+{
+bye!
+TAG
+#POS C W
+H #POS
+}
+{
+REF 
+ok n.n
+despues hablamos! ;)
+#POS I
+C E
+V N W E #POS
+}
+{
+REF 
+n.n ghjkkljk,
+  ;)
+#POS I
+F W F B W
+E #POS
+}
+{
+REF 
+shi n.n
+ (salta de alegria)
+#POS I
+C E
+W B P B W #POS
+}
+{
+REF 
+no me sueltes nunca
+#POS I
+C O V G #POS
+}
+{
+ñ.ñ,
+
+ jumy!!!
+#POS G W G W
+
+C W #POS
+}
+{
+REF 
+n.n
+ y yo te extrañaba a ty
+#POS I
+F W F
+R O V G D N #POS
+}
+{
+REF
+n.n
+#POS I W
+F W F #POS
+}
+{
+REF 
+yo igual estoy contento!!!
+;')
+#POS I
+C G G N W
+E #POS
+}
+{
+REF
+te kiero &lt;NUM ;)
+mucho
+#POS I
+B B E E
+A #POS
+}
+{
+REF 
+grasias ;')
+tu tambien duerme bien...
+#POS I
+B E
+G G G G J #POS
+}
+{
+bye! good night!!! TAG
+;|
+#POS C W A N W H
+E #POS
+}
+{
+por siempre vencedor
+#POS G G G #POS
+}
+{
+NO ME DEJARE VENCER POR EL DOLOR!!!
+NO LO ARE!!!...
+#POS C O R B B B B W
+C B V W #POS
+}
+{
+REF 
+grasias amiga...
+muchas grasias...
+de verdad.
+#POS I
+B B W
+C C W
+P N W #POS
+}
+{
+este dolor no me ganara..........
+no lo ara....
+#POS B G C O C W
+C N G W #POS
+}
+{
+seguire luchando...
+no me voy a rendir tan facil....
+lo juro y lo cumplo...
+#POS N G J
+C O R D N N G W
+C C R P G J #POS
+}
+{
+REF 
+yo te envie otro...
+#POS I
+C P G G J #POS
+}
+{
+REF 
+esta bien..
+ok
+#POS I
+B B W
+C #POS
+}
+{
+REF 
+no se
+eso es lo que quiero saver yo....
+no quiero aser una... tonteria ayudame porfavor ;'(
+#POS I
+C N
+G G G G G N C W
+C N N G J C G G E #POS
+}
+{
+;'(
+.... see que matarme no es la solucion...
+pero me siento terrible ;'(
+#POS E
+W V B B D N G G J
+F O R A E #POS
+}
+{
+REF 
+;'(
+kiero morirme!!! ;'(
+desapareser para no sufrir mas...
+#POS I
+E
+B B W E
+G G C N G J #POS
+}
+{
+;'(
+estoy llorando...
+me siento tan mal...
+#POS E
+B G J
+O G N G J #POS
+}
+{
+REF REF 
+;'(
+#POS I I
+E #POS
+}
+{
+:'(
+siempre me pasa lo malo a mi! ;(
+#POS E
+G O G G G D N W E #POS
+}
+{
+REF 
+bad ;(
+#POS I
+A E #POS
+}
+{
+REF
+me puedes desir que le pasa a la oriana conmigo? ;'(
+#POS I
+O G G G G G D B B B W E #POS
+}
+{
+REF
+porque no me respondes! ;'(
+#POS I
+B C O N W E #POS
+}
+{
+:'(
+de verdad me siento
+muy mal.
+#POS E
+P V O G
+G G W #POS
+}
+{
+REF 
+hola ;(
+#POS I
+C E #POS
+}
+{
+REF
+me puedes decir que pasa...
+;'(
+#POS I
+O V G G G J
+E #POS
+}
+{
+REF
+md ;(
+porfavor
+#POS I
+B E
+G #POS
+}
+{
+me siento mal
+no se que pasa ;'(
+#POS O G G
+C G G G E #POS
+}
+{
+REF
+;'(
+#POS I
+E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+que le pasa a my oriana ;'(
+#POS G G G G D B E #POS
+}
+{
+REF
+porque me dices amiga? NUM_NUM
+#POS I
+V O V B W E #POS
+}
+{
+REF 
+que te pasa porque me hablas asi? :'(
+#POS I
+G G G G O V G W E #POS
+}
+{
+NUM_NUM ;(
+#POS E E #POS
+}
+{
+NUM_NUM que onda!
+#POS E G G W #POS
+}
+{
+REF 
+amiga?
+NUM_NUM
+#POS I
+B W
+E #POS
+}
+{
+REF
+ke duermas bien
+&lt;NUM ;)
+#POS I
+B B B
+E E #POS
+}
+{
+bye! ;c
+#POS C W W G #POS
+}
+{
+REF 
+oye que onda?
+porque pusiste eso en tu face?
+NUM_NUM
+#POS I
+C G G W
+B B B P D N W
+E #POS
+}
+{
+REF
+HoLa! ;)
+#POS I
+C W E #POS
+}
+{
+xc
+#POS B #POS
+}
+{
+ae ae ae ae ae ae!! 
+la la la la la!!..
+#POS B B B B B B W
+B B B B B W #POS
+}
+{
++_+ :p
+#POS E E #POS
+}
+{
+see que quieresss se te nota! la la la la 
+;q
+#POS V G G G G G W G G G G
+W G #POS
+}
+{
+He he xd
+#POS O O V #POS
+}
+{
+a.a eh eh fiesta uhhy!!!! ;p .
+#POS D W D N C B B W E W #POS
+}
+{
+;q
+#POS W G #POS
+}
+{
+good day!!! TAG n.n
+#POS A N W H E #POS
+}
+{
+REF
+HOLA!!! ;)
+#POS I
+C W E #POS
+}
+{
+REF 
+ahh ok bye!!! &lt;NUM
+#POS I
+C C C W E #POS
+}
+{
+xc
+#POS B #POS
+}
+{
+xc
+bye!!!
+#POS B
+C W #POS
+}
+{
+REF
+y tu todavia no te acuestas?
+=_NUM
+#POS I
+R G G C N N W
+W K #POS
+}
+{
+GUTE NACHT!!! TAG ;)
+#POS B B W H E #POS
+}
+{
+REF 
+bye! ;) &lt;NUM
+#POS I
+C W E E #POS
+}
+{
+REF 
+ñ.ñ bye!&lt;NUM ^.^
+#POS I
+G W G C W E E #POS
+}
+{
+REF 
+n.n bye! &lt;NUM
+..... GUTE NACHT! ;) &lt;NUM
+#POS I
+F W F C W E
+W B B W E E #POS
+}
+{
+REF 
+n.n shi !!!!
+tu bebé!!! ;)
+#POS I
+F W F G W
+G G W E #POS
+}
+{
+REF 
+yo igualn.n
+....... me tengo que ir mañana hablamos bye! te kiero&lt;NUM
+#POS I
+C C W F
+W O B B G N N C W G G E #POS
+}
+{
+REF 
+shi estoy muy feliz ;)
+REF
+#POS I
+G G G G E
+E E #POS
+}
+{
+REF 
+shi !!! c; &lt;NUM
+#POS I
+G W G W E #POS
+}
+{
+REF si xd
+#POS I B E #POS
+}
+{
+REF 
+n.n si xd
+#POS I
+F W F B E #POS
+}
+{
+REF 
+n.n &lt;NUM
+ñim-ñim
+#POS I
+F W F E
+C #POS
+}
+{
+REF 
+n.n yo igual esperaba xd
+#POS I
+F W F O G G E #POS
+}
+{
+NUM__NUM/
+#POS E E #POS
+}
+{
+REF 
+shi aslo ;) n.n
+#POS I
+G C E E #POS
+}
+{
+REF 
+mmmm tu tampoco me contestavas ;c 
+xd
+#POS I
+C G G O R W G
+E #POS
+}
+{
+REF 
+shi.... n.n ;)
+#POS I
+G W E E #POS
+}
+{
+REF 
+porque te fuiste de face?
+.... xd n.n hehe
+#POS I
+B B B D N W
+W E E C #POS
+}
+{
+REF 
+;)
+#POS I
+E #POS
+}
+{
+REF 
+n.n xd &lt;NUM
+#POS I
+F W F E E #POS
+}
+{
+bye! xc
+#POS C W N #POS
+}
+{
+xc
+#POS B #POS
+}
+{
+x]
+#POS E W #POS
+}
+{
+REF 
+?
+#POS I
+W #POS
+}
+{
+REF 
+que bien!!! ;)
+#POS I
+G G W E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF 
+lo encontraste? ;(
+#POS I
+C C W E #POS
+}
+{
+- estoy feliz ahora ;)
+#POS W G G G E #POS
+}
+{
+REF 
+ok &lt;NUM ;)
+#POS I
+C E E #POS
+}
+{
+;z
+#POS W G #POS
+}
+{
+REF
+md
+#POS I
+B #POS
+}
+{
+REF 
+au! ;'(
+#POS I
+C W E #POS
+}
+{
+REF 
+um
+ok xd
+#POS I
+C
+C E #POS
+}
+{
+REF 
+md
+#POS I
+B #POS
+}
+{
+ay! ;( estoy viejo!
+#POS C W E G N W #POS
+}
+{
+REF 
+de la adolesenciaaa!!!!????
+pero si yo voy a cumplir NUM el NUM de septiembre!!!!!!!!!!!
+#POS I
+P B B W
+G G O V D N K N K P N W #POS
+}
+{
+REF 
+ok grasias!
+...... y te as metido a face?
+#POS I
+C C W
+W R P P V D N W #POS
+}
+{
+REF 
+si lo se...
+... es que me siento un poco raro.
+#POS I
+B B G J
+W G G O G G G G W #POS
+}
+{
+REF 
+te pido un favor.....
+
+... no me pongas mas fotos de tom.... porfavor
+#POS I
+B B B N W
+
+W C O V G G G B W G #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+um! u.u 
+n.n
+#POS C W E
+F W F #POS
+}
+{
+REF 
+bien.... 
+...... saves te siento un poco distante conmigo....
+¿te pasa algo? ;(
+#POS I
+B W
+W V B B B B B B W
+G G G W E #POS
+}
+{
+REF 
+como estas?
+#POS I
+C G W #POS
+}
+{
+REF
+hola
+#POS I
+C #POS
+}
+{
+good day!!! ;)
+mis amigos
+#POS A N W E
+B B #POS
+}
+{
+REF
+md ultimo
+contestame!!!
+#POS I
+B B
+N W #POS
+}
+{
+REF REF 
+buenu ! ;) ^_^
+#POS I I
+C W E E #POS
+}
+{
+REF 
+ya
+.... te mande otro n.n ;)
+#POS I
+C
+W G B B E E #POS
+}
+{
+REF REF 
+buenu n.n 
+no te enojes he he xd ;)
+#POS I I
+N E
+C N V O O E E #POS
+}
+{
+REF REF 
+pero te envie otro!!!
+#POS I I
+G G G G W #POS
+}
+{
+REF REF 
+si un pokito n.n xd
+#POS I I
+B B B E E #POS
+}
+{
+REF REF 
+um!
+... mejor responde my md!!! -_-
+#POS I I
+C W
+W G G D B W E #POS
+}
+{
+REF REF 
+no era un chiste xd
+..... esque me salio asi xd n.n ;)
+#POS I I
+D N G G E
+W V O G G E E E #POS
+}
+{
+REF REF 
+he he xd n.n
+perdon! ;)
+#POS I I
+O O V E
+C W E #POS
+}
+{
+REF REF 
+nooo!!!
+...quise decir acostandome xd
+#POS I I
+C W
+W B N N E #POS
+}
+{
+REF REF 
+quise decir acostandome hehe xd n.n
+#POS I I
+B N N C E E #POS
+}
+{
+xc
+.... ;(
+#POS B
+W E #POS
+}
+{
+REF REF 
+cortandome!!!! &gt;;(
+#POS I I
+N W E #POS
+}
+{
+u.u no tengo mucha paciencia!!! :(
+mmmmmm um...
+ñam um ñam +_-
+#POS O W O D N G G W E
+C C W
+C C O G #POS
+}
+{
+REF
+me vas a respomder el md o no?
+#POS I
+O V D N G G P C W #POS
+}
+{
+REF 
+bye! ;(
+#POS I
+C W E #POS
+}
+{
+aggg!!! mejor me voy!!!
+BYE! TAG !!! ;(
+#POS C W V O R W
+C W H W E #POS
+}
+{
+u.u um! ;_;
+#POS O W O C W E #POS
+}
+{
+REF REF 
+shi ;)n.n
+#POS I I
+C E E #POS
+}
+{
+bye! -_-/
+#POS C W G #POS
+}
+{
+REF 
+ah ok ;(
+#POS I
+C C E #POS
+}
+{
+REF ;) &lt;NUM
+#POS I E E #POS
+}
+{
+REF 
+cual?
+#POS I
+C W #POS
+}
+{
+REF &lt;NUM 
+bye!
+#POS E E
+C W #POS
+}
+{
+REF 
+;) &lt;NUM ke lindo!!!
+#POS I
+E E B B W #POS
+}
+{
+REF
+me gusta tu foto de perfil! ;) &lt;NUM n.n
+#POS I
+O V G G G G W E E E #POS
+}
+{
+REF 
+;)
+ buenas noches!!! &lt;NUM
+#POS I
+E
+C C W E #POS
+}
+{
+;(
+#POS E #POS
+}
+{
+mejor me voy!!!! &gt;;(
+#POS G O R W E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF
+HOLA!!!!!!
+#POS I
+C W #POS
+}
+{
+bye! ;)
+#POS C W E #POS
+}
+{
+REF
+hola ;(
+#POS I
+C E #POS
+}
+{
+good day!!! ;)
+#POS A N W E #POS
+}
+{
+good night! ;NUM
+#POS A N W E #POS
+}
+{
+:(
+#POS E #POS
+}
+{
+REF
+me seguiste en face
+;)
+#POS I
+O V D N
+E #POS
+}
+{
+;) &lt;NUM
+#POS E E #POS
+}
+{
+^_^ &lt;NUM
+#POS E E #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+REF 
+siii deve ser ella
+... con su mala bibra!!!
+....ten cuidado porfavor ;/
+#POS I
+G G G G
+W A G G G W
+W K N G E #POS
+}
+{
+REF 
+awww!!! &lt;NUM n.n
+#POS I
+C W E E #POS
+}
+{
+REF 
+au! que mal ;(
+#POS I
+C W G G E #POS
+}
+{
+ñ.n
+#POS N W F #POS
+}
+{
+REF 
+jejejeje xd n.n &lt;NUM
+#POS I
+C E E E #POS
+}
+{
+REF 
+creo que va a explotar la cabeza!!! ;(
+#POS I
+C G G D N G G W E #POS
+}
+{
+REF 
+NUM_NUM
+woow si que somos gemelitos xd
+;)&lt;NUM
+#POS I
+E
+C B B B B E
+E E #POS
+}
+{
+REF 
+por que? ;'(
+#POS I
+G G W E #POS
+}
+{
+REF 
+me duele la cabesita ;(
+#POS I
+O G G N E #POS
+}
+{
+au! ;'(
+#POS C W E #POS
+}
+{
+REF 
+me siento mal ;(
+#POS I
+O G G E #POS
+}
+{
+REF 
+es que me siento muy mal ;'(
+#POS I
+G G O G G G E #POS
+}
+{
+;'( me muero!
+#POS E O V W #POS
+}
+{
+REF
+hola ;'(
+#POS I
+C E #POS
+}
+{
+REF 
+hola ;(
+#POS I
+C E #POS
+}
+{
+happy day!!! n.n
+#POS A N W E #POS
+}
+{
+REF
+te kiero&lt;NUM bye! ñ.ñ.
+#POS I
+B B E C W G W G W #POS
+}
+{
+bye!!!! ;) n.n
+#POS C W E E #POS
+}
+{
+REF 
+ok n.n
+bueno que duermas bien 
+bye!
+#POS I
+C E
+C C N G
+C W #POS
+}
+{
+REF
+bye!!!&lt;NUM ;(
+#POS I
+C W E E #POS
+}
+{
+;'( bye!
+#POS E C W #POS
+}
+{
+REF 
+es una broma no te enojes xd n.n
+#POS I
+G G G C N N E E #POS
+}
+{
+REF 
+n.n linda bye!!!&lt;NUM
+#POS I
+F W F B C W E #POS
+}
+{
+REF 
+si ñ.ñ ñim!!!
+#POS I
+B B W G G W #POS
+}
+{
+REF
+gute nacht!!! ;NUM &lt;NUM
+#POS I
+B B W E E #POS
+}
+{
+REF 
+ñ.ñ ñim ñim!!!!
+#POS I
+G W G G G W #POS
+}
+{
+REF 
+jijijijiji n.n
+#POS I
+B E #POS
+}
+{
+REF 
+de todo!!! n.n
+#POS I
+D N W E #POS
+}
+{
+REF 
+jijiji  n.n
+#POS I
+C E #POS
+}
+{
+REF 
+bellisimo!!!&lt;NUM
+#POS I
+N W E #POS
+}
+{
+agggg!!!! &gt;.-
+#POS C W G #POS
+}
+{
+&gt;_-
+#POS E #POS
+}
+{
+REF
+?????? u.u
+#POS I
+W E #POS
+}
+{
+v.v
+#POS E #POS
+}
+{
+REF
+????? NUM_NUM
+#POS I
+W E #POS
+}
+{
+me dolio el estomago ;/
+....creo que comi mucho ñ.ñ
+#POS O C N N E
+W G G G A N W G #POS
+}
+{
+o.NUM ;|
+#POS C W K E #POS
+}
+{
+NUM.NUM
+#POS K #POS
+}
+{
+REF 
+siii !!! FOREVER!!!! :NUM &lt;NUM ñ.ñ
+#POS I
+B W R W W K E N W G #POS
+}
+{
+ñam ñam!!! :NUM
+(+_\\)
+#POS C C W W K
+E #POS
+}
+{
+ummmmmmm!!!! u.u
+
+W.W
+#POS C W E
+
+N W G #POS
+}
+{
+u.u
+#POS O W O #POS
+}
+{
+REF 
+si ;)&lt;NUM n.n
+#POS I
+B E E E #POS
+}
+{
+REF 
+shi !!! ñ.ñ &lt;NUM
+#POS I
+G W N W G E #POS
+}
+{
+REF 
+yo igual&lt;NUM ;NUM
+#POS I
+C G E E #POS
+}
+{
+REF 
+;) &lt;NUM
+... te kiero muchooo!!!&lt;NUM
+#POS I
+E E
+J G G A W E #POS
+}
+{
+REF 
+si se ;(
+pero aunque no estes conmigo
+...yo te siento serca&lt;NUM ;)
+#POS I
+B G E
+G G D N N
+W C B B B E E #POS
+}
+{
+REF
+saves my mejor regalo de san valentin es que tengo tu amor!&lt;NUM
+#POS I
+V D G G P B B B B B G G W E #POS
+}
+{
+REF 
+masomenos ;'(
+#POS I
+B E #POS
+}
+{
+REF 
+&lt;NUM ;NUM
+#POS I
+E E #POS
+}
+{
+REF 
+hola ;) ñ.ñ
+#POS I
+C E N W G #POS
+}
+{
+REF
+te kieroNUM!!!!! ;'(
+&lt;NUM
+#POS I
+B B W E
+E #POS
+}
+{
+me siento verdaderamente mal!!!
+tengo ganas de bomitar... ;'(
+#POS O G G G W
+B B B G J E #POS
+}
+{
+REF
+te kiero muchito!!! ;'(
+#POS I
+B B B W E #POS
+}
+{
+REF
+hola ;NUM
+#POS I
+C E #POS
+}
+{
+ay!!! ;| que calor ase aqui!!! ;#
+#POS C W E G G G G W W H #POS
+}
+{
+&lt;NUM ñ.ñ
+#POS E N W G #POS
+}
+{
+REF 
+lo sé ;) n.n &lt;NUM
+#POS I
+C G E E E #POS
+}
+{
+REF 
+si ;) &lt;NUM
+#POS I
+B E E #POS
+}
+{
+REF 
+es que mi abuelita no me deja ir
+(osea la señora) ;(
+#POS I
+G G G N C O G G
+W C B B W E #POS
+}
+{
+REF 
+&lt;NUM te kiero mucho
+#POS I
+E P B A #POS
+}
+{
+REF 
+&lt;NUM ^.^
+#POS I
+E E #POS
+}
+{
+i love you oriana &lt;NUM URL
+#POS O V O B E U #POS
+}
+{
+muy buenos dias TAG =NUM
+#POS G B N H E #POS
+}
+{
+te kiero mucho REF  &lt;NUM URL
+#POS B B B I E U #POS
+}
+{
+REF   te kiero mucho y ojala estemos juntos para siempre!!! URL
+#POS I G G A R G G G G G W U #POS
+}
+{
+GOOD DAY! ;NUM TAG
+#POS A N W E H #POS
+}
+{
+REF
+si que eres duro eh XD
+;NUM
+#POS I
+B B B B C E
+E #POS
+}
+{
+TAG aliens :NUM
+#POS H N E #POS
+}
+{
+GOOD DAY!!! TAG ;NUM
+#POS A N W H E #POS
+}
+{
+REF
+feliz san valentin!!! 
+my vida!!!&lt;NUM
+TE KIERO MUCHO!!!&lt;NUM
+#POS I
+G B B W
+D N W E
+B B B W E #POS
+}
+{
+REF REF 
+ok
+bye! ;/
+#POS I I
+C
+C W E #POS
+}
+{
+bye! ;/.
+#POS C W E W #POS
+}
+{
+REF REF 
+bueno... me voy bye!
+#POS I I
+N W O R C W #POS
+}
+{
+REF REF 
+si se! ... ;/
+#POS I I
+B G W W E #POS
+}
+{
+REF REF 
+ase muchos dias ando asi ;/
+#POS I I
+G C N G G E #POS
+}
+{
+bye! :/
+#POS C W E #POS
+}
+{
+REF
+me siento mal tengo ganas de bomitar y me puse palido mas de lo que soy! ;/
+#POS I
+O G G G G P B R O R A G G G G G W E #POS
+}
+{
+REF REF 
+pero... bueno no me da celos tu saves por que! ;NUM n.n
+#POS I I
+G W V R O D N P V G G W E E #POS
+}
+{
+me siento demasiado mal... ;x
+#POS O G G G W W E #POS
+}
+{
+REF REF 
+yo igual&lt;NUM
+#POS I I
+C G E #POS
+}
+{
+REF REF 
+grasias tu igual descansa!.
+#POS I I
+B B B B W #POS
+}
+{
+oh! :x
+me siento mal... tengo ganas de bomitar.. ;/
+#POS C W J E
+O G G J B B P G W E #POS
+}
+{
+REF REF 
+gute nacht! &lt;NUM :NUM n.n
+#POS I I
+B B W E E E #POS
+}
+{
+REF REF 
+&lt;NUM awww!
+muy lindo!!! REF
+#POS I I
+E C W
+G G W E #POS
+}
+{
+REF REF 
+obio que sueño con ella..... bye! ;NUM
+#POS I I
+B B B B B W C W E #POS
+}
+{
+u.u bye!
+#POS O W O C W #POS
+}
+{
+=_NUM no entiendo nada. .
+#POS W K D N G W W #POS
+}
+{
+GOOD NIGHT! ;NUM
+#POS A N W E #POS
+}
+{
+REF 
+aaaaaahhh ok n.n
+#POS I
+C C E #POS
+}
+{
+REF 
+&lt;NUM NUM_NUM
+que lindo!!!! ...... esa foto la tego de fondo de pantalla de my celular!!!
+#POS I
+E E
+G G W W G G G B P G P B P D N W #POS
+}
+{
+que miercale es grosso un chicle o genio??? =_NUM
+#POS G G G G G G G B W W K #POS
+}
+{
+REF 
+pero aqui siempre compran chicle y dice "grosso" NUM_NUM
+#POS I
+G G G G G R N W N W E #POS
+}
+{
+REF 
+aaaahh ok n.n
+#POS I
+C C E #POS
+}
+{
+grosso???
+...... grosso no es un chicle o no??? =_NUM
+#POS C W
+W V D N G G P C W W K #POS
+}
+{
+REF 
+un que? =_NUM
+#POS I
+G G W W K #POS
+}
+{
+tan lindo soy que todas me kieren! ^_^ ;NUM
+#POS B B B B V O B W E E #POS
+}
+{
+REF 
+uff me falta mucho aun... por que no entiendo varias palabras. n.n
+#POS I
+C O G A G J G G C N V B W E #POS
+}
+{
+REF 
+aaah n.n ok ;)
+#POS I
+C E C E #POS
+}
+{
+REF 
+=_NUM taquito???
+que cosa es eso???
+#POS I
+W K N W
+G G G G W #POS
+}
+{
+REF 
+linda!!!&lt;NUM te kiero muchooo!!! 
+grasias ^.^
+#POS I
+B W E P B A W
+B E #POS
+}
+{
+Φ_Φ
+#POS C #POS
+}
+{
+REF 
+;NUM &lt;NUM saves... te kiero mucho.... jamas avia sentido esto por algien! ;)
+#POS I
+E E V W G G A W N G G G G G W E #POS
+}
+{
+REF 
+;)))) &lt;NUM
+#POS I
+E E #POS
+}
+{
+REF 
+yo igual siento lo mismo por vos...
+... vos sos muy espesial para my! n.n&lt;NUM
+#POS I
+C G G G G G G J
+W G G G G G D W F W F E #POS
+}
+{
+a_a ME SIENTO HAPPY!!! ;) &lt;NUM
+#POS G O B A W E E #POS
+}
+{
+REF 
+n.n que bien!!! :)))
+&lt;NUM
+#POS I
+F W F B B W E
+E #POS
+}
+{
+REF 
+que sentiste??? ;NUM
+#POS I
+G G W E #POS
+}
+{
+REF REF 
+&lt;NUM $_$ Θ_Θ^.^
+#POS I I
+E E E E #POS
+}
+{
+REF 
+;)
+oye endenante estaba pensando en ty
+no sentiste nada???
+#POS I
+E
+C C B B B B
+C N G W #POS
+}
+{
+REF REF 
+n.n ^.^ &lt;NUM Ø_Ø
+#POS I I
+F W F E E E #POS
+}
+{
+ay! me siento feliz y enamorado!!! ;NUM&lt;NUM ^.^
+#POS C W O G G R R W E E E #POS
+}
+{
+REF REF 
+shi grasias!!!&lt;NUM;)
+#POS I I
+G G W E E #POS
+}
+{
+REF 
+;)&lt;NUM
+#POS I
+E E #POS
+}
+{
+REF REF 
+;)
+shi!!!! &lt;NUM
+#POS I I
+E
+C W E #POS
+}
+{
+REF 
+grasias por entenderme! ;)
+
+te kiero mucho!!!&lt;NUM
+#POS I
+B G G W E
+
+B B A W E #POS
+}
+{
+REF REF 
+n.n grasias!!!&lt;NUM ^.^
+#POS I I
+F W F N W E E #POS
+}
+{
+REF 
+y que... voy a disfrutar... 
+
+sin.. tom
+
+... no puedo vivir ;'(
+perdon por ser tan devil...
+#POS I
+R G J V D N W
+
+N W B
+
+W D N N E
+B G G N N W #POS
+}
+{
+....ME SIENTO MAL... ;(
+#POS W O B B W E #POS
+}
+{
+REF 
+... ay! soy muy cencible
+
+... estoy a punto de llorar... ;(
+#POS I
+W C W G G G
+
+W G D N P G J E #POS
+}
+{
+REF 
+um.... no se...
+#POS I
+C W C G J #POS
+}
+{
+REF 
+n.n bueno&lt;NUM ^.^
+#POS I
+F W F N E E #POS
+}
+{
+REF 
+;( bueno
+#POS I
+E N #POS
+}
+{
+y ahora a quien le dare un regalo? ;'(
+#POS R G D B B V G G W E #POS
+}
+{
+REF 
+au! ;'(
+
+y porque no estaras en tu casa??? ;(
+#POS I
+C W E
+
+R V D N P G G W E #POS
+}
+{
+REF REF 
+n.n &lt;NUM ;NUM
+#POS I I
+F W F E E #POS
+}
+{
+REF 
+porque??? ;(
+#POS I
+B W E #POS
+}
+{
+REF REF 
+aaaah ok ;) n.n
+#POS I I
+C C E E #POS
+}
+{
+REF 
+de nada ;)
+uff! por un momento pense que estavas enojada conmigo ya que no me hablabas! ...
+#POS I
+P G E
+C W G G G G G G G G C V D O V W J #POS
+}
+{
+REF REF 
+=_NUM
+#POS I I
+W K #POS
+}
+{
+BYE!!!
+#POS C W #POS
+}
+{
+um! bye! mejor me voy ya que no me habla...
+-_+
+#POS C W C W V O V O V D O G J
+C #POS
+}
+{
+&gt;.&gt; ;(
+#POS E E #POS
+}
+{
+REF 
+leiste lo que te escribi endenante?
+#POS I
+B B B B B B W #POS
+}
+{
+REF
+hola ;(
+#POS I
+C E #POS
+}
+{
+REF
+"DEL AGUA HE TOMADO SU FRESCURA, PERO DE TUS BESOS EL ENCANTO Y LA LOCURA"&lt;NUM
+te kiero mucho!!! ;NUM
+#POS I
+W B B O V G B W R B B B B B B B B W E
+B B A W E #POS
+}
+{
+GOOD DAY! ;NUM
+#POS A N W E #POS
+}
+{
+REF 
+ok grasias!
+#POS I
+C C W #POS
+}
+{
+se me acaba la bateria de my celular!!! x.x
+bye! ;(
+#POS G O G G G P D N W E
+C W E #POS
+}
+{
+um! mejor me boy 
+bye! n.n
+#POS C W V O N
+C W E #POS
+}
+{
+REF REF 
+jijijiji n.n v.v
+#POS I I
+B E E #POS
+}
+{
+REF REF 
+om! si xd
+#POS I I
+C W G E #POS
+}
+{
+REF REF 
+si soy muy jovencito xd
+#POS I I
+B A N N E #POS
+}
+{
+ufff!!! casi me desmayo...
+#POS C W V O R W #POS
+}
+{
+REF REF 
+xd jajajaja!!!!! n.n
+
+shi soy muy joven aun xd
+#POS I I
+E C W E
+
+G G G G G E #POS
+}
+{
+REF REF 
+xd
+#POS I I
+E #POS
+}
+{
+REF REF 
+um! bueno ;)
+
+pero casi me matas eh xd
+#POS I I
+C W N E
+
+G G O B C E #POS
+}
+{
+REF REF 
+bye! ;NUM
+#POS I I
+C W E #POS
+}
+{
+REF REF 
+NUM_NUM
+ ME QUIERES MATAR O QUE!!!!!! &lt;NUM
+#POS I I
+E
+O B B B B W E #POS
+}
+{
+REF REF 
+ok n.n bye!
+#POS I I
+C E C W #POS
+}
+{
+REF 
+nuse... -_NUM?
+LA ORIANA! &lt;NUM
+#POS I
+G W E W
+B B W E #POS
+}
+{
+REF REF 
+no me enojo 
+
+solo que tengo sueñito n.n ^^ bye
+#POS I I
+C O V
+
+A G G G E E C #POS
+}
+{
+BYE! -_+
+#POS C W G #POS
+}
+{
+REF REF 
+es que nadien me habla ;'(
+
+mejor me voy
+
+bye! ;'(
+#POS I I
+G G V O G E
+
+G O R
+
+C W E #POS
+}
+{
+REF 
+grasias ;)
+tu igual cuidate!&lt;NUM
+#POS I
+B E
+G G C W E #POS
+}
+{
+REF REF 
+hola!!!! EXISTO!!! ;'(
+#POS I I
+C W N W E #POS
+}
+{
+:'(
+#POS E #POS
+}
+{
+REF
+buenas noches! ;)&lt;NUM
+#POS I
+C C W E E #POS
+}
+{
+REF REF 
+tu igual
+#POS I I
+G G #POS
+}
+{
+REF
+um! bueno yo me voy a dormir... 
+ßye!&lt;NUM "."
+#POS I
+C W V O O R D N W
+B W E W W W #POS
+}
+{
+um! (asiendo pucherito)
+ummmmm!!! +_-... 
+
+auúmmm!!!.... -_=
+#POS C W W A N W
+C W G J
+
+C W G #POS
+}
+{
+REF REF 
+&gt;&lt;
+uffff!!!!! x.x
+#POS I I
+E E
+C W E #POS
+}
+{
+BYE! 
+TAG +_-
+#POS C W
+C C #POS
+}
+{
+REF 
+ok bye!
+#POS I
+C C W #POS
+}
+{
+REF
+NUM_= ??????
+#POS I
+G W W #POS
+}
+{
+;x
+#POS W E #POS
+}
+{
+TENGO MUCHO FRIO!!!! =/
+#POS B B B W E #POS
+}
+{
+REF 
+ahi masomenos y tu? ;NUM
+#POS I
+B B R G W E #POS
+}
+{
+REF
+hola ;)&lt;NUM
+#POS I
+C E E #POS
+}
+{
+TAG
+#POS C #POS
+}
+{
+bye!
+#POS C W #POS
+}
+{
+you love for my!? ;(
+#POS O V P D W E #POS
+}
+{
+und mein teddy
+awwww!!! 
+auch.... n.n NUM_NUM
+#POS C N N
+C W
+C W E E #POS
+}
+{
+BYE! 
+ENJOY!!!
+#POS C W
+V W #POS
+}
+{
+... nada que aserg...!
+;/
+#POS W G G G W
+E #POS
+}
+{
+;(
+#POS E #POS
+}
+{
+REF
+hallo 
+como dormiste? y como estas? 
+
+yo estoy mal...
+me duele el estomago...
+#POS I
+C
+C C W R G G W
+
+C G G J
+O G G G J #POS
+}
+{
+REF
+grasias! 
+tu igual! b.b
+#POS I
+C W
+G G W N #POS
+}
+{
+w.w
+#POS G W G #POS
+}
+{
+me siegnto un poco mal del estomago ;(
+#POS O B B B B B B E #POS
+}
+{
+well!!! ;(
+so bad...
+#POS C W E
+R A W #POS
+}
+{
+mein bierfest!
+#POS C C W #POS
+}
+{
+REF
+meine liebe&lt;NUM n.n
+#POS I
+B B E E #POS
+}
+{
+REF 
+thank you!
+#POS I
+V O W #POS
+}
+{
+das güte bier! n.n
+#POS L A N W E #POS
+}
+{
+good day! ;NUM n.n
+#POS A N W E E #POS
+}
+{
+GÜTE NACHT! ;)&lt;NUM ßYE!
+#POS B B W E E B W #POS
+}
+{
+REF 
+ok n.n bye! &lt;NUM
+#POS I
+C E C W E #POS
+}
+{
+REF 
+buenas boches duerme bien bye! ;)&lt;NUM
+#POS I
+C B B B C W E E #POS
+}
+{
+TENGO MIEDO!!! ;/
+#POS B B W E #POS
+}
+{
+REF 
+oriana tengo miedo creo que ella esta aki ;/
+#POS I
+B B B B G G G G E #POS
+}
+{
+REF 
+ummmmm!!! n.n que bien ^.^&lt;NUM
+#POS I
+C W E G G E E #POS
+}
+{
+REF 
+;) ;$
+#POS I
+E W G #POS
+}
+{
+REF 
+;) n.n YO MAS!!!&lt;NUM
+#POS I
+E E C B W E #POS
+}
+{
+REF 
+;) n.n ^.^
+linda te kiegro mucho!!!&lt;NUM
+#POS I
+E E E
+B B B A W E #POS
+}
+{
+REF 
+;NUM thank you!!!! &lt;NUM
+my love!!!!
+
+my sweet princes!!!! &lt;NUM ^.^
+#POS I
+E V O W E
+D N W
+
+D A N W E E #POS
+}
+{
+REF 
+n.n &lt;NUM 
+my heart!!!! &lt;NUM 
+;) ^.^
+#POS I
+F W F E
+D N W E
+E E #POS
+}
+{
+REF 
+;) &lt;NUM liebe!!!! ^.^ ;)))) ....
+#POS I
+E E B W E E W #POS
+}
+{
+REF 
+ich liebe dich &lt;NUM
+#POS I
+G G G E #POS
+}
+{
+REF REF 
+n.n &lt;NUM ;)
+#POS I I
+F W F E E #POS
+}
+{
+REF 
+"_" &lt;NUM +_+ ^.^ ;NUM
+#POS I
+W G W E E E E #POS
+}
+{
+REF 
+;) ^.^ &lt;NUM
+#POS I
+E E E #POS
+}
+{
+REF 
+grasias n.n nice &lt;NUM
+#POS I
+B E A E #POS
+}
+{
+REF 
+;')
+#POS I
+E #POS
+}
+{
+;( me siento un poco mal...
+#POS E O G G G G J #POS
+}
+{
+REF
+podemos hablar por md?
+#POS I
+B B G G W #POS
+}
+{
+REF REF 
+siempre sueño con ella ^.^
+#POS I I
+B B B B E #POS
+}
+{
+REF REF 
+si siempre sueño cpn ella ;NUM &lt;NUM n.n
+#POS I I
+B B B B B E E E #POS
+}
+{
+bye! ;(...
+#POS C W E J #POS
+}
+{
+&gt;&lt; ;'(
+#POS E J E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF
+y ahora que ise para que te enojaras si yo te kiero a ti!!! a nadien mas :'(
+#POS I
+R G G G G G G G G C P G D N W D B B E #POS
+}
+{
+REF 
+um! si !!! ^.^ ;)
+#POS I
+C W G W E E #POS
+}
+{
+bye! ;(
+#POS C W E #POS
+}
+{
+TAG&amp;death
+#POS N N #POS
+}
+{
+TAG ...
+#POS H W #POS
+}
+{
+GOOD NIGHT! TAG ;(
+#POS A N W H E #POS
+}
+{
+BYE! =_O ;C
+#POS C W E W E #POS
+}
+{
+REF 
+ok bye! ;(
+#POS I
+C C W E #POS
+}
+{
+=/
+#POS E #POS
+}
+{
+;( me siento...... mal....
+#POS E O G W G W #POS
+}
+{
+creo que voy a llorar... 
+;'(
+#POS C G V D G J
+E #POS
+}
+{
+REF 
+;( yo no tendria muchas ganas de ir...
+
+tu saves por que ;'(
+#POS I
+E C C N C B P G J
+
+B V G G E #POS
+}
+{
+REF 
+si!!! ;)
+#POS I
+B W E #POS
+}
+{
+REF 
+n.n &lt;NUM ;NUM
+#POS I
+F W F E E #POS
+}
+{
+REF 
+si mejor no!!! xd n.n
+#POS I
+B G C W E E #POS
+}
+{
+REF 
+aaaaaayyyyy!!!!! =_NUM
+xd
+#POS I
+C W W K
+E #POS
+}
+{
+REF REF 
+xd si n.n
+#POS I I
+E B E #POS
+}
+{
+REF 
+es que me imagino tu ahi enbarazada y yo... 
+-_NUM!!! no se que aria...
+#POS I
+G G O G G G G R O W
+E W D N G G J #POS
+}
+{
+NUM_NUM creo que me voy a desmayar!!!
+#POS E C V O R D N W #POS
+}
+{
+REF REF 
+-_NUM oh my god!!! xd
+#POS I I
+E C D N W E #POS
+}
+{
+... aggggg!!! -_NUM
+ ya no se que pensar... xd
+#POS W C W E
+C C N G G J E #POS
+}
+{
+yo papá???? NUM_NUM
+
+um!!! no se... -_NUM
+#POS C C W E
+
+C W D N W E #POS
+}
+{
+REF REF 
+=_NUM??,
+#POS I I
+W K W #POS
+}
+{
+REF 
+em.... si claro ;)
+#POS I
+O W G G E #POS
+}
+{
+REF REF 
+NUM_= ????
+n.n
+#POS I I
+G W W
+F W F #POS
+}
+{
+REF REF 
+NUM_NUM jijijiji n.n
+#POS I I
+E E E #POS
+}
+{
+REF REF 
+NUM_NUM casarnos!!!?
+woow si que vas deprisa XD
+#POS I I
+E B W
+C B B V N E #POS
+}
+{
+REF 
+bien y tu? ;NUM
+#POS I
+B R G W E #POS
+}
+{
+REF REF 
+&lt;NUM ;)
+#POS I I
+E E #POS
+}
+{
+REF REF 
+que lindo ;NUM
+#POS I I
+G G E #POS
+}
+{
+^,^
+#POS C W G #POS
+}
+{
+REF 
+TOM! ;NUM&lt;NUM
+#POS I
+B W E E #POS
+}
+{
+REF 
+bye! ;) &lt;NUM ;NUM "_"
+#POS I
+C W E E E W G W #POS
+}
+{
+REF 
+ok vos igual duerme bien
+
+yo igual soñare contigo! ;)
+bye! ^.^
+#POS I
+C G G G G
+
+C G G G W E
+C W E #POS
+}
+{
+REF 
+n.n e.e &lt;NUM
+#POS I
+F W F E E #POS
+}
+{
+REF 
+grasias vos sos especial para my! ;) n.n
+#POS I
+B B B B G D W E E #POS
+}
+{
+REF 
+;) n.n
+#POS I
+E E #POS
+}
+{
+REF 
+n.n que ninda ;) n.n
+#POS I
+F W F B B E E #POS
+}
+{
+REF 
+grasias n.n
+#POS I
+B E #POS
+}
+{
+NUM;)
+#POS K E #POS
+}
+{
+REF 
+mmmm jijiji
+que no le ago ala pobrecita jijiji n.n
+
+No mentira n.n  
+
+La abrazo mucho!!! ;)
+#POS I
+C C
+G C N R G G C E
+
+C N E
+
+B B A W E #POS
+}
+{
+ase frio!!!
+micho frio/
+cold!!! ;/
+me estoy helando n.n
+#POS G G W
+B B
+A W E
+O G G E #POS
+}
+{
+REF 
+yo tengo tres dos ositos y una osita llamada oriana n.n
+#POS I
+C B B B B R G G G B E #POS
+}
+{
+oshitos de peluche!!! TAG
+#POS B P N W H #POS
+}
+{
+REF 
+um!
+bueno no inporta n.n
+
+oye.. te gustan los peluches? ;)
+#POS I
+C W
+V D N E
+
+C W G G B B W E #POS
+}
+{
+REF 
+si muy magicas!!! ;)
+#POS I
+B G G W E #POS
+}
+{
+REF 
+ummm!!!! ;)
+y conoces la colonia "NATALIE" n.n
+#POS I
+C W E
+R V B B W B W E #POS
+}
+{
+REF 
+shi ahora me siento mejor ;) &lt;NUM
+#POS I
+G G O G G E E #POS
+}
+{
+REF 
+que perfume o colonia usas? ;) n.n
+#POS I
+B N P B B W E E #POS
+}
+{
+um! ;( me duele todo el cuerpo... ;(
+#POS C W E O V N N G J E #POS
+}
+{
+REF 
+mmmmmm tu igual hueles rico! n.n
+#POS I
+C G G V N W E #POS
+}
+{
+REF 
+si. ;)&lt;NUM
+#POS I
+B W E E #POS
+}
+{
+REF 
+:D &lt;NUM n.n
+#POS I
+E E E #POS
+}
+{
+REF 
+shi ;)
+ yo igual siento lo mismo ;NUM ^.^
+#POS I
+C E
+C G G G G E E #POS
+}
+{
+REF 
+ami igual me ases muy feliz!!! ;NUM
+#POS I
+G G O V G G W E #POS
+}
+{
+REF 
+ SHIII PORSIEMPRE ;D ^.^
+#POS I
+C C E E #POS
+}
+{
+REF 
+ami igual me inportas mucho!!! ;) &lt;NUM
+#POS I
+G G O V A W E E #POS
+}
+{
+REF 
+tuyo forever!!! ;) n.n
+#POS I
+B R W E E #POS
+}
+{
+REF 
+ami igual me gusta que seas celosa n.n
+
+eso quiere decir que me kieres!!! ;) n.n
+#POS I
+G G O V B N N E
+
+G G G G O V W E E #POS
+}
+{
+REF 
+lo se ;) &lt;NUM
+#POS I
+B G E E #POS
+}
+{
+REF 
+solo piensa en el hoy y en el futuro el psado dejalo atras!!!;)
+
+JAMAS ME PERDERAS
+(YO IGUAL SOY CELOSO) n.n
+#POS I
+A N P G G G P G G G G V N W E
+
+B O B
+W C B B B W E #POS
+}
+{
+REF 
+yo igual ;)&lt;NUM
+#POS I
+C G E E #POS
+}
+{
+REF 
+MY novia hermosa!!! &lt;NUM
+#POS I
+D G B W E #POS
+}
+{
+REF 
+;) &lt;NUM ^.^
+#POS I
+E E E #POS
+}
+{
+REF 
+lee my md 
+
+;)&lt;NUM
+#POS I
+B D N
+
+E E #POS
+}
+{
+REF 
+hermochaaa!!! :NUM 
+n.n
+#POS I
+C W E
+F W F #POS
+}
+{
+REF 
+e_e ;) &lt;NUM
+#POS I
+E E E #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+REF 
+;D &lt;NUM LINDA!!!
+#POS I
+E E B W #POS
+}
+{
+REF 
+;( pero esque ami de verdad no me gusta que hables con la maria...
+#POS I
+E E E G P V D O V G V A B B W #POS
+}
+{
+REF 
+n.n te kiegro mucho
+&lt;NUM ^.^
+#POS I
+F W F B B A
+E E #POS
+}
+{
+REF 
+es que dije que no me gusta que hables con la maria ...
+#POS I
+G G G G C O V G V A B B W #POS
+}
+{
+REF
+te kiero ;(
+perdoname ¿si? :'(
+#POS I
+B B E
+B B W E #POS
+}
+{
+mmmmm 
+ mejor me boy 
+
+bye! ;(
+#POS C
+G O N
+
+C W E #POS
+}
+{
+..bueno tendre que aguantar... aunque no quiera!!! :'(
+#POS W N V G G J V D N W E #POS
+}
+{
+uyyyy!!!! como odio que hable con la maria!!!!
+me choca!!!
+pero no puedo aser nada!!! &gt;&lt; :(
+#POS B W V G G G G B B W
+O V W
+F D N N G W E J E #POS
+}
+{
+REF REF 
+mmmmmm
+#POS I I
+C #POS
+}
+{
+:@ bye!!!! &gt;&lt;
+;/
+#POS W P C W E E
+E #POS
+}
+{
+REF
+hola :NUM
+#POS I
+C E #POS
+}
+{
+sweet ^_^
+#POS A E #POS
+}
+{
+&amp;_&amp;
+#POS C #POS
+}
+{
+ßuEN DIA TAG 
+
+good day!!! ;NUM
+#POS B B H
+
+A N W E #POS
+}
+{
+REF 
+si 
+si tenemos casi los mismos gustos!!! ;NUM &lt;NUM
+#POS I
+B
+B B B B B B W E E #POS
+}
+{
+good night!!! ;))') bye! =^_^=
+#POS A N W E E W C W E #POS
+}
+{
+W.W
+#POS N W G #POS
+}
+{
+REF REF 
+NUM_NUM n.n jijiji 
+te pille!!! n.n
+#POS I I
+E E C
+B N W E #POS
+}
+{
+REF 
+ok n.n ;))
+#POS I
+C E E #POS
+}
+{
+REF 
+n.n thank you!
+hermosa foto
+y lindos recuerdos!!! ;)
+#POS I
+F W F V O W
+B C
+R B B W E #POS
+}
+{
+REF
+me gusta tu foto ;)
+salgo miy bien ;NUM
+n.n
+#POS I
+O V G G E
+B B B E
+F W F #POS
+}
+{
+REF 
+por que me llamas loquillo??";(
+no estoy loco...
+#POS I
+G G O B B W W E
+C N G J #POS
+}
+{
+REF
+hola ;)))
+#POS I
+C E #POS
+}
+{
+AMOR AMOR Y MAS AMOR &lt;NUM &lt;NUM &lt;NUM REF ^.^ 
+jijiiji ;NUM
+#POS G G G B B E E E I E
+C E #POS
+}
+{
+REF
+y.... averiguaste algo???
+#POS I
+R W G G W #POS
+}
+{
+REF 
+hermoso como siempre ;NUM&lt;NUM ^^
+#POS I
+B B B E E E #POS
+}
+{
+REF 
+yo igual&lt;NUM
+#POS I
+C G E #POS
+}
+{
+REF 
+te juro que no te miento
+siempre le pido a DIOS Y AMI SEÑOR JESUS QUE ME AYUDEN
+POR ESO TENGO DEPRECION ;(
+#POS I
+B B B C N N
+B B B D B B B B B B O R
+G G B B E #POS
+}
+{
+REF 
+oriana.. no te miento..
+me siento muy mal
+ase NUMaños estoy lesjos de tom.. y estoy en su cuerpo ;'(
+#POS I
+B W C N N W
+O G G G
+G G G G G B W R G G G G E #POS
+}
+{
+REF 
+me crees verdad? ;'(
+no te miento...
+averigualo en tus sueños o no se como pero aslo...
+#POS I
+O B B W E
+C N G J
+G G G G P D N V R R W #POS
+}
+{
+REF 
+sera my fans pero JAMAS my amiga!!!!
+yo te amo a ti y muchoo!!!&lt;NUM my amor
+(si no te molesta) ;(
+#POS I
+G D N V B D B W
+C P V D N R G W E D N
+W G C N N W E #POS
+}
+{
+REF 
+ella es la que me molesta por las noches
+la que me movio la cama y que prendio la tele! y en mis sueños tambie
+#POS I
+B B B V O G G B C
+B V O R B B R G G B N W R P B B B #POS
+}
+{
+REF 
+cuidate porfavor 
+tengo miedo que te haga algo malo ;(
+cuidate!! 
+prometeme que te cuidaras de ella porfavor..
+#POS I
+C G
+B B B B B B B E
+C W
+A G G G G B B W #POS
+}
+{
+REF REF 
+yo jamas te dejaria yo te amo... creeme ;'(
+#POS I I
+D N P V O P G W N E #POS
+}
+{
+REF 
+tu me dijiste que sentias algo y yo igual
+
+yo siento lo que siente tom hasta me eh soñado con el varias veces
+#POS I
+G O R G G G R O G
+
+C C C G G B V O C B B B B N #POS
+}
+{
+REF REF 
+oriana por lo que mas quieras creeme porfavor te lo ruego;'(
+#POS I I
+B G G G G G N G G G G #POS
+}
+{
+REF REF 
+no me crees?
+ella me iso ese echizo..
+me destruyo la vida te juro por mi vida que es verdad ;'(
+#POS I I
+C O B W
+B O G N N W
+O R B B B B G G B B B B E #POS
+}
+{
+REF 
+la chica que viste la de pelo largo y de negro 
+es la que me iso el echizo se llama nicol
+y es muy mala ;'(
+#POS I
+B B B B B P B B R P N
+G G G O G G G G N B
+R G G G E #POS
+}
+{
+REF 
+tu me dijiste que soñaste conmigo y que saves lo que va a pasar
+y que pronto voy a volver a ver a tom..;'(
+#POS I
+G O R G G G G G V B B B D N
+R G R V D N D G D B W E #POS
+}
+{
+REF 
+te acuerdas que te dije que me isieron un hechizo.. y que me separaron de my hermano gemelo?
+#POS I
+B B B B B V O G G C W R V O G P D N N W #POS
+}
+{
+REF REF 
+yo soy el verdadero bill que no lo ven???
+no estoy jugando
+me isiero brujeria yo te lo dije oriana;(
+#POS I I
+D N G G N G C N G W
+C N G
+O V V O P V G B E #POS
+}
+{
+REF 
+porque eres asi conmigo???? si supieras...
+;'(
+#POS I
+B B G G W G G J
+E #POS
+}
+{
+REF 
+oye espera...
+se que esto te va a sonar un poco mal
+
+pero..  podemos almenos ser amigos??? ;'(
+#POS I
+C G J
+G G G G G D N G G G
+
+R W N N G N W E #POS
+}
+{
+REF 
+que seas muy feliz ;)
+
+siempre te recordare!!! ;'(
+te kiero.... bay! ;(
+#POS I
+B N G G E
+
+G G N W E
+B B W N W E #POS
+}
+{
+bay twitter...
+#POS N B W #POS
+}
+{
+my fiel amiga oriana ojala que te vaya muy bien en tu vida... ;)
+te kiero mucho REF &lt;NUM ;) 
+bye!
+#POS D G G B B B B B G G G G N W E
+B B B I E E
+C W #POS
+}
+{
+bye! ;'(
+u.u
+#POS C W E
+O W O #POS
+}
+{
+GÜTE NACHT! TAG
+sigan siendo aliens siempre... ya veran que los chicos las premiaran
+yo se porque se los digo...
+#POS B B W H
+L A N G W C B B B B B B
+C G G G B G J #POS
+}
+{
+REF REF 
+oriana puedo decirte algo?
+#POS I I
+B B B B W #POS
+}
+{
+REF REF 
+puedo hablar contigo enserio????
+me refiero puedo hablar contigo con sinceridad
+puedo...
+#POS I I
+N G G G W
+O V N G G G G
+N W #POS
+}
+{
+REF REF 
+yo no estoy soltero!!!! ;(
+yo TE KIERO A TI!!!
+ENTIENDELO DE UNA VEZ!!!!!
+#POS I I
+C C N N W E
+C B B D N W
+B B B B W #POS
+}
+{
+REF REF 
+coquetiando??? yo solo la saludava que ahora no puedo hablar con mis fans o que????!!!!
+#POS I I
+C W D A B B B G D N G G B N P G W #POS
+}
+{
+otro candidato??? ;'(
+
+me mato con esa palabra ;'(
+#POS C C W E
+
+O G G G G E #POS
+}
+{
+my signo virgo dice que soy fiel... y no se equivoca.... ;(
+pero no salio que iba a sufrir por amor denuevo. ;'(
+#POS D N N N G G G J R D N N W E
+F D N G G D N G G N W E #POS
+}
+{
+yo tambien aprendi la leccion...
+no entregar my corazon a nadien... ;'(
+#POS C B B B G J
+C N D B D N W E #POS
+}
+{
+bye! ;'( &lt;/NUM
+#POS C W E E #POS
+}
+{
+;'( no podre dormir...
+pensare en my oriana
+como siempre lo hago...
+;'(
+#POS E C N G J
+B P D B
+C G G G J
+E #POS
+}
+{
+REF
+QUE DUERMAS BIEN ;'(
+YO SOÑARE CONTIGO COMO SIEMPRE LO HAGO... ;'(
+ICH LIEBE DICH! ;'(
+#POS I
+B B B E
+C B B B B B B W E
+G G C W E #POS
+}
+{
+REF 
+pero a ella no la conosco y ati si
+
+y siento como si te conosieras desde antes! ;(
+TE AMO... ;(
+#POS I
+F D B D N N R G G
+
+R G G G G G G G W E
+B C W E #POS
+}
+{
+REF 
+pero si yo no te dige eso
+dime cuando le ise corazones a luci cuando!!! ;'(
+mi corazon es tuyo! ;'(
+#POS I
+G G C C N N G
+N G G G V D B B W E
+G G G G W E #POS
+}
+{
+REF 
+nunca pense enamorarme....
+pero lo ise porque siempre senti qe tu eres my alma gemela y siempre lo seras ;'(
+#POS I
+G G G W
+G G G G G G G G G D N B R G G G E #POS
+}
+{
+REF 
+yo soy fiel
+
+solo tengo amigas y amigos como todo chico normal...
+;(
+#POS I
+C A N
+
+A B B R N V N B A W
+E #POS
+}
+{
+REF 
+pero yo no le eh echo corazones a nadien!!! ;'(
+... aun asi.. te amo
+no hablare con nadien aunq nome perdones
+#POS I
+L O D N V N N D N W E
+W G G W N C
+C N N B B B B #POS
+}
+{
+... aun me queda un amigo que si es fiel para siempre...
+my señor JESÚS ;'(
+#POS W V O B B B B B B G G G J
+D N B E #POS
+}
+{
+REF REF 
+pero si yo solo hablaba con ella nada mas;(
+es como si yo me enojara por qe hablas con tu amigo" ;(
+#POS I I
+G G D N G G B B B E
+G G G O O G G G G G G N W E #POS
+}
+{
+REF 
+tu no eres my pañuelo
+
+tu eres y seras siempre my dulce niña ala que amo y amare siempre!!! :'(
+#POS I
+G C N D N
+
+G G R A G D N G G G C R B B W E #POS
+}
+{
+REF 
+... aunque no me creas yo... yo me enamore de ti.... ;'( de verdad...
+saves antes de conocerte 
+yo soñe cntigo
+#POS I
+W V D O V O W C O V P G W E P G J
+V G G N
+C V N #POS
+}
+{
+REF 
+my querido hermano tom
+te extraño mucho :'(
+#POS I
+D N N B
+B B A E #POS
+}
+{
+REF 
+por que no confias en my dime..?
+como quieres que te demuestre que te amo a ty y a nadien mas
+DIMELO! ;'(loare
+#POS I
+G G C N P D N W
+C G G G G G G G D N R D B B
+C W E E #POS
+}
+{
+REF 
+no saves lo mal que estoy...
+y ahora estoy peor que antes;(
+la deprecion ahora si me va a matar.
+;'( te amo;(
+#POS I
+C V B B B G J
+R G G G G G E
+B N G G O G D N W
+E E C E #POS
+}
+{
+;( para que vivir si no tengo a nadien..
+ni a mi amiga que amo tanto my oriana adios ;'(
+#POS E G G N P D N D N W
+C D G G G G G D B C E #POS
+}
+{
+ESTOY MUY MAL ;'(
+#POS B B B E #POS
+}
+{
+REF
+no te enojes te lo ruego ;'(
+porfavor!
+#POS I
+C N V P V B E
+G W #POS
+}
+{
+REF 
+ah ok n.n
+#POS I
+C C E #POS
+}
+{
+REF 
+;NUM ^^
+#POS I
+E E #POS
+}
+{
+REF 
+no
+porque? n.n
+#POS I
+C
+B W E #POS
+}
+{
+REF 
+ok ;NUM
+#POS I
+C E #POS
+}
+{
+REF 
+uhm! 
+bueno dejala total 
+tu no eres gay.
+conque lo sepas tu esta bien ;NUM
+de my piensan lo mismo
+y no hago caso
+#POS I
+C W
+N V A
+G C N A W
+B B B B B B E
+P D N P B
+R D N N #POS
+}
+{
+REF
+porque no me siges?
+o ya me segiste???
+#POS I
+B C O N W
+P O O G W #POS
+}
+{
+REF 
+XD AH! ;NUM
+KE BIEN ;)
+#POS I
+E C W E
+B B E #POS
+}
+{
+REF 
+n.n ;NUM
+
+y por eso piensa que tu eres gay, por que amas a tokio hotel???
+#POS I
+F W F E
+
+R G G G G G G A W G G N D N N W #POS
+}
+{
+REF 
+por que? =_NUM
+#POS I
+G G W W K #POS
+}
+{
+REF 
+si n.n pero no inporta
+ya estoy acostumbrado
+que piensen eso ;NUM
+#POS I
+B E F D N
+C B B
+G G G E #POS
+}
+{
+REF 
+si te disculpo n.n
+todo el mundo piensa lo mismo ^_^
+#POS I
+B B B E
+N G G G G G E #POS
+}
+{
+REF 
+javier ;NUM
+#POS I
+B E #POS
+}
+{
+REF 
+bien y tu? ;NUM
+#POS I
+B R G W E #POS
+}
+{
+REF 
+yo de chile y tu? ;)
+#POS I
+C P B R G W E #POS
+}
+{
+REF 
+como estas? n.n
+#POS I
+C G W E #POS
+}
+{
+REF
+hola ;NUM
+#POS I
+C E #POS
+}
+{
+REF
+hola ;NUM
+#POS I
+C E #POS
+}
+{
+:'( buen dia TAG
+que esten bien...
+ya que yo estoy muy mal... =(
+#POS E B G H
+G G G J
+C V O G G G J E #POS
+}
+{
+:'( ... este oshito esta llorando...
+#POS E W C C C G J #POS
+}
+{
+REF 
+no te olvides NUNCA que te kiero mucho!!!&lt;NUM
+#POS I
+C N V B B B B A W E #POS
+}
+{
+bye! ;'/
+#POS C W E #POS
+}
+{
+REF
+ICH LIEBE DICH!!! ;'( &lt;NUM
+#POS I
+G G G W E E #POS
+}
+{
+REF
+nunca me dejes solo..
+porque yo sin ti.... me muero!!! ;'( &lt;NUM
+#POS I
+G O V A W
+B D N N W O V W E E #POS
+}
+{
+aunque estes lejos te siento conmigo...¡SIEMPRE! &lt;NUM REF ;( &lt;NUM
+#POS B B B B B G W C W E I E E #POS
+}
+{
+&lt;/NUM ;/
+#POS E E #POS
+}
+{
+bay! me voy muy mal :'(
+#POS N W O R G G E #POS
+}
+{
+;'( me siento mal...
+lloro y lloro... pero de nada vale... ;(
+#POS E O G G J
+B R G W G P G G J E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF
+no te vallas porfavor!! ;(
+no me dejes solo
+yo te kiero mucho de verdad :(
+eres muy inportante para my&lt;NUM ;'(
+#POS I
+C N V G W E
+C O V A
+C P B B P B E
+G G G G D E E #POS
+}
+{
+porque ami ;'(
+#POS B B E #POS
+}
+{
+REF 
+por que?? :'(
+ke ise ahora :(
+si ise algo perdoname!!! ;'(
+#POS I
+G G W E
+B G G E
+B G G G W E #POS
+}
+{
+REF 
+ok grasias ;)
+tu igual cuidate ;NUM
+#POS I
+C C E
+G G G E #POS
+}
+{
+REF 
+aca van a ser las diez 
+xD ;)
+#POS I
+G B D A N N
+E E #POS
+}
+{
+REF 
+;NUM
+#POS I
+E #POS
+}
+{
+REF 
+thank you! my friend
+;) tu igual ten dulces sueños ;NUM
+#POS I
+V O W D N
+E G G K A N E #POS
+}
+{
+GOOD NIGHT! TAG ;D
+#POS A N W H E #POS
+}
+{
+REF
+BUENAS NOCHES! ^.^
+DUERME BIEN...
+#POS I
+C C W E
+B B W #POS
+}
+{
+&lt;NUM NUM de febrero dia del amor ;)
+que lindo y yo que estoy enamorado... aunque esa persona no este conmigo..
+le dare un regalo&lt;NUM
+#POS E K P B B B B E
+G G R O G G G J G G N C N G W
+B V G G E #POS
+}
+{
+QUE DUERMAN BIEN TAG ;NUM
+#POS B B B H E #POS
+}
+{
+REF 
+:) ay!!! ;') hola...
+#POS I
+E C W E C W #POS
+}
+{
+REF
+hola ^.^
+#POS I
+C E #POS
+}
+{
+good night! TAG ;NUM
+#POS A N W H E #POS
+}
+{
+REF
+buenas noches! &lt;NUM ^.^
+#POS I
+C C W E E #POS
+}
+{
+REF
+bay despues hablamos ;NUM ^.^
+aho tengo que salir ;)
+#POS I
+B B B E E
+B B B B E #POS
+}
+{
+bueno bye TAG ;NUM
+#POS N C H E #POS
+}
+{
+REF 
+si :(
+bueno lo bueno esque boy a salir igual
+y obiamente no are nada malo :)
+me vendra buscar my prima en auto
+#POS I
+B E
+C V N V N D N G
+R A D V G G E
+O G G D N P A #POS
+}
+{
+REF 
+si esque no queria que yo salga con mi prima y su novio porque piensa qe yo voy aser algo malo
+#POS I
+B V D N G O G G G G R G N G G G O R A N N #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+...de nada vale llorar....
+cuando el dolor cada dia es mas doloroso y fuerte ;'(
+#POS J P G G G W
+B B B B G G G V R G E #POS
+}
+{
+REF 
+me siento mal.. ;'(
+acabo de peliarme con my tio ;'(
+siempre me trata mal 
+él y todos ... ;'(
+#POS I
+O G G W E
+G P N N D N E
+G O V G
+B R N W E #POS
+}
+{
+REF 
+ok ;)
+bay! &lt;NUM
+#POS I
+C E
+N W E #POS
+}
+{
+ESTA LLUVIENDO QUE BIEN!!! ;NUM
+#POS B B B B W E #POS
+}
+{
+bay TAG despues vuelvo ;NUM ^.^
+#POS N H V G E E #POS
+}
+{
+REF
+me tengo que ir despues hablamos ^.^
+tengo que ir a comer
+bye! ;NUM
+#POS I
+O B B G V B E
+B B G D N
+C W E #POS
+}
+{
+REF 
+;NUM
+
+ya!!! ya me vesti! ;)
+#POS I
+E
+
+C W O O N W E #POS
+}
+{
+REF 
+grasias ^.^
+#POS I
+B E #POS
+}
+{
+REF 
+uy! picarona n.n
+#POS I
+C W G E #POS
+}
+{
+REF 
+wooow tanto me kieres?
+porque me siento muy bien eh... ;)
+#POS I
+C V O B W
+V O G G G G J E #POS
+}
+{
+REF 
+si!!! ;NUM
+ahy!!!! ;)
+esque me estoi vistiendo ^.^
+#POS I
+B W E
+C W E
+V O R N E #POS
+}
+{
+REF 
+NUM_NUM ke??? ya... como?
+ke me enviaste..?
+#POS I
+E B W C W C W
+V O R W #POS
+}
+{
+REF 
+con dulce de frutilla y queso ensima n.n
+#POS I
+G G P B R N N E #POS
+}
+{
+REF 
+no se...  siento como...
+no se me siento como feliz... nose algo asi...
+#POS I
+C G J G G J
+C V O G G G W N G G J #POS
+}
+{
+REF 
+un café con tostadas n.n
+#POS I
+B B B B E #POS
+}
+{
+REF
+siento algo ahora y no se que es.. nose como explicarlo...
+#POS I
+B G G R D N G G W N N G J #POS
+}
+{
+REF 
+no n.n
+#POS I
+C E #POS
+}
+{
+REF 
+me da flojerita n.n
+#POS I
+O D N E #POS
+}
+{
+REF 
+thank you!!! 
+ te kiero mucho!!! &lt;NUM ^.^
+#POS I
+V O W
+B B A W E E #POS
+}
+{
+REF 
+n.n jijiji ;NUM
+#POS I
+F W F C E #POS
+}
+{
+REF 
+si lo sé y te lo agradesco mucho ;'NUM &lt;NUM
+#POS I
+B B B R P V R A W W K E #POS
+}
+{
+REF
+bueno mejor me levanto n.n
+#POS I
+N V O R E #POS
+}
+{
+REF 
+^.^
+#POS I
+E #POS
+}
+{
+REF 
+si es verdad.... la deprecion es mi muerte ya que no tengo a algien que kiero mucho 
+a mi lado...
+#POS I
+B B B W B N G G V O V D N D B B B A
+D G G J #POS
+}
+{
+REF 
+my unica alien eres tu &lt;NUM
+#POS I
+D A N N G E #POS
+}
+{
+REF 
+si me sentia muy mal asique me acoste....
+creo que la deprecion me esta matando por dentro ;(
+#POS I
+B O G G G V O R W
+C G G V O G G G G E #POS
+}
+{
+buen dia TAG
+#POS B G H #POS
+}
+{
+buen dia TAG ^.^
+#POS B G H E #POS
+}
+{
+bun dia TAG ^.^
+#POS N G H E #POS
+}
+{
+REF REF 
+hola...
+#POS I I
+C W #POS
+}
+{
+REF
+buen dia ;) ^.^
+#POS I
+B G E E #POS
+}
+{
+REF REF 
+;) hola my oriana n.n
+#POS I I
+E C D B E #POS
+}
+{
+REF
+bueno bye! ^.^
+#POS I
+N C W E #POS
+}
+{
+bueno bay! TAG
+ GOOD NIGHT!!! ;NUM
+#POS N N W H
+A N W E #POS
+}
+{
+REF 
+n.n ;D SHI!!! &lt;NUM
+#POS I
+F W F E C W E #POS
+}
+{
+oh me dio ganas de bomitar ;x
+
+me siento mal :/
+#POS C O G G P B W E
+
+O G G E #POS
+}
+{
+REF 
+n.n llamame "billitho" ;NUM &lt;NUM
+#POS I
+F W F N W N W E E #POS
+}
+{
+REF 
+si soñare con un angelito llamado oriana n.n &lt;NUM
+#POS I
+B B B B B B B E E #POS
+}
+{
+REF 
+bueno bay! :NUM &lt;NUM
+#POS I
+N N W E E #POS
+}
+{
+REF
+me tengo que ir mañana hablamos bye! ;NUM &lt;NUM
+#POS I
+O B B G N N C W E E #POS
+}
+{
+REF 
+;NUM (me rio y tambien salta) n.n
+#POS I
+E W O B R G B W E #POS
+}
+{
+REF 
+yo igual te kiero muchooo!!! ;)
+#POS I
+C G G G A W E #POS
+}
+{
+escuchando a "porta- querida alma gemela" &lt;NUM
+#POS G D W G G N B W E #POS
+}
+{
+REF 
+de nada ;NUM
+#POS I
+P G E #POS
+}
+{
+REF 
+(sonrio y me lo tomo)
+ tu tambien eres muy especial para my ;) &lt;NUM
+#POS I
+W A R O V N W
+G G G G G G D E E #POS
+}
+{
+REF 
+si :NUM n.n
+#POS I
+B E E #POS
+}
+{
+REF 
+shi si me gusta ;NUM n.n
+#POS I
+G G O V E E #POS
+}
+{
+REF 
+shi !!!! muy lindo y muy tiernito n.n :NUM
+#POS I
+G W G G G G G E E #POS
+}
+{
+REF 
+shi!!! ;)
+#POS I
+C W E #POS
+}
+{
+REF 
+siiii !!!! ;NUM
+#POS I
+B W E #POS
+}
+{
+REF 
+casi me matas de un infarto!!!! ;NUM
+ es muy lindo ^.^
+#POS I
+B O B P G G W E
+G G G E #POS
+}
+{
+REF 
+porque me das esas inpresiones!!!   casi me matas con esa foto tan bello!!! ;NUM
+#POS I
+V O L G G W V O R A G G N N W E #POS
+}
+{
+REF 
+NUM_NUM ay casi me desmayo
+
+que hermoso!!!!!! 
+casi me matas!!! ;NUM ^.^
+#POS I
+E C V O R
+
+G G W
+B O B W E E #POS
+}
+{
+REF 
+;$ å_å
+#POS I
+W G G #POS
+}
+{
+REF 
+;NUM &lt;&lt;NUM ^.^
+#POS I
+E E E #POS
+}
+{
+REF 
+;D ^.^
+#POS I
+E E #POS
+}
+{
+REF 
+n.n grasias ;NUM
+#POS I
+F W F N E #POS
+}
+{
+REF 
+:NUM ^-^ \./
+jijihjijij
+#POS I
+E E E
+C #POS
+}
+{
+REF 
+;NUM  ^--^
+#POS I
+E E #POS
+}
+{
+REF 
+si ;) ami me gusta hablar contigo ;$
+#POS I
+B E G O V B B W G #POS
+}
+{
+REF 
+^_^ shíii ;)))
+#POS I
+E N E #POS
+}
+{
+REF 
+;) que bien grasias por aseptar (se sonroja) &lt;&lt;NUM :NUM
+#POS I
+E G G G G G W G G W E E #POS
+}
+{
+REF 
+si &lt;NUM
+bueno si tu quieres claro
+(se pone nerviosito) ;)
+#POS I
+B E
+N G G G G
+W G G G W E #POS
+}
+{
+REF 
+siii !!! ;) &lt;NUM forever!!!
+#POS I
+B W E E R W #POS
+}
+{
+REF 
+bueno yo pense que ivas a selebrarlo conmigo ya que... es san valentin...
+#POS I
+N C B B L D N V O G J G B B W #POS
+}
+{
+REF 
+obio que no lo soportaria 
+si ellos se aman y quien estar juntos siempre...&lt;NUM
+#POS I
+B B C N N
+B B G G G G G G G J E #POS
+}
+{
+ase mucho frio!!! :/
+#POS G A N W E #POS
+}
+{
+REF 
+oye porque? ;(
+yo pense que.... tu... bueno ya saves...
+#POS I
+C B W E
+C G G W G J V O V W #POS
+}
+{
+REF 
+sii !!! ;) &lt;NUM
+#POS I
+B W E E #POS
+}
+{
+REF
+oye y que vas aser el NUM de febrero???
+#POS I
+C R G V N N K P G W #POS
+}
+{
+REF 
+sweet ;) &lt;NUM
+que bello es el amor
+#POS I
+A E E
+G G G G G #POS
+}
+{
+REF 
+sentiste algo endenante?
+
+te llame con la mente :)
+#POS I
+B B B W
+
+B A N B B E #POS
+}
+{
+REF 
+hola ;)
+#POS I
+C E #POS
+}
+{
+bueno mejor me voy
+bay!
+TAG 
+:'(
+#POS N V O R
+N W
+H
+E #POS
+}
+{
+REF 
+:( si eso are 
+esperare....
+#POS I
+E G G V
+B W #POS
+}
+{
+REF 
+no se...
+yo no le ise nada ;(
+#POS I
+C G J
+C C N G G E #POS
+}
+{
+REF
+:'/
+#POS I
+E #POS
+}
+{
+REF 
+esque mi amiga oriana 
+No me habla...y creo que esta enojada y no se porque
+;'(
+#POS I
+G G G B
+C O G W R G G G G R D N G
+E #POS
+}
+{
+;( pobechito de mi...
+#POS E E P G J #POS
+}
+{
+REF
+oye porque no me hablas 
+porque!???? ;(
+#POS I
+C B C O V
+B W E #POS
+}
+{
+:'( alone...
+#POS E A W #POS
+}
+{
+REF
+porque no me respondiste??? ;'(
+acaso estas enojada conmigo...
+#POS I
+B C O R W E
+B B B G J #POS
+}
+{
+;'( T.T
+#POS E E #POS
+}
+{
++_+
+#POS E #POS
+}
+{
+REF
+CONECTATE!!!!! ;'(
+#POS I
+N W E #POS
+}
+{
+I MISS YOU
+REF ;/
+#POS O V O
+I E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF
+;/
+#POS I
+E #POS
+}
+{
+REF
+RESPONDE!!!! PORFAVOOOORRRR!!! ;/
+#POS I
+B W G W E #POS
+}
+{
+me siento muy mal!!! 
+y nose porque..  ;/
+#POS O G G G W
+R N G W E #POS
+}
+{
+REF
+acavo de bomitar todo lo que comi....
+y nose porque...
+responde!!! ;/
+#POS I
+B P B B B B B W
+R N G J
+B W E #POS
+}
+{
+REF
+porfavor responde!!!
+hoy me siento muy ,al
+acavo de bomitar todolo lo que comi y no se porque ;/ reponde...
+#POS I
+G G W
+C O G G W N
+B P B B B B B R D N G E N W #POS
+}
+{
+REF
+te kiero&lt;NUM
+buen dia ;)
+#POS I
+B B E
+B G E #POS
+}
+{
+good night! TAG ;NUM.
+#POS A N W H E W #POS
+}
+{
+REF
+nice to meet you! ;)
+#POS I
+A P V O W E #POS
+}
+{
+REF 
+nice n.n
+#POS I
+A E #POS
+}
+{
+REF REF 
+yeah! xd
+#POS I I
+C W E #POS
+}
+{
+REF 
+sweet  
+^.^
+#POS I
+A
+E #POS
+}
+{
+REF REF 
+yeah 
+matrix ;)
+#POS I I
+C
+N E #POS
+}
+{
+REF 
+que amorcito????
+#POS I
+G G W #POS
+}
+{
+bay! TAG
+#POS N W H #POS
+}
+{
+REF
+bye!
+#POS I
+C W #POS
+}
+{
+REF REF 
+-_-
+#POS I I
+E #POS
+}
+{
+REF REF 
+ñam...
+#POS I I
+G J #POS
+}
+{
+REF REF 
+Λ_Λ
+#POS I I
+C #POS
+}
+{
+REF 
+ke???
+#POS I
+B W #POS
+}
+{
+REF REF 
+NUM_NUM
+#POS I I
+E #POS
+}
+{
+BLONDON BOYS!!!!! ;D
+HETEROSEXUALES!!! ;NUM &lt;NUM
+#POS B N W E
+B W E E #POS
+}
+{
+REF REF 
+uy ya ok ;&lt;
+#POS I I
+G C C W J #POS
+}
+{
+REF REF 
+felis cumple alien ;) n.n
+#POS I I
+G G A E E #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+REF 
+NUM_NUM
+
+ok! ..... n.n
+#POS I
+E
+
+C W W E #POS
+}
+{
+^w^
+#POS E #POS
+}
+{
+REF 
+ke ribal??? :/
+#POS I
+B B W E #POS
+}
+{
+REF 
+siii ;NUM
+#POS I
+G E #POS
+}
+{
+REF 
+bueno ya n.n
+#POS I
+V O E #POS
+}
+{
+REF 
+ase unos dias...
+#POS I
+G B N W #POS
+}
+{
+REF 
+no te preocupes 
+no es nada
+#POS I
+C N N
+C N G #POS
+}
+{
+REF 
+porque no... 
+
+no deve ser tan grave 
+y ademas me da cosita ir al doctor n.n
+#POS I
+B C W
+
+C N G N N
+R V O D N G D N E #POS
+}
+{
+REF 
+no no fui al doctor ;(
+#POS I
+C C N N N E #POS
+}
+{
+REF 
+au :(
+bueno... ahi despues hablamos ;NUM
+#POS I
+G E
+N W G G G E #POS
+}
+{
+REF 
+no tengo ganas de comer
+y cuando como me da ganas de bomitar...pero no bomito todo solo un pokito.... ;/
+#POS I
+C N G G G
+R G V O D G P G W F D N N N G G W E #POS
+}
+{
+REF 
+de nada ;NUM
+n.n
+#POS I
+P G E
+F W F #POS
+}
+{
+;/
+#POS E #POS
+}
+{
+REF
+me siento mal me duele el estomago y tengo ganas de bomitar ;/
+#POS I
+O G G O G G G R B B P N E #POS
+}
+{
+NUM_NUM
+#POS K #POS
+}
+{
+REF 
+xD SHI.... YO SEE QUE VOS GANARIAS ^_^ &lt;NUM
+#POS I
+E G W O V B B B E E #POS
+}
+{
+REF 
+NUM_NUM woow....
+ke bien... ;D
+ya me imagino la pelea tu ahi pegandole y ella ahi gritando d dolor xD
+#POS I
+E C W
+B G J E
+C O G G G G G G R B B B B B E #POS
+}
+{
+REF 
+y porqe te trato mal?
+ pero... supongo que tu le pegaste.... ono?
+#POS I
+R G G G G W
+G W B B G G G W G W #POS
+}
+{
+REF 
+si ;)
+y que ases amiguita? ^_^
+#POS I
+B E
+R G G G W E #POS
+}
+{
+REF
+hola ;NUM.
+#POS I
+C E W #POS
+}
+{
+REF
+hello! ;NUM
+#POS I
+C W E #POS
+}
+{
+REF
+me fasino tu foto de tom!!! es muy tierno ;)
+aunque aveces se enfada un pokito xD
+^_^ &lt;NUM
+#POS I
+O R G G G B W G G G E
+B B G G G G E
+E E #POS
+}
+{
+REF 
+porque lo dices?
+#POS I
+B B B W #POS
+}
+{
+;NUM &lt;NUM!!!!
+#POS E E W #POS
+}
+{
+REF
+hola ;)
+me mataste con la foto de tom!!! ke tierno y lindo!!! ;NUM
+#POS I
+C E
+O R A B B P B W B B R A W E #POS
+}
+{
+REF 
+hermoso!!!! :NUM
+#POS I
+C W E #POS
+}
+{
+REF
+hola :NUM
+#POS I
+C E #POS
+}
+{
+REF 
+ok bye! ;NUM
+#POS I
+C C W E #POS
+}
+{
+REF 
+es que no me gusta salir solito ;(
+
+que duermas bien maña.na hablamos bye!!! n.n
+#POS I
+G G C O V N N E
+
+G G G G W G B C W E #POS
+}
+{
+GÜTE NACHT! TAG
+ich liebe dich!!! REF ^u^
+#POS B B W H
+G G G W I E #POS
+}
+{
+ok bay! .... -_-
+#POS C N W W E #POS
+}
+{
+;'(
+#POS E #POS
+}
+{
+REF 
+mmm esque no salgo a ningun lado... Ayer nomas sali a comprar ;/
+#POS I
+C V D N D N G J B B B D N E #POS
+}
+{
+REF
+yo igual siento lo mismo que tu
+#POS I
+C G G G G G G #POS
+}
+{
+REF 
+saves ayer sali a comprar por la noche y senti como si me vigilaran.. me dava miedo salir ala calle &amp; nose..
+#POS I
+V G G D G G G G G G G G O R W O C B B G G F N W #POS
+}
+{
+REF 
+menosmal que esta bien ;NUM
+Oye y hoidia no te as senyido rara o as sentido algo?
+#POS I
+B B B B E
+C R V D N P B B B P N N W #POS
+}
+{
+REF 
+ok :NUM
+#POS I
+C E #POS
+}
+{
+REF 
+NUM_NUM que horror!!!
+pero le sacaron al demonio o no?
+#POS I
+E B N W
+G G B B B P C W #POS
+}
+{
+REF 
+ok ;)
+y ora mucho ok? ;)
+#POS I
+C E
+R G A C W E #POS
+}
+{
+REF 
+y ni te atrevas a jugarlo porque es horrible por lo que dicen
+¿NUMk?
+#POS I
+R G G V D B B B A G G G G
+B W #POS
+}
+{
+REF 
+tienes testamento?
+si lo tienes ponelo debajo de la almuada con el escrito qe te escribi el otro dia.
+#POS I
+B B W
+B B B B B P B B B B B B B B B B B W #POS
+}
+{
+REF 
+ojala que no!
+#POS I
+G G C W #POS
+}
+{
+REF 
+di te ase algo dime ok..?
+#POS I
+G G G G N C W #POS
+}
+{
+REF
+te a vuelto molestar esa bruja...
+Me refiero ala aparicion del otro dia que m,e dijiste?
+#POS I
+P D N N G G J
+O R G G G G G G G W G G W #POS
+}
+{
+REF
+hola ;NUM
+#POS I
+C E #POS
+}
+{
+esta lluviendo...
+ke bien ^_^
+#POS B G J
+B B E #POS
+}
+{
+REF
+hola buen dia ;NUM
+como dormiste???
+yo dormi masomenos. me dio un poco de miedito...
+#POS I
+C B G E
+C C W
+C C N W O P G G P G J #POS
+}
+{
+REF 
+ok bay&lt;NUM :/
+#POS I
+C N E E #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+REF 
+oye pero. estas segura que lo voy a volver a ver...?
+No me das falsas ezperanzas?...
+#POS I
+C C W G G G V V D N D N W
+C O L R V W #POS
+}
+{
+REF 
+y de my hermano saves algo?
+#POS I
+R P D N V N W #POS
+}
+{
+REF 
+esque no puedo...
+me pongo nervioso.. 
+quiero que sea luego esque lo extraño mucho
+oye y él.. saves algo de él
+#POS I
+V D N W
+O G G W
+G G N G G B B A
+C R N W V G P N #POS
+}
+{
+REF 
+oye cuando dijiste ese dia qe me iba a volver a ver con my hermano pronto... de cuanto tiempo hablavas.. Pocos
+#POS I
+C B B B G G O G D N D G G D N R W P G G G W B #POS
+}
+{
+REF 
+;) shiiiiii.... mas gomitas que rico!!!!!!! ^u^ (se come las gomitas y sonrie) n.n
+#POS I
+E N W G G G N W E W G V B B R A W E #POS
+}
+{
+REF 
+NUM_NUM
+^u^ siiii... jijiji :NUM
+#POS I
+E
+E G J C E #POS
+}
+{
+REF 
+;) grashias!!!! (te da besitos en la mejilla y se come las gomitas) n.n
+#POS I
+E N W W P D G P B B R G V B B W E #POS
+}
+{
+REF 
+;NUM ^u^
+#POS I
+E E #POS
+}
+{
+REF 
+nooooo!!! mis gomitas no (ase pucherito, triste) 
+^^
+#POS I
+C W B B C W G N W B W
+E #POS
+}
+{
+REF 
+n.n nooo!!! yo jamas jijiji ;NUM
+#POS I
+F W F C W D N C E #POS
+}
+{
+REF 
+no no es eso...
+tu saves qe te kiero mucho&lt;NUM... esque estos dias esta leyendo todos los capitulos de "muñeco..
+#POS I
+C C N G J
+B V B B B A E J V B N G G N N N N W N W #POS
+}
+{
+REF 
+mmmmmm... no se amiguita n.n
+saves todo el dia ayer y hoy tenia mucho sueño y nose porque?...
+#POS I
+C W C N G E
+V N G G G G G G A N R N G W #POS
+}
+{
+REF 
+;NUM
+#POS I
+E #POS
+}
+{
+REF 
+yo no tengo muchas ganas de comer... Y aveces tengo antogos...
+y.. nose siento algo raro nose que es...?
+#POS I
+C C N C B B G W R G B G J
+R W N G G G N G G W #POS
+}
+{
+REF 
+si se ^_^
+#POS I
+B G E #POS
+}
+{
+REF 
+y... ke sientes tu?
+#POS I
+R W B B B W #POS
+}
+{
+REF 
+;( bueno no inporta n.n
+y.. nose me siento raro.. saves nose porque...?
+?_?
+#POS I
+E V D N E
+R W N O G G W V N G W
+W G W #POS
+}
+{
+REF 
+bien :)
+saves eh estado soñando con my hermano ultimamente...
+y.... keria saver si tu saves algo??? ;NUM
+#POS I
+B E
+V C B B B D N G J
+R W B B B B V G W E #POS
+}
+{
+REF 
+hola ;) 
+si buscalo asi...
+muñeco encadenado
+en google n.n
+#POS I
+C E
+B B G J
+N N
+P B E #POS
+}
+{
+REF
+hola aki acabando de leer "MUÑECO ENCADENADO" ;)
+#POS I
+C B B B B W B B W E #POS
+}
+{
+REF 
+hola ;NUM
+#POS I
+C E #POS
+}
+{
+REF
+necesito hablar contigo...
+responde pronto ;(
+#POS I
+B B G J
+N N E #POS
+}
+{
+good day! TAG ^_^
+#POS A N W H E #POS
+}
+{
+REF 
+^u^ thank you! ;NUM
+#POS I
+E V O W E #POS
+}
+{
+REF
+buen dia! ;NUM ^_^.
+#POS I
+B B W E E W #POS
+}
+{
+REF
+que duermas bien
+bill :NUM
+#POS I
+G G G
+N E #POS
+}
+{
+GUTE NACHT!!! TAG ;NUM
+^_^
+#POS B B W H E
+E #POS
+}
+{
+REF 
+bien y tu? :NUM
+#POS I
+B R G W E #POS
+}
+{
+good day! TAG n.n
+#POS A N W H E #POS
+}
+{
+BUEN DIA! TAG :NUM
+#POS B B W H E #POS
+}
+{
+REF
+buen dia amiga ;NUM ^_^
+#POS I
+B G G E E #POS
+}
+{
+GUTE NACHT! TAG :NUM
+#POS B B W H E #POS
+}
+{
+REF REF REF REF REF REF REF REF 
+grasias ;NUM
+#POS I I I I I I I I
+B E #POS
+}
+{
+bye! ;NUM
+#POS C W E #POS
+}
+{
+REF 
+ok ;NUM &lt;NUM
+#POS I
+C E E #POS
+}
+{
+REF 
+;NUM tu igual eres dulce !!! &lt;NUM
+#POS I
+E G G G G W E #POS
+}
+{
+REF :D
+jejeje n.n
+#POS I E
+C E #POS
+}
+{
+REF 
+n.n yo tambien :NUM &lt;NUM
+#POS I
+F W F O B E E #POS
+}
+{
+REF 
+woow! NUM_NUM
+tenemos los mismos gustos! n.n xd
+#POS I
+C W E
+B B B B W E E #POS
+}
+{
+REF 
+;NUM &lt;NUM
+#POS I
+E E #POS
+}
+{
+REF 
+mmm de frutilla con chocolate xd n.n
+#POS I
+C P G A N E E #POS
+}
+{
+REF 
+n.n jijiji ;NUM
+#POS I
+F W F C E #POS
+}
+{
+REF 
+shi!!! :NUM
+y una cocacola zero xd n.n
+#POS I
+C W E
+R G G K E E #POS
+}
+{
+REF 
+ayer aki lluvio muy fuerte y con mucho frio
+#POS I
+G G G G G R A A N #POS
+}
+{
+REF 
+mmm... una hamburgesa ^_^ xd
+#POS I
+C W G G E E #POS
+}
+{
+REF 
+bien ;) 
+con hambre xd
+#POS I
+B E
+N B E #POS
+}
+{
+REF 
+n.n como estas? ^^
+#POS I
+F W F B B W E #POS
+}
+{
+REF
+hallo! ;NUM
+#POS I
+C W E #POS
+}
+{
+REF REF 
+;NUM
+#POS I I
+E #POS
+}
+{
+bye! good night! ^-^
+#POS C W A N W E #POS
+}
+{
+GUTE NACHT! TAG :NUM
+#POS B B W H E #POS
+}
+{
+REF 
+n.n ok :NUM
+bye... gute nacht!!! ^_^
+#POS I
+F W F C E
+C W G G W E #POS
+}
+{
+REF
+hola ;NUM
+^u^ ke duermas bien!!!
+#POS I
+C E
+E B B B W #POS
+}
+{
+:'( creo que esta enojada mi amiga REF ;/
+#POS E C G G G G G I E #POS
+}
+{
+REF
+hola
+#POS I
+C #POS
+}
+{
+REF 
+asi como?
+#POS I
+G G W #POS
+}
+{
+REF 
+no nada... porque?
+#POS I
+C G J B W #POS
+}
+{
+REF 
+porque?
+#POS I
+B W #POS
+}
+{
+^u^ lupi-lupi jajalja baila el lupi-lupi :NUM
+#POS E G G G G G E #POS
+}
+{
+REF 
+bien y tu?
+#POS I
+B R G W #POS
+}
+{
+REF 
+bueno ok ;NUM
+#POS I
+N C E #POS
+}
+{
+buen dia TAG ;NUM
+#POS B G H E #POS
+}
+{
+REF
+grasias por la foto :NUM
+te kiero mucho n.n
+#POS I
+B G G G E
+B B A E #POS
+}
+{
+ok bye!
+good night! ;NUM
+#POS C C W
+A N W E #POS
+}
+{
+sweet sinplemente sweet!!! ^u^
+#POS A N A W E #POS
+}
+{
+so cute my friend
+TAG_kaulitz :NUM
+#POS R A D N
+B E #POS
+}
+{
+bay TAG despues vuelvo n.n
+#POS N H G G E #POS
+}
+{
+^u^ ke tiernita es mi amiga oriana n.n &lt;NUM
+#POS E B B B B B B E E #POS
+}
+{
+REF 
+yo igual te kiero :NUM
+linda ^u^
+#POS I
+C G G G E
+B E #POS
+}
+{
+REF 
+ok :NUM &lt;NUM
+#POS I
+C E E #POS
+}
+{
+REF 
+que me kede con mis amigitas y muchas cosas mas me dijiste :(
+Y yo solo te kiero a vos &lt;NUM n.n
+#POS I
+V O R A B B R C B B O R E
+R D N P G D N E E #POS
+}
+{
+REF 
+shi !!! ;NUM
+#POS I
+C W E #POS
+}
+{
+REF 
+saves cuando me dijiste eso orrible...
+senti como una espina en mi corazon, como un dolor.. pero despues paso
+#POS I
+V V O R G G J
+G G G G G G B W B B B W G G N #POS
+}
+{
+REF 
+si lo sé ;)
+yo confio en vos oh me salio medio arguentino n.n
+#POS I
+B B B E
+C N P G C O G G G E #POS
+}
+{
+REF 
+n.n linda grasias ;NUM
+#POS I
+F W F B B E #POS
+}
+{
+REF 
+n.n grasias :')
+tkm
+#POS I
+F W F N E
+C #POS
+}
+{
+REF 
+no devi decir eso de la maria :(
+#POS I
+C N N G P B B E #POS
+}
+{
+REF 
+em mi vida hermosa lo de lesviana no te lo dije a ti.. era para la maria... pero te juro qe me arepiento!!!
+#POS I
+O D N B B B B D N V V D N W N G G G W L P G G O R W #POS
+}
+{
+REF 
+perdon por aserte llorar 
+yo jamas volveria a aserte daño de verdad &lt;NUM
+#POS I
+B G G G
+D N V D N P P B E #POS
+}
+{
+REF 
+si. siempre ;NUM
+n.n
+#POS I
+B W G E
+F W F #POS
+}
+{
+REF 
+n.n esque me dio un pokito de ravia n.n 
+por esho..
+#POS I
+F W F V O P G G P G E
+G G W #POS
+}
+{
+REF 
+TE KIERO MUCHO &lt;NUM
+NUNCA LO OLVIDES!!!
+#POS I
+B B B E
+B B B W #POS
+}
+{
+REF 
+si lo sé...
+perdoname..
+te prometo qe no lo voy a volver aser... ;(
+#POS I
+B B G J
+N W
+B B B C N V D N N W E #POS
+}
+{
+REF 
+grasias... te kiero mucho..
+esque no se qe me paso.. yo no soy asi de verdad!!! ;(
+
+te kelo muchisimo &lt;NUM
+#POS I
+G W G G A W
+V D N V O N W C D N G G G W E
+
+B B B E #POS
+}
+{
+:/
+#POS E #POS
+}
+{
+perdon!!! 
+es que este dolor que llevo me ase decir cosas que no kiero decir... ;(
+#POS B W
+G G G G G G O G G G G C N G J E #POS
+}
+{
+REF
+estoy muy destrosado de verdad no te miento... perdoname
+no saves cuanto me arepiento! te kiero mucho ;(
+#POS I
+G G G P V D N G W N
+C V V O C W G G A E #POS
+}
+{
+no puedo mas con este dolor...
+perdon por aser daño a quien mas quiero ;'(
+#POS D N G G G G J
+B G G V D B B B E #POS
+}
+{
+REF
+perdoname!!! aunqe sea por ultima vez te lo ruego... ;(
+#POS I
+N W B B G G G G G G J E #POS
+}
+{
+me siento muy mal...
+por la culpa de mi ravia voy a perder a mi oriana ;'( 
+perdon!!!
+#POS O G G G J
+G G G P D N V D G D G B E
+B W #POS
+}
+{
+REF 
+perdoname te lo ruego!!! ;'( estoy muy arepentido te lo juro!! ;(
+#POS I
+B B B B W E G G G G G G W E #POS
+}
+{
+REF REF 
+no te reclamou nada ;'(
+#POS I I
+C N G G E #POS
+}
+{
+REF
+respondeme!!! ;'(
+#POS I
+N W E #POS
+}
+{
+^u^ ñeñeñekkkjuhyu!!!
+#POS E N W #POS
+}
+{
+REF
+hola amiguita..  me siento muy mal.. no se que aser... ;'(
+#POS I
+C C W O G G G W C G G G J E #POS
+}
+{
+:'/
+#POS E #POS
+}
+{
+TwT
+#POS N #POS
+}
+{
+REF
+hola :'(
+#POS I
+C E #POS
+}
+{
+estoy muy triste... no se que aser... ;'(
+#POS G G G W C G G G J E #POS
+}
+{
+REF 
+siempre estaran juntos
+por que se amaran siempre y para siempre... &lt;NUM
+#POS I
+B B B
+G G G G G G G G J E #POS
+}
+{
+sorry ;'(
+#POS A E #POS
+}
+{
+;'((((((((
+#POS E #POS
+}
+{
+;'( pobre de mi...
+#POS E B B G J #POS
+}
+{
+buenos dias TAG ;NUM
+#POS B N H E #POS
+}
+{
+creo que voy a llorar ;'(...
+#POS C G V D G G J #POS
+}
+{
+jamas pense que iva decirlo...
+pero no se como pude se amigo de una lesviana!!! &gt;&lt; 
+ke asco!!!
+#POS B B B G G J
+F D N V G G N P G G W E J
+B B W #POS
+}
+{
+ui! maldita amargada!!! &gt;&lt;
+#POS N W G G W E E #POS
+}
+{
+REF REF 
+;@ creo que voy a explotar!!! &gt;&lt;
+#POS I I
+W P B B V D N W E J #POS
+}
+{
+REF 
+;NUM bay ahora shi! n.n
+#POS I
+E N G G W E #POS
+}
+{
+Güte Nacht!!! TAG ;NUM
+#POS B B W H E #POS
+}
+{
+REF 
+^u^
+#POS I
+E #POS
+}
+{
+REF 
+n.n ok bay! ;NUM
+#POS I
+F W F A N W E #POS
+}
+{
+REF
+duerme bien ;NUM
+#POS I
+C C E #POS
+}
+{
+REF
+hola :NUM
+#POS I
+C E #POS
+}
+{
+ok bay! TAG :NUM
+#POS C N W H E #POS
+}
+{
+REF 
+hermoso!!! grasias ;)
+#POS I
+B W V E #POS
+}
+{
+REF 
+au :(
+#POS I
+G E #POS
+}
+{
+REF 
+ok
+#POS I
+C #POS
+}
+{
+REF 
+te cuento algo aki en mi casa la puerta de la cocina se abre sola..
+y me da miedo x q eb mi cuarto veo alguien
+#POS I
+B B B B P D B B B P B B G G G W
+R O D B G G G G G G G #POS
+}
+{
+REF 
+si yo igual la ví y tambien me dio miedo
+no pude dormir... ;s
+#POS I
+B C G G G R V O G G
+C N G W V #POS
+}
+{
+REF 
+no ninguna
+la que me dio miedito fue 
+"mama" es una pelicula de terror :S
+#POS I
+C N
+B V O P N G
+W N W G G G P N E #POS
+}
+{
+REF 
+me gusta las peliculas de: terror, de vampiros y de amor n.n
+#POS I
+O V B B B W N W P B R P G E #POS
+}
+{
+REF 
+yo ahora estoy viendo 
+"la reina del sur"
+y despues veo los simpsons ^u^
+#POS I
+C G G G
+W B B B G W
+R G G B B E #POS
+}
+{
+REF 
+aki viendo novela y tu? ;NUM
+#POS I
+B B B R G W E #POS
+}
+{
+REF 
+mmmm pillina ^u^
+#POS I
+C C E #POS
+}
+{
+REF
+hola mi tierna amiga n.n
+#POS I
+C O V B E #POS
+}
+{
+ke tierna my amiguita oriana ^u^
+#POS B V D G B E #POS
+}
+{
+good bye! :NUM
+#POS A C W E #POS
+}
+{
+REF 
+n.n me tengo que ir marato hablamos
+my linda ;NUM
+#POS I
+F W F O B B G G V
+D B E #POS
+}
+{
+REF 
+tu igual me flechaste n.n &lt;NUM
+#POS I
+G G O R E E #POS
+}
+{
+REF 
+n.n &lt;NUM
+#POS I
+F W F E #POS
+}
+{
+REF 
+leiste my nota?
+"ami no me da verguenza decir qe me enamore de la oriana!! ;NUM
+#POS I
+V D N W
+W G C O D N N V O V P G B W E #POS
+}
+{
+REF 
+shi grasias n.n 
+te kiero mucho ;)
+#POS I
+C C E
+B B A E #POS
+}
+{
+a mi no me da verguenza decir que me enamore de... la oriana! &lt;NUM ;(
+#POS D N C O D N G G O V P J G B W E E #POS
+}
+{
+REF 
+bueno perdoname solo lo dije si kerer :(
+y si soy fiel yo amo a alguien que me da verguenza decir.. ;/
+#POS I
+N N N P B B B E
+R G G G C C D B V O D N N W E #POS
+}
+{
+REF 
+:(
+#POS I
+E #POS
+}
+{
+n.n estoy muy feliz.. 
+aunqe... bueno un poco triste. ;x
+#POS F W F B G G W
+G W N G G G W W E #POS
+}
+{
+bay! :(
+#POS N W E #POS
+}
+{
+ja es como decir... porque pas mujeres son tan infieles.. pprfavor
+no soy machista pero.. si qe se pasan!!!!
+#POS B B B G J G G G N N N W G
+D N N R W G G G G W #POS
+}
+{
+REF 
+perdon????
+yo no ofendo alas mujeres pero es mejor que no me ofendas a mi...
+¿ok? u.u
+#POS I
+C W
+C C N R B F G G G C O V D G J
+B W E #POS
+}
+{
+REF REF REF 
+bueno ya ok!!!
+#POS I I I
+V O C W #POS
+}
+{
+u.u si como no...
+#POS O W O G V C W #POS
+}
+{
+REF REF REF 
+no es una trampa para descubrir algo de mi?? ?_?
+#POS I I I
+C N G G G G G G G W W G W #POS
+}
+{
+ke miercale esta pasando no entiendo nada NUM_NUM
+#POS B B B B D N G E #POS
+}
+{
+REF 
+de que no se que cosa con esa tal miku
+bueno algo asi NUM_NUM
+#POS I
+P V D N G G G G G B
+N G G E #POS
+}
+{
+REF REF 
+no entiendo NUM_NUM
+tienes dos cuentas de miku o ke? NUM_NUM
+#POS I I
+C N E
+B B B P B P B W E #POS
+}
+{
+REF 
+ai masomenos..
+casi me desmayo con lo ke me dijiste NUM_NUM
+#POS I
+C C W
+B O R A P V O R E #POS
+}
+{
+REF REF 
+kkkéee??? NUM_NUM
+enserio no eres tu oriana porqe ya me esta dando calorfrios! NUM_NUM
+#POS I I
+B W E
+C C N G B B O O G G G W E #POS
+}
+{
+REF
+oye tu hablas con esa tal miku?? NUM_NUM
+y kien es? porqe ami me hablo por mensaje directo ...
+#POS I
+C G G G G G B W E
+R B B W G G O V G G G J #POS
+}
+{
+REF REF 
+??? NUM_NUM. ke onda??
+#POS I I
+W E W G G W #POS
+}
+{
+ßay!
+#POS C W #POS
+}
+{
+ßill &amp; TNUMΠ &lt;NUM
+#POS B F B E #POS
+}
+{
+bay ! TAG...
+#POS N W H W #POS
+}
+{
+REF
+bay ! ;)
+#POS I
+N W E #POS
+}
+{
+:( bay gute nacht a todas n.n
+#POS E N G G D N E #POS
+}
+{
+^u^ shi shi!!! me gustas!!! 
+eh eh eh!! 
+me prendes...
+#POS E G G W O V W
+C C C W
+O V W #POS
+}
+{
+REF 
+hóla ^u^ 
+me dejaste solito endenante ;'(..
+#POS I
+C E
+O R V N E W #POS
+}
+{
+REF 
+porfin ;') hola..
+#POS I
+G E C W #POS
+}
+{
+;((
+#POS E #POS
+}
+{
+:( mejor me boy ya que la oriana no me T habla T_T BAY TAG
+#POS E V O N C B B B C O G G E B H #POS
+}
+{
+REF
+hola T_T
+#POS I
+C E #POS
+}
+{
+;/ estoy muy mal 
+T_T
+#POS E G G G
+E #POS
+}
+{
+x_x pobre de mi...
+#POS E B B G J #POS
+}
+{
+au! :(
+#POS C W E #POS
+}
+{
+REF
+hola n.n
+#POS I
+C E #POS
+}
+{
+REF 
+no nadie es solo que queria tener mas seguidores n.n
+#POS I
+C N V A G G G G G E #POS
+}
+{
+follow me :(
+#POS V O E #POS
+}
+{
+follow me ;NUM
+#POS V O E #POS
+}
+{
+REF
+hola ;) buen dia n.n
+#POS I
+C E B G E #POS
+}
+{
+Güte Nacht! TAG :NUM
+#POS B B W H E #POS
+}
+{
+REF 
+bay &lt;NUM
+#POS I
+N E #POS
+}
+{
+REF 
+shi n.n &lt;NUM
+y tu con tu oshito ;NUM
+bay
+#POS I
+C E E
+R G G G G E
+N #POS
+}
+{
+REF 
+shi n. &lt;NUM
+bueno mi oshita ninda me tengo que ir 
+mañana hablamos bay! N.n
+#POS I
+G F W E
+N G G G O B B G
+N V N W E #POS
+}
+{
+REF 
+shi n.n 
+y tu solo mia igual my oshita n.n
+#POS I
+C E
+R D N V G D N E #POS
+}
+{
+REF 
+shi ;) sienpre n.n &lt;NUM
+#POS I
+G E N E E #POS
+}
+{
+REF 
+shi n.n
+#POS I
+C E #POS
+}
+{
+REF 
+n.n mi mami chula ;NUM
+#POS I
+F W F D N B E #POS
+}
+{
+REF
+hola
+#POS I
+C #POS
+}
+{
+REF 
+n.n (sonrojadito) n_n
+#POS I
+F W F W N W E #POS
+}
+{
+REF REF 
+bueno tal vez.. pero no creo n.n
+#POS I I
+N G G W F D N E #POS
+}
+{
+REF 
+oh grasias n.n :$
+#POS I
+C C E E E #POS
+}
+{
+REF REF 
+yo se que bill jamas aria eso xd
+#POS I I
+C G G N N B C E #POS
+}
+{
+REF 
+jijiji n.n si pero soy muy joven para ser tio xD
+#POS I
+C E B F A G G G G G E #POS
+}
+{
+REF 
+si se n.n 
+no seria muy bueno pero igual
+o.. mejor no NUM_NUM
+#POS I
+B G E
+C G G N R G
+C W G C E #POS
+}
+{
+REF 
+oye ya viste la foto esa de ria que esta enbarazada xd..
+#POS I
+C C B B B G P G G G G E W #POS
+}
+{
+REF 
+shii !!! :(
+pero bueno n.n
+#POS I
+C W E
+R A E #POS
+}
+{
+REF 
+bueno la verdad yo tampoco.. pero no podemos aser nada (ase pucherito) ;(
+#POS I
+B B B C C W F D N N G W G N W E #POS
+}
+{
+REF 
+yo solo kiero que tom sea feliz
+y si lo es con ella..
+bueno nada podemos aser...
+#POS I
+D A G G B B B
+R G G G G B W
+N G G G J #POS
+}
+{
+REF 
+y porque no??
+?_?
+#POS I
+R A C W
+W G W #POS
+}
+{
+yo y todos estaremos con el :NUM
+#POS C R N G G G E #POS
+}
+{
+ojala que tom no se equiboque con ria...
+pobre de tomi.. yo se que el podra con todo lo malo que le pase o le hagan &lt;NUM :)
+#POS G G B D N G G G J
+B P B W O G G G G N N P G G G G P B B E E #POS
+}
+{
+REF 
+si se, estoy lesiando nada mas xd
+pero igual si tom la eliguio..bueno ahi qe aseptarla aunq sea un poco feita
+#POS I
+B B W B B B B E
+G G G B B B W N G G G B B B B B #POS
+}
+{
+pobre ria xD
+n.n
+#POS B G E
+F W F #POS
+}
+{
+;/
+#POS E #POS
+}
+{
+REF
+hola de nuevo n.n
+#POS I
+C P A E #POS
+}
+{
+REF 
+holaa! :NUM
+#POS I
+C W E #POS
+}
+{
+n_n
+#POS E #POS
+}
+{
+REF
+hola... :NUM
+#POS I
+C W E #POS
+}
+{
+bay TAG despues vuelvo n.n
+#POS N H G G E #POS
+}
+{
+hola TAG n.n
+#POS C H E #POS
+}
+{
+REF 
+um! ;( bueno...
+#POS I
+C W E N W #POS
+}
+{
+bay! ;)
+#POS N W E #POS
+}
+{
+REF
+te keria preguntar si has sentido algo? ?_?
+#POS I
+B B B B V B B W W G W #POS
+}
+{
+hallo TAG ;NUM
+#POS C H E #POS
+}
+{
+REF 
+oye tu no saves por ahy de algo para poder bajar musica?
+esqe no se donde bajar nusica :(
+#POS I
+C P D V G G P G G G G G W
+V D N V G G E #POS
+}
+{
+REF
+oye y es verdad que eres un poco emo? ;NUM
+#POS I
+C R G G G G G G A W E #POS
+}
+{
+bueno me voy por un rato n.n bye
+#POS V O R G G G E C #POS
+}
+{
+NUM_NUM
+#POS K #POS
+}
+{
+REF 
+te mando vientecito! xD
+SI?! &lt;NUM
+#POS I
+B B B W E
+B W E #POS
+}
+{
+REF 
+y no hay viento por aya? ?_?
+#POS I
+R D N P G G W W G W #POS
+}
+{
+REF 
+um no se como unos NUM grados, es que ahy viento entonces no hace tanto calor..
+#POS I
+C C N V B K N W G G C B B C N G G W #POS
+}
+{
+menosmal ke hay viento! n.n
+#POS B B B B W E #POS
+}
+{
+REF 
+vaya!!! aki igual ahy sol pero yo no tengo calor
+n.n
+#POS I
+B W B B C B R O D N G
+F W F #POS
+}
+{
+REF 
+n.n hola ke estas haciendo ahora? ;NUM
+#POS I
+F W F C B B B B W E #POS
+}
+{
+REF
+HNUMla! '#_#
+out!! ;NUM
+#POS I
+C W W H H
+T W E #POS
+}
+{
+:( y yo ke no puedo salir al sol n.n
+#POS E R O V D N G G G E #POS
+}
+{
+n.n ke lindo dia! :NUM
+#POS F W F B B B W E #POS
+}
+{
+REF 
+bueno n.n
+#POS I
+N E #POS
+}
+{
+REF 
+mmmm no nada.. solo lo dije n.n
+y oye no me respondiste el mensaje directo...
+#POS I
+C C N W N P B E
+R C C O R G G G J #POS
+}
+{
+REF 
+bien :NUM
+oye asi que te gusta bill kaulitz? ke bien
+si supieras mmmm te desmayarias n.n ;NUM
+#POS I
+B E
+C G G P V N N W G G
+B B C B B E E #POS
+}
+{
+REF 
+;NUM ninda ermoxa n.n &lt;NUM
+oriana
+#POS I
+E G G E E
+B #POS
+}
+{
+n.n sweet oriana &lt;NUM ;NUM
+#POS F W F A B E E #POS
+}
+{
+REF 
+te kiero mucho amiga &lt;NUM ;)
+#POS I
+B B A N E E #POS
+}
+{
+REF
+hola...
+#POS I
+C W #POS
+}
+{
+bay!!! ^^
+#POS N W E #POS
+}
+{
+ich liebe dich... TAG my amiguita... n.n
+#POS G G G J H D G J E #POS
+}
+{
+biba!!! las TAG !!!
+bueno a todas... mas la oriana n.n
+#POS B W N N W
+V D N W G G B E #POS
+}
+{
+REF 
+por que yo no podre dormir muy bien...
+#POS I
+G G C C N N G G J #POS
+}
+{
+GUTE NACHT! TAG
+ojala ustedes puedan dormir bien... porque yo no creo mucho...
+#POS B B W H
+G G G G G J V O D N A W #POS
+}
+{
+espero dormir bien... despues de esto... no creo :'(
+#POS B B G J G G G W C N E #POS
+}
+{
+REF 
+para my la unica eres tu! ;'(
+#POS I
+G D B G G G W E #POS
+}
+{
+REF REF 
+te kiero micho nunca jamas lo olvides! &lt;NUM ;(
+#POS I I
+B B B B B B B W E E #POS
+}
+{
+por que ami... por que no puedo tener verdaderas amigas... tan malo soy... ;'(
+#POS G G G J G G D N N G G W N N G W E #POS
+}
+{
+me siento peor... ;'(
+#POS O G G J E #POS
+}
+{
+REF 
+pero ami si me inporta..  porque eres.asi dime.?
+#POS I
+G G G O G W G G W G N W #POS
+}
+{
+REF 
+porque eres asi conmigo...
+dime ke te echo yo? 
+;(
+#POS I
+B B G G J
+N G B B C W
+E #POS
+}
+{
+REF REF 
+por que bay?
+#POS I I
+G G N W #POS
+}
+{
+REF 
+ok grasias ;'NUM
+#POS I
+C B W W K #POS
+}
+{
+REF 
+grasias... de verdad muchas grasias... no se ke decir...
+#POS I
+G W P B C G W C N G G J #POS
+}
+{
+REF 
+si. saves cada dia ke pasa lo estraño mas... y me duele mas...
+#POS I
+B W V B G G G G G G J R O G G J #POS
+}
+{
+REF 
+hola... como estas?
+#POS I
+C W C G W #POS
+}
+{
+REF 
+es ke me siento solo...
+siento como si me faltara una parte de my...
+#POS I
+G G O G A W
+B B B O G G N P D W #POS
+}
+{
+REF 
+grasias amiga...
+#POS I
+B B W #POS
+}
+{
+me siento muy triste...
+no se ke aser ;'(
+#POS O G G G J
+C N G G E #POS
+}
+{
+me siento tan mal... ke .... :'(
+#POS O G N G J G W E #POS
+}
+{
+REF
+hola :NUM
+#POS I
+C E #POS
+}
+{
+hallo!!! :NUM
+#POS C W E #POS
+}
+{
+Güte Nacht! TAG :NUM
+#POS B B W H E #POS
+}
+{
+my oshito se llama thomy n.n
+#POS D A N N N E #POS
+}
+{
+kiero gomitas ;( n.n
+#POS B B E E #POS
+}
+{
+REF
+mensaje directo!
+#POS I
+G G W #POS
+}
+{
+REF 
+yo tampoco
+aunque... 
+no no nada ;)
+#POS I
+C C
+G J
+C C N E #POS
+}
+{
+REF REF 
+no nadien tiene la culpa my niña linda ;)
+#POS I I
+C N G G G D N B E #POS
+}
+{
+REF REF 
+si se y grasias... &lt;NUM
+te koero mucho y no kiero perderte.. y tampoco peliar contigo ;NUM
+&lt;NUM
+#POS I I
+B G R G W E
+B B A R D N N W R G G G E
+E #POS
+}
+{
+por eso jure no enamorarme de nadien...
+;(
+#POS G G G C N P G J
+E #POS
+}
+{
+REF REF 
+yo igual te entrege el mio... y perdon por aserte daño no saves como estoy ahora me siento mal
+#POS I I
+C G G G G G J R G G G P D V B B G O G G #POS
+}
+{
+;'( estoy apunto de llorar
+my unico conzuelo es my hermano... ;(
+#POS E G G G G
+D N N V D N W E #POS
+}
+{
+REF 
+te burlas verdad...
+pero no saves cuanto me duele :'(
+saves algo... estoy muy mal de verdad...
+#POS I
+B B B W
+F D V V O G E
+V G J G G G G G J #POS
+}
+{
+escuchando a "kit-i NUMsen" :'(
+#POS G D W N K W E #POS
+}
+{
+eso me pasa por...
+kerer a alguien ke no conosco bien :(
+#POS V O G G J
+B D B B C N N E #POS
+}
+{
+REF 
+si pero eran ositos de amistad!!!!
+;'( bueno si no me crees... :(
+#POS I
+B G B B P B W
+E N V D O G J E #POS
+}
+{
+me boy 
+triste pero me boy...
+;'(
+#POS O N
+B V O N W
+E #POS
+}
+{
+bueno asi es la vida,
+la mia sigue, con dolor pero sigue...
+#POS N G G G N W
+B B B W N N G G J #POS
+}
+{
+:'(.
+#POS E W #POS
+}
+{
+REF
+pero my kariño por  ty es distinto, muy distinto...
+#POS I
+F D N G G G N W G G J #POS
+}
+{
+NO KIERO ENAMORARME
+POR QUE YA AMO A ALGUIEN
+MY HERMANO, AUNQUE SEA DISTINTO EL AMOR
+YO LO JURE AUNQUE ME DUELA... TwT
+#POS C C C
+G G C C D B
+D N W B B B B B
+C B B B O G W V #POS
+}
+{
+REF 
+yo... estoy mal 
+esque yo te kiero como amiga pero ala misma vez te kiero como algo mas... Y no se ke aser
+#POS I
+C W G G
+W C B B B B G G G G G G G G G W R D N B B #POS
+}
+{
+TwT
+#POS N #POS
+}
+{
+REF 
+y.. ke ases
+#POS I
+R W G G #POS
+}
+{
+"no te enamores de kien no te merese"
+dise my abuela...
+#POS W C N G P B C N N W
+V D N W #POS
+}
+{
+&lt;/NUM creo.. que me siento un pokito mal...
+#POS E C W V O G G G G J #POS
+}
+{
+u.u bueno me aburri 
+me boy! -_-
+#POS O W O V O V
+O N W E #POS
+}
+{
+REF
+hola n.n
+#POS I
+C E #POS
+}
+{
+u.u
+#POS O W O #POS
+}
+{
+u.u no me gusta enojarme pero hay cosas que NO me gustan!!!
+#POS O W O V O V N P G G G C O V W #POS
+}
+{
+u.u si yo fuera ella...
+pero no lo soy! -_-
+#POS O W O V O G G J
+F D N N W E #POS
+}
+{
+REF 
+hola
+#POS I
+C #POS
+}
+{
+esto solo me pasa ami...  ;'(((
+#POS B A O G G J E #POS
+}
+{
+ja me deja asi para hablar con su "amiguito" &gt;&lt; -_-
+#POS B O G G G G G G W N W E J E #POS
+}
+{
+REF 
+yo igual te kiero mucho &lt;NUM
+#POS I
+C G G G A E #POS
+}
+{
+REF 
+yo?? cuando y con kien?? NUM_NUM
+#POS I
+C W B R A B W E #POS
+}
+{
+odio admitirlo pero estoy MUY celoso!!! &gt;&lt;
+#POS C C R G G G W E J #POS
+}
+{
+REF 
+de nada n.n
+#POS I
+P G E #POS
+}
+{
+REF
+hola grasias por responderme!! &gt;&lt;
+;'(
+#POS I
+C B G G W E E
+E #POS
+}
+{
+REF REF 
+ke te dije oriana ke no hables con ella
+tu saves porque el otro dia te lo dije ;@
+#POS I I
+B B B B B C N N B
+B V B B B G G G G W P #POS
+}
+{
+:( cry!!!!
+#POS E V W #POS
+}
+{
+au! :(
+#POS C W E #POS
+}
+{
+REF
+respondeme ;(
+#POS I
+N E #POS
+}
+{
+n.n
+#POS F W F #POS
+}
+{
+REF 
+hola;)
+#POS I
+C E #POS
+}
+{
+:'(
+#POS E #POS
+}
+{
+REF
+hola amiguita linda n.n
+#POS I
+C C B E #POS
+}
+{
+hello TAG
+#POS C H #POS
+}
+{
+gute nacht! TAG
+#POS B B W H #POS
+}
+{
+REF 
+:)
+#POS I
+E #POS
+}
+{
+REF 
+shi ;')
+#POS I
+C E #POS
+}
+{
+:((((((((;(((
+#POS E E #POS
+}
+{
+REF 
+como? ke cosas?
+#POS I
+C W G G W #POS
+}
+{
+REF 
+pero como es,?
+sientes algo? o como
+#POS I
+G G G W
+B B W G G #POS
+}
+{
+REF 
+pero... tu como saves todo eso?
+#POS I
+G W G G V N N W #POS
+}
+{
+REF 
+es que es increible lo que esta pasando...
+#POS I
+G G G G G G G G J #POS
+}
+{
+REF 
+si! ;)
+#POS I
+B W E #POS
+}
+{
+REF 
+si menosmal me respondiste ;)
+#POS I
+B V O R E #POS
+}
+{
+REF 
+porfin ya esta muy mal ;(
+#POS I
+V O B G G E #POS
+}
+{
+por fin!!!
+#POS G G W #POS
+}
+{
+REF 
+de donde eres tu?
+#POS I
+P B B B W #POS
+}
+{
+;((((((((((
+#POS E #POS
+}
+{
+REF
+:((( please!!!
+#POS I
+E V W #POS
+}
+{
+REF 
+es que no me responde! ;(
+#POS I
+G G C O V W E #POS
+}
+{
+TwT
+#POS N #POS
+}
+{
+REF
+:'( no me dejes asi respondeme!!!
+#POS I
+E C O V G G W #POS
+}
+{
+:((((
+#POS E #POS
+}
+{
+:( ke ago
+#POS E V R #POS
+}
+{
+:(((!!!
+#POS E W #POS
+}
+{
+;(
+#POS E #POS
+}
+{
+ORIANA!!!! :'(
+#POS B W E #POS
+}
+{
+porfavor
+so bad!!!
+ich.... :(
+#POS G
+R A W
+C W E #POS
+}
+{
+ayudenme ;(
+#POS N E #POS
+}
+{
+oriana me estoy muriendo porfavor!!!!
+;(
+#POS B O G G G W
+E #POS
+}
+{
+ORIANA responde!!!!!! ;'(
+#POS B B W E #POS
+}
+{
+estoy llorando ;'(
+#POS B B E #POS
+}
+{
+;(((( au! ;(((((
+#POS E C W E #POS
+}
+{
+me estoy muriendo!!! ;"(
+#POS O G G W E #POS
+}
+{
+REF
+te lo suplico!!! :(
+;'(((
+#POS I
+B B B W E
+E #POS
+}
+{
+porfavor por que no respondes!!!! ;'(
+#POS G G G C N W E #POS
+}
+{
+;'((!(((
+#POS C W W #POS
+}
+{
+porfavor !!.! ;'(((((((!!!!!
+#POS G G G W #POS
+}
+{
+REF
+porfavor!!!!!! ;'(
+#POS I
+G W E #POS
+}
+{
+porfavor oriana respondeme!!!! ;(((
+#POS G B B W E #POS
+}
+{
+REF
+porfavor te suplico respondeme!!!!!!!!
+#POS I
+G G G N W #POS
+}
+{
+REF
+porfavor respondeme!!!!
+#POS I
+G G W #POS
+}
+{
+porfavor!!! :(
+#POS G W E #POS
+}
+{
+REF
+porfavor responde ;(
+#POS I
+G G E #POS
+}
+{
+REF 
+si si lo ley es increible quede NUM_NUM
+#POS I
+B B B B B B B E #POS
+}
+{
+:'(
+#POS E #POS
+}
+{
+REF 
+ok ;)
+#POS I
+C E #POS
+}
+{
+REF 
+pero see que el esta bien algo me lo dice ;)
+#POS I
+L V B B B B G O V N E #POS
+}
+{
+REF 
+bueno ahora el esta lejos no se donde
+y yo aki lejos tambien
+pero como somos gemelos siento lo mismo qe el
+#POS I
+N G G G G D N V
+R O B B B
+G G G G G G G G G #POS
+}
+{
+REF 
+alguien nos separo y dela peor forma
+CON ENBRUJO
+#POS I
+B B B R G G G
+N C #POS
+}
+{
+REF 
+ah ke bien mi amiga :)
+yo no yo solo uno
+somos gemelos ;)
+#POS I
+C B B G G E
+C C D A B
+B B E #POS
+}
+{
+REF 
+de nada ;) &lt;NUM
+#POS I
+P G E E #POS
+}
+{
+REF 
+ke bien mi niña ;)
+#POS I
+B B B B E #POS
+}
+{
+:( no kiero ke llores oriana te kiero muchooo!!!!
+&lt;NUM
+#POS E C N G G B B B A W
+E #POS
+}
+{
+REF 
+yo igual :(
+no llores... te kelo mucho mi niña ;) 
+animo ya! &lt;NUM
+#POS I
+C G E
+C N W P N A D N E
+V C W E #POS
+}
+{
+REF 
+shi ke penita :(
+y no tienes mas hermanos?
+#POS I
+G G G E
+R D N G N W #POS
+}
+{
+REF 
+igual ke yo.... yo me corte no tan profundo pero igual estava mal.. hasta que fuy ala iglesia ;)
+#POS I
+G G C W O O V D N N R G G G W G G G G G E #POS
+}
+{
+REF
+si :)
+#POS I
+B E #POS
+}
+{
+REF 
+cuando perdiste a tu hermano? ;(
+#POS I
+B V D N N W E #POS
+}
+{
+REF 
+yo me moriria si le pasara algo...
+#POS I
+C O R B B B G J #POS
+}
+{
+REF 
+grasias &lt;NUM yo igual te kiero! ;)
+#POS I
+B E C G G G W E #POS
+}
+{
+REF 
+si yo lo sé
+el es unico ke me acompaña en my dolor...
+ya ke my "familia" no me escucha...
+#POS I
+B C C G
+G G G V O G P D N W
+C V D W N W C O G J #POS
+}
+{
+REF 
+grasias ;) por eso te kiero mucho
+eres muy especial para my
+#POS I
+B E G G G G A
+G G G G D #POS
+}
+{
+..... see que my señor jesus me ayudara como siempre...
+aun tengo confianza... ;')
+#POS W V G D G B O G G G J
+G G G W E #POS
+}
+{
+REF 
+saves lo extraño mucho...
+y lo kiero mucho... ;'(
+#POS I
+V V R A W
+R P B A W E #POS
+}
+{
+Me siento mal... no puedo.... me ase daño solo de recordarlo
+#POS O G G W D N W O G D N P G #POS
+}
+{
+REF 
+pero no puedo dejarlo...
+ahy alguien ke kiero mucho en my pasado.... my hermano ;'(
+#POS I
+F D N G J
+C B B B A P D N W D N E #POS
+}
+{
+no puedo dejar el pasado.... aunque me duela mucho :'(
+#POS D N N G G W V O R A E #POS
+}
+{
+^^ ke tiernito soy...
+#POS E B B G W #POS
+}
+{
+:(
+#POS E #POS
+}
+{
+n.n sweet
+#POS F W F A #POS
+}
+{
+u.u
+#POS O W O #POS
+}
+{
+REF 
+^_^ thank you!!! 
+te kiegro mucho
+#POS I
+E V O W
+B B A #POS
+}
+{
+REF 
+n.n (muy sonrojado) ^^
+#POS I
+F W F W G G W E #POS
+}
+{
+REF 
+n.n yo igual ;)
+#POS I
+F W F O G E #POS
+}
+{
+REF 
+saves siempre veo tu foto
+y anoche soñe contigo n.n
+#POS I
+V B G G G
+R G G G E #POS
+}
+{
+REF 
+ah! menosmal porque ya me estava asustando n.n
+#POS I
+C W G V O O G G E #POS
+}
+{
+REF 
+es ke penshe ke te avias enojado conmigo :(
+#POS I
+G G G G G G G G E #POS
+}
+{
+REF 
+es mi idea pero te siento rara
+pasa o paso algo? =/
+#POS I
+G D N P B B B
+G G B B W E #POS
+}
+{
+:'(
+#POS E #POS
+}
+{
+REF 
+grasias igual? de ke mi niña
+#POS I
+B B W G G G G #POS
+}
+{
+NUM;)
+#POS K E #POS
+}
+{
+Güte Nacht!!! TAG
+#POS B B W H #POS
+}
+{
+REF 
+si cute :NUM
+#POS I
+B A E #POS
+}
+{
+REF 
+n.n ok bay
+y que estes bien =)
+#POS I
+F W F A N
+R G B B E #POS
+}
+{
+good bay! TAG
+#POS A N W H #POS
+}
+{
+REF 
+me tengo que ir marato o mañana hablamos ;) n.n
+#POS I
+O B B G G P N V E E #POS
+}
+{
+REF 
+si se amiga n.n
+#POS I
+B G G E #POS
+}
+{
+REF
+#POS I #POS
+}
+{
+REF 
+si :)
+oye y.. nosotros ..somos amigos o algo mas lo digo porqe tu me dices amor? n.n
+#POS I
+B E
+C R W N W G N P G G G G G G O V G W E #POS
+}
+{
+REF 
+emo friend la foto
+#POS I
+A N G G #POS
+}
+{
+REF 
+emo friend
+#POS I
+A N #POS
+}
+{
+REF 
+si ;)
+#POS I
+B E #POS
+}
+{
+follow me :(
++_+
+#POS V O E
+E #POS
+}
+{
+OK BAY! :)
+#POS A N W E #POS
+}
+{
+REF  TU Y YO URL
+#POS I B R O U #POS
+}
+{
+REF 
+yo jamas me ire =)
+#POS I
+D N O V E #POS
+}
+{
+REF  
+grasias linda te kiero mucho &lt;NUM
+#POS I
+B B B B A E #POS
+}
+{
+REF  y yo de tyyy
+&lt;NUM
+#POS I R O P C
+E #POS
+}
+{
+REF  grasias por seguirme    te kiero
+#POS I B G G G G #POS
+}
+{
+oriana sigueme  porfaaaaa!!!  soy yooooo javierrrr =(
+#POS B B B W A C B E #POS
+}
+{
+REF  me tuve ke aser otro twitter sigeme =(
+#POS I O B B B B B N E #POS
+}

@@ -1,0 +1,480 @@
+{
+REF Are you a football player?
+#POS I V O D N N W #POS
+}
+{
+REF thanks for follow me :D
+#POS I N P V O E #POS
+}
+{
+Pastor Alemão preto e Pastor Belga; veja a diferença. URL
+#POS N B B B N B W G D N W U #POS
+}
+{
+REF toca one way or another da one direction TAG
+#POS I B K N F D D K N H #POS
+}
+{
+REF  toca  one way or another da one direction TAG  POR FAVOR
+#POS I B K N F D D K N H B N #POS
+}
+{
+REF What is your favorite holiday?
+#POS I W O V D A N W #POS
+}
+{
+REF  Love you so much wanted to hold you &lt;NUM ...
+#POS I V O R R V P V O E J #POS
+}
+{
+REF  Do you watch Sponge Bob?
+#POS I V O V B B W #POS
+}
+{
+TAGNUMDUKDirectioners
+#POS H #POS
+}
+{
+TAGNUMDUK
+#POS H #POS
+}
+{
+TAGNUMDStoryOfMyLife
+#POS H #POS
+}
+{
+REF  What do you want for Friday night?
+#POS I O V O V P B N W #POS
+}
+{
+TAGNUM :D
+#POS H E #POS
+}
+{
+Uhuuuu...felicidade neah REF  uma semana de ferias pro carnaval :D
+#POS G W B B I R G P V P N E #POS
+}
+{
+Lovely Macbeth...
+#POS A B W #POS
+}
+{
+Sem sono...Shakespeare é o que ta teno *--*
+#POS G G J B G G G P N E #POS
+}
+{
+REF Please follow Me  yeah I'm begging and even that is not seeing I'm on my knees on the floor with the cell Here  FOLLOW ME:)
+#POS I V V O C L V F R O V R V L P D N P D N P D N R V O E #POS
+}
+{
+REF You and the boys are excited for our first trip to Brazil??
+#POS I O F D N V A P D A N P B W #POS
+}
+{
+REF  You and the boys are excited for our first trip to Brazil??
+#POS I O F D N V A P D A N P B W #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+TAGNUMD
+#POS H #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+REF You and the boys are excited for our first trip to Brazil??
+#POS I O F D N V A P D A N P B W #POS
+}
+{
+REF You and the boys are excited for our first trip to Brazil??
+#POS I O F D N V A P D A N P B W #POS
+}
+{
+Vendo meus anjuuuuus pela terceira vez haha
+#POS V B B B B B C #POS
+}
+{
+This Is Us é muito perfeito estou bendo pela terceira vez hoje hahah
+#POS O V O G G G G G G B B B C #POS
+}
+{
+Meu Homem de Ferro URL
+#POS G B B B U #POS
+}
+{
+Bagunça com as BFF esperando o professor :p URL
+#POS B N P N G G N E U #POS
+}
+{
+Goood nigth URL
+#POS A N U #POS
+}
+{
+REF beautiful, Zayn is looking forward to the coming of the band here in Brazil??
+#POS I A W B V V R P D N P D N R P B W #POS
+}
+{
+Aaaaaaaaaa ... just saw the clip of Midnight memories is fantastic!!!
+#POS C W R V D N P B N V A W #POS
+}
+{
+REF Happy Birthday Hazza i love u so much
+#POS I A N N O V O R R #POS
+}
+{
+REF  follow me PLEASE
+#POS I V O V #POS
+}
+{
+REF  Hello cute ;)xx
+#POS I C A E E #POS
+}
+{
+REF grá agat taibhseach a leanúint dom le do thoil!
+#POS I C C V D N B B V B W #POS
+}
+{
+“Temos o destino que merecemos. O nosso destino está de acordo com os nossos méritos.”Albert Einstein
+TAG
+#POS W B P B B B W G G G G P B N N N N W W B B
+H #POS
+}
+{
+"O amor é a chave de ouro que abre todos os corações."-Orison Swett Marden
+#POS W B B G D B P B B B B N N W W G G B #POS
+}
+{
+REF Soft without problem ;)
+#POS I A P N E #POS
+}
+{
+REF you are asking if I did WHAT?
+#POS I O V V P O V O W #POS
+}
+{
+hello loves very sad here with Back to School: ')
+#POS C V R A R P R P N W W W #POS
+}
+{
+REF it what? I did not
+#POS I O O W O V R #POS
+}
+{
+REF أنا أحبك جدا زين. I searched for a translator to tell you "I love you" you are my idol &lt;NUM
+#POS I C N N N W O V P D N P V O W O V O W O V D N E #POS
+}
+{
+Happy Birthday Zayn my angel&lt;NUM URL
+#POS A N B D N E U #POS
+}
+{
+REF Happy Birthday my angel love you very, Zayn Brazil loves you
+#POS I A N D N V O R W B B V O #POS
+}
+{
+REF improvements for you my angel I love you very much
+#POS I N P O D N O V O R A #POS
+}
+{
+Ninguem é mais perfeito que meus anjus! URL
+#POS B B B B B B B W U #POS
+}
+{
+OMG...&lt;NUM URL
+#POS C W E U #POS
+}
+{
+REF O'Que you like to do this when the boys love?
+#POS I B O V P V O R D N N W #POS
+}
+{
+REF  Hellooooo  baby!&lt;NUM
+#POS I C N W E #POS
+}
+{
+REF  Wohooo! I love Big mc!!!!!ha
+#POS I C W O V B B W C #POS
+}
+{
+REF   follow me  baby please please!:-)xxx
+#POS I V O N V V W E E #POS
+}
+{
+Eu to assistindo "Ela dança eu danço NUM"
+#POS B P V W B B B B K W #POS
+}
+{
+Happy New year!!!!REF URLURL REF URL and todas las minhas compañeras directioners!
+#POS A A N W I W I W I I W I F B B B B N W #POS
+}
+{
+Happy New year!!!!REF URLURL REF URL and todas las minhas compañeras directioners!
+#POS A A N W I W I W I I W I F B B B B N W #POS
+}
+{
+REF  please toca Story of my life do one direction TAG
+#POS I V B N P D N V K N H #POS
+}
+{
+REF por favor toca Story of my life do one direction TAG
+#POS I G G B N P D N V K N H #POS
+}
+{
+REF  follow me please i love you and the boys please!♥
+#POS I V O V O V O F D N V W E #POS
+}
+{
+REF  follow me please! I love you so much!
+#POS I V O V W O V O R R W #POS
+}
+{
+Ouvindo you&amp;I essa musica é perfeita...alias todaas quee meus  bebês cantam são perfeitas...:-)xxx
+#POS V O G G G G W N G G G G G B N W E E #POS
+}
+{
+Amor de fã por seu idolo é o mais belo...porq mesmo longe os defenderemos até o fim...
+Para as directioners como eu...
+#POS G G G G G G G G G G J G G G N G G G G J
+B P N V G J #POS
+}
+{
+Ainda me lembro da primeira musica q ouvi e ja me apaixonei, da primeira foto,primeiro DVD...e todo oq eu fiz até me tornar uma directioner!
+#POS V O V D G G G G G G O R W D G G W B B W G N G G G G O R A N W #POS
+}
+{
+REF  merry me! Please you is so cute I love you so much!!! I love the band I love us babys my cutes!&lt;NUM
+#POS I A O W V O V R A O V O R A W O V D N O V O N D N W E #POS
+}
+{
+REF  so cute  I love snakes!:-)
+#POS I R A O V N W E #POS
+}
+{
+REF I always wanted to hold a snake like this how it feels?
+#POS I O R V P V D N P O R O V W #POS
+}
+{
+REF What a beautiful reptile! :-)
+#POS I O D A N W E #POS
+}
+{
+One direction é a razão da felicidade  
+Amo vcs meus lindos REF URL URLURL URL :-)
+#POS K N G D N D B
+C G G G I W I W I W I F I E #POS
+}
+{
+I can not wait to go back to review my lessons directioner friend and shout WE LARRY STYLIMSON!!!:-P
+#POS O V R V P V R P V D N N N F V O B B W E #POS
+}
+{
+Never walched This is us that bag but I will win my copy!!!!ha :-)
+#POS R V O V O D N F O V V D N W C E #POS
+}
+{
+REF follow me please please plese!!!!! I love you very much!!! FOLLOW ME PLEASE!!!
+#POS I V O V V V W O V O R A W V O V W #POS
+}
+{
+REF follow me please please please... I love you very much please follow me! ♥♡
+#POS I V O V V V W O V O R A V V O W E #POS
+}
+{
+REF  follow me please please please!!!! I love you very much you is so cute ♥♥
+#POS I V O V V V W O V O R A O V R A E #POS
+}
+{
+REF  you are learning portuguese? Because if this I am very happy to know that you learning to speak my language =^*^= ♡
+#POS I O V V N W P P O O V R A P V P O V P V D N E E E E #POS
+}
+{
+REF  Follow me please! I love you very much want follow me please,please,please!!!=^*^=
+#POS I V O V W O V O R A V V O V W V W V W E E E #POS
+}
+{
+Oh Natal passou tão rapido! Mas ainda da tempo do papai Noel trazer o Presente mais esperado pelas directioners NUMD me siga no Twitter
+#POS C B B B B W B B D N V B B B P A G G B N K O V D B #POS
+}
+{
+Eu defendo meus ídolos ascima de tudo e discuto com qualquer um que fale mal deles one direction é minha vida amo todos os NUM sem exessoes!
+#POS B B B B B P G G A N G G G G G G K N G G N N N N K G V W #POS
+}
+{
+One direction eu amo vcs my boys
+REF URLURLURL URL I♥you
+#POS K N B C V D N
+I W I W I W I W I O V O #POS
+}
+{
+REF Merry  Christmas for you ♥♡♥ I love you so much 
+Brazil loves you kisses=^*^=
+#POS I B B P O W O V O R A
+B V O V E E E #POS
+}
+{
+REF  Happy Christmas for you I Love you so much! Kisses =^*^=
+#POS I A B P O O V O R R W V E E E #POS
+}
+{
+REF  Merry Christmas for you  
+KISSES =^*^=
+#POS I B B P O
+V E E E #POS
+}
+{
+REF  Merry Christmas for you 
+Kisses =^*^=
+#POS I B B P O
+V E E E #POS
+}
+{
+REF Merry Christmas for you.I love you so much!!! The Brazil Loves you!
+♥♡♥♡ =^*^=
+#POS I B B P O W O V O R A W D B V O W
+B B G W #POS
+}
+{
+REF  Merry Christmas for you kisses.I love you so much!
+#POS I B B P O V W O V O R R W #POS
+}
+{
+Filiz Navidad compañeras de la twitter
+#POS B B B P B B #POS
+}
+{
+Meu priminho Gabriel...so cute 
+I Love you cute♥♡♥ URL
+#POS C B B W R A
+O V O A E U #POS
+}
+{
+Curtindo Natal com a family Paiva!
+Malikisses♥♡
+#POS B B N D N B W
+B E #POS
+}
+{
+Agradesso aqui as directioners que me seguem sou muito grata a vcs amo NUMD e agradesso em ter pessoas que compartilham esse amor por eles
+♥♡♥
+#POS B B P N V O G G G N D N C B G V O G G G G G G G G
+E #POS
+}
+{
+Churasco com my family 
+=^-^=
+#POS B V D N
+E #POS
+}
+{
+REF   WHAT YOU most like to eat at Nando's?
+#POS I O O R P P V P B W #POS
+}
+{
+REF Niall please follow me i love you cute Irish
+#POS I B V V O O V O A A #POS
+}
+{
+REF I Love you so much ♥♡♥♡
+#POS I O V O R R W #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+Bom dia Twitter!=^-^=
+#POS B G B W E #POS
+}
+{
+One direction minha espiração e de todas directioners sem one direction não teriamos direção pra seguir 
+Malikisses e boa noite!!!
+#POS K N G G G G G N G K N G G G G G
+B B G G W #POS
+}
+{
+REF saudades de vx e do povo loco da nss sala 
+Mil beijos
+#POS I G G B B V B B D G G
+N N #POS
+}
+{
+Ouvindo Best song ever!!!! Hoje uma das minha cinco espirasoes faz NUM anos Louis 
+I LOVE YOU!:-)xx
+#POS G A N R W B B L G G G G K N B
+O V O W E E #POS
+}
+{
+Feliz aniverssario boo bear te amo!!!
+#POS B B N N N C W #POS
+}
+{
+REF today is a special day my boo bear makes NUM years,I love you very much and dezejo you well.A...I love carrots 
+Kisses♥
+#POS I N V D A N D N N V K N W O V O R A F V O R W G W O V N
+V E #POS
+}
+{
+REF  because spoons? Never get it right
+#POS I P N W R V O R #POS
+}
+{
+REF  please follow me i love you more than anything
+#POS I V V O O V O A P N #POS
+}
+{
+REF  what Christmas gift would you most like to win??? I'd like to follow me would be the best present ever
+#POS I O B N V O R P P V W L V P V O V V D A N R #POS
+}
+{
+REF  I Love you so much...♥
+#POS I O V O R R W E #POS
+}
+{
+REF  when the band come to Brazil???
+#POS I R D N V P B W #POS
+}
+{
+REF  when you come to Brazil???
+#POS I R O V P B W #POS
+}
+{
+REF  when want bringing the band  to Brazil??? I really wanted to come to my parents
+#POS I R V V D N P B W O R V P V P D N #POS
+}
+{
+REF  I Love you so much you and band is my life  you is perfect... I love you and Eleanor ♥♡♥♡
+#POS I O V O R R O F N V D N O V A W O V O F B B #POS
+}
+{
+REF por favor toca Story of my life do one direction TAG
+#POS I G G B N P D N V K N H #POS
+}
+{
+One direction MINIONS!!!! URL
+#POS K N N W U #POS
+}
+{
+Ele é perfeito amo voce Niall Horan URL
+#POS B G G G G B B U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+The boys of my life I LOVE US ONE URL
+#POS D N P D N O V B K U #POS
+}
+{
+I LOVE YOU ZAYN URL
+#POS O V O B U #POS
+}
+{
+Amo Best song ever!!!♥ URL
+#POS C A N R W E U #POS
+}

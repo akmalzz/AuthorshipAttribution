@@ -1,0 +1,28 @@
+{
+REF REF
+#POS I I #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF URL yep wow cool niec
+#POS I U C C A N #POS
+}
+{
+REF REF URL wow yep
+#POS I I U C C #POS
+}
+{
+REF yep
+#POS I C #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+I just signed up to be a Digital Ambassador of TAG! You can be one, too. Click here to sign up to... - URL
+#POS O R V T P V D N N P B W O V V K W R W V R P V T P J J U #POS
+}

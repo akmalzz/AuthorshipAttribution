@@ -1,0 +1,2710 @@
+{
+REF follback min
+#POS I N N #POS
+}
+{
+Ini Aksiku, Mana aksimu ? TAG REF URL
+#POS B B W B B W H I U #POS
+}
+{
+Terima Kasih untuk REF buat acara yang luar biasa TAG ! Kita dapat pengalaman dan pengetahuan baru ! URL
+#POS B B B I G G G G G H W B B B B B B W U #POS
+}
+{
+REF REF REF REF REF 
+sama-sama min
+#POS I I I I I
+G N #POS
+}
+{
+Jangan lupa ya, besok jam NUM malam kita akan membahas TKPS !!
+#POS B B C W B V K B B B B B W #POS
+}
+{
+Selamat malam semua ! Besok jam NUM malam kita akan membahas tentang TKPS. Penasaran ?  Tunggu besok ya.
+#POS B B B W B V K B B B B B B W B W G G C W #POS
+}
+{
+RT"REF Equality ain focus at OHCHR-WSSCC session for International Women’s Day TAGNUM URL"
+#POS J W I J N V V P B N P A N N H U W #POS
+}
+{
+RT"REF TAG TAG with REF director of REF and member jury NUMnd edition  URL"
+#POS J W I J H H P I N P I F N N K N U W #POS
+}
+{
+REF Perkenalkan kami dri komunitas peduli sanitasi yang dibentuk oleh pelajar di Sukoharjo. Workshop juga dilakukan di CFD ?
+#POS I B B G G G G G G G G G B W N G G G N W #POS
+}
+{
+Untuk yg suka menulis gunakan kedua sisi kertas untuk menulis ya. Salah satu wujud penerapan Reduce dan Reuse loh ! :)
+#POS B G G G G G G G G G C W B B B B V B B B W E #POS
+}
+{
+Selamat malam semua ! Gimana hari ini ? Tetap buang sampah pada tempatnya ya !
+#POS B B B W G G G W G G G G G C W #POS
+}
+{
+Selamat malam semua ! Gimana hari ini ? TAG yuk ! :D
+#POS B B B W G G G W H C W E #POS
+}
+{
+Selamat malam semua ! Sudah like page kita di facebook belum ? 
+Kalau belum like yuk di URL :)
+#POS B B B W V P N G G B B W
+B B P N G U E #POS
+}
+{
+RT"REF cc REF "REF Indonesia terburuk kedua di dunia dalam hal sanitasi via URL "
+#POS J W I J N I W I J B B B G G G G G P U W #POS
+}
+{
+What do you think ? 
+TAG URL
+#POS O V O V W
+H U #POS
+}
+{
+Clothes recycling bins made ​​by TAG. Go Recycle! REF REF REF REF URL
+#POS N N N V B B W V V W I I I I U #POS
+}
+{
+Clothes recycling bins made ​​by TAG. Go Recycle! REF REF REF REF URL
+#POS N N N V B B W V V W I I I I U #POS
+}
+{
+Baju daur ulang sampah yang dibuat oleh TAG. Go Recycle ! REF REF REF REF URL
+#POS B B B B B B B B W V V W I I I I U #POS
+}
+{
+Baju daur ulang sampah yang dibuat oleh TAG. Go Recycle ! REF REF REF REF REF URL
+#POS B B B B B B B B W V V W I I I I I U #POS
+}
+{
+Baju daur ulang sampah yang dibuat oleh TAG. Go Recycle ! REF REF REF REF URL
+#POS B B B B B B B B W V V W I I I I U #POS
+}
+{
+Hallo tweeps !
+#POS C N W #POS
+}
+{
+REF Followed ya !
+#POS I V C W #POS
+}
+{
+Buat teman-teman yang belum tahu UU No. NUM thn NUM tentang Pengelolaan Sampah bisa download file'a di URL Selamat malam!
+#POS B B B B B B C W K P K N B B B V V G U B B W #POS
+}
+{
+REF Betul, Oleh karena itu lebih bagus kalau di sekitar sanfil ada bukit yang tanahnya bisa dipangkas untuk tanah penutup.
+#POS I B W B B G G G G G G G G G G G G G G G N W #POS
+}
+{
+Sekian dulu pembahasan tentang metode sanitary landfill dalam pengelolaan sampah. Kalau ada yg mau tanya, mention aja ya ! 
+TAG
+#POS B B B B B A N N G G W B B G G B W V V C W
+H #POS
+}
+{
+NUM. Perencanaan dan konstruksi khusus harus dibuat untuk penggunaan bangunan di atas landfill.
+TAG
+#POS K W B B B B B B B B B B B N W
+H #POS
+}
+{
+NUM. Landfill yang telah sempurna akan tetap dan perlu pemeliharaan yang periodik.
+TAG
+#POS K W N G G G G G B B B B B W
+H #POS
+}
+{
+NUM. Harus dipelihara setiap hari, karena jika tidak akan menjadi open dumping
+NUM. Akan menganggu penduduk yang bertempat tinggal di sekitarnya
+#POS K W B B G B W B B B B B V V
+K W B B B B B B B G #POS
+}
+{
+NUM. Di daerah yang padat penduduk, tidak tersedia tanah yang masih terjangkau untuk pengangkutan secara ekonomis.
+TAG
+#POS K W G G G G N W B B B G G G G G G G W
+H #POS
+}
+{
+Sedangkan kerugian menggunakan metode sanitary landfill antara lain :
+TAG
+#POS B B B B A N B B W
+H #POS
+}
+{
+NUM. Sanitary landfill bisa menerima segala macam bentuk sampah bisa dibuang kesana dengan tanpa ada pemisahan tempat.
+TAG
+#POS K W A N N G G G G G G G G G G G G G W
+H #POS
+}
+{
+NUM. Sanitary landfill adalah tahap terakhir dibanding dengan insenerator dan komposting dimana masih memerlukan tindak lanjut dari residunya.
+#POS K W A N G G G V V G B B B B B B B B B W #POS
+}
+{
+NUM. Investasi modal relative lebih rendah dari cara yang lain.
+TAG
+#POS K W B A A N N G G G V W
+H #POS
+}
+{
+Keuntungan metode sanfil dalam pengelolaan sampah antara lain:
+NUM.Dimana tanah tersedia, sanitary landfill adalah yang paling ekonomis TAG
+#POS B B B B B B B B W
+K W G G N W A N G G V N H #POS
+}
+{
+Kita lanjut pembahasan sanfil ke keuntungan dan kerugian sistem sanitary landfill. Terus simak TL kita !
+#POS B B B B B B B B B A N W B B B B W #POS
+}
+{
+Sanitarian ada yang mau bertanya tentang TPA Sanitary Landfill ? 
+TAG
+#POS B B B G G G B B B W
+H #POS
+}
+{
+Biogas ini, kalau dieksploitasi dengan hati-hati dan tepat teknologinya, lumayan untuk menerangi kawasan kantor sanfil. 
+TAG
+#POS B B W B B B B B B B W G G G G G G W
+H #POS
+}
+{
+Aspek Keempat, aliran gas dan lindi. Gas bisa dibiarkan lepas ke udara atau ditampung untuk dimanfaatkan energinya.
+TAG
+#POS B B W B N B B W N N G G G G G G G G G W
+H #POS
+}
+{
+ada juga gas lain, yaitu HNUMS yang berbau busuk seperti di kawah Tangkubanparahu, amoniak (NHNUM), karbonmonoksida (CO) dll.
+TAG
+#POS G G N N W R B B B B B B B B W N W K W W B W B W B W
+H #POS
+}
+{
+Ada banyak gas yang dihasilkan oleh sanfil. yaitu NUM% metana (CHNUM) dan NUM% karbondioksida.
+TAG
+#POS B B N N G G G W G K N W K W B K N W
+H #POS
+}
+{
+Aspek ketiga yang harus dikaji dalam pembuatan sanfil adalah produksi gas dan lindi.
+TAG
+#POS B B B B B B B B B B N B B W
+H #POS
+}
+{
+Sekian puluh tahun kemudian, lembah itu berubah menjadi lahan yang bisa dihuni atau untuk fasilitas lainnya seperti taman. Keren kan ?TAG
+#POS B B B B W B B B B B B B B G G G G G B W B B W H #POS
+}
+{
+Sampah diratakan, dipadatkan lalu ditutupi tanah liat.
+TAG
+#POS B B W B B B B B W
+H #POS
+}
+{
+Selanjutnya, apabila lokasi sanfil berupa cekungan, legok atau jurang, metode depression atau lembah lebih baik dipakai.
+TAG
+#POS B W B B B B B W B W V W A N W B B B B W
+H #POS
+}
+{
+Lebih disukai kalau ada bukit yang tanahnya bisa dipangkas untuk tanah penutup. Parit dibuat dengan menggali sampai tanah kedap air. TAG
+#POS B B B G G G G G G G G N W V V V G G G G N W H #POS
+}
+{
+Metode trench (parit) dibuat di lahan yang muka air tanahnya cukup dalam dan tersedia tanah penutup.
+TAG
+#POS B N W N W B B B B B N N G G B B B B W
+H #POS
+}
+{
+Setelah sisinya ditanggul dengan tanah, barulah sampah dipadatkan sampai selesai lajur per lajur TAG
+#POS B B B B B W B B B B B B P N H #POS
+}
+{
+Metode area diterapkan apabila lahannya agak landai atau datar dan tidak bisa dibuatkan parit...
+TPASL
+#POS B B B B B B B W N B B B B N W
+N #POS
+}
+{
+Kedua, metode sanfil. Ini berkaitan dengan bentuk lahan.Agar efektivitas pemakaian lahannya tinggi, maka rencana operasi harus dibuat TAG
+#POS B W B B W G G G G G W G G V G B W G G G G G H #POS
+}
+{
+Pertama, seleksi lokasi. Aspek yang dilihat adalah topografi dan kondisi tanah serta lingkungan setempat.
+TAG
+#POS B W N N W B B B B B B B B B B B W
+H #POS
+}
+{
+Ada empat aspek penting yang mesti dikaji dalam pembuatan sanfil. 
+TAG
+#POS B B B B G G G G G G W
+H #POS
+}
+{
+Selanjutnya kita akan membahas pembuatan sanitary landfill ! Terus simak TL kita ya :)
+TAG
+#POS G G G G G A N W B B B B C E
+H #POS
+}
+{
+.....seperti yang telah dilakukan oleh TPA Sumur Batu-Bekasi melalui teknologi Landfill Gas Flaring (LFG).
+#POS W G G G G G B B B B B B B V W B W W #POS
+}
+{
+gas metana yang dihasilkan juga dapat diolah sehingga dapat dimanfaatkan sebagai sumber bahan bakar yang pastinya bernilai ekonomis....
+#POS N G G G G G G G G G G G G G G G G G W #POS
+}
+{
+Hai REF REF REF kita sedang membahas Sanitary Landfill loh ! Ikut bahas yuk ! :D
+#POS C I I I G G G A N N W G G C W E #POS
+}
+{
+.........dengan menggunakan mikroorganisme dalam proses pengolahannya sehingga tidak mencemari lingkungan.
+#POS W V V N G G G G G G G W #POS
+}
+{
+Ini contoh gambar TPA Sanitary Landfill TAG URL
+#POS G G G B B B B U #POS
+}
+{
+Dengan menggunakan sistem ini, leachate (air lindi atau air limbah sampah) yang dihasilkan dapat tertangani dengan baik....
+TAG
+#POS B B B B W N W N N W N N G W C G G G G G W
+H #POS
+}
+{
+Ada proses penyebaran dan pemadatan sampah pada area pengurugan dan penutupan sampah setiap hari. TAG
+#POS B B B B B B B B B B B B G B W H #POS
+}
+{
+Sanitary Landfill adlh metode pemusnahan sampah yang paling efektif, karena sampah yang dimusnahkan didalam tanah tidak mengotori lingkungan
+#POS A N N N G G G V N W B B B B B B B B B #POS
+}
+{
+Apasih Sanitary Landfill itu ? Temen-temen sanitarian ada yang tahu gk ? TAG
+#POS B B B B W B B B G G G W H #POS
+}
+{
+Hallo selamat malam semua ! Malam ini kita akan membahasa Sanitary Landfill ! Simak TL kita ya REF REF REF
+#POS C B B B W B G G G G A N W B B B C I I I #POS
+}
+{
+Selamat sore semua ! ada yang kangen sama admin ? :p
+#POS G A N W G G G G N W E #POS
+}
+{
+Ya Peduli ! Termasuk peduli sanitasi lingkungan dan air"REF intinya sih yaaa peduli. karena tanpa alam dan makhluknya."
+#POS C B W B B B B B N W I G G O B W G G G B B W W #POS
+}
+{
+TAG Forum NUMR ini dihadiri oleh delegasi menteri lingkungan dunia dari NUM negara.
+#POS H N G G G G G G G G G K B W #POS
+}
+{
+TAG Surabaya menjadi tuan rumah forum NUMR se- Asia Pasifik yang berlangsung dari tanggal DAT feb NUM REF
+#POS H B B B B N G G B B B B B B K B K I #POS
+}
+{
+REF letak kita masih di Solo raya lebih tepatnya Sukoharjo.
+#POS I G G G G A G G G B W #POS
+}
+{
+REF Follback ya min, kita komunitas yg didirikan pelajar yg peduli sanitasi lingkungan dan air.
+#POS I V D N W B B W V N G G G G B N W #POS
+}
+{
+Kalau ada yg mau info-info kegiatan, gabung atau kolaborasi. Email aja ke URL
+Email baru kita loh ! :D
+#POS B B G G N V W G G B W B B B U
+B B B B W E #POS
+}
+{
+Ini dia yang ditunggu-tunggu. Logo TKPS ! :D URL
+#POS G G G G W N N W E U #POS
+}
+{
+Sekali lagi kami ucapkan terima kasih kepada teman-teman yang telah memberikan bantuannya baik berupa barang, uang ataupun jasa. TAG
+#POS G G B B B B B B G G G G G G N W C G B W H #POS
+}
+{
+Tanda Terima Bantuan. TAG URL
+#POS B B B W H U #POS
+}
+{
+Bantuan yang disumbangkan berupa Mie instant, Pakaian, Beras, dan Perlengkapan Mandi  TAG URL
+#POS B C V B B A W B W B W B B B B U #POS
+}
+{
+Karena tidak memungkinkan untuk ke gn.kelud, bantuan yg TKPS dapat disalurkan kembali melalui PMI. TAG URL
+#POS B B B B B C W B W B G B B B B B B W H U #POS
+}
+{
+Bantuan hari kedua tidak jauh berbeda dri hari pertama, hanya ada tambahan berupa beras. TAG URL
+#POS B B B B B B G G G W B B B B B W H U #POS
+}
+{
+Hari pertama TAG bantuan yg dtng berupa mie instant, pakaian, dan perlengkapan mandi URL
+#POS B B B B G G G G A W B W B B B U #POS
+}
+{
+Selamat malam semua ! Malam ini admin akan share foto-foto waktu acara TAG :D
+#POS B B B W B B N G V G G G H E #POS
+}
+{
+Selamat HARI PEDULI SAMPAH semua !  Buang sampah pada tempatnya ya, dan dari sekarang kita manfaatkan sampah juga lakukan NUMR ! REF
+#POS B B B B G W G G G G C W B B G G G G G G G W I #POS
+}
+{
+Selamat HARI PEDULI SAMPAH semua ! 
+Buang sampah pada tempatnya ya, dan dari sekarang kita manfaatkan sampah juga lakukan NUMR !
+#POS B B B B B W
+B B B B C W B B G G G G G G G W #POS
+}
+{
+Selamat HARI PEDULI SAMPAH ! 
+Buang sampah pada tempatnya ya, dan dari sekarang kita manfaatkan sampah juga lakukan NUMR ! REF
+#POS B B B B W
+B B B B C W B B G G G G G G G W I #POS
+}
+{
+Selamat HARI PEDULI SAMPAH ! 
+Buang sampah pada tempatnya ya, dan dari sekarang kita manfaatkan sampah juga lakukan NUMR ! REF
+#POS B B B B W
+B B B B C W B B G G G G G G G W I #POS
+}
+{
+Selamat HARI PEDULI SAMPAH semua ! 
+Buang sampah pada tempatnya ya, dan dari sekarang kita manfaatkan sampah juga lakukan NUMR  REF
+#POS B B B B B W
+B B B B C W B B G G G G G G G I #POS
+}
+{
+Semoga bantuan dari teman-teman semua bermanfaat dan membawa berkah. Amiin URL
+#POS G G G G G G B B B W C U #POS
+}
+{
+Acara TAG lancar dan sukses, kami ucapkan terima kasih untuk semua yang telah menyukseskan acara ini!
+#POS B B B B B W B B B B B G G G G G G W #POS
+}
+{
+Hay Ika, selamat bergabung !"REF Hay, saya Ika. Dari TKPS tanjumbulu touna (wakil NUM)"
+#POS B B W B B W W I J B W B B W B B B B W A K W W #POS
+}
+{
+Tggl berdiri: NUM Februari NUM
+Selamat bergabung ! Yuk anggota nya mention ke kita !
+Salam Sanitasi ! TAG TAG
+#POS B B W K B K
+B B W C B B V B B W
+B B W H H #POS
+}
+{
+Founder : Duta Sanitasi Touna ( Ahmad Fauzhy , Echy Adwikarta, Sri Rezkiyanti Ickka)
+Ketua : Ahmad Fauzhy Bhs
+TAG
+#POS N W B B B W B B W B B W B B B W
+B W B B B
+H #POS
+}
+{
+TKPS Tandjumbulu Touna
+Kab. Tojo Una-una, Prov. Sulawesi Tengah 
+Jumlah anggota: NUM orang 
+TAG
+#POS B B B
+B W B B W B W B B
+B B W K C
+H #POS
+}
+{
+Hei Meyindah, selamat bergabung !"REF Sy Meyindah.I.P TKPS Tanjumbulu Touna sbg (seksi Jarkom dan Humas) . Terimah kasih, senang"
+#POS C B W B B W W I J B B W O W G B B B B W G G B B W W B B W G W #POS
+}
+{
+Selamat siang semua ! Gimana hari ini ?
+#POS B B B W G G G W #POS
+}
+{
+TKPS sorry for the calamity that befell eruption kelud our brothers in Kediri and surrounding areas. May they all be endurance. Ameen
+#POS B A P D N P V N V D N P B F V N W V O D V N W C #POS
+}
+{
+Please like our fanpage ~~&gt; URL TAGNUM
+#POS V P D N G U H #POS
+}
+{
+RT"REF 
+TAGNUM pembuatan baju daur ulang dari sampah oleh kelompokNUM REF URL"
+#POS J W I J
+H H N N G G G G G I U W #POS
+}
+{
+Selamat sore semua ! Yuk kita do'a kan saudara kita yg terkena musibah meletus'a gn.Kelud. Semoga selalu diberikan ketabahan. Amiin
+#POS G A N W C B G G G G G B B D N W B W G G G B W C #POS
+}
+{
+RT"REF Yuk di follow REF . Buat kamu yg MUDA, BEDA, BERBAHAYA."
+#POS J W I J C B V I W G G G B W B W B W W #POS
+}
+{
+Selamat malam semua ! Gimana hari ini ? menyenangkan atau menyedihkan ? 
+Tapi tetap buang sampah pada tempatnya dan hemat air ya ! :)
+#POS B B B W G G G W G G B W
+B B B B B B B B N C W E #POS
+}
+{
+Akses anak kepada air bersih dan sanitasi yang layak di Indonesia URL (via REF )
+#POS B B B N N B B B B B B U W P I W #POS
+}
+{
+RT"REF Dan ttg founder REF bill drayton. REF URL"
+#POS J W I J B B N I N N W I U W #POS
+}
+{
+RT"REF Bercerita ttg REF REF URL"
+#POS J W I J B B I I U W #POS
+}
+{
+RT"REF Video yg memotivasi mereka REF URL"
+#POS J W I J N N G G I U W #POS
+}
+{
+RT"REF Bercerita ttg pengalaman mengikuti REF dan ttg finalisnya. cc REF REF URL"
+#POS J W I J B B B B I B B B W N I I U W #POS
+}
+{
+RT"REF Froggy dance, melepas rasa penat setelah musyawarah hampir NUM jam. wkwk REF URL"
+#POS J W I J A N W B B B B B B K N W C I U W #POS
+}
+{
+RT"REF Dan seneng banget karena lahan belakang sekolah yg gk kepake udh dijadiin lahan utk bercocok tanam (y) REF
+#POS J W I J B B B B B B B G G G G V G G G N W R W I W #POS
+}
+{
+RT"REF dan sedikit berbagi pengalaman selama mengikuti kegiatan REF REF
+#POS J W I J B G G G G G G I W I W #POS
+}
+{
+RT"REF Kegiatan TKPS hari ini adalah pembagian jadwal piket keliling, men desain baju daur ulang utk "Fashion Art Education"
+#POS J W I J B B B G G G G G G W N V N N G G W B B N W #POS
+}
+{
+Yaeh ! We have new header and background !
+#POS C W O V A N F N W #POS
+}
+{
+Selamat sore semua ! Yuk yg belum like fanpage kita silahkan di like ~~&gt; URL
+#POS G A N W C C V P N G G G P G U #POS
+}
+{
+RT"REF Tadi lumayan capek kerja bakti bareng teman-teman REF . Tapi ttp semangat demi terciptanya lingkungan yg baik !"
+#POS J W I J B B B B B B B I W B B B B B B G B W W #POS
+}
+{
+Selamat malam semua ! Yuk di like fanpage kita ~~&gt; URL
+#POS B B B W C G P N N G U #POS
+}
+{
+Yaeh ! We have a new header ! :)
+#POS C W O V D A N W E #POS
+}
+{
+Selamat malam semua ! Yuk like fanpage kita ~~&gt; URL
+#POS B B B W C P N G G U #POS
+}
+{
+"Kita tidak mau botol plastik lagi" salah satu penerapan reduce (mengurangi) yuk isi petisi REF URL pakai TUMBLER !
+#POS W B B G G G G W B B B V W N W C G G I U B N W #POS
+}
+{
+Selamat malam semua ! Monggo di like Page kita ~~&gt; URL
+#POS B B B W B B P B B G U #POS
+}
+{
+&gt;&gt;&gt;RT"REF isi survey:  URL … … utk dukung petisi kami URL "
+#POS G J W I J C G N W U W W G G G B U W #POS
+}
+{
+DIFFERENT YOUNG "DANGEROUS" URL
+#POS A A W A W U #POS
+}
+{
+"Our Dream" Indonesian healthy with good sanitary conditions. URL
+#POS W D N W A A P A A N W U #POS
+}
+{
+Like Fanpage TKPS ~~&gt; URL
+#POS P N N G U #POS
+}
+{
+Indonesia sehat dengan kondisi sanitasi yang baik! "Our Dream" URL
+#POS B G G G G G G W W D N W U #POS
+}
+{
+Indonesia sehat dengan kondisi sanitasi yang baik! "Our Dream" URL
+#POS B G G G G G G W W D N W U #POS
+}
+{
+WOHOOO ! RT"REF Say WOHOOO ! URL"
+#POS C W J W I J V C W U W #POS
+}
+{
+Muda, Beda, Berbahaya ! RT"REF Saya adalah Young Change Makers NUM ! URL"
+#POS B W B W B W J W I J B B B B B K W U W #POS
+}
+{
+RT"REF We are Young Change Makers ! URL"
+#POS J W I J O V A N N W U W #POS
+}
+{
+Selamat untuk pendiri kita, yang baru saja masuk komunitas ashoka REF nasional dan global URL
+#POS B B B B W C G G G G B I G B A U #POS
+}
+{
+Congratulations to our founder, who had just entered community of REF ashoka national and global URL
+#POS N P D N W O V R V N P I B A F A U #POS
+}
+{
+Saksikan live tweet Inagurasi YCM di REF !
+#POS B A N N G G I W #POS
+}
+{
+Selamat siang semua ! Siang ini Founder kita akan mengikuti acara inagurasi Young Change Makers ! :)
+#POS B B B W B B B B B B B B B B N W E #POS
+}
+{
+Sekarang sesi "Penjelasan GEPI" oleh Bp.Fong, Direktur GEPI (Global Entrepreneurship Program Indonesia) TAG
+#POS G G W B B W G B W B W B B W A N N B W H #POS
+}
+{
+Sekarang sesi "Membangun Tim Luar Biasa" oleh kak dimas muharam co-founder kartunet. TAG
+#POS G G W B B B B W G G B B N N W H #POS
+}
+{
+Selamat siang semua ! Founder kita sedang mengikuti workshop orientasi di DSB tower yg diadakan oleh YCM !
+#POS B B B W N G G G N G G B B W B B B W #POS
+}
+{
+Good Night Everybody ! TAG TAG TAGNUM
+#POS A N N W H H H #POS
+}
+{
+Selamat malam semua ! Tetap peduli sanitasi lingkungan dan air minum ya ! Jangan lupa like fanpage kita di URL
+#POS B B B W G G G G B N V C W B B P N G G U #POS
+}
+{
+Jangan lupa like fanpage kita di URL dan berikan peringkatnya ! :D
+#POS B B P N G G U B B B W E #POS
+}
+{
+RT"REF Tempat hasil daur ulang sampah non-organik di SMPN NUM Grogol URL  REF URL"
+#POS J W I J B B B B B B B B K N U I U W #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Go Daur ulang REF URL
+#POS B B B B B B B I G B K N W V B B I U #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Go Daur ulang REF URL
+#POS B B B B B B B I G B K N W V B B I U #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Go Daur ulang REF URL
+#POS B B B B B B B I G B K N W V B B I U #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Go Daur ulang REF URL
+#POS B B B B B B B I G B K N W V B B I U #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Go Daur ulang REF URL
+#POS B B B B B B B I G B K N W V B B I U #POS
+}
+{
+Tempat penyimpanan hasil daur ulang sampah non-organik REF di SMPN NUM Grogol. Mari daur ulang REF URL
+#POS B B B B B B B I G B K N W B B B I U #POS
+}
+{
+Amiin RT"REF Semoga rencana membantu pengadaan bibit pohon dan tempat sampah outdoor juga terlaksana. Amiin REF
+#POS C J W I J B B B B B B B B B A N N W C I W #POS
+}
+{
+RT"REF Dan juga bantuan tempat sampah indoor.REF URL"
+#POS J W I B B B B B A W I U W #POS
+}
+{
+RT"REF Terima kasih BLH Kab.Sukoharjo telah membantu TKPS dan SMP N NUM Grogol dalam pengadaan Komposter URL"
+#POS J W I J B B B B W G G G G B B B K N N V B U W #POS
+}
+{
+Semoga dengan adanya komposter dan tempat sampah indoor, kondisi lingkungan di SMP N NUM Grogol menjadi lebih baik.
+#POS G G G G B B B A W B B B B B K N G G G W #POS
+}
+{
+Semoga rencana bantuan pengadaan bibit pohon dan tempat sampah indoor terlaksana. Amiin
+#POS G G G G G G B B B A N W C #POS
+}
+{
+Kami mengucapkan terima kasih atas bantuan BLH (Badan Lingkungan Hidup) Kab.Sukoharjo. URL
+#POS B B B B B B B W B B B W B W B W U #POS
+}
+{
+TKPS dan SMP N NUM Grogol baru saja menerima bantuan berupa komposter dan tempat sampah indoor dari BLH Kab.Sukoharjo. URL
+#POS B B B B K N G G G G G G B B B A N G B W B W U #POS
+}
+{
+Selamat malam semua ! Tetap peduli sanitasi lingkungan dan air minum ya ! :D
+#POS B B B W G G G G B N V C W E #POS
+}
+{
+~~&gt; RT"REF Bibit pohon kita ambil bln depan. Terima kasih Badan Lingkungan Hidup (BLH) Kab.Sukoharjo. REF
+#POS G J W I J B B B B B B W G G B B B W B W B W B W I W #POS
+}
+{
+~~&gt; RT"REF Alhamdullilah, proposal REF disetujui. Komposter baru sdh dtg, tempat sampah baru sdh dtg walaupun blm semua"
+#POS G J W I C W N I N W B B G G W B B B G G G G G W #POS
+}
+{
+TAG dri total air di dunia, NUM% diantaranya adalah air laut, NUM% berbentuk es, sedangkan air tawar hanya NUM%. Yuk hemat air dri skrng!
+#POS H G A N G G W K N N N N W K N N W B N N G K W C B N G G W #POS
+}
+{
+Selamat siang semua ! Yuk like FP kita di URL berikan peringkat dari kalian untuk FanPage Tim Khusus Peduli Sanitasi
+#POS B B B W C P B B B U V G G G G G B B B B #POS
+}
+{
+REF Ya memang begitu faktanya, cari daerah kumuh di Jakarta atau BPK (Bantaran Pinggir Kali) dan begitulah keadaannya.
+#POS I C G G G W B B B B B G B W B B B W B B B W #POS
+}
+{
+Serius, kalau gk percaya dtng aja ke Jakarta."REF serius di dunia (?)"
+#POS B W B B B B B B B W W I G G G G #POS
+}
+{
+Yuk pemerintah dan masyarakat Jakarta kira ubah "Terburuk" menjadi "Terbaik" :D URL
+#POS C B B B B B B W B W N W B W E U #POS
+}
+{
+Di kota New York ada Departemen yang mengurus sanitasi loh :) info lengkap ~~&gt;URL URL
+#POS G G B B B B B B B B E N G G U U #POS
+}
+{
+Selamat malam semua ! Buang sampah pada tempatnya ya, supaya lingkungan kalian sehat dan tidak banjir !
+#POS B B B W G G G G C W B B B G B B B W #POS
+}
+{
+Oke, sdh dulu pembahasan kita tentang TAG. Tetap peduli sanitasi dan air minum TAG TAG TAGNUM
+#POS C W G G G G G H W G G G B N N H H H #POS
+}
+{
+REF Rasanya itu Nyesek -_- yg penting kita udh usaha, selanjutnya kita serahkan ke diri mereka masing-masing :)
+#POS I B G G E E V G G G W G G G G G G G E #POS
+}
+{
+REF Kita gk mungkin bisa nyadarin orang lain, krna yg bisa merubah mereka adlh diri mereka sendiri, yg penting kta sdh mengingatkan
+#POS I B B B B B B B W B G G G G G G G G W C V G G G #POS
+}
+{
+TAG yang bersih. URL
+#POS H C N W U #POS
+}
+{
+Mudah kan ? Yuk kita lakukan dri sekarang, perbuatan kecil dapat bermanfaat besar bagi TAG dan lingkungan kita ! :)
+#POS B B W C B B G G W B B B B B B B B B B W E #POS
+}
+{
+NUM. Mensosialisasikan atau memberi penyuluhan tentang pentingya TAG.
+#POS K W B W N G G G H W #POS
+}
+{
+NUM. Menegur orang yang mengotori atau merusak TAG.
+#POS K W B B B B W B B W #POS
+}
+{
+NUM. Secara rutin membersihkan TAG. Mulai dri TAG rumah kita ya.
+#POS K W G V O H W B G H G G C W #POS
+}
+{
+NUM. Tidak membuang sampah ke TAG yang dapat membuat TAG tersumbat.
+#POS K W B B B B B B B B B B W #POS
+}
+{
+Oke, saatnya share NUM hal yang bisa kita lakukan untuk TAG.
+#POS C W B V P B B B B B B B W #POS
+}
+{
+TAG terbagi menjadi NUM jenis :
+NUM. Drainase Utama
+NUM. Drainase Skunder
+NUM. Drainase Tersier
+NUM. Drainase Laut
+#POS H G G K N W
+K W V B
+K W V B
+K W V B
+K W V B #POS
+}
+{
+Tapi sebelum itu kita share jenis-jenis drainase dulu ya ! :D
+#POS B G G G V B B V C W E #POS
+}
+{
+Apa yang bisa kita lakukan untuk TAG ? ada NUM hal sederhana yang bisa kita lakukan untuk TAG. Tetap Simak TL kita ya ! :)
+#POS B G G G G G H W G P N G G G G G G H W B B B B C W E #POS
+}
+{
+Ada NUM lagi permasalahan TAG yakni minimnya kesadaran masyarakat akan pentingnya TAG.
+#POS B K B B B B B B B B B B W #POS
+}
+{
+Permasalahan TAG: NUM. Pertambahan jumlah penduduk yang menjadi masalah sendiri bagi daya tampung drainase.
+#POS B B W K W B B B B B B B B B B B W #POS
+}
+{
+Permasalahan TAG :NUM. Manajemen sampah yang tidak bagus, dan dapat menyebabkan tersumbatnya sistem drainase. TAG
+#POS B B W K W B B G G G W B B B B B B W H #POS
+}
+{
+Hi REF REF REF kita sedang membahas Drainase loh :D ikut bahas yuk ! TAG
+#POS C I I I G G G B B E G G C W H #POS
+}
+{
+Drainase di Indonesia mempunyai banyak permasalahan. Tapi ada NUM permasalahan pokok. Mau tahu ? ttp simak TL kita ya. TAG
+#POS B B B B B B W B B K B B W G G W G G N V O W H #POS
+}
+{
+Hy REF REF REF kita sedang bahas drainase loh :D ikut bahas yuk ! TAG
+#POS B I W I I G G G G G E G G C W H #POS
+}
+{
+Definisi drainase ke NUM: Sebagai serangkaian bangunan air yg berfungsi untuk mengurangi dan atau membuang kelebihan air dari suatu kawasan.
+#POS B B B K W B B B N N N G G B W V B N N G G W #POS
+}
+{
+Definisi drainase ke NUM :Sebagai usaha mengontrol kualitas air tanah dalam kaitannya dengan salinitas. TAG
+#POS B B B K W B B B B N G G G G N W H #POS
+}
+{
+Definisi Drainase : Mengalirkan, menguras, membuang, atau mengalihkan air. Definisi drainase tidak hanya satu loh :D
+#POS B B W B W N W N W W B N W B B B B B B E #POS
+}
+{
+Terima kasih ! :D"REF FF REF REF timelineny super bermanfaat buat lingkungan kita yg lebih baik :'D"
+#POS B B W E W I J G I I R R P G G G G G G J W N W #POS
+}
+{
+Selamat malam semua ! Yang malam mingguan tetap buang sampah pada tempatnya ya ! Dan malam ini akan kita akan sedikit bahas ttg drainase. :D
+#POS B B B W G G G G G G G G C W B B G G G G G G G N W E #POS
+}
+{
+Selamat malam semua ! Yuk yang belum like fanpage kita, di like dulu ~~&gt; URL
+#POS B B B W C C V P N N W G P N G U #POS
+}
+{
+Mau tahu lebih banyak tentang sanitasi lingkungan ? klik aja link'a ~~&gt; URL
+#POS G G G G G G G W G G N G U #POS
+}
+{
+NUM juta penduduk Indonesia, buang air besar sembarangan (BABS) TAG
+TAGNUM URL
+#POS K N N B W V N G G W B W H
+H U #POS
+}
+{
+Potret sanitasi Indonesia ? bagaimana menurut kalian ?
+TAGNUM URL
+#POS N N B W G G G W
+H U #POS
+}
+{
+TAG ~~&gt; URL (via REF )
+#POS H G U W P I W #POS
+}
+{
+Selamat Siang semua ! yuk simak TL REF , agar kalian tahu bagaimana cara menghemat air :D
+#POS B B B W C B B I W G G G G G G N E #POS
+}
+{
+TAG ~~&gt;"REF E-Source Sanitation News is out! URL … Stories via REF REF
+#POS H W I J B B B V R W U W N P I I W #POS
+}
+{
+TAG~&gt;"REF A Market Led, Evidence Based Approach to Rural Sanitation TAG sanitation TAG TAG URL"
+#POS H W I D N V W N V N P B N A N N A U W #POS
+}
+{
+tuh kan apa hayo ?"REF Tuh kan :( RT REF :( RT REF :'( RT REF Sampah sisa jnf URL"
+#POS G G G G W W I B B E J I J E J I J E J I J B B B U W #POS
+}
+{
+Sudah dulu utk pembahasan kali ini, jangan lupa like fanpage kita di URL 
+TAG TAGNUM
+#POS B B B B B B W B B P N G G U
+H H #POS
+}
+{
+Keindahan pantai losari terusak oleh sampah
+TAG TAGNUM URL
+#POS B B B B B B
+H H U #POS
+}
+{
+Sampah sisa perayaan tahun baru di kota Solo  TAG TAGNUM URL
+#POS B B B B B G B B B B U #POS
+}
+{
+Perayaan Tahun Baru di Yogya Sisakan NUM Ton Sampah. TAG TAGNUM URL
+#POS B B B B B B K N B W H H U #POS
+}
+{
+Lapangan simpang lima di Semarang. REF TAG TAGNUM URL
+#POS B B B B B W I H H U #POS
+}
+{
+Sampah sisa perayaan tahun baru di bandund mencapai NUM meter kubik atau NUM ton. 
+TAG TAGNUM
+#POS B B B B B B B B K N N W K N W
+H H #POS
+}
+{
+REF Jakarta
+#POS I B #POS
+}
+{
+Untungnya toiler portable gk ada yg ilang.. :D
+ TAG TAGNUM
+#POS B B A B B G G W E
+H H #POS
+}
+{
+REF ya elah -_-
+#POS I C B E #POS
+}
+{
+dibilang unyu.asik"REF Cek TLny REF yg lg bahas masalah sampah pesta tahun baru kmren. Aksinya dedekNUM unyu yg peduli"
+#POS V G W G W I C B I C G G G G G G G G W B B B G G W #POS
+}
+{
+Masyarakat ? cuek aja.. *sakerepe dewe
+#NUMMasalahTahunBaru TAGNUM URL
+#POS B W G G W W V B
+H H U #POS
+}
+{
+(cont) dengan NUM truk sampah, NUM street sweeper, NUM unit toilet mobile, dan NUM gerobak motor.
+TAG TAGNUM
+#POS W J W B K N N W K N N W K N N A W B K N N W
+H H #POS
+}
+{
+Khusus untuk Jakarta Night Festival, petugas yang dikerahkan sebanyak NUM orang ditambah NUM orang pengawas...cont
+ TAG
+#POS B B B N N W B B B B K N V K G G J J
+H #POS
+}
+{
+Kita sedang membahas Jakarta Night Festival loh ! ikut bahas yuk REF REF REF REF
+#POS B B B B N N N W G G C I I I I #POS
+}
+{
+TAG NUM.NUM petugas kebersihan dkerahkan utk membersihkan sampah perayaan tahun baru di Jakarta cc REF URL
+#POS H K N V V G G G G G G G B N I U #POS
+}
+{
+Sampah sisa jakarta night festival.. cc REF URL
+#POS B B B N N W N I U #POS
+}
+{
+TAG Jakarta Night Festival hasilkan NUM ton sampah.. URL
+#POS H B N N V K N G W U #POS
+}
+{
+TAGNUM TAG ~~&gt; "REF Warga Lereng Merapi Komitmen Stop BAB Sembarangan URL"
+#POS H H G W I B B B B V B B U W #POS
+}
+{
+REF Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS I C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+TAG ~&gt;"REF Pemkab Aceh Tengah Terima Masukkan Rakyat Soal Sanitasi URL … TAG REF REF
+#POS H W I B B B B B B B B U W H I I W #POS
+}
+{
+Mengurangi timbunan sampah (reduce)~~&gt;"REF Kantong Plastik Resmi Dilarang di Negara Swiss -&gt; URL  TAG"
+#POS B B B W V W I B B B B B B B G U H W #POS
+}
+{
+Kalau bisa kegiatan yg sederhana, tdk membutuhkan dana yg banyak, tpi dampaknya cukup signifikan.
+TAGNUM
+#POS B B B W B W B B B G G W B B B B W
+H #POS
+}
+{
+Malam semua ! TKPS berencana melakukan kegiatan dalam waktu dekat ini. Ada yg punya usul kegiatan ?
+TAGNUM
+#POS B G W B B B B B G G G W G G G G G W
+H #POS
+}
+{
+semangat !"REF Sedang merancang acara yang pas untuk Tim Khusus Peduli Sanitasidalam waktu dekat ini.."
+#POS B W W I B B B B B B B B B B B B G W W #POS
+}
+{
+Ameen RT"REF Selamat pagi NUM! Hope it will be a peaceful year for Indonesia!"
+#POS C J W I B B K W V O V V D A N P B W W #POS
+}
+{
+Like fanpage REF ~~&gt; URL
+#POS P N I G U #POS
+}
+{
+What do you think ?
+TAGNUM URL
+#POS O V O V W
+H U #POS
+}
+{
+THANK YOU to everyone who has supported REF in NUM. Wishing everyone a happy, healthy and prosperous new year.
+#POS V O P N O V V I P K W V N D A W A F A A N W #POS
+}
+{
+REF  Min, follback ya, komunitas peduli lingkungan khususnya sanitasi dan air minum. Bentukan pemuda loh :D
+#POS I N W V O W B B B B B B N N W B B G E #POS
+}
+{
+Hopefully in NUM the condition of sanitation and drinking water in Indonesia is better than in previous years.Ameen
+TAGNUM
+#POS R P K D N P N F V N P B V A P P A N W C
+H #POS
+}
+{
+Special Care Sanitation Team congratulate the new year NUM !
+TAGNUM
+#POS A N N N V D A N K W
+H #POS
+}
+{
+Semoga di tahun NUM kondisi sanitasi dan air minum di Indonesia lebih baik dri tahun-tahun sebelumnya. Amiin
+TAGNUM
+#POS G G G K N G B N G G B G G G G G W C
+H #POS
+}
+{
+Tim Khusus Peduli Sanitasi mengucapkan selamat tahun baru NUM !
+#POS B B B B B B B B K W #POS
+}
+{
+REF Min, follback ya, komunitas peduli lingkungan khususnya sanitasi dan air minum. Bentukan pemuda loh :D
+#POS I N W V O W B B B B B B N N W B B G E #POS
+}
+{
+Oke, mimin undur diri dulu ya, selamat bersenang-senang and happy new year !
+TAGNUM
+#POS C W B B B V O W G G F A A N W
+H #POS
+}
+{
+NUM. Acara yang akan dilakukan TKPS di thn NUM lancar dan sukses semua. Amiin.
+TAGNUM
+#POS K W B B B B B B G K G B B B W C W
+H #POS
+}
+{
+NUM. Kesadaran masyarakan akan pentingnya sanitasi dn air minum yg baik semakin meningkat, lingkungan pun mnjdi sehat.
+TAGNUM
+#POS K W B B B B B B N N G G G G W B N G G W
+H #POS
+}
+{
+...Jadi Indonesia gk akan ada di peringkat NUM sanitasi terburuk di dunia.
+TAGNUM
+#POS W B B B B G G G K N G G G W
+H #POS
+}
+{
+NUM. Semoga kondisi sanitasi dan air minum di Indonesia semakin maju dan baik...cont
+TAGNUM
+#POS K W G G G B N G G B G G B B W J
+H #POS
+}
+{
+Oke, mimin akan share NUM harapan utama TKPS di tahun NUM..
+#POS C W G G V K B B B B B K W #POS
+}
+{
+Yuk share harapan kalian di tahun NUM nanti, mulai dri harapan utk diri sendiri sampai ke lingkungan Indonesia juga blh ! TAGNUM
+#POS C V B B G G K N W G G G G G G G G G B B B W H #POS
+}
+{
+Bagi yg belum like fanpage kita di faceboook, like yuk ~~&gt; URL
+#POS B G G P N G G B W P N G U #POS
+}
+{
+Buat yg nanti ikut tahun baru'an, blh seneng-seneng. Tpi ttp rawat lingkungan dan buang sampah pada tempatnya ya :D
+#POS B G G G G G W G G W B B B B B B B B B C E #POS
+}
+{
+Selamat sore semua ! hari ini, hari terakhir NUM, share yuk harapan kalian di NUM nanti ?
+#POS G A N W G G W B B K W V C B B B K N W #POS
+}
+{
+Caranya gampang kok, kalian hanya harus mengisi form ini ~~&gt; URL selamat mengisi !
+#POS B B B W B B B B N G G U G N W #POS
+}
+{
+Selamat Pagi Semua ! Mimin punya kabar baik nih, buat kalian yang mau jdi sukarelawan TKPS, gampang loh caranya :D
+#POS B B B W G G G G G W G G G G G G B W G G G E #POS
+}
+{
+Like fanpage kita ~~&gt; URL
+#POS P N N G U #POS
+}
+{
+Good afternoon all ! don't forget to dispose of trash in its place, because one small action could have a major impact for our environment
+#POS A N R W V V P V P N P D N W P K A N V V D A N P D N #POS
+}
+{
+Selamat pagi semua ! "Together we must care about sanitation and drinking water" tahu kan artinya ?
+#POS B B B W W R O V V P N F V N W G G G W #POS
+}
+{
+usulan logo TKPS dari REF ( REF ) gimana menurut kalian ? TAG URL
+#POS B N B B I W I W G G G W H U #POS
+}
+{
+Adakah yang punya usulan logo/lambang untuk TKPS ?
+#POS B B B B N G B W #POS
+}
+{
+REF betul ! agar lebih mudah diolah..
+#POS I C W G G G G W #POS
+}
+{
+Selamat sore semua ! jangan lupa membuang sampah pada tempatnya ya ! satu tindakan kecil bisa berdampak besar untuk lingkungan kita :D
+#POS G A N W G G G G G G C W G G G G G G G G G E #POS
+}
+{
+Like Fanpage kita ~~&gt; URL
+#POS P N N G U #POS
+}
+{
+Happy Christmas to all who celebrate it. May the peace of Christmas were to all! URL
+#POS A B P D O V O W V D N P B V P D W U #POS
+}
+{
+Selamat hari natal untuk semua yang merayakannya. Semoga kedamaian natal menyertaimu semua !
+#POS B B B B G G G W G G G G G W #POS
+}
+{
+REF TAG !
+#POS I H W #POS
+}
+{
+TAG dngan peduli sanitasi dan air minum, kalian sudah membantu pemerintah dlam mencapai target MDGs NUM tepatnya nomor NUM REF
+#POS H H B B B N N W B B B B B B N B K N G K I #POS
+}
+{
+Selamat malam semua ! jangan lupa buang sampah pada tempatnya ya ! satu perbuatan kecil bisa berdampak besar bagi lingkungan kita !
+#POS B B B W G G G G G G C W G G G G G G G G G W #POS
+}
+{
+REF Follback ya, bentukan peserta panel YCM NUM ~~&gt; REF
+#POS I V O W B B N P K G I #POS
+}
+{
+REF Follback ya, kami komunitas yg peduli sanitasi lingkungan dan air minum.
+#POS I V O W B B G G G G B N N W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+Lets do sanitation for a better life !
+#POS L V N P D A N W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+TAG Daur ulang sampah organik RT REF etNUM.jpg URL
+#POS H B B B B J I J K W G U #POS
+}
+{
+Selamat menyambut hari natal untuk semua yang merayakannya ! 
+TAG
+#POS B B B B B G G G W
+H #POS
+}
+{
+like fanpage kita di URL
+#POS P N G G U #POS
+}
+{
+REF Ya, sama-sama. Bisa tidak dihubungi ?
+#POS I C W G W G G G W #POS
+}
+{
+REF Ya, sama-sama..
+#POS I C W G W #POS
+}
+{
+REF Thanks ! Hello !
+#POS I N W C W #POS
+}
+{
+REF Kalau boleh tahu, untuk apa ya ?
+#POS I B B B W G G C W #POS
+}
+{
+REF Halo Emil :) NUM
+#POS I B B E E #POS
+}
+{
+link recycle ~~&gt; URL
+#POS N V G U #POS
+}
+{
+Link recycle ~~&gt; URL
+#POS V V G U #POS
+}
+{
+Sekarang itu kita lgi share link recycle.. TAG
+#POS G G G G V N V W H #POS
+}
+{
+Link recycle ~~&gt; URL
+#POS V V G U #POS
+}
+{
+Link recycle ~~&gt; URL
+#POS V V G U #POS
+}
+{
+REF REF REF REF Terharu jadinya..
+#POS I I I I B B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF Terima kasih kak, TAG siapp !
+#POS I B B B W H N W #POS
+}
+{
+REF follback kak, TAG
+#POS I C C W H #POS
+}
+{
+Indonesia butuh anak muda yg bisa buat perubahan ke arah yg positif bukan ke arah yg negatif.. TAG REF
+#POS B G G G G G G G G G G G G G G G V W H I #POS
+}
+{
+REF Follback, Kita tim peduli sanitasi lingkungan dan air minum. TAG
+#POS I B W B B B B B B N N W H #POS
+}
+{
+REF Follback ya, TAG
+#POS I V O W H #POS
+}
+{
+REF REF REF Alhamdullilah, Amiin..TAG
+#POS I I I C W C W H #POS
+}
+{
+Like fanpage kita di URL
+cc REF REF REF REF REF
+#POS P N G G U
+N I I I I I #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+Recycling Bazaar TAG TAG 
+cc : REF REF REF REF URL
+#POS N N H H
+N W I I I I U #POS
+}
+{
+sanitation education to students TAG
+cc REF REF REF URL
+#POS N N P N H
+N I I I U #POS
+}
+{
+...to mobilize governments, 
+UN agencies and partners to accelerate progress on MDG NUM..
+TAG cc REF
+#POS W P V N W
+B N F N P V N P B K W
+H N I #POS
+}
+{
+UN Deputy Secretary-General Jan Eliasson launched a Call to 
+TAG in March NUM to mobilize...cont
+#POS B B B B B V D N P
+H P B K P V W C #POS
+}
+{
+To boost sanitation efforts and end open defecation, which 
+causes diseases that kill thousands of children every day..c
+TAG
+#POS P V N N F N V N W D
+V N P V N P N D N W G
+H #POS
+}
+{
+Good morning ! We have a new theme ! TAG TAG URL
+#POS A N W O V D A N W H H U #POS
+}
+{
+Ngomong-ngomong, ada yg tahu gn.merapi kan ? gunung yg NUM lalu erupsi itu. Tahu gk gn.merapi udh sering erupsi loh..
+#POS B W G G G C W B B W V G K N G G W G G C W B B B B B W #POS
+}
+{
+Kopi ini biasa dijual di angkringan (tempat makanan pinggir jalan)
+#POS B G G G G G W G G G B W #POS
+}
+{
+Sedikit bahas ttg Yogyakarta ya ! Di yogyakarta ada namanya kopi joss, kopi ini di dalamnya ditaruh arang loh.
+#POS G G G B C W G G G G G B W B G G G N V B W #POS
+}
+{
+Miminnya lg minum kopi joss nih di malioboro, Yogyakarta. Tahu kopi joss kan ? Kopi joss kopi yg dalamnya di kasih arang.
+#POS B B B B B B B B W B W G G B B W B B B G G G G N W #POS
+}
+{
+Selamat sore semua !
+#POS G A N W #POS
+}
+{
+REF you're welcome! :)
+#POS I L V W E #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF  can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ? we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF Can you follback us ?, we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF Can you follback us ?, we are sanitation and drinking water community from Indonesia.
+#POS I V O V O W O V N F V N N P B W #POS
+}
+{
+REF can you follback us ?, we are sanitation and drinking water community.
+#POS I V O V O W O V N F V N N W #POS
+}
+{
+REF follback kak, dri kandidat YCM
+#POS I C C W G B B #POS
+}
+{
+REF follback kak, dri kandidat YCM.
+#POS I C C W G B B W #POS
+}
+{
+Yuk kita kasih contoh yang baik ke adik-adik kita, karna "Children SEE, Children DO"
+cc REF
+#POS C B B B G G G G G W B W N V W B V W
+N I #POS
+}
+{
+REF follbacknya k,
+#POS I C N W #POS
+}
+{
+Selamat pagi semua ! sudahkah kalian membuang sampah pada tempatnya ?
+#POS B B B W G G G G G G W #POS
+}
+{
+Selamat malam semua ! Share yuk atifitas kalian hari ini ?
+#POS B B B W V C B B B G W #POS
+}
+{
+Acara TAG hari ke NUM sukses. Tunggu acara TAG Hari ke NUM di bulan januari nanti ya ! Akan ada kejutan :D
+#POS B H B B K N W G G H B B K G G B G C W G G G E #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+TAG TAG TAG URL
+#POS H H H U #POS
+}
+{
+Yang laki-laki pun tak mau kalah. TAG TAG TAG URL
+#POS C G N G G G W H H H U #POS
+}
+{
+Mereka semangat untuk buat TAG TAG REF REF URL
+#POS B B B B H H I I U #POS
+}
+{
+Liat saja modelNUM kita ini, begitu anggun dengan TAG kreasi mereka.. REF REF TAG URL
+#POS B B B B B W G B B H B B W I I H U #POS
+}
+{
+Selamat sore semua ! Tadi acara TAG hari ke NUM sukses loh ! Tadi kita ada TAG dan TAG
+#POS G A N W B B H B B K G G W B B B B B H #POS
+}
+{
+Oke besok TAG hari ke NUM dan ada acara TAG sama TAG...
+#POS C A H B B K B B B B B H J #POS
+}
+{
+Yuk dibungkus dulu hadiahnya ! TAG TAG URL
+#POS C B B B W H H U #POS
+}
+{
+Bazar daur ulang. Banyak banget kan yang beli :D TAG URL
+#POS B B B W G G G G G E H U #POS
+}
+{
+Penyuluhan Sesi III " Mengatasi Permasalahan Sampah di Sekolah" oleh Leon Alvinda P, Duta Sanitasi Jawa Tengah NUM. URL
+#POS B B B W B B B G G W B B B B W B B B B K W U #POS
+}
+{
+Penyuluhan Sesi III " Mengatasi Permasalahan Sampah di Sekolah" oleh Leon Alvinda P, Duta Sanitasi Jawa Tengah NUM. TAG
+#POS B B B W B B B G G W B B B B W B B B B K W H #POS
+}
+{
+Penyuluhan Sesi II "Air Limbah" oleh Arifin Setyabudi (Divisi Penyuluhan dan Sosialisasi TKPS) URL
+#POS B B B W N N W C B B W G G B B B W U #POS
+}
+{
+Penyuluhan sesi I "Drainase dan Kiprah Siswa Dalam Merawatnya" oleh Rizki Nur NPP, Duta Sanitasi Jawa Tengah NUM URL
+#POS B B O W V B B B B B W C B B B W B B B B K U #POS
+}
+{
+REF Oke, Terima kasih untuk info yang sangat bermanfaat ini.
+TAG TAG
+#POS I C W B B B N G G G G W
+H H #POS
+}
+{
+tpi rumbayNUM nya diikat antara samping dengan samping atau depan dengan depan ?
+TAG TAG REF
+#POS B B B B B B B B G G G G W
+H H I #POS
+}
+{
+Acara TAG hari pertama lancar dan sukses loh !
+#POS B H B B G B B B W #POS
+}
+{
+REF REF Makasih kak, oke :))
+#POS I I B B W C E #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+TAG  TAG TAG URL
+#POS H H H U #POS
+}
+{
+Tekhnologi Sanitasi TAG TAG URL
+#POS B B B H U #POS
+}
+{
+Air tidak akan habis, air bersih akan habis. TAG TAG URL
+#POS N G G B W N N G G W H H U #POS
+}
+{
+Poster karya duta sanitasi.
+TAG URL
+#POS N G G N W
+H U #POS
+}
+{
+REF Followed 
+TAG
+#POS I V
+H #POS
+}
+{
+Mimin mau share foto ttg sanitasi loh.
+TAG
+#POS B B V B B B B W
+H #POS
+}
+{
+REF kak, kita bermaksud membuat TAG yang dibuat oleh SiDalang, boleh tidak kak ?
+#POS I C W B B B H C C C B W G G G W #POS
+}
+{
+Mohon do'a nya agar acara besok lancar dan sukses ya. Amiin
+TAG TAG TAG TAG
+#POS B G G G G G G B V O W C
+H H H H #POS
+}
+{
+Acara TAG ke NUM adalah Games Sanitasi, nanti ada hadiah menarik loh dri TKPS.
+TAG
+#POS B H B K B B B W G G G G G G B W
+H #POS
+}
+{
+NUM. Bazar dan Pameran Daur Ulang. Semuanya terbuat dri sampah dan buatan anggota TKPS.
+TAG
+#POS K W B B B B B W G G G G B B B B W
+H #POS
+}
+{
+Sesi IV : Tanya jawab antara peserta dengan narasumber.
+TAG
+#POS B B W B B B B B B W
+H #POS
+}
+{
+Sesi III: Penyuluhan dengan tema "Mengatasi Permasalahan Sampah di Sekolah" oleh Leon AP (Duta Sanitasi Jawa Tengah NUM &amp; Founder TKPS)TAG
+#POS B B W B B B W B B B G G W B B B W B B B B K F N P H #POS
+}
+{
+Sesi II: Penyuluhan dengan tema " Air Limbah Bukan Masalah Apabila Kita Olah" oleh Arifin Setyabudi.
+TAG
+#POS B B W B B B W N N B B B B B W C B B W
+H #POS
+}
+{
+Sesi I : Penyuluhan dengan tema "Drainase dan Kiprah Anak Dalam Merawatnya" oleh Rizki NPP (Duta Sanitasi Jawa Tengah NUM).
+TAG
+#POS G O W B B B W V B B B B B W C B B W B B B B K W W
+H #POS
+}
+{
+TAG Acaranya adalah :
+NUM.Penyuluhan Sanitasi, penyuluhan ini dibagi menjadi NUM sesi :
+#POS H B B W
+K W B B W B B B B K N W #POS
+}
+{
+Jadi besok TKPS akan mengadakan acara di TAGNUMGROGOL. Tema acara ini adalah TAG
+#POS B B B B B B B B W B B G G H #POS
+}
+{
+Min, kita bermaksud membuat TAG yang dibuat oleh SiDalang, boleh tidak min ? REF
+#POS N W B B B H C C C B W G G N W I #POS
+}
+{
+Min, kita bermasuk membuat TAG yang dibuat oleh SiDalang, bulah tidak min ? REF
+#POS N W B B B H C C C B W B B N W I #POS
+}
+{
+Selamat malam semua ! Apakah hari ini anda sudah membuat perubahan utk lingkungan anda ?
+#POS B B B W G G G G G G G G G G W #POS
+}
+{
+Selamat siang tweeps ! Selamat beraktifitas dan jangan lupa buang sampah pada tempatnya ya :D TAG
+#POS B B B W G G B B B B B B B O E H #POS
+}
+{
+Yuk di like fanpage kita di URL
+#POS C G P N G G U #POS
+}
+{
+Gak tau nadanya ? nih kita kasih :p URL
+#POS B B B W G G G E U #POS
+}
+{
+Selamat smalam semua ! Nyanyi lagu peduli sanitasi yuk ! Terus kita laksanakan di dunia nyata :D URL
+#POS B G G W G G G G C W B B B B B B E U #POS
+}
+{
+Dan kita mengucapkan selamat dn semoga sukses utk founder kita REF yg akan mengikuti seleksi panel Youn ChangeMakers NUM di jogja.
+#POS B B B B G G G G N G I C C N N N B B K G G W #POS
+}
+{
+Jadi tadi yg kita retweet adalah kegiatan yg akan kita laksanakan
+#POS B B G G G G G G G G G #POS
+}
+{
+Selamat malam semua ? Yuk kita peduli sanitasi dan air minum !
+#POS B B B W C B B B B N N W #POS
+}
+{
+REF Hai followed ya
+#POS I C V O #POS
+}
+{
+Selamat malam semua ! Yuk kita peduli sanitasi dan air minum :D
+#POS B B B W C B B B B N N E #POS
+}
+{
+Bu Mulyani, S.Pd. (Pembina TKPS Sukoharjo) sedang memberikan pengarahan untuk anggota TKPS Sukoharjo. URL
+#POS G B W B W B W W B B B W G G G G G B B W U #POS
+}
+{
+contoh hasil daur ulang sampah, buatan anggota TKPS Sukoharjo URL
+#POS B B B B B W B B B B U #POS
+}
+{
+Selamat malam semua ! Yuk kita peduli sanitasi dan air minum :D
+#POS B B B W C B B B B N N E #POS
+}
+{
+Selamat malam semua ! sudahkah kalian peduli sanitasi dan air minum ?
+#POS B B B W G G G G B N N W #POS
+}
+{
+REF Followed.
+#POS I V W #POS
+}
+{
+Hai REF REF Cek email kalian ya, lalu balas email dri kita :D
+#POS C I I C N V O W G G N G G E #POS
+}
+{
+Hai REF REF  REF REF REF REF REF Cek email kalian ya, lalu balas email dri kita :D
+#POS C I I I I I I I C N V O W G G N G G E #POS
+}
+{
+Hai REF REF REF REF Cek email kalian ya, lalu balas email dri kita :D
+#POS C I I I I C N V O W G G N N G E #POS
+}
+{
+Tertarik jadi anggota kita ? isi formnya di ~~&gt; URL
+#POS B B B B W G G G G U #POS
+}
+{
+Mimin undur diri dulu, sampai jumpa lain waktu :) Mari peduli sanitasi dan air minum :D 
+TAG
+#POS B B B B W G G V G E B B B B N N E
+H #POS
+}
+{
+Hai REF REF REF kita sdh membahas #NUMR loh, bisa liat di TL kita yg ada hastag #NUMR
+#POS C I I I G G G G G W G G G N G G G G H #POS
+}
+{
+Hai REF REF REF REF kita sdh membahas #NUMR loh, bisa liat di TL kita yg ada hastag #NUMR
+#POS C I I I I G G G G G W G G G N G G G N H #POS
+}
+{
+Hai REF REF REF kita sdh membahas #NUMR loh, bisa liat di TL kita yg ada hastag #NUMR
+#POS C I I I G G G G G W G G G N G G G G H #POS
+}
+{
+So, mari lakukan #NUMR ! :)
+#POS R W B B B W E #POS
+}
+{
+Namun dari #NUMR yang mdh ini bisa memberikan dampak yang signifikan  bagi penanganan sampah yang sering menjadi permasalahan di sekitar kita.
+#POS B B B B B G G G G G G G G G G G G G G G G W #POS
+}
+{
+Jadi Melakukan #NUMR itu mudah kan ? dapat dilakukan oleh siapa saja, di mana saja, dan kapan saja serta tidak membutuhkan biaya yang besar.
+#POS B B B B B B W G G G G B W G G B W B B B B B B B B B W #POS
+}
+{
+NUM. Lakukan pengolahan sampah organic menjadi kompos.
+NUM.Lakukan pengolahan sampah non organic menjadi barang yang bermanfaat.#NUMR
+#POS K W B B B A N N W
+K W B B B B A N G G G W H #POS
+}
+{
+NUM.Pilih produk dan kemasan yang dapat didaur ulang dan mudah terurai.
+NUM.Olah sampah kertas menjadi kertas atau karton kembali. #NUMR
+#POS K W B G B B B B B B B B B W
+K W B B B B B W B B W H #POS
+}
+{
+Dan selanjtnya contoh penerapan recycle :D #NUMR
+#POS B B B B V E H #POS
+}
+{
+NUM. Kurangi penggunaan bahan sekali pakai.
+NUM.Gunakan kedua sisi kertas untuk penulisan dan fotokopi.#NUMR
+#POS K W B B B B B W
+K W B B B B B B B B W H #POS
+}
+{
+NUM. Gunakan produk yang dapat diisi ulang (refill). Misalnya alat tulis yang bisa diisi ulang kembali)#NUMR.
+#POS K W B B G G G G W V W W B B B G G G G G G W #POS
+}
+{
+NUM.Pilih produk dengan kemasan yang dapat didaur ulang.Hindari memakai dan membeli produk yang menghasilkan sampah dalam jumlah besar.#NUMR
+#POS K W B B B B B B B B W B B B B B B B B B B B W H #POS
+}
+{
+Selanjutnya contoh kegiatan reduce #NUMR :D
+#POS G G B V B E #POS
+}
+{
+Gunakan kembali wadah atau kemasan yang telah kosong untuk fungsi yang  sama atau fungsi lainnya.#NUMR
+#POS B B B W B B B B B B B G G B B W H #POS
+}
+{
+Pilihlah wadah, kantong atau benda yang dapat digunakan beberapa kali  atau berulang-ulang. Misalnya, pergunakan serbet dri pada tissu #NUMR
+#POS B B W B G B G G G G G G G W B W B B G G G G #POS
+}
+{
+NUM.Jual atau berikan sampah yang terpilah kepada pihak yang memerlukan.#NUMR
+#POS K W B W B B B B B B B B W H #POS
+}
+{
+NUM. Gunakan sisi kertas yang masih kosong untuk menulis.
+NUM.Gunakan email (surat elektronik) untuk berkirim surat. #NUMR
+#POS K W B B B G G G G G W
+K W B N W B N W G G B W H #POS
+}
+{
+Contoh kegiatan reuse sehari-hari:
+NUM Gunakan alat-alat penyimpan elektronik yang dapat dihapus dan ditulis kembali. #NUMR
+#POS B B V G W
+K B B B B B B B B B B W H #POS
+}
+{
+Oke kita akan share contoh penerapan #NUMR dalam kehidupan sehariNUM :D
+#POS C B B V B B B B B B E #POS
+}
+{
+Hai REF REF REF REF sdng membahas #NUMR loh, ikt bahas yuk ! :D
+#POS C I I I I V B B B W G G C W E #POS
+}
+{
+Yang dibutuhkan hanya sedikit waktu dan kepedulian kita. #NUMR
+#POS C G G G G B B B W H #POS
+}
+{
+Hai REF REF REF REF sdng membahas #NUMR loh, ikt bahas yuk ! :D
+#POS C I I I I V B B B W G G C W E #POS
+}
+{
+Mengelola sampah dengan sistem #NUMR (Reuse Reduce Recycle) dapat dilakukan oleh siapa saja, kapan saja (setiap hari), di mana saja... (c)
+#POS B B B B B W V V V W B B B B B W B B W G G W W G G G J W N W #POS
+}
+{
+Hai REF REF REF  Kita sdng membahas #NUMR loh, ikt bahas yuk ! :D
+#POS C I I I B B B B B W G G C W E #POS
+}
+{
+TAG berarti mengolah kembali (daur ulang) sampah menjadi barang atau produk baru yang bermanfaat. #NUMR
+#POS H G G B W N G W G G G G G G G G W H #POS
+}
+{
+TAG berarti mengurangi segala sesuatu yang mengakibatkan sampah. #NUMR
+#POS V B B B G G G G W H #POS
+}
+{
+Reuse berarti menggunakan kembali sampah yang masih dapat digunakan untuk fungsi yang sama ataupun fungsi lainnya. #NUMR
+#POS V B B B B G G G G G G G G G G B W H #POS
+}
+{
+NUMR terdiri atas reuse, reduce, dan recycle. #NUMR
+#POS G G G V W V W B V W H #POS
+}
+{
+NUMR atau Reuse, Reduce, dan Recycle sampai sekarang masih menjadi cara terbaik dalam mengelola dan menangani sampah. #NUMR
+#POS G G V W V W B V G G G G G G G G B B B W H #POS
+}
+{
+REF Betul ! :D
+#POS I C W E #POS
+}
+{
+NUMR itu singkatan dri Reduce, Reuse dan Recycle  :D #NUMR
+#POS G G G G V W V B V E H #POS
+}
+{
+REF Benar ! NUM buat kamu..
+#POS I B W K G G W #POS
+}
+{
+Selamat sore menjelang malam semua ! tahukah kalian kepanjangan dri NUMR ?
+#POS G A N G G W G G G G G W #POS
+}
+{
+REF REF nggih mas, kaburr ah,, dripada hri senin kena omelan pak founder..
+#POS I I B B W B C W V G G G G B N W #POS
+}
+{
+REF Kan yg bentuk REF ..oke
+#POS I B G G I W C #POS
+}
+{
+REF Koordinator divisi data dan informasi :)
+#POS I B B N B B E #POS
+}
+{
+REF followed :D
+#POS I V E #POS
+}
+{
+REF REF REF hahahaha
+#POS I I I C #POS
+}
+{
+REF REF Itu mah ketua kita..
+#POS I I G G G G W #POS
+}
+{
+REF REF ohh..
+#POS I I C W #POS
+}
+{
+REF Ganteng mungkin..
+#POS I B G W #POS
+}
+{
+REF REF Amiin. klau blh tau Ubur-ubur itu nama organisasi ?
+#POS I I C W G G G G G G G W #POS
+}
+{
+REF Amiin. pasti kita do'ain.. :)
+#POS I C W G G V W E #POS
+}
+{
+REF Sip :D Duta sanitasi ya ?
+#POS I N E B B C W #POS
+}
+{
+REF Betul sekali ! :D
+#POS I B B W E #POS
+}
+{
+Selamat sore menjelang malam semua ! yuk buang sampah pada tempatnya, agar lingkungan menjadi BERSERRI ! :D
+#POS G A N G G W C G G G G W G G G B W E #POS
+}
+{
+Selamat hari toilet dunia semuanya ! URL
+#POS B B N G G W U #POS
+}
+{
+Selamats sore menjelang malam semua ! Sudahkah me-like fanpage kita ? klau blm yuk like di URL
+#POS N A N G G W V O N N W G G C P G U #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+REF Bagus..
+#POS I B W #POS
+}
+{
+Selamat sore semua ! Sudahkah kalian menghemat air dan membuang sampah pada tempatnya ? 
+TAG
+#POS G A N W B B B N B B B B B W
+H #POS
+}
+{
+REF follback kami ya..
+#POS I C V O W #POS
+}
+{
+REF Followed
+#POS I V #POS
+}
+{
+Selamat sore menjelang malam semua ! Yuk di like fanpage kita di URL
+#POS G A N G G W C G P N G G U #POS
+}
+{
+REF Mengelola sanitasi berarti mengelola sampah, air limbah, dan drainase..
+#POS I B B B B B W N N W B V W #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+REF Yuk di like fanpage kami di URL
+#POS I C B P N B B U #POS
+}
+{
+REF Yuk di like fanpage kami di URL
+#POS I C B P N B B U #POS
+}
+{
+Selamat pagi! Yang ga ada kerjaan mari merapat ke Sungai Ciliwung Condet yuk, bakal ada kegiatan seru dalam rangka TAGNUM :D
+#POS B B W C B G G G G G B B B C W G G G G G G H E #POS
+}
+{
+REF followed ya TAG
+#POS I V O H #POS
+}
+{
+REF sama-sama
+#POS I G #POS
+}
+{
+REF Hai Rara, followed ya
+#POS I C B W V O #POS
+}
+{
+Selamat malam dan mari peduli sanitasi dan air minum.
+Bye-bye
+TAG TAG *tweet yg ke NUM loh :)
+#POS B B B B B B B N N W
+C
+H H W V W B K G E #POS
+}
+{
+Oke kita sdhhi dulu pembahasan malam ini ya, mimin undur diri dulu dan mohn maaf bila ada salah kata maupun informasi... 
+TAG
+#POS C B B B B B G C W B B B G B B B B G G G G G J
+H #POS
+}
+{
+NUMR = Reduce, Reuse, Recycle. TAG
+#POS G W V W V W V W H #POS
+}
+{
+Oke, kita sdh dulu bahasnya, skrng saatnya membuka sesi tanya jawab. Jangan lupa pke hastag TAG
+#POS C W B G G G W G G G G B B W B B B V H #POS
+}
+{
+Waduh sdh jam stngh NUM aja ya, sdh brp banyak fakta yg kita sebutkan ya ? 
+TAG
+#POS B B B B K G C W G G G G G G G C W
+H #POS
+}
+{
+TAG ? Asosiasi Toilet Indonesia (REF adalah organisasi peduli toilet di Indonesia TAG
+#POS H W B B B W I W B B B N P B H #POS
+}
+{
+Going to Toilet is not a choise but a necessity ......    
+*World Toilet Day  November NUM*
+TAG
+#POS V P N V R D N F D N W
+W B B B B K W
+H #POS
+}
+{
+(c) Jauh lebih hemat ketimbang gayung dan ember yang bisa menghabiskan air sampai NUM liter. (via REF
+TAG
+#POS W N W B B B B B B B G G G N G K N W W P I W
+H #POS
+}
+{
+Penyiram otomatis berkapasitas NUM,NUM liter untuk buang air kecil dan NUM,NUM liter untuk buang air besar.... (c)
+TAG
+#POS B B B K W K N G G N G B K W K N G G N G W W N W
+H #POS
+}
+{
+Ke Toilet bukanlah pilihan tetapi kebutuhan.
+(REF TAG
+#POS B N N V B B W
+W I W H #POS
+}
+{
+Hai REF REF kita sudah membahas faktaNUM ttg sanitasi dan air minum loh diliat ya TL kita yg ada TAG ya
+#POS C I I B B B B B B B N G G V D N G G G H O #POS
+}
+{
+(c)  menabung sampah yang masih memiliki nilai ekonomi sehingga menghasilkan nilai ekonomi.
+TAG
+#POS W N W G G G G G G G G G G G W
+H #POS
+}
+{
+Bank Sampah adalah suatu institusi/wadah yang didirikan dengan tujuan mengurangi jumlah sampah buangan dengan mekanisme (c)
+TAG
+#POS B B B B B B B B B B B B B B B W G W
+H #POS
+}
+{
+Dan sekarang mimin akan share pengertian bank sampah ya :D TAG
+#POS B G G G V B N G C E H #POS
+}
+{
+TAG.
+#POS H W #POS
+}
+{
+...Tak heran bila biaya kesehatan per tahun akibat sanitasi buruk mencapai Rp NUM.NUM per orang atau Rp NUM triliun secara nasional
+#POS W B B B B B P G G G G G G K P G G G K B B B #POS
+}
+{
+Setiap tahun tercatat sekitar NUM.NUM kasus diare yang memakan korban lebih dari NUM.NUM jiwa akibat sanitasi yang buruk....
+TAG
+#POS G G G G K B B B B B B B K G G G G G W
+H #POS
+}
+{
+Menurut data WSP (World Bank's Water and Sanitation Program), akses sanitasi perdesaan tidak bertambah secara berarti selama NUM thn terakhir
+#POS B N C W B Z N F N N W W V N V G G G G G K P G #POS
+}
+{
+Oke deh, lanjut lgi ya sesi TAG nya
+#POS C C W G G C B H G #POS
+}
+{
+Halo REF , kami adalah komunitas peduli lingkungan khususnya sanitasi dan air minum, bantu promote dan follback'a ya :D"
+#POS B I W B B B B B B B B N N W V V B V O E W #POS
+}
+{
+oke jeda dulu deh, kalau ada yg mau tanya hrs pke TAG ya
+#POS C B B B W G G G G B B B H C #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+Mayoritas pelaku praktik BAB sembarangan tinggal di desa. Hanya NUM,NUM persen penduduk perdesaan yang memiliki akses pada sanitasi yang layak.
+#POS B B B B B B B B W B K W K N N V G G G G G G G W #POS
+}
+{
+Dan skrng kita akan kembali membahas ttg BABS TAG
+#POS B B B B B B B B H #POS
+}
+{
+Dari data tersebut Indonesia berada di urutan kedua negara sanitasi terburuk di dunia. TAG
+#POS B N P B B B B B B B B B B W H #POS
+}
+{
+NUM. Nigeria: NUM juta orang tanpa sanitasi yang memadai
+NUM. Burkina Faso: NUM,NUM juta orang tanpa sanitasi yang memadai
+TAG
+#POS K W B W K N G G G G G
+K W B B W K W K N G G G G G
+H #POS
+}
+{
+NUM. Nepal: NUM juta orang tanpa sanitasi
+ NUM. China: NUM juta orang masih buang air besar sembarangan
+TAG
+#POS K W B W K N G G G
+K W B W K N G G G N G G
+H #POS
+}
+{
+NUM. Nigeria: NUM juta orang tanpa sanitasi yang memadai
+ NUM. Sudan: NUM juta orang masih buang air besar sembarangan
+TAG
+#POS K W B W K N G G G G G
+K W B W K N G G G N G G
+H #POS
+}
+{
+NUM. Pakistan: NUM juta orang masih buang air besar sembarangan
+ NUM. Ethiopia: NUM juta orang tanpa toilet 
+TAG
+#POS K W B W K N G G G N G G
+K W B W K N G G N
+H #POS
+}
+{
+NUM. INDONESIA : NUM JUTA ORANG TIDAK MEMILIKI TOILET
+cc : REF TAG
+#POS K W B W K B B B B B
+N W I H #POS
+}
+{
+NUM.URL juta orng hidup tanpa sanitasi yang memadai, NUM persen dri jumlah orang yg masih BAB sembarangan di seluruh dunia TAG
+#POS K W B W K N G G G G G B W K N N G G G G G G G G G H #POS
+}
+{
+Menurut laporan PBB, berikut NUM negara dengan jumlah tertinggi orang yang hidup tanpa sanitasi yang layak :
+TAG
+#POS B B B W N K B B B B B G G G G G G W
+H #POS
+}
+{
+Hai REF REF kita sudah membahas faktaNUM ttg sanitasi dan air minum loh diliat ya TL kita yg ada TAG ya
+#POS C I I B B B B B B B N G G V D N G G G H O #POS
+}
+{
+Dan skrng mimin akan share NUM negara dengan kondisi sanitasi terburuk di dunia TAG mau tahu ? trs simak TL kita ya :D
+#POS B B B B V K B B B B B B B H G G W G G N V O E #POS
+}
+{
+Hai REF REF kita sudah membahas faktaNUM ttg sanitasi dan air minum loh diliat ya TL kita yg ada TAG ya
+#POS C I I B B B B B B B N G G V D N G G G H O #POS
+}
+{
+Hai REF REF REF kita sudah membahas faktaNUM ttg sanitasi dan air minum loh diliat ya TL kita yg ada TAG ya
+#POS C I I I G G G G G G B N G G V D N G G G H C #POS
+}
+{
+Hai REF REF kita sudah membahas faktaNUM ttg sanitasi dan air minum loh diliat ya TL kita yg ada TAG ya
+#POS C I I B B B B B B B N G G V D N G G G H O #POS
+}
+{
+(c) Nepal, Nigeria, Pakistan, Sierra Leone, Zambia, Afghanistan, Burkina Faso, Chad, Kongo, Niger, Sudan dan Sudan Selatan. TAG
+#POS W N W B W B W B W B B W B W B W B B W B W B W B W B B B B W H #POS
+}
+{
+REF sip sama-sama.
+#POS I N G W #POS
+}
+{
+Negara tersebut antara lan : Brasil, China, India, Indonesia, Kamboja, Ethiopia, Kenya, Madagaskar, Malawi, Mozambik, (c) TAG
+#POS B B B B W B W B W B W B W B W B W B W B W B W B W W N W H #POS
+}
+{
+Dan sekarang mimin akan share negara-negara penyumbang sanitasi terburuk di dunia. TAG
+#POS B G G G V G G N G G G W H #POS
+}
+{
+Parah gk tuh ? mangkanya dri skrng stop BAB sembarangan TAG
+#POS B B B W G G G V B B H #POS
+}
+{
+Diare tersebut yang menyebabkan kematian lebih dari NUM.NUM anak di bawah usia lima tahun setiap tahun. TAG
+#POS B B B B B B B K B G G G G G G G W H #POS
+}
+{
+PBB menyatakan BAB sembarangan adalah salah satu penyebab utama diare (c) TAG
+#POS B B B B B B B B B B W N W H #POS
+}
+{
+Selamat malam REF REF REF ! kita akan membahas fakta-fakta tentang sanitasi dan air minum lagi loh :D ikut bahas yuk
+#POS B B I I I W G G G G G G B N G G G E G G C #POS
+}
+{
+Oke kita jeda dulu, klau ada yang mau tanya-tanya ttg Sanitasi, air minum atau ttg TKPS silahkan mention dengan hastag TAG ya
+#POS C B B B W B G G G G G B W N N G G G G V B V H C #POS
+}
+{
+Sebenarnya praktik BAB sembarangan sudah mengalami penurunan sebesar NUM juta sejak tahun NUM. TAG
+#POS B B B B B B B B K N G G K W H #POS
+}
+{
+BAB sembarangan masih dipraktikkan oleh NUM,NUM miliar orang atau NUM persen dari populasi di dunia. TAG
+#POS B B B B B K W K B B G K B B B B B W H #POS
+}
+{
+"NUM Negara mencapai lebih dari NUM persen dari buang air besar (BAB) sembarangan di dunia," jelas Jan Eliasson. TAG
+#POS W K B B B B K N G G N N W B W G G G W W B B B W H #POS
+}
+{
+Selamat malam REF REF kita akan membahas fakta-fakta tentang sanitasi dan air minum lagi loh :D ikut bahas yuk
+#POS B B I I W G G G G G G B N G G G E G G C #POS
+}
+{
+Dari data yang dikeluarkan PBB, NUM,NUM miliar orang di dunia masih hidup dengan sanitasi yang buruk. TAG
+#POS B N N V B W K W K B B G G G G G G G G W H #POS
+}
+{
+Tanggal NUM Maret setiap tahunnya diperingati sebagai Hari Air Sedunia. TAG
+#POS B K N G G G G B B B W H #POS
+}
+{
+Target air minum Indonesia pada tahun NUM se-suai dengan MDG adalah NUM persen, se-mentara target sanitasi NUM,NUM persen.TAG
+#POS N N G B B B K G G G G K N W G N N K W K N W H #POS
+}
+{
+Hai REF ! klau mau tahu lbih banyak ttg bank sampah, buka aja link ii :D   URL
+#POS C I W G G G G G G N N W B B N O E U #POS
+}
+{
+Selamat malam , kita akan bahas TAG lgi URL simak ya TL kita.
+#POS B B W B B B H G G E O V D N N W #POS
+}
+{
+Selamat malam REF REF REF kita akan membahas fakta-fakta tentang sanitasi dan air minum lagi loh :D ikut bahas yuk
+#POS B B I I I W G G G G G G B N G G G E G G C #POS
+}
+{
+Selamat sore semua ! sudahkah kalian menghemat air dan peduli sanitasi ?
+#POS G A N W G G G N B B B W #POS
+}
+{
+Selamat sore ! Malam minggu nanti kita akan bahas ttg fakta-fakta sanitasi lgi loh :D Di simak ya TL kita malam minggu nanti :)
+#POS G A W B B B B B B G G G G G E B G D N G G G G E #POS
+}
+{
+REF Blm ada, Skrng Duta Sanitasi hanya dri SMP, karena anak-anak dianggap lebih mampu dan lebih mudah utk diajak peduli sanitasi.
+#POS I B B W B B B B G B W B G G G G B B B G G G N W #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+Selamat Malam ! Dan Selamat Tahun Baru Hijriah NUM ya :)
+cc : REF REF REF REF REF
+#POS B B W B B B B B K C E
+N W I I I I I #POS
+}
+{
+Selamat Malam ! Dan Selamat Tahun Baru Hijriah NUM ya :)
+#POS B B W B B B B B K C E #POS
+}
+{
+REF REF Kita bisa merubah sampah
+#POS I I B B B B #POS
+}
+{
+REF bukan kok..
+#POS I G G W #POS
+}
+{
+REF Hingga jadi berkah..
+#POS I B B B W #POS
+}
+{
+REF Sebut saja NUMR
+#POS I B B B #POS
+}
+{
+Like FanPage kami di URL
+cc : REF REF REF REF REF
+#POS P N N G U
+N W I I I I I #POS
+}
+{
+Klau yg mau tanya silahkan mention ya, pke hastag TAG
+#POS B G G B B V O W B V H #POS
+}
+{
+TAG ? Di Indonesia sdh ada lagu untuk sanitasi diantaranya adalah Peduli sanitasi. utk lirik cek faforit kita cc : REF
+#POS H W G B G G G G G G G B B W G G G G G N W I #POS
+}
+{
+REF Hai, Adminnya anggota TKPS dri SMP N NUM Grogol, tpi yg skrng lgi on Ketua dan Foundernya :D
+#POS I C W B B B G B B K N W B G G G P B B B E #POS
+}
+{
+TAG ? Di Indonesia sdh ada lagu untuk sanitasi diantaranya adalah Peduli sanitasi. utk lirik cek faforit kita cc : REF
+#POS H W G B G G G G G G G B B W G G G G G N W I #POS
+}
+{
+TAG ? Di Indonesia sdh ada lagu untuk sanitasi diantaranya adalah Peduli sanitasi. utk lirik cek faforit kita cc : REF
+#POS H W G B G G G G G G G B B W G G G G G N W I #POS
+}
+{
+TAG ? Di Indonesia sdh ada lagu untuk sanitasi diantaranya adalah Peduli sanitasi. utk lirik cek faforit kita cc : REF
+#POS H W G B G G G G G G G B B W G G G G G N W I #POS
+}
+{
+TAG ? Di Indonesia sdh ada lagu untuk sanitasi diantaranya adalah Peduli sanitasi. utk lirik cek faforit kita cc : REF
+#POS H W G B G G G G G G G B B W G G G G G N W I #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yang ada hastag TAG cc : REF REF
+#POS B B G G G G G B N G G N V O W C G V H N W I I #POS
+}
+{
+TAG ? Para Duta Sanitasi dari berbagai provinsi merupakan siswa/i SMP.. TAG
+#POS H W G B B B B B B O G W H #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yg ada hastag TAG cc : REF REF
+#POS B B G G G G G B N G G N V O W C G V H N W I I #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yang ada hastag TAG. cc: REF REF
+#POS B B G G G G G B N G G N V O W C G V H W N W I I #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yang ada hastag TAG cc : REF REF
+#POS B B G G G G G B N G G N V O W C G V H N W I I #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yang ada hastag TAG cc : REF REF
+#POS B B G G G G G B N G G N V O W C G V H N W I I #POS
+}
+{
+Klau kalian mau tau fakta-fakta ttg sanitasi dan air minum liat TL kita ya, yang ada hastag TAG
+cc : REF REF
+#POS B B G G G G G B N G G N V O W C G V H
+N W I I #POS
+}
+{
+TAG ? Deklarasi PBB Juli NUM menyatakan bahwa "Sanitasi merupakan HAM".. TAG
+#POS H W B B B K N N W B B B W W H #POS
+}
+{
+TAG ? NUM jenis sampah tersebut adalah sampah organik, sampah guna ulang, sampah daur ulang, sampah residu, dan BNUM. TAG
+#POS H W K B B B B B B W B V V W B B B W B B W B B W H #POS
+}
+{
+TAG ? TPA sampah yang baik, dikelola secara Sanitary Landfill.. TAG
+#POS H W B B G G W B B B B W H #POS
+}
+{
+TAG ? Tema World Water Day NUM adalah " International Year of Water Cooperation".. TAG
+#POS H W B B B B K N W A N P B N W W H #POS
+}
+{
+TAG ? TPA sampah yang tidak dikelola dengan baik akan mecemari lingkungan TAG
+#POS H W B B G G G G G G G G H #POS
+}
+{
+TAG ? Sekarang sampah tidak hanya dibagi menjadi NUM jenis, melainkan NUM jenis.. TAG
+#POS H W G G G G G G K B W B K B W H #POS
+}
+{
+TAG ? NUM juta penduduk Indonesia menderita diare per tahun. {WSP-EAP NUM} TAG
+#POS H W K N P B B B P N W W C K W H #POS
+}
+{
+TAG ? Indonesia mengalam kerugian Rp. NUM triliun setiap tahunnya akibat sanitasi yang buruk. TAG
+#POS H W B B B B W K B B B B B B B W H #POS
+}
+{
+REF kita juga sdh mendaur ulang sampah menjadi kerajinan dan melatih siswa juga loh, cek aja di foto kita :)
+#POS I G G G G G G G G B B B B B W C B G G G E #POS
+}
+{
+Bantu promote ya REF :)
+#POS V V O I E #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+Hai REF kita komunitas peduli sanitasi lingkungan dan air minum loh :D follback dan bantu promote kita ya :)
+#POS C I B B B B B B N G G E G B V V V O E #POS
+}
+{
+REF Makasih :D
+#POS I B E #POS
+}
+{
+Dan ini not'a :) URL
+#POS B G G E U #POS
+}
+{
+Selamat malam ! Yuk kita nyanyi lagu peduli sanitasi ! :D URL
+#POS B B W C B B G G N W E U #POS
+}
+{
+Alhamdullilah tdi siang kita pengenalan TKPS ke anggota baru SMP N NUM grogol dan itu Sukses, kagum sama antusias dan semangat mereka. TAG
+#POS C G B B B B B B B B B K N B G B W B B B B B B W H #POS
+}
+{
+Bsk kita akan pengenalan TKPS kepada anggota kita di SMP N NUM Grogol..
+#POS B B B B B B B B G G F K N W #POS
+}
+{
+Ini dia Link'a ! :) URL
+#POS G G N W E U #POS
+}
+{
+Bergabunglah bersama kita ! klik link'a dan isi form'a ! terbuka utk umum dan seluruh Indonesia !
+#POS B B B W G G B B B W G G G B B B W #POS
+}
+{
+Selamat hari sumpah pemuda ! semoga semakin banyak pemuda yg peduli lingkungan khususnya sanitasi. Amiin
+#POS B B B B W G G G G G G G G N W C #POS
+}
+{
+REF Volunteer kita kan ? follbacknya ya.. :D
+#POS I B B B W V O W E #POS
+}
+{
+Peduli sanitasi ? peduli lingkngan ? Yuk gabung ! Daftar disini! URL … bantu RT ya REF REF
+#POS B B W G G W C C W G G W U W V V O I I #POS
+}
+{
+Peduli sanitasi ? peduli lingkngan ? Yuk gabung ! Daftar disini! URL bantu RT ya REF REF
+#POS B B W G G W C C W G G W U V V O I I #POS
+}
+{
+REF Oh ya, jangan lupa follbacknya ya :D
+#POS I C C W B B B O E #POS
+}
+{
+Hai REF , kita komunitas peduli lingkungan dan sanitasi loh :D bantu promote dan follback'a ya :)
+#POS C I W B B B B B B B E V V B V O E #POS
+}
+{
+REF Tempat penyimpanan air, dan mengembalikan habitat bagi hewan dan tumbuh-tumbuhan.
+#POS I B B N W B B N N V B B W #POS
+}
+{
+REF Reboisasi adlh penanaman kembali hutan yg telah gundul, gunanya utk mengurangi polusi udara, mencegah pemanasan global. next.
+#POS I B B B B B G G G W B B B B B W B B A W A W #POS
+}
+{
+Yuk yg mau jadi volunteer diisi form'a ~&gt; URL terbuka utk umum dan seluruh Indonesia loh :)
+#POS C C G G N N G G G U B B G B B B G E #POS
+}
+{
+REF Klau mimin blh jawab gk nih ? :p
+#POS I B B B B B B W E #POS
+}
+{
+REF Terima Kasih ya :)
+#POS I B B C E #POS
+}
+{
+REF Kembali :)
+#POS I B E #POS
+}
+{
+REF Oke. Selamat bergabung :)
+#POS I C W G G E #POS
+}
+{
+REF isi form ini dulu ya  URL
+#POS I G N G G O U #POS
+}
+{
+REF gk kok, msh sama tpi karena anggota dan volunteer kita ada yg dri luar grogol bahkan luar jateng jdi grogol'a kita hapus.
+#POS I C B W G G G G G B N G G G G G G G G G G D B B W #POS
+}
+{
+Like FanPage kita di URL
+#POS P N G G U #POS
+}
+{
+REF Tentunya :)
+#POS I B E #POS
+}
+{
+Sdh ada NUM orng nih yg mengisi form volunteer kita, skrng giliran kmu, klik link'a ya ~&gt; URL
+#POS B B K C G G B N N N W V G B W B V O G J U #POS
+}
+{
+REF Follback'a ya :D
+#POS I C C E #POS
+}
+{
+Yuk like kami di URL
+#POS C P B B U #POS
+}
+{
+REF Admin salah satu volunteernya kok :D
+#POS I N G G G G E #POS
+}
+{
+REF Followed ya..
+#POS I V O W #POS
+}
+{
+For more info NUM, tkps.URL :D TAG TAG
+#POS P A N K W U E H H #POS
+}
+{
+Mau ngundang kita ke acara kalian ? Mau ikut serta dalam acara kita ? Atau mau tanya-tanya ? email aja ke tkps.URL
+#POS C C B B B B W G G A N G G W G G G W N G G U #POS
+}
+{
+Mau jadi volunteer TKPS ? klik disini ya ~&gt; URL
+#POS G G N B W G G O G G U #POS
+}
+{
+Hai REF , kita adalah komunitas yg peduli sanitasi, lingkungan dan air minum loh :D follback dan bantu promote ya :D
+#POS C I W B B B G G N W G B N G G E G B V V O E #POS
+}
+{
+Sekarang TKPS sdh mempunyai NUM anggota loh, kalian mau  jadi anggota yg ke NUM dst ? kirim email aja ke tkps.URL
+#POS G G G G K G G W B G G G G B K B W G N G G U #POS
+}
+{
+Siapakah penemu komunitas ini ? penemu komunitas ini adalah REF yg juga Duta Sanitasi Jawa Tengah.
+#POS B B B B W G G G G I C C B B B B W #POS
+}
+{
+Siang REF , Kita komunitas yg peduli lingkungan, sanitasi dan air minum loh :D bantu promote dan follback ya :)
+#POS B I W B B G G G W B B N G G E V V B V O E #POS
+}
+{
+Hai REF , kita adalah komunitas yg peduli sanitasi, lingkungan dan air minum loh :D follback dan bantu promote ya :)
+#POS C I W B B B G G N W G B N G G E G B V V O E #POS
+}
+{
+Hai REF , kita adalah komunitas yg peduli sanitasi, lingkungan dan air minum loh :D follback dan bantu promote ya :)
+#POS C I W B B B G G N W G B N G G E G B V V O E #POS
+}
+{
+URL baca disini, dia salah satu founder juga loh :D TAG TAG
+#POS U G G W G G G N G G E H H #POS
+}
+{
+Mau tahu contoh kegiatan Dusan ? 
+TAG TAG
+#POS G G G G B W
+H H #POS
+}
+{
+Siang REF , Kami komunitas yg peduli lingkungan, sanitasi dan air minum loh :D follback dan bantu promote ya :)
+#POS B I W B B G G G W B B N G G E G B V V O E #POS
+}
+{
+Walaupun para Duta Sanitasi msh SMP, tpi kemampuan mereka utk memajukan kondisi sanitasi dan air minum tdk boleh diragukan lgi. TAG TAG
+#POS B G B B B B W B B B B B B B B N G G G G G W H H #POS
+}
+{
+Duta Sanitasi Nasional tahun NUM adlh REF dari Kediri, Jawa Timur TAG TAG
+#POS B B B B K G I C B W B B B B #POS
+}
+{
+REF Follback ya..TAG
+#POS I V O W H #POS
+}
+{
+Duta Sanitasi ? kenal gk dengan Duta Sanitasi Nasional tahun NUM ?
+#POS B B W G G G B B B B K W #POS
+}
+{
+Tpi kita gk blh menyerah ya, pemerintah sdh cukup perhatian kok dengan sanitasi, contohnya adlh dengan memilih Duta Sanitasi setiap tahunnya
+#POS B B B B B C W B B B B B B B W B B B B B B B B #POS
+}
+{
+Tantangan terberat bagi pejuang sanitasi adalah masih banyak masyarakat yg tdk mengerti atau mengetahui apa itu SANITASI
+#POS B B B B B B B B B G B B W G G G G #POS
+}
+{
+REF Followed ya..
+#POS I V O W #POS
+}
+{
+REF Hai, salam kenal ya, bersama kita berjuaang demi kemajuan sanitasi. *followed
+#POS I C W B B C W G G G B B B W W V #POS
+}
+{
+REF ATI = Asosiasia Toilet Indonesia ya ?
+#POS I G W B B B C W #POS
+}
+{
+Hai REF , kami adalah komunitas yang peduli lingkungan dan sanitasi, bantu promote dan follbacknya ya :)
+#POS C I W B B B B B B B B W V V B V O E #POS
+}
+{
+Follback'a ya k REF :D
+#POS V O G I E #POS
+}
+{
+Sekarang TKPS sdh membuka pendaftaran anggota bagi kalian yg peduli lingkungan loh :D caranya kirim email aja ke tkps.URL :)
+#POS G G G G G G G G G G G G E G G N G G U E #POS
+}
+{
+Selain dri kas,komunitas ini jga menjual hasil daur ulang sampah organik di koperasi sekolah dan merencanakan untuk menjualnya di CFD.
+#POS B G G W B G G G G G G G G G G G B B B B B B W #POS
+}
+{
+Ada yg tau dalam melaksanakan berbagai kegiatan TKPS dapat dana dari mana ? TAG
+#POS B G G G G N V B B B B B W H #POS
+}
+{
+melakukan pelatihan pengolahan sampah kepada siswa-siswi dan masyarakat lingkungan sekolah, next. TAG
+#POS B B B B B B B B B B W A W H #POS
+}
+{
+mendaur ulang kertas dan koran bekas menjadi kerajinan tangan, mendaur ulang sampah nonorganik menjadi barang yang bernilai ekonomis, next
+#POS B B B B B B B B B W B B B B B B B B B W A #POS
+}
+{
+Sekolah yg sdh kami bina adalah SMP N NUM Grogol, Sukoharjo..
+#POS B G G G G G G F K N W B W #POS
+}
+{
+Komunitas ini telah melakukan berbagai kegiatan, yakni mendaur ulang sampah organik di sekolah dan lingkungan setempat menjadi kompos, next
+#POS B G G G N N W B B B B B B G B B B B B W A #POS
+}
+{
+REF Terima kasih..:D
+#POS I B B W E #POS
+}
+{
+TKPS telah melakukan berbagai kegiatan loh ! mau tau kegiatan apa aja ? terus simak TL kita ya :D TAG
+#POS B B B B B B W G G G G G W G G N V O E H #POS
+}
+{
+Kedua guru tersebut adalah Ibu Mulyani, S.pd. dan Ibu Bekti Dwi HastutI, S.pd. TAG
+#POS B N N G G B W B W N W B B B B B W B W N W H #POS
+}
+{
+TKPS dibentuk oleh REF dalam membentuk komunitas ini Leon dibantu oleh dua gurunya.next. TAG
+#POS B B B I W C N N G B B B B B W A W H #POS
+}
+{
+TKPS itu singkatan dari Team Khusus Peduli Sanitasi, komunitas ini bertujuan memajukan kondis sanitasi dan lingkungan TAG
+#POS B B B B B B B B W B B B B B B B B H #POS
+}
+{
+Mau tau lebih banyak tentang TKPS ? simak TL kita ya ! klau mau mention pke hastag TAG :)
+#POS G G G G G B W G N V C W G G V B V H E #POS
+}
+{
+Hai REF , kami adalah komunitas yang peduli lingkungan dan sanitasi, bantu promote dan follbacknya ya :)
+#POS C I W B B B B B B B B W V V B V O E #POS
+}
+{
+Hai REF , kami adalah komunitas yang peduli lingkungan dan sanitasi, bantu promote dan follbacknya ya :)
+#POS C I W B B B B B B B B W V V B V O E #POS
+}
+{
+Hai REF , kami adalah komunitas peduli lingkungan dan sanitasi, bantu promote dan follback'a ya :)
+#POS C I W B B B B B B B W V V B V O E #POS
+}
+{
+Halo REF , kami adalah komunitas peduli lingkungan dan sanitasi, bantu promote dan follback'a ya :D
+#POS B I W B B B B B B B W V V B V O E #POS
+}
+{
+Ha REF , kami adalah komunitas peduli lingkungan dan sanitasi, salam kenal ya, bantu promote dan follback'a ya :D
+#POS C I W B B B B B B B W B B C W V V B V O E #POS
+}
+{
+REF Jangan lupa follback'a ya :D
+#POS I B B G O E #POS
+}
+{
+Hai REF Kami komunitas yg peduli sanitasi dan lingkungan loh :D bantu promote dan follback'a ya :)
+#POS C I W B B G G G B B B E V V B V O E #POS
+}
+{
+REF jangan lupa follback'a ya :)
+#POS I B B G O E #POS
+}
+{
+Halo REF Kami komunitas peduli sanitasi dan lingkungan, salam kenal dan bantu promote ya :D
+#POS B I B B B B B B W B B B V V O E #POS
+}
+{
+Halo REF kami komunits yg peduli Lingkungan khususnya sanitasi, salam kenal dan mohon dukungannya ya :D
+#POS B I B B G G B B B W B B B B V O E #POS
+}
+{
+Hai REF Kami adalah komunitas peduli SANITASI, bantu promote ya :D Klau blh sama follback'a :)
+#POS C I B B B B B W V V O E B B G G E #POS
+}
+{
+Hai REF kami adalah komunitas Peduli Sanitasi, follback dan bantu promote kami ya :D
+#POS C I B B B B B W G B V V V O E #POS
+}
+{
+TAG TAG TAG TAG URL
+#POS H H H H U #POS
+}
+{
+TAG TAG TAG URL
+#POS H H H U #POS
+}
+{
+TAG TAG URL
+#POS H H U #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+TAG TAG TAG URL
+#POS H H H U #POS
+}
+{
+TAG TAG TAG TAG URL
+#POS H H H H U #POS
+}
+{
+Dari sekitar NUM orang yang daftar,,yang punya twitter hanya NUM ???
+#POS B B K G G G W C B B B K W #POS
+}
+{
+pelatihan mengolah sampah. URL
+#POS B B B W U #POS
+}
+{
+hasil dari pengolahan sampah dari siswa-siswi SMP N NUMGrorol URL
+#POS B B B B B B B B B U #POS
+}

@@ -1,0 +1,644 @@
+{
+Gonna buy a book or magazine so I don't have to talk to you on the train. Nice.
+#POS V V D N F N P O V V P V P O P D N W A W #POS
+}
+{
+'Your opinion means nothing if it is without fact.' Er... what.
+#POS W D N V N P O V P N W W B W O W #POS
+}
+{
+I have never been abroad. Well I went to Rome once. Never abroad though. TAG
+#POS O V R V R W C O V P B R W R R R W H #POS
+}
+{
+I moved here to get away from gangstas. I got them back... in my own way. TAG
+#POS O V R P V R P N W O V O R W P D A N W H #POS
+}
+{
+She is my friend. With benefits. #NUMminslater Not had sex with her though. Her downstairs swells when a condom goes near it.
+#POS O V D N W P N W H R V N P O P W O N V R D N V P O W #POS
+}
+{
+'Am going London for NUM days' who with? 'On me own... summat to do innit' TAG
+#POS W V V B P K N W O P W W P O A W N P V C W H #POS
+}
+{
+'As he is going he leans down to me im sat down and i kiss him on his........neck!! Wtf!!' TAG
+#POS W P O V V O V T P O L V T F O V O P D W N W C H #POS
+}
+{
+Nothing to report today. No random convos. TAG
+#POS N P V N W D A N W H #POS
+}
+{
+REF omg! That is horrendous. Owner should be put down with it's dog.
+#POS I C W O V A W N V V V T P L N W #POS
+}
+{
+Just remembered another. When talking about a show she went to 'it made me feel all GOOOOSEY' while running her fingers up her arm.
+#POS R V D W R V P D N O V P W O V O V D A W P V D N P D N W #POS
+}
+{
+Hairdresser 'well it's funny round here, not very busy because people aren't into having their haircut' TAG
+#POS N W R L A N R W R R A P N V P V D N W H #POS
+}
+{
+Man in tshirt shop 'my wife is tiny, but my ex was a ginger bird with massive tits'
+#POS N P N N W D N V A W F D N V D N N P A N W #POS
+}
+{
+This week alone... A lady tells me that she takes Viagra. 'Put it this way, you will need a sheet under you' TAG
+#POS D N R W D N V O P O V N W W V O D N W O V V D N P O W H #POS
+}
+{
+Revamping my twitter... gonna be tweeting the random stuff that random folk feel the need to tell me.
+#POS V D B W V V V D A N P A N V D N P V O W #POS
+}
+{
+REF watching Scrambled with the children. Jury is still out. It's quite painful viewing. TAG
+#POS I V A P D N W B V R R W L R A N W H #POS
+}
+{
+REF we are going plasticine crazy here. Upgrading to self drying clay this arvo. TAG URL
+#POS I O V V B A R W V P N V B D N W H U #POS
+}
+{
+Decided to get into shape. Yep. Special K it. Children have ate it all! Ffs! TAG
+#POS V P V P N W C W A N O W N V V O D W C W H #POS
+}
+{
+If REF gets NUM followers she has promised to eat her own arse. I for NUM want to see that. TAG
+#POS P I V K N O V V P V D A N W O P K V P V O W V #POS
+}
+{
+You buy shit... you get shit. TAG
+#POS O V N W O V N W H #POS
+}
+{
+Can someone paint a black cross on our front door please. The plague has arrived. NUM kids down and NUM to go.
+#POS V N V D A N P D N N V W D N V V W K N R F K P V W #POS
+}
+{
+'Its dark round there... I don't think they had a heat sensor gun' woman talking about NorthCity shooting. TAG
+#POS W L A N R W O V V O V D N N N W N V P B V W H #POS
+}
+{
+REF if you need a photographer for your wedding I am a dab hand with a disposable. You might have no hair, or head thou :)
+#POS I P O V D N P D N O V D N N P D A W O V V D N W F N O E #POS
+}
+{
+You want a bit of anger in your life? Follow this crazy bastard! REF
+#POS O V D N P N P D N W V D A N W I #POS
+}
+{
+Cleaning playlist today... WhitneyGreatestHits! Love will save the day.
+#POS V N N W C W V V V D N W #POS
+}
+{
+REF Carlton from the fresh prince.
+#POS I B P D A N W #POS
+}
+{
+Christmas gift wrapping service. URL
+#POS B N V N W U #POS
+}
+{
+REF REF hahaaa! Kids are coming to your house!
+#POS I I C W N V V P D N W #POS
+}
+{
+Or maybe after Ramsbottom Fest watching REF and REF doing the running man! TAG
+#POS F R P B B V I F I V D V N W H #POS
+}
+{
+Can't remember the last time I was child free on the train. Oh yeah Liverpool all dayer with REF and her sore ears!
+#POS V V D A N O V N A P D N W C C B D N P I F D A N W #POS
+}
+{
+On the train to Boro. With no children in tow.
+#POS P D N P B W P D N P N W #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+Today I shall spend the day in bed.
+#POS N O V V D N P N W #POS
+}
+{
+All the kitchen cupboards are off. TAG
+#POS X D N N V A W H #POS
+}
+{
+Well done one direction!!&lt;NUM #NUMdmoviepremiere
+#POS C V K N W E H #POS
+}
+{
+REF CTID xx
+#POS I B E #POS
+}
+{
+Watching REF at REF TAG
+#POS V I P I H #POS
+}
+{
+Time to go home! TAG
+#POS N P V N W H #POS
+}
+{
+Just so you know it's a door. TAG URL
+#POS R P O V L D N W H U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Gone from tent sleep to chalet sleep. My back is truly fucked.
+#POS V P N V P V N W D N V R A W #POS
+}
+{
+Home. Switch bags. Off to Wales now! #NUMthyr
+#POS N W N N W R P B R W H #POS
+}
+{
+GINger beer... It's Gin with GingerBeer. #NUMamdrinks TAG URL
+#POS B N W L B P B W H H U #POS
+}
+{
+Top weekend. Camping. Festival. Beer.
+#POS A N W N W B W N W #POS
+}
+{
+What. URL
+#POS O W U #POS
+}
+{
+Tent comes. Biggest child has to inform the men on how to assemble it. TAG
+#POS N V W A N V P V D N P R P V O W H #POS
+}
+{
+Camp site is mint. Er what is that? TAG. No tent yet! Ffs get in the car!
+#POS B N V N W B O V O W N W D N R W C V P D N W #POS
+}
+{
+Oh and now we are off. TAG
+#POS C F R O V A W H #POS
+}
+{
+Going camping. Should have left at NUM. TAG
+#POS V V W V V V P K W H #POS
+}
+{
+Woe is definitely me.
+#POS B V R O W #POS
+}
+{
+Plus the childrens are off school and need entertaining
+#POS V D B V A N F V A #POS
+}
+{
+And I got a cold. TAG
+#POS F O V D A W H #POS
+}
+{
+Going in hols in NUM days. Got loads of washing to do. TAG
+#POS V P N P K N W V N P V P V W H #POS
+}
+{
+Added sweetener instead of pepper to my scrambled egg. Still gonna eat it. TAG
+#POS V N R P N P D A N W R V V O W H #POS
+}
+{
+Family day out. TAG
+#POS N N T W H #POS
+}
+{
+REF I hear your handjob career is over REF
+#POS I O V D N N V P I #POS
+}
+{
+Cafe in the museum. Slowest service ever!
+#POS B P D N W A N R W #POS
+}
+{
+Do people still even have cheque books? #NUMstCentury
+#POS V N R R V N N W H #POS
+}
+{
+'We don't have card facilities. Can you send a cheque' TAG
+#POS W O V V N N W V O V D N W H #POS
+}
+{
+REF This is who you wanna be following REF
+#POS I O V O O V V V I #POS
+}
+{
+Am sure the beautician has fucked my eyebrows up. TAG
+#POS V A D N V V D N T W H #POS
+}
+{
+As if a cyclist bringed his bell at me this morning to get past.
+#POS P P D N V D N P O D N P V A W #POS
+}
+{
+Girls room today. They have some ace stuff. Little daft trinkets and interesting shit.
+#POS N N N W O V D A N W A A N F A N W #POS
+}
+{
+Big sort out going on. Why have I started this at this time of night!
+#POS A N P V T W R V O V O P D N P N W #POS
+}
+{
+REF I was trying to wind up that nob Katie and now she is going to the docs for you because you included her in your tweet. Hahaha.
+#POS I O V V P V T D N B F R O V V P D N P O P O V O P D N W C W #POS
+}
+{
+REF direct message. A private message that is not public.
+#POS I A N W D A N P V R A W #POS
+}
+{
+REF why have you tweeted that to me? You should have done a DM instead!  Yes will do. Delete that tweet now.
+#POS I R V O V O P O W O V V V D N R W C V V W V D N R W #POS
+}
+{
+When I hear the name Katie I just think of greggs sausage rolls and a fruit shoot REF TAG
+#POS R O V D N B O R V P B N N F D N N I H #POS
+}
+{
+Royal's superhero poster REF URL
+#POS B B N I U #POS
+}
+{
+My lad asks me some strange questions... Why do noses look like they do?
+#POS D N V O D A N W R V N V P O V W #POS
+}
+{
+REF beautiful cards TAG
+#POS I A N H #POS
+}
+{
+Strange how people are walking in the park. At this time of the day. With no dogs.
+#POS A R N V V P D N W P D N P D N W P D N W #POS
+}
+{
+Everyone dressed. Dogs walked and fed. Garden watered. Washing on line TAGNUMamwakeup
+#POS N V W N V F V W B V W V P N H #POS
+}
+{
+Only been in the park NUM mins and TheDiva  has already made a new friend.
+#POS R V P D N K N F B V R V D A N W #POS
+}
+{
+Parking it today. Picnic and all that. TAG
+#POS V O N W N F D O W H #POS
+}
+{
+REF I am interested in your ticket(s) if still available, please let me know?
+#POS I O V A P D N W P R A W V V O V W #POS
+}
+{
+REF Anyone got NUM tickets for BeadyEye at TheRitz, manchester NUMth June that I could buy at face value?
+#POS I N V K N P B P B W B K B P O V V P N N W #POS
+}
+{
+Quite a few people in the park with their dogs this morning. TAG
+#POS R D A N P D N P D N D N W H #POS
+}
+{
+Guy on the bus slagging some girl called Lizzie off. He just looked round and said to his mate 'er check she is not on the bus' TAG
+#POS B P D N V D N V B T W O R V N F V P D N W B V O V R P D N W H #POS
+}
+{
+On the free bus. Woo. Don't actually know where we gonna get off like. TAG TAG
+#POS P D A N W C W V R V R O V V T P W H H #POS
+}
+{
+Oh hello. Bonus fiver in my raincoat pocket TAG
+#POS C C W N N P D N N H #POS
+}
+{
+Off to town. TheDiva has a bright red wig on. TAG
+#POS P P N W B V D A A N P W H #POS
+}
+{
+There is no escape TAG
+#POS X V D N H #POS
+}
+{
+REF REF REF REF Am calling bullsheeet on this TAG
+#POS I I I I V V N P O H #POS
+}
+{
+REF you are a nut.
+#POS I O V D N W #POS
+}
+{
+Getting the bus home this early reminds me of doing the walk of shame home from REF back in the day
+#POS V D N N D A V O P V D N P N N P I R P D N #POS
+}
+{
+Aargh! Forgot to tweet #NUMdaysquatchallenge on for dayNUM NUMsquats! Leg ache. TAG
+#POS C W V P V H P P K N W N V W H #POS
+}
+{
+REF No not really :( Do you still need my services on Thursday?  x
+#POS I C R R E V O R V D N P B W G #POS
+}
+{
+Day NUM. NUM squats. #NUMdaysquatchallenge
+#POS N K W K N W H #POS
+}
+{
+Oh. Got a bit over excited yesterday! It was NUM not NUM. Oops.
+#POS C W V D N P V N W O V K R K W C W #POS
+}
+{
+DayNUM. NUM squats! #NUMdaysquatchallenge
+#POS K W K N W H #POS
+}
+{
+REF is that some kind of fetish website? No wonder you got deaded on Facespace TAG
+#POS I V O D N P N N W R V O V V P B H #POS
+}
+{
+DayNUM. Rest day. #NUMdaysquatchallenge dreading tomorrow then.
+#POS K W A N W H V N R W #POS
+}
+{
+REF #NUMdaybanonawfulfood?
+#POS I H W #POS
+}
+{
+REF I can lend you... or shove your feet under the sofa. TAG
+#POS I O V V O W F V D N P D N W H #POS
+}
+{
+REF yes do it. I am throwing a few sit-ups in as well. NUM small child has to sit on my ankles.
+#POS I C V O W O V V D A N P R R W K A N V P V P D N W #POS
+}
+{
+REF start today I dares you. Don't forget to take DayNUM photo. Then compare it on DayNUM.
+#POS I V N O V O W V V P V T N W R V O P B W #POS
+}
+{
+REF omgeee! NUMdaysquatchallenge URL
+#POS I C W G U #POS
+}
+{
+Day NUM. NUM squats done. #NUMdaysquatchallenge
+#POS N K W K N V W H #POS
+}
+{
+Fuck me. I forgot how boring these play things for children are for growd ups without a buddy to chat with.
+#POS V O W O V R A D V N P N V P A N P D N P V P W #POS
+}
+{
+REF ha! You missing toothed Enumbered dependant. Will bag them up and shove them in the large shoes on the hill. TAG
+#POS I C W O V A N V W V V O T F V O P D A N P D N W H #POS
+}
+{
+REF You can HAVE the choccys for freemans. I don't want your handmedowns.
+#POS I O V V D B P B W O V V D N W #POS
+}
+{
+It's not gonna work unless I quit munching the Easter choccy.
+#POS L R V V P O V V D B N W #POS
+}
+{
+Day NUM. NUM squats done. #NUMdaysquatchallenge
+#POS N K W K N V W H #POS
+}
+{
+Day NUM photo done. NUM squats done. #NUMdaysquatchallenge
+#POS N K N V W K N V W H #POS
+}
+{
+Royal just drew this! Ha well impressed. URL
+#POS B R V O W C R A W U #POS
+}
+{
+REF terrible fashion mistake TAG
+#POS I A N N H #POS
+}
+{
+REF your daughter Kelly is right x
+#POS I D N B V A E #POS
+}
+{
+REF Cookie what? This is NorthCity TAG TAG
+#POS I N O W O V B H H #POS
+}
+{
+Surely a box of cereal and a bottle of milk is cheaper than Greggs for breakfast
+#POS R D N P N F D N P N V A P B P N #POS
+}
+{
+REF *pukes
+#POS I W V #POS
+}
+{
+Twenty to eleven. Far too late for me. TAG TAG.E.D.
+#POS K P K W R R A P O W H H W G #POS
+}
+{
+REF REF Oh. Got a new cooker have we? TAG
+#POS I I C W V D A N V O W H #POS
+}
+{
+REF and MrsBrownsBoys?
+#POS I F B W #POS
+}
+{
+REF How can you burn PotNoodle?
+#POS I R V O V B W #POS
+}
+{
+REF not very arsed tbh. Do you like FatherTed?
+#POS I R R A N W V O V B W #POS
+}
+{
+REF No she is jealous of our 'relationship' and does her best to ruin it. Is it broken? TAG
+#POS I C O V A P D W N W F V D A P V O W V O V W H #POS
+}
+{
+REF You hurt yourself or summat?
+#POS I O V O F N W #POS
+}
+{
+Massive full belly. Blanket on the sofa. Film on. Silence TAG
+#POS A A N W N P D N W N P W N H #POS
+}
+{
+omg! Some bird has booked one of the puters that is for the puter class. TAG
+#POS C W D N V V K P D N P V P D N N W H #POS
+}
+{
+REF hello Gramski! I still need to sort our plan out pmsl.
+#POS I C B W O R V P V D N P C W #POS
+}
+{
+NUM free usb's coming my way today. How exciting TAG
+#POS K A N V D N N W R A H #POS
+}
+{
+TheATeam or RichardtheThird night?! TAG
+#POS B F B N W H #POS
+}
+{
+REF hey dog REF lies on your face every night. TAG
+#POS I C N I N P D N D N W H #POS
+}
+{
+REF ha! Will do. Google is my friend.
+#POS I C W V V W B V D N W #POS
+}
+{
+Shit tea Friday TAG
+#POS N N N H #POS
+}
+{
+REF you had better start watching your p's &amp; q's now REF is around . TAG
+#POS I O V A V V D N F N R I V R W H #POS
+}
+{
+There is a pool table. If I could play I could be hustling for brews TAG
+#POS X V D N N W P O V V O V V V P N H #POS
+}
+{
+Now am sat in Harpurhey Well Being Centre with social rejects waiting for a sewing machine class to start.
+#POS R V V P B C V N P A N V P D N N N P V W #POS
+}
+{
+Got there and it was full of posh birds. With me being the youngest! TAG
+#POS V R F O V A P A N W P O V D A W H #POS
+}
+{
+Mad dash to town to get eyebrows done before I start a computer course. TAG
+#POS A N P N P V N V P O V D N N W H #POS
+}
+{
+Have got back in bed. Quick ten min snooze before the enemy coming looking for me TAG
+#POS V V R P N W A K N N P D N V V P O H #POS
+}
+{
+Bought sledges for nothing! TAG REF
+#POS V B P N W H I #POS
+}
+{
+Where is our snow? TAG
+#POS R V D N W H #POS
+}
+{
+Been park TAG Cleared the dog shite TAG Bacon and egg time  TAG
+#POS V N N V D N N H B F N N H #POS
+}
+{
+Porridge for breakfast TAG
+#POS N P N H #POS
+}
+{
+REF who are you?
+#POS I O V O W #POS
+}
+{
+Are you making a brew? TAG
+#POS V O V D N W H #POS
+}
+{
+Can you just stop talking and listen to me? TAG
+#POS V O R V V F V P O W H #POS
+}
+{
+Have you got life insurance? TAG
+#POS V O V N N W H #POS
+}
+{
+How long will you be? TAG
+#POS R A V O V W H #POS
+}
+{
+Where did I put the brush? TAG
+#POS R V O V D N W H #POS
+}
+{
+Where is the little brush and shovel? TAG
+#POS R V D A N F N W H #POS
+}
+{
+Can you have a good look for my chisel? TAG
+#POS V O V D A N P D N W H #POS
+}
+{
+Is that your mate selling logs? Go and see? TAG
+#POS V O D N V N W V F V W H #POS
+}
+{
+Have we got any wet wipes? TAG
+#POS V O V D A N W H #POS
+}
+{
+Have you seen my hat? The grey one? TAG
+#POS V O V D N W D A K W H #POS
+}
+{
+REF Ha! If you are gonna answer every question you will have a long day. TAG TAG
+#POS I C W P O V V V D N O V V D A N W H H #POS
+}
+{
+Where is my chisel? TAG
+#POS R V D N W H #POS
+}
+{
+Do you know where the red extension lead is? TAG
+#POS V O V R D A N N V W H #POS
+}
+{
+So. I think I am all done on the Christmas presents front now.
+#POS R W O V O V D V P D B V N R W #POS
+}
+{
+A gruffalo... what's a gruffalo? Why didn't you know TAG
+#POS D N W L D N W R V O V H #POS
+}
+{
+Caught my dress in my coat zip. Gutted
+#POS V D N P D N N W V #POS
+}
+{
+'I am practically masterbating' said CamelToe on the arrival of her new cds. TAG
+#POS W O V R V W V B P D N P D A N W H #POS
+}
+{
+Top day of nothingness. Not even got mascara on. TAG
+#POS A N P N W R R V N P W H #POS
+}
+{
+REF so I didn't tag you in hahaaa x
+#POS I P O V V O P C E #POS
+}
+{
+Blackberry. I want the club points from Tesco you see x
+#POS B W O V D N N P B O V E #POS
+}
+{
+On a mission... Unsuccessful so far! Day is young though.
+#POS P D N W A R R W N V A P W #POS
+}
+{
+REF Are you tubbed up? TAG
+#POS I V O V T W H #POS
+}
+{
+REF you should have NOT introduced me to caramel coffee TAG
+#POS I O V V R V O P N N H #POS
+}
+{
+DangerousBrian to win. Unless he turns out to be a complete TAG
+#POS B P V W P O V T P V D A N #POS
+}
+{
+Shadys back... just in time for the jungle .
+#POS N R W R P N P D N W #POS
+}

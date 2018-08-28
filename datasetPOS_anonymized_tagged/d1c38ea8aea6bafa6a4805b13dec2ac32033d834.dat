@@ -1,0 +1,36 @@
+{
+REF "il lui fait des chatouilles" :')
+#POS I W B G G G G W E #POS
+}
+{
+REF lève toi !
+#POS I C N W #POS
+}
+{
+REF REF
+#POS I I #POS
+}
+{
+REF REF
+#POS I I #POS
+}
+{
+REF  REF
+#POS I I #POS
+}
+{
+REF REF  Yanis mdrr
+#POS I I B C #POS
+}
+{
+Les filles savent… URL
+#POS B N N W U #POS
+}
+{
+REF t'as snapchat..
+#POS I V G W #POS
+}
+{
+REF Il est pas capricorne un peu ?
+#POS I B N N B B B W #POS
+}

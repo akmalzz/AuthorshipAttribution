@@ -1,0 +1,4996 @@
+{
+REF Yes! I want a golden retriever when I move out.
+#POS I C W O V D A N R O V T W #POS
+}
+{
+REF I didn't know you had golden retrievers!
+#POS I O V V O V A N W #POS
+}
+{
+I love golden retrievers
+#POS O V A N #POS
+}
+{
+I have a strong dislike for Daylight Savings
+#POS O V D A N P B N #POS
+}
+{
+I wish I could say I'm okay with it, but I'm not.
+#POS O V O V V L A P O W F L R W #POS
+}
+{
+REF I'm tired of being busy all the time. I NEED TO ADVENTURE.
+#POS I L A P V A X D N W O V P N W #POS
+}
+{
+REF story of my life
+#POS I N P D N #POS
+}
+{
+REF I saw them do Cinderella NUM years ago and it was different :) They had really weird costumes
+#POS I O V O V B K N R F O V A E O V R A N #POS
+}
+{
+I'm excited for Chorus Line
+#POS L A P B B #POS
+}
+{
+My mom is the best she is making banana oat muffins for breakfast tomorrow
+#POS D N V D A O V V N N N P N N #POS
+}
+{
+REF even if it's just you and me
+#POS I R P L R O F O #POS
+}
+{
+It's so freaking hot I actually want a slip n slide
+#POS L P R A O R V D N F N #POS
+}
+{
+My mom thinks it's Facebook I'm on all the time, but nope it's Twitter.
+#POS D N V L B L P D D N W F C L B W #POS
+}
+{
+Too lazy to put on makeup
+#POS R A P V P N #POS
+}
+{
+Senior James Bond dance is on next year
+#POS A B B N V P A N #POS
+}
+{
+West Edmonton Mall on my bucket list
+#POS B B N P D N N #POS
+}
+{
+My sister: Ew! Your toenails!
+Me: Hey, they're actually getting better!
+#POS D N W C W D N W
+O W C W L R V A W #POS
+}
+{
+A massage sounds great
+#POS D N V A #POS
+}
+{
+REF I'm sorry. At least she should be back again. She only had a private.
+#POS I L A W P A O V V R R W O R V D A W #POS
+}
+{
+REF She might come to dance ministry *cough cough* you should too *cough cough*
+#POS I O V V P V N W V V W O V R W V V W #POS
+}
+{
+REF She just had a private but she should come to class eventually :)
+#POS I O R V D A F O V V P N R E #POS
+}
+{
+I want to try a cronut
+#POS O V P V D N #POS
+}
+{
+REF I'm glad you came back today! TAG
+#POS I L A O V R N W H #POS
+}
+{
+I love the Voice. Need there be a reason?
+#POS O V D N W V R V D N W #POS
+}
+{
+It's more like I had apples with my peanut butter
+#POS L A P O V N P D N N #POS
+}
+{
+Who cares. I'd much rather be a dancer than a normal human being.
+#POS O V W L R R V D N P D A N V W #POS
+}
+{
+I can't even walk like a normal person even if I tried
+#POS O V R V P D A N R P O V #POS
+}
+{
+Gotta face it...I will never be a normal human with a normal life because I dance
+#POS V V O W O V R V D A N P D A N P O V #POS
+}
+{
+Without dance, my life would be boring. Lol wait, without dance what is life?
+#POS P N W D N V V A W C V W P N O V N W #POS
+}
+{
+Frozen NUM please
+#POS A P V #POS
+}
+{
+These tortillas
+#POS D N #POS
+}
+{
+I love Trader Joe's
+#POS O V B B #POS
+}
+{
+I love the Cinderella ballet
+#POS O V D B N #POS
+}
+{
+I had a dream that my mom made a twitter account and almost had a heart attack when I woke up
+#POS O V D N P D N V D B N F R V D N V R O V T #POS
+}
+{
+REF as random as it sounds, Ballet Magnificat in Jackson Mississippi :)
+#POS I R A P O V W N B P B B E #POS
+}
+{
+I'm excited to go away this summer and dance for NUM weeks
+#POS L A P V R D N F N P K N #POS
+}
+{
+Throwback Thursday to when I was like NUM years old and wanted to be a bus driver because I liked how buses were big
+#POS B B P R O V P K N A F V P V D N N P O V R N V A #POS
+}
+{
+Captain America
+#POS B B #POS
+}
+{
+Oh now you want to be friends
+#POS C R O V P V N #POS
+}
+{
+I don't have time to be sick
+#POS O V V N P V A #POS
+}
+{
+I want to go to Bruxie...like now
+#POS O V P V P B W P R #POS
+}
+{
+What can I say except flowers are my love URL
+#POS O V O V V N V D N U #POS
+}
+{
+The inside of a tulip URL
+#POS D N P D N U #POS
+}
+{
+I belong in the Renaissance Italy time period :)
+#POS O V P D B B N N E #POS
+}
+{
+My mouth is watering looking at grilled cheese sandwiches, but whose wouldn't be when looking at roasted jalapeno &amp; avocado grilled cheese?
+#POS D N V V V P A N N W F L V V R V P A N F N A N W #POS
+}
+{
+Lol I love these quizzes because they come up with the most random things ever. If I was a sandwich, I would be grilled cheese.
+#POS C O V D N P O V T P D R A N R W P O V D N W O V V A N W #POS
+}
+{
+Not feeling the striped tutu...probably never will
+#POS R V D A N W R R V #POS
+}
+{
+Chocolate makes life better
+#POS N V N A #POS
+}
+{
+Forget school and go back to bed
+#POS V N F V R P N #POS
+}
+{
+So tired I even cried
+#POS P A O R V #POS
+}
+{
+REF Why am I not with you?
+#POS I R V O R P O W #POS
+}
+{
+My little cousins are obsessed with Aladdin. They wanted to pretend I was Jasmine TAG
+#POS D A N V V P B W O V P V O V B H #POS
+}
+{
+REF and I thought ballet costume arm poofs were bad enough
+#POS I F O V N N N N V A N #POS
+}
+{
+"Let it Go" won an Oscar :)
+#POS W V O V W V D B E #POS
+}
+{
+REF I looked up YAGP winners of this year out of curiosity and I actually know some of the winners!
+#POS I O V T B N P D N P P N F O R V D P D N W #POS
+}
+{
+I refuse to be sick
+#POS O V P V A #POS
+}
+{
+REF I've only done it once and did terrible...so much for my dance skills
+#POS I L R V O R F V A W R R P D N N #POS
+}
+{
+Step, kick, kick, leap, kick, touch. Again.
+#POS N W N W N W N W N W N W R W #POS
+}
+{
+So we're supposed to sing, dance, and wear warm ups over our costume...sounds like sweatiest and most exhausting dance ever
+#POS P L A P V W N W F V A N P D N W V P N F R A N R #POS
+}
+{
+I love the smell after it rains
+#POS O V D N P O V #POS
+}
+{
+REF I was just thinking the same thing! And it started well with rain :)
+#POS I O V R V D A N W F O V R P N E #POS
+}
+{
+REF We should do that next Saturday on our NUM hour break
+#POS I O V V D A B P D K N V #POS
+}
+{
+REF It's always disappointing when you're being sarcastic but the person responds seriously
+#POS I L R A R L V A F D N V R #POS
+}
+{
+Call me crazy but I like watching rain hit the ground or the roof or the window
+#POS V O A F O V V N V D N F D N F D N #POS
+}
+{
+REF We should have danced in the rain
+#POS I O V V V P D N #POS
+}
+{
+I feel accomplished when I can actually understand or read something in Spanish
+#POS O V V R O V R V F V N P B #POS
+}
+{
+As much as I love the rain, I don't want to drive anywhere in the rain. Just let me sit in my pj's on the couch with tea and a movie.
+#POS R A P O V D N W O V V P V R P D N W R V O V P D N P D N P N F D N W #POS
+}
+{
+We better be learning a new variation today because I'm excited for it TAG
+#POS O R V V D A N N P L V P O H #POS
+}
+{
+It's harder than you think to choreograph a dance for NUM-year-olds because you realize how creative you need to be with what they can do.
+#POS L A P O V P V D N P K P O V R A O V P V P O O V V W #POS
+}
+{
+I've had my license for a year now
+#POS L V D N P D N R #POS
+}
+{
+It's tea kinda weather
+#POS L N R N #POS
+}
+{
+I tore someone's heart today. Don't worry though. It was just a poor sheep's heart in anatomy lab.
+#POS O V S N N W V V P W O V R D A S N P N N W #POS
+}
+{
+Ready to make some money tomorrow
+#POS A P V D N N #POS
+}
+{
+You can watch me dance. Just don't make me watch it with you. That would be torture.
+#POS O V V O N W R V V O V O P O W O V V N W #POS
+}
+{
+Trig is not for me
+#POS B V R P O #POS
+}
+{
+Alisa seems to be universal name. It's the same in English, Russian, and Spanish.
+#POS B V P V A N W L D A P B W B W F B W #POS
+}
+{
+REF Me every morning I wake up
+#POS I O D N O V T #POS
+}
+{
+Can't you tell? I love what I do. URL
+#POS V O V W O V O O V W U #POS
+}
+{
+Dancin' through life URL
+#POS V W P N U #POS
+}
+{
+I love oreos
+#POS O V B #POS
+}
+{
+Sometimes you need to give yourself a pep talk because no one else will
+#POS R O V P V O D N V P D N R V #POS
+}
+{
+It's almost the weekend...I can do this!
+#POS L R D N W O V V O W #POS
+}
+{
+Honey mustard pretzels?
+#POS N N N W #POS
+}
+{
+Don't get sick. Don't get sick. Don't get sick.
+#POS V V A W V V A W V V A W #POS
+}
+{
+REF Maybe we will watch her perform live some day
+#POS I R O V V O V V D N #POS
+}
+{
+I really like this variation: Walpurgisnacht URL
+#POS O R V D N W B U #POS
+}
+{
+Who is this girl? URL via REF
+#POS O V D N W U P I #POS
+}
+{
+I have to write a letter in Spanish to a friend...who volunteers?
+#POS O V P V D N P B P D N W O N W #POS
+}
+{
+Apparently I have a neighbor named Rudy who can't get his address right because NUM different servicemen came to my house thinking it was his
+#POS R O V D N V B O V V D N R P K A N V P D N V O V D #POS
+}
+{
+"It's so fluffy I'm gonna die!"
+#POS W L R A L V V W W #POS
+}
+{
+Necesito tomar una siesta.
+#POS B B B N W #POS
+}
+{
+I can tell that today is one of those days that I'll be in a weird hyper mood all morning &amp; crash in the afternoon because of lack of sleep
+#POS O V V O N V K P D N P L V P D A A N D N F V P D N P P N P N #POS
+}
+{
+I love waking up to the sound of rain
+#POS O V V T P D N P N #POS
+}
+{
+Buzzfeed quiz says I belong in Germany...I was hoping for Great Britain
+#POS B N V O V P B W O V V P A B #POS
+}
+{
+Interesting...Hairspray supposedly is my life in a musical.
+#POS A W B R V D N P D A W #POS
+}
+{
+I was taking a quiz and the next question was "Put your hand on your head. Which hand did you use?" My hand was already on my head...
+#POS O V V D N F D A N V W V D N P D N W D N V O V W W D N V R P D N W #POS
+}
+{
+My mom calls me the graceful one in the family...little does she know
+#POS D N V O D A K P D N W A V O V #POS
+}
+{
+Ew someone commented that he didn't know that he could hear ballerinas' feet when they dance like it was cool but that's not good actually
+#POS C N V P O V V P O V V N W N R O V P O V A F L R A R #POS
+}
+{
+I can only force myself to watch a video of my dancing once.
+#POS O V R V O P V D N P D V R W #POS
+}
+{
+Excited to watch Despicable Me in Spanish tomorrow :)
+#POS V P V A O P B N E #POS
+}
+{
+My dad said, "I give you a NUM on your dance." That's a nice thought, Dad. Thanks?
+#POS D N V W W O V O D K P D N W W L D A V W N W N W #POS
+}
+{
+I rarely ever find perfect ballet pictures of myself...or just myself in general
+#POS O R R V A N N P O W F R O P A #POS
+}
+{
+I'm thankful for the genius brain that invented the calculator
+#POS L A P D N N P V D N #POS
+}
+{
+So my mom made a YouTube account and put my variation on it...lol let's see how many dislikes it gets
+#POS P D N V D B N F V D N P O W C L V R A V O V #POS
+}
+{
+That picture shows how in sync I dance with Kathryn, including the height of my leg in the tour jete to the flexed bottom foot
+#POS D N V R P N O V P B W V D N P D N P D N N P D V A N #POS
+}
+{
+I'm cracking up! All of us are blinking in this picture! TAG
+#POS L V T W D P O V V P D N W H #POS
+}
+{
+My mom doesn't want to buy this picture of me because "You look like a doll." I thought it looked perfect; apparently too perfect for her.
+#POS D N V V P V D N P O P W O V P D N W W O V O V A W R R A P O W #POS
+}
+{
+I watched a video of our group dance and of course I'm the one with awkward tutu that only the top layer of it twirls when I turn
+#POS O V D N P D N N F P N L D K P A N P R D A N P O V R O V #POS
+}
+{
+REF haha even better, it's what Miss Maryann said
+#POS I C R A W L O V B V #POS
+}
+{
+REF and with Meleia as your president
+#POS I F P B P D N #POS
+}
+{
+REF Haha you're the performance makeup model for our studio
+#POS I C L D N N N P D N #POS
+}
+{
+REF Aw, Camryn!  I like you the way you are!
+#POS I C W B W O V O D N O V W #POS
+}
+{
+Mr. Ludmil makes me laugh. Quote of the day: "It's simple."
+#POS B B V O V W N P D N W W L A W W #POS
+}
+{
+Hahaha I got an email from a college in Switzerland...should I go? I always liked traveling :p
+#POS C O V D N P D N P B W V O V W O R V V E #POS
+}
+{
+School productivity today: NUM
+#POS N N N W K #POS
+}
+{
+REF I'll teach for you
+#POS I L V P O #POS
+}
+{
+Sometimes I feel like my handwriting could be nice enough if I tried...I don't try.
+#POS R O V P D N V V A R P O V W O V V W #POS
+}
+{
+REF Haha you should become a teacher at PBC
+#POS I C O V V D N P B #POS
+}
+{
+REF You can if you want to! Miss Ann-Marie was a professional dancer!
+#POS I O V P O V P W V B V D A N W #POS
+}
+{
+REF I realized that. You BY FAR had the best pictures from Soloiste though.
+#POS I O V O W O R R V D A N P B P W #POS
+}
+{
+REF bahaha at first I thought you meant you were not going to follow me
+#POS I C P A O V O V O V R V P V O #POS
+}
+{
+I'm waiting for Miss Perfect-Picture-Taker to follow me REF
+#POS L V P B B P V O I #POS
+}
+{
+I want to go to Disneyland on the next Dapper Day
+#POS O V P V P B P D A A N #POS
+}
+{
+REF I definitely just did that
+#POS I O R R V O #POS
+}
+{
+Apparently there is a Russian hard rock band named after me
+#POS R X V D A A N N V P O #POS
+}
+{
+Lolz Midnight Rhapsody which I danced to with REF was played during the Olympic closing ceremony TAG
+#POS C B B D O V P P I V V P D B V N H #POS
+}
+{
+That was one of the best shows ever REF REF REF REF REF REF REF
+#POS O V K P D A N R I I I I I I I #POS
+}
+{
+I want to dance some day in an Olympic ceremony
+#POS O V P V D N P D B N #POS
+}
+{
+Bolshoi Ballet is going to be in the Olympic closing ceremony!
+#POS B N V V P V P D B V N W #POS
+}
+{
+I could cry just thinking that this show could be my last with Kathryn
+#POS O V V R V P D N V V D A P B #POS
+}
+{
+Waterproof mascara seems to be more than waterproof
+#POS N N V P V A P N #POS
+}
+{
+REF REF REF REF Your dance was so cute! Miss Amber always has cute dances
+#POS I I I I D N V R A W V B R V A N #POS
+}
+{
+REF I sat on the couch for a good hour and now I'm going to have a foot bath
+#POS I O V P D N P D A N F R L V P V D N N #POS
+}
+{
+I'm already sore
+#POS L R A #POS
+}
+{
+Ballet is not easy period. I was dripping with sweat after a NUM minute dance.
+#POS N V R A N W O V V P N P D K N N W #POS
+}
+{
+They have the cutest sister relationship ever and the best humor. My sisters need to step up their game.
+#POS O V D A N N R F D A N W D N V P V T D N W #POS
+}
+{
+My friends go to In n Out for a family dinner at NUMpm. They're the coolest people and I can't say how much I wish I was related to them.
+#POS D N V P P F R P D N N P K W L D A N F O V V R R O V O V A P O W #POS
+}
+{
+Extreme spoons please
+#POS A N V #POS
+}
+{
+We had so much fun playing Murder in the Dark that we opted out on a movie
+#POS O V R A N V N P D N P O V T P D N #POS
+}
+{
+Class bonding :) We will have the most epic class shirt ever!
+#POS N N E O V V D A A N N R W #POS
+}
+{
+FOOT BATH
+#POS N N #POS
+}
+{
+Can't help but fangirl sometimes
+#POS V V F N R #POS
+}
+{
+Someone needs to ban me from Pinterest so that I don't end up pinning everything in the whole wide world
+#POS N V P V O P B P P O V V T V N P D A A N #POS
+}
+{
+I was totally off balance, had a bent leg, and a flexed foot, yet my teacher still called the dance perfect
+#POS O V R A N W V D A N W F D A N W R D N R V D N A #POS
+}
+{
+REF He asked me too a few weeks ago...idk still if I should
+#POS I O V O R D A N R W L R P O V #POS
+}
+{
+Lol somehow I found an Asian radio station while looking for a Spanish one
+#POS C R O V D A N N P V P D B K #POS
+}
+{
+REF Was it Mr. Ludmil?
+#POS I V O B B W #POS
+}
+{
+I need to eat real food for one today
+#POS O V P V A N P K N #POS
+}
+{
+My stomach just made a sound that sounded like Dory talking to the whale in Finding Nemo
+#POS D N R V D N P V P B V P D N P V B #POS
+}
+{
+When do I have time to read Divergent before the movie comes out
+#POS R V O V N P V A P D N V T #POS
+}
+{
+I want to watch NUM Brides and NUM Brothers or Anne of Green Gables again, or even better read Anne of Green Gables again TAG
+#POS O V P V K N F K N F B P B B R W F R A V B P B N R H #POS
+}
+{
+Bucket list: Go to Paris and visit the Eiffel Tower, Disneyland, and the Louvre.
+#POS N N W V P B F V D B B W B W F D N W #POS
+}
+{
+Bucket list: After I graduate, I want to gather a bunch of friends and go road trippin' across the U.S. in the summer.
+#POS N N W P O V W O V P V D N P N F V N V W P D B P D N W #POS
+}
+{
+Stick figure drawings as my prop for my Spanish presentation
+#POS V V N P D N P D B N #POS
+}
+{
+Do British people try to imitate American accents like Americans try to imitate British accents? TAG
+#POS V A N V P V B N P B V P V A N W H #POS
+}
+{
+Amazed by crazy talented Olympians...at least I can dance...somewhat
+#POS V P A A B W P A O V V W R #POS
+}
+{
+Bacon bacon bacon
+#POS N N N #POS
+}
+{
+Gah I hate it when people I don't know comment to my friend who is tagged in it about something totally irrelevant to the picture I posted
+#POS C O V O R N O V V V P D N O V V P O P N R A P D N O V #POS
+}
+{
+REF you make me so jealous
+#POS I O V O R A #POS
+}
+{
+I think the only time I watch TV is when the Olympics are on
+#POS O V D A N O V N V R D B V P #POS
+}
+{
+Watch movies in Spanish on Tuesdays...new tradition?
+#POS V N P B P B W A N W #POS
+}
+{
+So there is such a thing as mushroom chips
+#POS P X V X D N P N N #POS
+}
+{
+The awkward moment when someone is complaining about no friends, and you're like soo...what am I then?
+#POS D A N R N V V P D N W F L P R W O V O R W #POS
+}
+{
+Use the world; don't abuse it.
+#POS V D N W V V O W #POS
+}
+{
+It feels good to sleep in
+#POS O V A P V P #POS
+}
+{
+I can't stand myself sometimes
+#POS O V V O R #POS
+}
+{
+I find myself very relatable...too bad nobody else does
+#POS O V O R A W R A N R V #POS
+}
+{
+Don't do anything you can't ask God to bless or to participate in.
+#POS V V N O V V B P V F P V P W #POS
+}
+{
+This quiz says I should move to North Dakota...
+#POS D N V O V V P B B W #POS
+}
+{
+This quiz said that I'm suited for London TAG
+#POS D N V P L V P B H #POS
+}
+{
+lololol this quiz said I should be an astronaut TAG
+#POS C D N V O V V D N H #POS
+}
+{
+My mom made me a strawberry cream trifle for my birthday :D
+#POS D N V O D N N N P D N E #POS
+}
+{
+Arguing who should have the favorite sister title...me duh TAG
+#POS V O V V D A N N W O C H #POS
+}
+{
+Beef jerky TAG
+#POS N N H #POS
+}
+{
+I care too much about things that don't matter
+#POS O V R R P N P V V #POS
+}
+{
+REF look up Matthew TIM. I thought of it when you said your prayer request :) I just couldn't remember where it was at the moment.
+#POS I V T B K W O V P O R O V D N N E O R V V R O V P D N W #POS
+}
+{
+REF Thank you!!! You also are one of the sweetest people I've ever met :D You are the best for bringing chocolate!
+#POS I V O W O R V K P D A N L R V E O V D A P V N W #POS
+}
+{
+Lol I bought a dress that was on the mannequin
+#POS C O V D N P V P D N #POS
+}
+{
+Success!  It was delish URL
+#POS N W O V A U #POS
+}
+{
+I finally tried the Melt (:
+#POS O R V D N E #POS
+}
+{
+Attempting to make homemade soft pretzels TAG
+#POS V P V A A N H #POS
+}
+{
+REF I finally watched the Nutcracker DVD
+#POS I O R V D B B #POS
+}
+{
+I really want some shirt that has dancers on it or says something dance-related
+#POS O R V D N P V N P O F V N V #POS
+}
+{
+Got NUM new leotards today :) yay!
+#POS V K A N N E C W #POS
+}
+{
+REF When she watched the Nutcracker DVD &amp; asked who played our fake Nutcracker standing in the back during the show. I'm dying!
+#POS I R O V D B B F V O V D A N V P D N P D N W L V W #POS
+}
+{
+REF LOL my grandma thought a picture of Emma was me. Apparently, her glasses aren't too good.
+#POS I C D N V D N P B V O W R W D N V R A W #POS
+}
+{
+When grandparents come, good food comes with them, and when good food is around, I eat more, and when I eat more, that is not good.
+#POS R N V W A N V P O W F R A N V R W O V A W F R O V A W O V R A W #POS
+}
+{
+REF I'm missing out
+#POS I L V T #POS
+}
+{
+Ew why am I so insecure sometimes
+#POS C R V O R A R #POS
+}
+{
+Although everyone ought to enjoy life they need to be careful what they do now because it affects the future. You can't live for the moment.
+#POS P N V P V N O V P V A O O V R P O V D N W O V V P D N W #POS
+}
+{
+First thing in the morning...spend time with my lifelong Valentine TAG URL
+#POS A N P D N W V N P D A B H U #POS
+}
+{
+REF is the sweetest URL
+#POS I V D A U #POS
+}
+{
+REF I've never seen Millie!
+#POS I L R V B W #POS
+}
+{
+It's so disappointing to bite into a raisin cookie thinking it is a chocolate chip cookies TAG
+#POS L R A P V P D N N V O V D N N N H #POS
+}
+{
+Chocolate is just something I can't share TAG
+#POS N V R N O V V H #POS
+}
+{
+If you think about it, if you live a normal life span, most likely the majority of Valentine's Days in your life will be spent with someone
+#POS P O V P O W P O V D A N N W R A D N P Z N P D N V V V P N #POS
+}
+{
+Chinese food is sooo good, yet sooo unhealthy
+#POS A N V R A W R R A #POS
+}
+{
+REF haha I was sewing pointe shoes yesterday after NUMpm
+#POS I C O V A N N N P K #POS
+}
+{
+Some people need to realize that just because they don't have a valentine this year, it doesn't mean that they will be alone for life
+#POS D N V P V O R P O V V D N D N W O V V P O V V R P N #POS
+}
+{
+Indian burgers (:
+#POS A N E #POS
+}
+{
+Watched High School Musical in Spanish
+#POS V A N N P B #POS
+}
+{
+I'm already hungry...this is not looking good
+#POS L R A W O V R V A #POS
+}
+{
+The awkward moment when I made a pic of my back to the camera my profile, joking it's my best side but many people like it as if it was true
+#POS D A N R O V D N P D N P D N D N W V L D A N F A N P O P P O V A #POS
+}
+{
+My grandparents are visiting for a week :)
+#POS D N V V P D N E #POS
+}
+{
+I'm sorry but I don't understand curling
+#POS L A F O V V V #POS
+}
+{
+REF Aw, I'm sorry. I feel you.
+#POS I C W L A W O V O W #POS
+}
+{
+Try it :)
+Which Disney Couple Is Your Ideal Relationship? URL
+#POS V O E
+D N N V D B N W U #POS
+}
+{
+I don't like dancing to music that sounds fast but isn't really that fast because you get all anxious for nothing
+#POS O V V V P N P V A F V R R A P O V D A P N #POS
+}
+{
+Lol you complain about a bad hair day...how about a bad hair life? TAG
+#POS C O V P D A N N W R P D A N N W H #POS
+}
+{
+I think everyone has swallowed gum at some point in their life
+#POS O V N V V N P D N P D N #POS
+}
+{
+My birthday dinner menu request: kale salad, rice pilaf, meatballs, and a fruit trifle for dessert TAG
+#POS D N N N N W N N W N N W N W F D N N P N H #POS
+}
+{
+I have no motivation to do school when I can spend my time thinking of better things like dance
+#POS O V D N P V N R O V V D N V P A N P N #POS
+}
+{
+I really want to go on a ballet photo shoot at the beach
+#POS O R V P V P D N N N P D N #POS
+}
+{
+Had a dream where I was running for my life so that when I woke up my heartbeat was fast and I was anxious for nothing TAG
+#POS V D N R O V V P D N P O R O V T D N V A F O V A P N H #POS
+}
+{
+Is it bad that I already know what I want to do for Soloiste next year and this year's hasn't even passed yet?
+#POS V O A P O R V O O V P V P B A N F D S V R V R W #POS
+}
+{
+Mom: You're not sitting very lady-like
+Me: I'm sitting like a dancer
+Mom: Dancer's are lady-like
+Me: You don't know anything about dance
+#POS N W L R V R A
+O W L V P D N
+N W Z V A
+O W O V V N P N #POS
+}
+{
+How on earth did I get a Gogobot account? I don't even know the password. Lol resetting password to deactivate the account.
+#POS R P N V O V D B N W O V R V D N W C V N P V D N W #POS
+}
+{
+Cupcakes are so cute
+#POS N V R A #POS
+}
+{
+REF The story of so many dancers
+#POS I D N P R A N #POS
+}
+{
+Cookies...I love church Valentine bake sales
+#POS N W O V N N N N #POS
+}
+{
+Waiting for the day that the studio will schedule a nap time in the middle of rehearsals
+#POS V P D N P D N V V D N N P D N P N #POS
+}
+{
+REF QUEEN!!! URL
+#POS I N W U #POS
+}
+{
+I love how after I unsubscribed from one college's email list that it sends me an email saying they're thrilled that I'm interested bahaha
+#POS O V R P O V P K S N N P O V O D N V L V P L A C #POS
+}
+{
+REF I love it too!
+#POS I O V O R W #POS
+}
+{
+Mackenzie took a picture behind my back TAG URL
+#POS B V D N P D N H U #POS
+}
+{
+I love it when the sunset turns the clouds pink
+#POS O V O R D N V D N A #POS
+}
+{
+Banana oat chocolate chip muffins for breakfast :D
+#POS N N N N N P N E #POS
+}
+{
+Chocolate with marshmallow creme URL
+#POS N P N N U #POS
+}
+{
+REF Only yours would have pointe shoes
+#POS I R O V V N N #POS
+}
+{
+The Winter Olympic Opening Ceremony played Swan Lake music!!!
+#POS D N N N N V B B N W #POS
+}
+{
+REF "Dancing is like smiling with your legs" lol we were joking that if we said that to Miss Ann-Marie she wouldn't go for it
+#POS I W V V P V P D N W C O V V P P O V O P B B O V V P O #POS
+}
+{
+REF If you had gone to the Golden Spoon instead of Denneys with your lovely hair and makeup your pic might be on their facebook
+#POS I P O V V P D B B R P B P D A N F N D N V V P D B #POS
+}
+{
+Golden Spoon asked to take a picture of my friends and I to put on their facebook page
+#POS B B V P V D N P D N F O P V P D B N #POS
+}
+{
+REF you should change your Little Mermaid group to your fan club. Mackenzie &amp; I volunteer to be the admins if that's awkward
+#POS I O V V D A N N P D N N W B F O V P V D N P L A #POS
+}
+{
+REF you have the biggest fan club...just saying. More than Eric's ladies. I mean who cares about him when you have the Queen :)
+#POS I O V D A N N W R V W A P Z N W O V O V P O R O V D B E #POS
+}
+{
+Watched Buscando a Nemo
+#POS V B D B #POS
+}
+{
+REF QUEEN!!! You rocked it girl! Nice body language ;) We all seriously thought you were the best in the show!
+#POS I B W O V O N W A N N E O D R V O V D A P D N W #POS
+}
+{
+TAG to the last time I went to Disneyland and went on NUM rides in the first NUM hours on a weekend URL
+#POS H P D A N O V P B F V P K N P D A K N P D N U #POS
+}
+{
+I hate emailing teachers
+#POS O V V N #POS
+}
+{
+Even though it is only Tuesday I feel like singing
+#POS R P O V A B O V P V #POS
+}
+{
+REF I can never stand watching videos of myself
+#POS I O V R V V N P O #POS
+}
+{
+TAG I love Yogurtland!
+#POS H O V B W #POS
+}
+{
+REF I love the sound of rain!!!
+#POS I O V D N P N W #POS
+}
+{
+Bucket list: Watch one of the Olympics live.
+#POS N N W V K P D B A W #POS
+}
+{
+I want Finding Dory to come out now
+#POS O V V B P V T R #POS
+}
+{
+I just remembered that the Winter Olympics start this week! I hope my school load allows me to watch some of it.
+#POS O R V P D N N V D N W O V D N N V O P V D P O W #POS
+}
+{
+Girl Scout cookies? I think yes
+#POS N N N W O V C #POS
+}
+{
+REF I'm looking up Chorus Line right now haha
+#POS I L V T B B R R C #POS
+}
+{
+REF Too bad they don't film Soloiste. I guess not enough people would buy it since not many people are in it.
+#POS I R A O V V B W O V R A N V V O P R A N V P O W #POS
+}
+{
+REF Did it turn out well?
+#POS I V O V T R W #POS
+}
+{
+REF maybe...I just don't know if she will have it with her
+#POS I R W O R V V P O V V O P O #POS
+}
+{
+REF I FORGOT TO GET MINE FROM HER!!!!!!!! I'm so saaaaad :( Now I have to wait another week.
+#POS I O V P V O P O W L R A E R O V P V D N W #POS
+}
+{
+Is it sad that I'm indifferent towards football? I mean who watches the Superbowl anyway?
+#POS V O A P L A P N W O V O V D N R W #POS
+}
+{
+That unintentional way of being funny that old people have TAG
+#POS D A N P V A P A N V N #POS
+}
+{
+Of course you have to ask while my mom and sister are in the room too. My mom just said she wouldn't approve...so stop!
+#POS P N O V P V P D N F N V P D N R W D N R V O V V W P V W #POS
+}
+{
+Grandma stop! You didn't ask my older sister about a boyfriend and now you're convinced I have one because I laughed at you.
+#POS N V W O V V D A N P D N F R L V O V K P O V P O W #POS
+}
+{
+That awkward moment when ur grandma asks if u have a boyfriend 'cause she thinks ur old enough &amp; pretty enough and then asks why ur laughing
+#POS D A N R D N V P O V D N W P O V D A R F R A F R V R L V #POS
+}
+{
+REF I hope I get it
+#POS I O V O V O #POS
+}
+{
+I like getting money TAG
+#POS O V V N H #POS
+}
+{
+Gung hay fat choy! TAG
+#POS B D A N W H #POS
+}
+{
+I could easily drown in the flood of college emails and letters I get
+#POS O V R V P D N P N N F N O V #POS
+}
+{
+Got extra credit because my teacher accidentally moved my chair when I stood up without my knowing so that I sat on the floor.
+#POS V A N P D N R V D N R O V T P D A P P O V P D N W #POS
+}
+{
+I saw the "NUMth Wonder of the World" today URL
+#POS O V D W A N P D N W N U #POS
+}
+{
+I love how my house smells like banana bread
+#POS O V R D N V P N N #POS
+}
+{
+Some day... URL
+#POS D N W U #POS
+}
+{
+Arrival: Sunday.
+Destination: Disneyland.
+#POS N W B W
+N W B W #POS
+}
+{
+Pointe shoes over socks? I don't know about that.
+#POS B N P N W O V V P O W #POS
+}
+{
+I'm just socially awkward...there's nothing to do about it except make friends with people even more awkward than I am.
+#POS L R R A W L N P V P O V V N P N R A A P O V W #POS
+}
+{
+There is a little kid's party across the street with a bounce and Frozen music... really tempted to crash their party and join their singing
+#POS X V D A S N P D N P D N F A N W R V P V D N F V D V #POS
+}
+{
+Some kids outside are shouting, "Calabunga!"
+#POS D N P V V W W B W W #POS
+}
+{
+Decorated some mugs with sharpie for thank-you gifts. It was fun :) URL
+#POS V D N P N P N N W O V A E U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+I like getting money
+#POS O V V N #POS
+}
+{
+Some days you just need chocolate
+#POS D N O R V N #POS
+}
+{
+Hahaha we have a walk-in closet that no one can walk into anymore because there are so many things in it
+#POS C O V D A N P D N V V P R P X V R A N P O #POS
+}
+{
+Music is a must when doing chores
+#POS N V D N R V N #POS
+}
+{
+Why wear shoes in the house when you can be barefoot?
+#POS R V N P D N R O V V A W #POS
+}
+{
+Hand needs to stop putting food in Mouth. Mouth needs to stop accepting the food that Hand gives it. Got it guys? Good.
+#POS N V P V V N P N W N V P V V D N P N V O W V O N W A W #POS
+}
+{
+Got a babysitting job tomorrow! TAG
+#POS V D A N N W H #POS
+}
+{
+Scholarship stuff officially sent! TAG
+#POS N N R V W H #POS
+}
+{
+I need my own personal pointe-shoe maker
+#POS O V D A A N N #POS
+}
+{
+REF Aww yuss! She never fails to kick-butt
+#POS I C C W O R V P V #POS
+}
+{
+Lol after I said I'm glad my mom doesn't buy nutella my sister brings some home
+#POS C P O V L A D N V V N D N V D N #POS
+}
+{
+REF Miss Ann-Marie's class?
+#POS I B Z N W #POS
+}
+{
+Reasons I'm glad I'm not a celebrity:
+No paparazzi, annoying reporters, creepy obsessive fans, or public criticism of my decisions &amp; actions
+#POS N L A L R D N W
+D N W A N W A A N W F A N P D N F N #POS
+}
+{
+It's a good thing my mom doesn't buy nutella
+#POS L D A N D N V V N #POS
+}
+{
+Funny how teachers seem to think school is easy...maybe because they have been teaching the same thing for years
+#POS A R N V P V N V A W R P O V V V D A N P N #POS
+}
+{
+Talking with Kathryn about code names
+#POS V P B P N N #POS
+}
+{
+REF so jelly
+#POS I P N #POS
+}
+{
+Okay, someone needs to fess up...who stole my winter?
+#POS C W N V P V T W O V D N W #POS
+}
+{
+REF I have no idea though if their auditions already passed or not, but I know people have gone to those intensives
+#POS I O V D N P P D N R V F R W F O V N V V P O V #POS
+}
+{
+REF Have you decided yet what you want to do this summer? I thought of some other intensives like Milwaukee, Miami, and Rock
+#POS I V O V R O O V P V D N W O V P D A N P B W B W F B #POS
+}
+{
+When I see the moon in the sky during the daytime, I think it looks like someone put a sticker on the sky and did a bad job peeling it off
+#POS R O V D N P D N P D N W O V O V P N V D N P D N F V D A N V O T #POS
+}
+{
+REF the worst. I'd rather have NUM%
+#POS I D A W L R V K #POS
+}
+{
+Reading New Ideas From Dead Economists for school. It sounds sooo exciting.
+#POS V A N P A N P N W O V R A W #POS
+}
+{
+Jealous of everyone's formal dresses
+#POS A P D A N #POS
+}
+{
+The awkward moment when you and your friends decide not to smile in a picture but you're the only one who does it and end up looking unhappy
+#POS D A N R O F D N V R P V P D N F L D A K O V O F V T V A #POS
+}
+{
+Anyone in Mr. Ludmil's class deserves a round of applause for just showing up and trying
+#POS N P B Z N V D N P N P R V T F V #POS
+}
+{
+I love Miss Brenda and Mr. Ludmil
+#POS O V B B F B B #POS
+}
+{
+I should probably watch what I eat...lol what am I talking about? Dancers don't eat TAG
+#POS O V R V O O V W C O V O V P W N V V H #POS
+}
+{
+Had NUM donuts this morning...it's been a good day everyone
+#POS V K N D N W L V D A N N #POS
+}
+{
+I want an acai bowl TAG
+#POS O V D N N V #POS
+}
+{
+I wish I had an older brother...I feel like we would get along very nicely...or not
+#POS O V O V D A N W O V P O V V P R R W F R #POS
+}
+{
+REF I actually feel pretty good about it. Thanks!
+#POS I O R V R A P O W N W #POS
+}
+{
+REF I'm sorry
+#POS I L A #POS
+}
+{
+And all the college emails come pouring in
+#POS F D D N N V V P #POS
+}
+{
+I got an email from tumblr literally saying, "Someone is now following you. Score." lol yeah score
+#POS O V D N P B R V W W N V R V O W N W W C C N #POS
+}
+{
+I can be sociable and friendly, but maybe you should initiate the conversation
+#POS O V V A F A W F R O V V D N #POS
+}
+{
+REF lol jk but there would actually be more friends in it
+#POS I C C F R V R V A N P O #POS
+}
+{
+REF I think you should retake it at the studio where the picture should look much better because I would be in it
+#POS I O V O V V O P D N R D N V V R A P O V V P O #POS
+}
+{
+I like playing hide and go seek with the sun when I can find it TAG
+#POS O V V V F V V P D N R O V V O H #POS
+}
+{
+Sore toenails is the weirdest feeling
+#POS A N V D A V #POS
+}
+{
+The sad moment when you think a drawing of a person's face is prettier than your own real face
+#POS D A N R O V D N P D S N V A P D A A N #POS
+}
+{
+Who wouldn't want God's love? It's unconditional.
+#POS O V V Z N W L A W #POS
+}
+{
+The photographer can get silly sometimes URL
+#POS D N V V A R U #POS
+}
+{
+Let my heart be truly and wholly Yours alone, God.
+#POS V D N V R F R O R W B W #POS
+}
+{
+REF Oh wait, just kidding. I know Juliana is auditioning.
+#POS I C V W R V W O V B V V W #POS
+}
+{
+REF Aw. Yeah, I get not wanting to waste your time and money auditioning there then.
+#POS I C W C W O V R V P V D N F N V R R W #POS
+}
+{
+REF I have no clue
+#POS I O V D N #POS
+}
+{
+REF I didn't know she hated it. Did you audition there last year?
+#POS I O V V O V O W V O N R A N W #POS
+}
+{
+REF Oh yeah, I forgot
+#POS I C C W O V #POS
+}
+{
+REF But you shouldn't count them out until you try :)
+#POS I F O V V O T P O V E #POS
+}
+{
+REF Are you going to Houston's audition tomorrow?
+#POS I V O V P Z N N W #POS
+}
+{
+Poor feet..there's nothing I can do for them
+#POS A N W L N O V V P O #POS
+}
+{
+REF Wait, why don't you want to audition for Houston?
+#POS I V W R V O V P N P B W #POS
+}
+{
+REF Ballet Mag you only need to apply and send your headshot and arabesque picture
+#POS I N N O R V P V F V D N F N N #POS
+}
+{
+REF or New York City Ballet if they aren't too Balanchine for you lol or Ballet Magnificat :) They are Christian and good
+#POS I F B B B N P O V R B P O C F N B E O V B F A #POS
+}
+{
+REF hahaha yeah. Have you thought of Joffrey or CPYB or Princeton?
+#POS I C C W V O V P B F B F B W #POS
+}
+{
+REF that's what I heard too. I'm going there this summer :) Miss Maryann and Miss Amber like them!
+#POS I L O O V R W L V X D N E B B F B B P O W #POS
+}
+{
+REF hahaha what? I'm sure you will get in somewhere else. Where else are you auditioning?
+#POS I C O W L A O V V P R R W R R V O V W #POS
+}
+{
+REF I want to go to Ballet Magnificat's year round after I graduate since they only take dancers after they graduate
+#POS I O V P V P N Z N N P O V P O R V N P O V #POS
+}
+{
+Homework time...oh joy
+#POS N N W C N #POS
+}
+{
+REF That's awesome! But yeah I know what you mean. Do you hope to go there this summer?
+#POS I L A W F C O V O O V W V O V P V R D N W #POS
+}
+{
+Sisters have their benefits
+#POS N V D N #POS
+}
+{
+REF Where do you want to go?
+#POS I R V O V P V W #POS
+}
+{
+Mom: What are you doing?
+Me: Chores.
+Mom: Good.
+*NUM minutes later I actually start*
+#POS N W O V O V W
+O W N W
+N W A W
+W K N R O R V W #POS
+}
+{
+REF I would go year round if you are sure you want to dance professionally
+#POS I O V V N N P O V A O V P V R #POS
+}
+{
+REF I wanna see it
+#POS I O V V O #POS
+}
+{
+The awkward moment when you find someone else's phone with your stuff and you have no idea whose it is
+#POS D A N R O V N S N P D N F O V D N L O V #POS
+}
+{
+"God is so powerful that He can direct any evil to a good end." -Thomas Aquinas
+#POS W B V R A P O V V D A P D A N W W B B #POS
+}
+{
+REF where do you want to go this summer?
+#POS I R V O V P V D N W #POS
+}
+{
+If Kathryn hadn't given me a smoothie my day might be totally different
+#POS P B V V O D N D N V V R A #POS
+}
+{
+REF REF REF how did it go?
+#POS I I I R V O V W #POS
+}
+{
+What a nice long day of dance that caused my feet to hurt
+#POS O D A A N P N P V D N P V #POS
+}
+{
+Must...get...Frozen...when it comes out on DVD
+#POS V W V W A W R O V T P B #POS
+}
+{
+REF Who wouldn't want to be her :)
+#POS I O V V P V O E #POS
+}
+{
+Garlic bread for life. Breakfast, lunch, and dinner, yes?
+#POS N N P N W N W N W F N W C W #POS
+}
+{
+Can't wait for Pitch Perfect NUM TAG
+#POS V V P N A K H #POS
+}
+{
+lovin' these cuties
+URL
+#POS V W D N
+U #POS
+}
+{
+NUM days without dance is too much for me. TAG
+#POS K N P N V R A P O W H #POS
+}
+{
+I love planning things
+#POS O V V N #POS
+}
+{
+I like making new friends. It's just not always easy.
+#POS O V V A N W L R R R A W #POS
+}
+{
+apparently I'm such a ballerina that even the shoes that I'm not wearing are in first position
+#POS R L A D N P R D N P L R V V P A N #POS
+}
+{
+I always feel ugly around you
+#POS O R V A P O #POS
+}
+{
+REF hahaha you know it! that dangerous ballerina life
+#POS I C O V O W D A N N #POS
+}
+{
+Someone thought my name waa pretty TAG
+#POS N V D N C R H #POS
+}
+{
+Eating a watermelon candy cane TAG
+#POS V D N N N H #POS
+}
+{
+I want to dance with the angels
+#POS O V P V P D N #POS
+}
+{
+Hahaha got another Christmas card
+#POS C V D B N #POS
+}
+{
+Is it possible to die of no social life
+#POS V O A P V P D A N #POS
+}
+{
+Grammar is annoying
+#POS N V A #POS
+}
+{
+Chocolate finally
+#POS N R #POS
+}
+{
+Kathryn and her barre stretch racism lol
+#POS B F D N N N C #POS
+}
+{
+REF HAPPY HAPPY HAPPY BIRTHDAYYYYYYY &lt;NUM
+#POS I A A A N E #POS
+}
+{
+Tortellini for dinner
+#POS N P N #POS
+}
+{
+not school again -_-
+#POS R N R E #POS
+}
+{
+I like Sunday School discussions
+#POS O V B N N #POS
+}
+{
+Put away Christmas decorations today TAG
+#POS V R B N N H #POS
+}
+{
+Just realized that Enchanted is a mix of other Disney princess stories like Sleeping Beauty, Snow White, &amp; Cinderella. Who knows maybe more.
+#POS R V P B V D N P A N N N P V N W B B W F B W O V R A W #POS
+}
+{
+Just realized that Robert is the fairytale-looking one and Giselle is the modern-looking one at the end of Enchanted TAG
+#POS R V O B V D N K F B V D A K P D N P B H #POS
+}
+{
+Every story has an end but in life, every ending is just a new beginning.
+#POS D N V D N F P N W D V V R D A N W #POS
+}
+{
+God will only give you what you would have asked for if you knew everything He knows -Tim Keller
+#POS B V R V O O O V V V P P O V N O V B B #POS
+}
+{
+Anyone who thinks that sunshine is pure happiness, has never danced in the rain TAG URL
+#POS N O V D N V A N W V R V P D N H U #POS
+}
+{
+Crayon art is addicting
+#POS B N V A #POS
+}
+{
+I like it when dollar bills are crisp and coins are shiny
+#POS O V O R N N V A F N V A #POS
+}
+{
+REF I asked that same question not too long ago!
+#POS I O V D A N R R A R W #POS
+}
+{
+LOL I'm tired from just marking this variation
+#POS C L A P R V D N #POS
+}
+{
+I like to know who is interested in my best friend to see if he is worthy of her
+#POS O V P V O V A P D A N P V P O V A P O #POS
+}
+{
+It bugs me when everything is perfect except one little detail TAG
+#POS O V O R N V A P K A N H #POS
+}
+{
+Don't let me see pictures of food. That's too dangerous for me.
+#POS V V O V N P N W L R A P O W #POS
+}
+{
+I feel cool wearing my sunglasses. Don't say otherwise and pop my bubble.
+#POS O V A V D N W V V R F V D N W #POS
+}
+{
+Half the time when someone says, "I like your earrings," I have to think stop and think about what I'm wearing before saying, "Thank you."
+#POS N D N R N V W W O V D N W W O V P V V F V P O L V P V W W V O W W #POS
+}
+{
+I like plain English
+#POS O V A N #POS
+}
+{
+There seems to be no such pointe shoe that makes my feet look good and feel good
+#POS X V P V R A N N P V D N V A F V A #POS
+}
+{
+I still haven't finished school that was assigned last year
+#POS O R V V N P V A A N #POS
+}
+{
+What is that green ball? URL
+#POS O V D A N W U #POS
+}
+{
+Whenever I have things to do I don't want to do them, but when I don't have things to do I wish had something to do.
+#POS R O V N P V O V V P V O W F R O V V N P V O V V N P V W #POS
+}
+{
+REF I think Frozen is my fave
+#POS I O V B V D A #POS
+}
+{
+I can't stand secabesques
+#POS O V V N #POS
+}
+{
+I think my New Year's resolution should be "make sure everyone else keeps their New Year's resolution" TAG
+#POS O V D A N N V V W V A N R V D A N N W H #POS
+}
+{
+REF you had the most swag of them all ;)
+#POS I O V D A N P O D E #POS
+}
+{
+REF I still can't believe it took us over NUM minutes to figure out the check
+#POS I O R V V O V O P K N P V T D N #POS
+}
+{
+Saw Frozen a second time :D
+#POS V V D A N E #POS
+}
+{
+Someone just noticed that I got my braces off...it's been over a year and a half TAG
+#POS N R V P O V D N P W L V P D N F D N H #POS
+}
+{
+Did a quadruple pirouette TAG TAG
+#POS V D N N H H #POS
+}
+{
+REF That's fine. As long as it happens :)
+#POS I L A W R A P O V E #POS
+}
+{
+I want to marry someone with a fascinating last name TAG
+#POS O V P V N P D A A N H #POS
+}
+{
+Awkward moment when you hug your friend to comfort her but then remember that she doesn't like hugs
+#POS A N R O V D N P V O F R V P O V V N #POS
+}
+{
+I can't count music while watching girls dance off the music
+#POS O V V N P V N V T D N #POS
+}
+{
+REF sounds fun :)
+#POS I V N E #POS
+}
+{
+REF Disney princess movie marathon?
+#POS I B B N N W #POS
+}
+{
+They smell like raspberry muffins, but they're raspberry cookies :) URL
+#POS O V P N N W F L A N E U #POS
+}
+{
+REF Are you going to CPYB for sure?  One of my friends from my studio is going :)
+#POS I V O V P B P A W K P D N P D N V V E #POS
+}
+{
+Saw the Hobbit
+#POS V D N #POS
+}
+{
+Awkward moment when you can't spell birthday on a birthday card
+#POS A N R O V V N P D N N #POS
+}
+{
+Shopping :)
+#POS N E #POS
+}
+{
+Only I would accidentally start a NUMhr movie in the middle and watch it to the end and go back to the beginning to watch it to the middle
+#POS R O V R V D A N P D N F V O P D N F V R P D N P V O P D N #POS
+}
+{
+I learned how to play Nertz TAGNUMpeople
+#POS O V R P V B H #POS
+}
+{
+Some people are worth melting for -Frozen
+#POS D N V A V P A #POS
+}
+{
+I mean it's crazy!
+What?
+We finish each other's
+Sandwiches! -Frozen
+#POS O V L A W
+O W
+O V D S
+N W V #POS
+}
+{
+Nature URL
+#POS N U #POS
+}
+{
+Mission Inn lights URL
+#POS N B N U #POS
+}
+{
+Salt water taffy being made :) URL
+#POS B N N V V E U #POS
+}
+{
+Reindeer URL
+#POS N U #POS
+}
+{
+So cool!!! URL
+#POS R A W U #POS
+}
+{
+I finally saw Frozen!
+#POS O R V B W #POS
+}
+{
+Drive in movie :D
+#POS V P N E #POS
+}
+{
+I ate goat meat and didn't know it
+#POS O V N N F V V O #POS
+}
+{
+Seriously California? It's only the day after Christmas, not the day after Easter. What kind of whether is this?
+#POS R B W L R D N P B W R D N P B W O N P O V O W #POS
+}
+{
+My five-year-old cousin: I have a joke
+Me: Okay
+My cousin: What did the older chimney say to the younger chimney? You're too young to smoke
+#POS D A N W O V D N
+O W C
+D N W O V D A N V P D A N W L R A P V #POS
+}
+{
+My cousin: Today is Jesus's birthday. Are we going to have a cake?
+Me: Yes, we are actually.
+My cousin: Are we going to have candles?
+Me: Uh
+#POS D N W N V D N W V O V P V D N W
+O W C W O V R W
+D N W V O V P V N W
+O W C #POS
+}
+{
+My cousin was telling us a story about Jesus and somehow Sargent Murphy became a main character...TAG
+#POS D N V V O D N P B F R B B V D A N W H #POS
+}
+{
+I made a double layer chocolate cake for dessert :) URL
+#POS O V D A N N N P N E U #POS
+}
+{
+My five-year-old cousin keeps talking about me going to my boyfriend's house...uh what boyfriend is he talking about? TAG TAG
+#POS D A N V V P O V P D S N W C O N V O V P W H H #POS
+}
+{
+Watched White Christmas :)
+#POS V A B E #POS
+}
+{
+Almost dropped my phone on my face
+#POS R V D N P D N #POS
+}
+{
+The awkward moment when someone seems to recognize you and your friends but you and your friends don't recognize that person
+#POS D A N R N V P V O F D N F O F D N V V D N #POS
+}
+{
+I love celebrating Christ's birth by doing what I love most: dancing. REF REF REF
+#POS O V V Z N P V O O V R W V W I I I #POS
+}
+{
+No matter what present I get, no present can outdo God's gift of love on the first Christmas.
+#POS D N O V O V W D N V V Z N P N P D A B W #POS
+}
+{
+REF the scissors
+#POS I D N #POS
+}
+{
+REF Haha yay! I was afraid that you didn't see it and someone else did
+#POS I C C W O V A P O V V O F N R V #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF I blew you a kiss when you were in the Waltz diagonal looking at us in the wings. I hope it made up for the feather duster.
+#POS I O V O D N R O V P D N A V P O P D N W O V O V T P D N N W #POS
+}
+{
+REF They also thought I messed up in pose for the maids but it's just because Amy wasn't there
+#POS I O R V O V T P N P D N F L R P B V R #POS
+}
+{
+I have this hyper/giddiness/excitement thing that makes me say weird yet funny things that might have to do with be a post-Nutcracker thing.
+#POS O V D A N P V O V A R A N P V V P V P V D N N W #POS
+}
+{
+Our Nutcracker has everything...even the kitchen sink TAG TAG REF URL
+#POS D B V N W R D N V H H I U #POS
+}
+{
+Peppermint chex mix from another one of my best friends :) My friends know me well.
+#POS A N N P D K P D A N E D N V O R W #POS
+}
+{
+REF My family said that my feather duster was blocking your face in the last show. So sorry about that.
+#POS I D N V P D N N V V D N P D A N W R A P O W #POS
+}
+{
+I can finally sleep in
+#POS O V R V P #POS
+}
+{
+REF you rocked it mother
+#POS I O V O N #POS
+}
+{
+REF never got your tweet lol
+#POS I R V D N C #POS
+}
+{
+REF I'm decided I'm going to bed at NUM
+#POS I L V L V P N P K #POS
+}
+{
+REF I soaked my feet too :)
+#POS I O V D N R E #POS
+}
+{
+I love pointe shoes until I take them off my feet and see all the damage they are doing
+#POS O V B N P O V O P D N F V D D N O V V #POS
+}
+{
+Finally finished :) URL
+#POS R V E U #POS
+}
+{
+The little girls in my helper class are they cutest but the craziest when they have sugar before class
+#POS D A N P D N N V O A F D A R O V N P N #POS
+}
+{
+Nutcracker is one of the most wonderful times of the year
+#POS B V K P D R A N P D N #POS
+}
+{
+REF Whatttt that's so awesome!
+#POS I C L R A W #POS
+}
+{
+Tis the season to be dancing in the Nutcracker
+#POS L D N P V V P D N #POS
+}
+{
+I like the rain...except when I don't have rain boots
+#POS O V D N W V R O V V N N #POS
+}
+{
+REF that's good
+#POS I L A #POS
+}
+{
+The best sing off by far! Home Free vs. The Filharmonic: "I'm Alright" - The Sing-Off Highlight: URL via REF
+#POS D A V T P R W N A N W D B W W L C W W D N N W U P I #POS
+}
+{
+REF I barely got an A, so I would say not really. I wish I could help you. Is Sam good at it?
+#POS I O R V D N W P O V V R R W O V O V V O W V B A P O W #POS
+}
+{
+I love Christmas oreos...and just oreos in general
+#POS O V B N W F R B P A #POS
+}
+{
+I had the hiccups NUMxs today...NUMxs people -_-
+#POS O V D N V N W A N E #POS
+}
+{
+My best friend gave me chocolate &amp; sweets for Christmas...I chose a good best friend
+#POS D A N V O N F N P B W O V D A A N #POS
+}
+{
+Christmas shopping completed :)
+#POS B N V E #POS
+}
+{
+How to put me in a bad mood: wake me up in the middle of my much needed sleep and keep poking me. TAG
+#POS R P V O P D A N W V O T P D N P D A V N F V V O W H #POS
+}
+{
+I hate how there was a gorgeous sunset I couldn't take pictures of because I was driving
+#POS O V R R V D A N O V V N P P O V V #POS
+}
+{
+The clouds look cool
+#POS D N V A #POS
+}
+{
+Not a single one of my pictures had the Nutcracker in it. I like to think that means my dancing was enough to fill the picture.
+#POS R D A K P D N V D B P O W O V P V O V D N V R P V D N W #POS
+}
+{
+Oh, chocolate, what is life without you?
+#POS C W N W O V N P O W #POS
+}
+{
+Went to the boat parade with some friends URL
+#POS V P D N N P D N U #POS
+}
+{
+I have a teacher who always gives her students cookies at the end of class, so I'm giving her cookies as a Christmas present. TAG
+#POS O V D N O R V D N N P D N P N W P L V D N P D B A W H #POS
+}
+{
+Nutcracker time = foot soaking time
+#POS B N W N V N #POS
+}
+{
+One of the best things you could hear from a photographer: She's awesome. Can be take pictures of her all day? TAG
+#POS K P D A N O V V P D N W L A W V V V N P O D N W H #POS
+}
+{
+I love Christmas cookies
+#POS O V B N #POS
+}
+{
+I want someone to send me NUM Christmas presents one for each day like the song and I could do the same for that person too TAG
+#POS O V N P V O K B V K P D N P D N F O V V D A P D N R H #POS
+}
+{
+NUM days 'til Christmas :)
+#POS K N W P B E #POS
+}
+{
+I have the loudest sneezes no joke
+#POS O V D A V D N #POS
+}
+{
+REF Thanks!
+#POS I N W #POS
+}
+{
+I'm excited to do Sugarplum today for the little girls because I get to wear a tiara
+#POS L A P V N N P D A N P O V P V D N #POS
+}
+{
+I've been wanting candy, and look what I get when I go to youth group! TAG URL
+#POS L V V N W F V O O V R O V P B N W H U #POS
+}
+{
+Watched Amazing Grace for school and the best lines are
+"You found God, Sir?"
+"I think He found me."
+#POS V A B P N F D A N V
+W O V B W B W W
+W O V O V O W W #POS
+}
+{
+I love it when houses are decorated in Christmas lights that make them look like gingerbread houses.
+#POS O V O R N V V P B N P V O V P A N W #POS
+}
+{
+I'm easily mesmerized by Christmas lights
+#POS L R V P B N #POS
+}
+{
+I can multitask. I can draw while listening to music.
+#POS O V N W O V V P V P N W #POS
+}
+{
+I always loved the Sing-Off
+#POS O R V D B #POS
+}
+{
+REF How can I be one of them
+#POS I R V O V K P O #POS
+}
+{
+REF Someone asked if we practiced in the mirror. Unfortunately we're actually naturally gifted at making unattractive faces.
+#POS I N V P O V P D N W R L R R A P V A N W #POS
+}
+{
+I need an excuse to eat chocolate
+#POS O V D N P V N #POS
+}
+{
+Dear algebra, you need to stop losing x...I'm tired of helping you find it.
+#POS A N W O V P V V G W L A P V O V O W #POS
+}
+{
+REF You have to make your most unattractive face in your audition headshot
+#POS I O V P V D R A N P D N N #POS
+}
+{
+REF Kathryn and I talked about starting our own dance company and one of the requirements is butt spins. You should practice.
+#POS I B F O V P V D A N N F K P D N V N V W O V N W #POS
+}
+{
+I don't understand whenever I'm in a big group picture with like NUM people I can never think of a funny face
+#POS O V V R L P D A N N P P K N O V R V P D A N #POS
+}
+{
+Bahahaha someone called us pretty and we were making pretty ugly faces in that picture REF
+#POS C N V O R F O V V R A N P D N I #POS
+}
+{
+Took a family picture for our Christmas card :) I actually like it despite its imperfections
+#POS V D N N P D B N E O R P O P L N #POS
+}
+{
+I honestly don't care what I look like TAG
+#POS O R V V O O V P H #POS
+}
+{
+When shorts are super short they shouldn't be even classified as shorts and maybe more like awkwardly long underwear
+#POS R N V R A O V V R A P N F R R P R A N #POS
+}
+{
+I seriously didn't get when someone said I was the sweetest. I just said what I thought was sensible.
+#POS O R V V R N V O V D A W O R V O O V V A W #POS
+}
+{
+REF I don't even understand football
+#POS I O V R V N #POS
+}
+{
+Hey look there's food that's where I'll be...and there's water and trash cans and people and even better WiFi &amp; cell service. Food is great.
+#POS C V L N L R L V W F L N F N N F N F R A N F N N W N V A W #POS
+}
+{
+I actually did a legit perfect triple pirouette and everyone saw it. LOL what happened to my partner *cough cough Kathryn* TAG
+#POS O R V D A A A N F N V O W C O V P D N W V V B W H #POS
+}
+{
+REF haha for like NUM week
+#POS I C P A K N #POS
+}
+{
+That sign...I will never forget REF REF REF REF
+#POS D N W O V R V I I I I #POS
+}
+{
+Not the yarn choker TAG
+#POS R D N N H #POS
+}
+{
+Bun wigs...I have no words
+#POS N N W O V D N #POS
+}
+{
+REF I had a friend who went there and she really liked it :)
+#POS I O V D N O V R F O R V O E #POS
+}
+{
+REF YES YES
+#POS I C C #POS
+}
+{
+That was like the best performance ever REF REF REF REF
+#POS O V P D A N R I I I I #POS
+}
+{
+REF Thanks! Do you know where you want to audition yet?
+#POS I N W V O V R O V P N R W #POS
+}
+{
+Lol I accidentally tried to cut a safety pin
+#POS C O R V P V D N N #POS
+}
+{
+REF Thanks so much :) Do you know where or what you're going to do after you graduate?
+#POS I N R A E V O V R F O L V P V P O V W #POS
+}
+{
+Excited to perform tomorrow in Aliso Viejo's holiday show REF REF REF REF
+#POS V P V N P B Z N N I I I I #POS
+}
+{
+REF Ballet Magnificat in Jackson Mississippi!  It's the one I want to go to (:
+#POS I N B P B B W L D K O V P V P E #POS
+}
+{
+REF Ballet Magnificat in Jackson, Mississippi :) It's not super known, but it's where I want to go.
+#POS I N B P B W B E L R R V W F L R O V P V W #POS
+}
+{
+The printer complained about a paper jam, but no paper was found and it still printed what I needed afterwards TAG
+#POS D N V P D N N W F D N V V F O R V O O V R H #POS
+}
+{
+I GOT INTO THE SUMMER INTENSIVE!!!!!!!!!!!!!!!
+#POS O V P D N A W #POS
+}
+{
+The freaky moment when you almost slip and you can't help but think "What if I fell on my face or flat out on my back?"
+#POS D A N R O R V F O V V F V W O P O V P D N F A T P D N W W #POS
+}
+{
+I hate having an itch on my nose because if I itch it, it looks like I'm picking my nose
+#POS O V V D N P D N P P O V O W O V P L V D N #POS
+}
+{
+I should try a sugarplum someday
+#POS O V V D N R #POS
+}
+{
+I want to ride in a sleigh TAG
+#POS O V P V P D N H #POS
+}
+{
+I want to have a white Christmas at least once in my life
+#POS O V P V D A B P A R P D N #POS
+}
+{
+I have a never-ending list of things to do. Once I finish something, NUM more things are added.
+#POS O V D A N P N P V W R O V N W K A N V A W #POS
+}
+{
+I think I will make personalized Christmas cards for my friends TAG
+#POS O V O V V A B N P D N H #POS
+}
+{
+Even though it has only been NUM days, I can't wait to dance again tomorrow
+#POS R P O V R V K N W O V V P V R N #POS
+}
+{
+I want to walk in a Nutcracker Candyland
+#POS O V P V P D N B #POS
+}
+{
+I love having only DAT texts I receive apply to me because of a group text &amp; apparently they don't care/notice that I'm getting it TAG
+#POS O V V R K N O V V P O P P D N N F R O V V P L V O V #POS
+}
+{
+Looks like my sister's Christmas present got lost somewhere while being delivered TAG
+#POS V P D S B N V V R P V V H #POS
+}
+{
+It was one of those days where my hair was like nope let's do my own thing
+#POS O V K P D N R D N V P C L V D A N #POS
+}
+{
+Whoever I marry has to have the same humor as me because it will not work if I'm rolling on the floor laughing and he's just staring at me
+#POS N O V V P V D A N P O P O V R V P L V P D N V F L R V P O #POS
+}
+{
+&lt;NUM Coppelia Variation, Act III: URL via REF
+#POS E B N W V O W U P I #POS
+}
+{
+I hate washing my hands in the winter in freezing cold water that is supposed to be warm water
+#POS O V V D N P D N P A A N P V A P V A N #POS
+}
+{
+To dance like nobody's watching is TAG. But that's not so easy when I know whoever watches me will naturally be judging me
+#POS P V P L V V B W F L R R A R O V O V O V R V V O #POS
+}
+{
+I feel warm and cozy like a toasty marshmellow
+#POS O V A F A P D A N #POS
+}
+{
+Oh shoot! They don't see us. How about sticking half of our bodies out the window and waving like crazy? TAG
+#POS C N W O V V O W R P V N P D N P D N F V P A W H #POS
+}
+{
+The sad moment when you're excited trying to get someone's attention, but they don't notice.
+#POS D A N R L V V P V D N W F O V V W #POS
+}
+{
+On the freeway: Hey! We recognize them in that car! Let's open the window and scream at them 'cause they're totally gonna hear us.
+#POS P D N W C W O V O P D N W L V D N F V P O W P L R V V O W #POS
+}
+{
+Just called a friend on her birthday to wake her up by singing "Happy Birthday" TAG
+#POS R V D N P D N P V O T P V W A N W H #POS
+}
+{
+Me in Jr. High: Midnight is late.
+Me now: Midnight is normal.
+Me in the future: Midnight is early.
+#POS O P B B W N V A W
+O R W B V A W
+O P D N W N V A W #POS
+}
+{
+Okay, I had to eat NUM cookies to finish my milk. I would've felt guilty if I left so much milk behind TAG
+#POS C W O V P V K N P V D N W O V V A P O V R A N P H #POS
+}
+{
+Just had NUM chocolate chip cookies with chocolate milk as my pre-lunch TAG
+#POS R V K N N N P N N P D N H #POS
+}
+{
+Wanna know what makes my day? A random guy walking by singing, "I got some burgers."
+#POS V V O V D N W D A N V P V W W O V D N W W #POS
+}
+{
+Just saw one of my best friends unexpectedly :)
+#POS R V K P D A N R E #POS
+}
+{
+Helped at the Operation Christmas Child processing center today! TAG
+#POS V P D N B B V N N W H #POS
+}
+{
+I got some burgers! I got some burgers! Let me correct you...they're chicken sandwiches TAG
+#POS O V D N W O V D N W V O A O W L N N H #POS
+}
+{
+Everybody look to the left! Whoa, I think the car joined in there too LOL
+#POS N V P D N W C W O V D N V P R R C #POS
+}
+{
+Singing Christmas songs in the car with my friends who have the cutest sister relationship
+#POS V B N P D N P D N O V D A N N #POS
+}
+{
+Everyone loves free Chick-fil-A, especially when they let you get seconds
+#POS N V A B W R R O V O V N #POS
+}
+{
+I'd rather get a C than a B because whenever I get a B, I always feel like I could have done better or had a chance at getting an A
+#POS L R V D N P D N P R O V D N W O R V P O V V V A F V D N P V D N #POS
+}
+{
+REF Same to you! Merde! &lt;NUM
+#POS I A P O W C W E #POS
+}
+{
+More Christmas music! They're so cool (: [Official Video] Little Drummer Boy - Pentatonix: URL via REF
+#POS A B N W L R A E W A N W A N N W B W U P I #POS
+}
+{
+Christmas music :) Angels We Have Heard on High (Christmas w/ NUM fingers and NUM thumbs) - Th...: URL via REF
+#POS B N E N O V V P B W B P K N F K N W W G J J U P I #POS
+}
+{
+Kathryn's pointe shoe actually bruised me
+#POS B B N R V O #POS
+}
+{
+It smells like pineapples
+#POS O V P N #POS
+}
+{
+When someone compliments my outfit: Thanks!
+When someone compliments me: I really wish you didn't, but I don't know why.
+#POS R N V D N W N W
+R N V O W O R V O V W F O V V R W #POS
+}
+{
+I applied to the summer intensive I want to go to :D TAG
+#POS O V P D N N O V P V P E H #POS
+}
+{
+If school was just imagination and creativity, I would be happy URL
+#POS P N V R N F N W O V V A U #POS
+}
+{
+If you need energy, I would say take a nap. Or you could fill yourself up with sugar by eating cookies like I am right now.
+#POS P O V N W O V V V D N W F O V V O T P N P V N P O V R R W #POS
+}
+{
+REF Just NUM more rehearsals and then it's the REAL thing!
+#POS I R K A N F R L D A N W #POS
+}
+{
+REF Yeah, she's smart
+#POS I C W L A #POS
+}
+{
+Who wants to volunteer to be my adventure partner? I think it's time I do something randomly fun and unexpected :)
+#POS O V P V P V D N N W O V L N O V N R A F A E #POS
+}
+{
+REF I've never seen it! I want to see it too! A bunch of us should have like a movie night
+#POS I L R V O W O V P V O R W D N P O V V P D N N #POS
+}
+{
+REF I wish I could help you but I didn't like geometry either and am glad I'm done with it
+#POS I O V O V V O F O V V N R F V A L V P O #POS
+}
+{
+REF I wish I could watch you
+#POS I O V O V V O #POS
+}
+{
+If a girl needs to be cheered up just give her chocolate and hugs. It should work NUM% of the time.
+#POS P D N V P V V T R V D N F N W O V V K P D N W #POS
+}
+{
+REF Are you the Sugarplum Fairy?!
+#POS I V O D N N W #POS
+}
+{
+Well, school is annoying, ain't it?
+#POS C W N V A W V O W #POS
+}
+{
+All I want to do is eat, sleep, dance, draw, and bake, okay?
+#POS D O V P V V V W N W N W V W F V W C W #POS
+}
+{
+Can one of my friends just kidnap me already and take me far away from school?
+#POS V K P D N R V O R F V O R R P N W #POS
+}
+{
+December is the most wonderful time of the year TAG
+#POS B V D R A N P D N H #POS
+}
+{
+I'm ready for Christmas to come now...like now TAG
+#POS L A P B P V R W P R H #POS
+}
+{
+Four days after Thanksgiving and I finally figured out why stuffing is called stuffing...it is stomach stuffing, not turkey stuffing.
+#POS K N P B F O R V T R V V V V W O V N V W R N V W #POS
+}
+{
+Get over yourself please
+#POS V P O V #POS
+}
+{
+I want to watch Elf
+#POS O V P V B #POS
+}
+{
+Got new boots and jeans today...I'd say it was a decent day
+#POS V A N F N N W L V O V D A N #POS
+}
+{
+REF ahaha ohhhh
+#POS I C C #POS
+}
+{
+REF your bio rhymes
+#POS I D N V #POS
+}
+{
+Excuse me while I go in this corner and die because I can't take school anymore
+#POS V O P O V P D N F V P O V V N R #POS
+}
+{
+Every time I have loads of school to do I just want to waste time daydreaming, drawing, being on social media, and then crying over school.
+#POS D N O V N P N P V O R V P V N V W V W V P A N W F R V P N W #POS
+}
+{
+I love Christmas shopping. Wherever I go, there will be Christmas music and decorations :)
+#POS O V B N W R O V W X V V B N F N E #POS
+}
+{
+Christmas decorations up and music on
+#POS B N T F N P #POS
+}
+{
+REF I've seen this before and it is really cool
+#POS I L V O P F O V R A #POS
+}
+{
+Ballerinas aren't joking when they say dance is their boyfriend. They have to give up socials and time with other friends for what they love
+#POS N V V R O V N V D N W O V P V T B F N P A N P O O V #POS
+}
+{
+It's good to sleep in my own bed
+#POS L A P V P D A N #POS
+}
+{
+Everyone just loves long car rides TAG
+#POS N R V A N V H #POS
+}
+{
+Golden Gate Park URL
+#POS B B B U #POS
+}
+{
+lychee ice tea is like da perfect drink next to water
+#POS B A N V P D A N P P N #POS
+}
+{
+late night baking (:
+#POS A N V E #POS
+}
+{
+I love Malaysian food!
+#POS O V B N W #POS
+}
+{
+Had fried mango ice cream TAG
+#POS V A N N N H #POS
+}
+{
+I had fried banana
+#POS O V A N #POS
+}
+{
+As much as I love little children, the only time I don't want them calling me is when they need their diapers changed
+#POS R A P O V A N W D A N O V V O V O V R O V D N V #POS
+}
+{
+Had a green tea Kit Kat...was surprisingly good
+#POS V D A N N B W V R A #POS
+}
+{
+Going on an adventure :)
+#POS V P D N E #POS
+}
+{
+When it comes down to what I am most thankful for, it is who I have in life and not what I have in life.
+#POS R O V T P O O V R A P W O V O O V P N F R O O V P N W #POS
+}
+{
+Why don't more people enjoy Thanksgiving instead of rushing to get it over with to get to Black Friday and Christmas?
+#POS R V A N V B R P V P V O T P P V P B B F B W #POS
+}
+{
+Sometimes people need to stop complaining and start thanking
+#POS R N V P V V F V V #POS
+}
+{
+I had fresh coconut (:
+#POS O V A N E #POS
+}
+{
+It's rather sad that we need a day to remind us to be thankful. Thanksgiving should be everyday.
+#POS L R A P O V D N P V O P V A W B V V N W #POS
+}
+{
+I don't want to give a NUM minute speech and be graded on it
+#POS O V V P V D K N N F V V P O #POS
+}
+{
+Apples &amp; peanut butter TAG
+#POS N F A N H #POS
+}
+{
+One of my friend's guy friends wrote her a song as a birthday present. I want friends like that...next birthday someone pleeeeease
+#POS K P D S N N V O D N P D N N W O V N P O W A N N V #POS
+}
+{
+homemade guacamole &amp; taquitos (:
+#POS A N F N E #POS
+}
+{
+REF Mat TIM &amp; NUM Peter TIM!  Don't worry girl!  God's got you :)
+#POS I B K F K B B W V V N W L V O E #POS
+}
+{
+My friend composed such a beautiful song that if I ever get married she has to play it at my wedding
+#POS D N V A D A N P P O R V V O V P V O P D N #POS
+}
+{
+It amuses me how my math teacher calls difficult problems "exotic"
+#POS O V O R D N N V A N W A W #POS
+}
+{
+If you asked me to go on a run in the rain I would say no, but if you asked me if I wanted to dance in the rain, the answer is anytime
+#POS P O V O P V P D N P D N O V V C W F P O V O P O V P V P D N W D N V R #POS
+}
+{
+Omg I love this music video!  Valentine - Kina Grannis (Official Music Video): URL via REF
+#POS C O V D N N W B W B B W A N N W U P I #POS
+}
+{
+Christ doesn't offer a crutch; He gives us a cure
+#POS B V V D N W O V O D N #POS
+}
+{
+I like art because unlike essays there is no right or wrong way to say what you wanna say
+#POS O V N P A N R V D N F A N P V O O V V #POS
+}
+{
+Rain parties with dancing/singing in the rain, puddle-jumping/mud-sliding then showers &amp; snugglin with blankets/hot cocoa/movie should exist
+#POS N N P V P D N W N R N F V P N N V V #POS
+}
+{
+REF I never asked you, how was Diana Vishneva?
+#POS I O R V O W R V B B W #POS
+}
+{
+If you take feet out of the picture, I might have a chance of being just as good of a dancer as she is
+#POS P O V N P P D N W O V V D N P V R R A P D N P O V #POS
+}
+{
+Well, her feet give her an unfair advantage TAG
+#POS C W D N V O D A N H #POS
+}
+{
+It can't possibly be exactly NUM weeks 'til Christmas
+#POS O V R V R K N W P B #POS
+}
+{
+I just like you. I don't why, but I do. And it bugs me. TAG
+#POS O R P O W O V R W F O V W F O V O W H #POS
+}
+{
+I actually thanked God for chocolate during my bed time prayer and my mom laughed. I was serious.
+#POS O R V B P N P D N N N F D N V W O V A W #POS
+}
+{
+"If you were a college guy, would you see me and be like she looks like she is in college?" Gee, I dunno maybe because I'm not a college guy
+#POS W P O V D N N W V O V O F V P O V P O V P N W W C W O V R P L R D N N #POS
+}
+{
+You're asking the girl about fashion stuff
+#POS L V D N P N N #POS
+}
+{
+My handwriting looks different depending on the pen I use
+#POS D N V A V P D N O V #POS
+}
+{
+Someone said my handwriting looks like her mom's...that's not weird at all
+#POS N V D N V P D N W L R A P D #POS
+}
+{
+REF Missing you at the studio! It's not the same without you, especially the Mr. Tummnus walk
+#POS I V O P D N W L R D A P O W R D B B V #POS
+}
+{
+Do you ever have those times when your mouth wants the taste of food but your stomach is just like no way you fatty
+#POS V O R V D N R D N V D N P N F D N V R P D N O A #POS
+}
+{
+It's a sad sad day when your Spiderman pencil is too small to use anymore
+#POS L D A A N R D B N V R A P V R #POS
+}
+{
+Just nod your head and smile when you don't know what someone said to you for the NUMth time...that's what I do and it always works
+#POS R V D N F V R O V V O N V P O P D A N W L O O V F O R V #POS
+}
+{
+REF haha it's fine
+#POS I C L A #POS
+}
+{
+What can I say, I just love REF
+#POS O V O V W O R V I #POS
+}
+{
+Craving chocolate
+#POS V N #POS
+}
+{
+REF Missin' you too
+#POS I V W O R #POS
+}
+{
+REF It's a good thing you don't live in California then
+#POS I L D A N O V V P B R #POS
+}
+{
+My sister: I need music before I go crazy.  TAG
+#POS D N W O V N P O V A W H #POS
+}
+{
+I actually wrote an essay that I was satisfied with...I probably will end up changing my mind when I get my grade TAG
+#POS O R V D N P O V A P W O R V V T V D N R O V D N H #POS
+}
+{
+My back pack is so heavy the car thought it was a person without a seat belt
+#POS D A N V R A D N V O V D N P D N N #POS
+}
+{
+REF I've actually tried that before lol
+#POS I L R V O P C #POS
+}
+{
+Mission accomplished: We got one driver to wave to us. TAG
+#POS N V W O V K N P V P O W H #POS
+}
+{
+Love love love this girl REF URL
+#POS V V V D N I U #POS
+}
+{
+Senior gag gifts :p URL
+#POS A N N E U #POS
+}
+{
+Kidnapped the senior class threw a surprise party for them last night TAG
+#POS V D A N V D N N P D A N H #POS
+}
+{
+We should sit next to a stop sign so that drivers are forced to make eye contact with us TAG
+#POS O V V A P D N N P D N V A P V N V P O H #POS
+}
+{
+Doing the princess wave to cars that go by on the opposite side of the road TAG TAG
+#POS V D N N P N P V P P D A N P D N H H #POS
+}
+{
+Sitting on the curb by the beach in the dark doing the wave with my friends as cars go by TAG
+#POS V P D N P D N P D N V D N P D N P N V P H #POS
+}
+{
+REF I haven't seen you wear a skirt like that so it's all good with you
+#POS I O V V O V D N P O R L D A P O #POS
+}
+{
+Catching fire comes out in exactly a week! TAG
+#POS V N V T P R D N W H #POS
+}
+{
+Ballet pet peeve: when girls wear skirts that don't even cover their bottoms...like what's the point in wearing a skirt? TAG
+#POS N N N W R N V N P V R V D N W P L D N P V D N W H #POS
+}
+{
+I love how an NUM-year-old thinks she is almost as tall as me just because she is to my shoulder TAG
+#POS O V R D N V O V R R A P O R P O V P D N H #POS
+}
+{
+The freaky moment when you come face to face with your own reflection in a window at night
+#POS D A N R O V N P N P D A N P D N P N #POS
+}
+{
+I'm reading a book about a girl reading a book about a girl who is learning philosophy and finds a book about her life TAG
+#POS L V D N P D N V D N P D N O V V N F V D N P D N H #POS
+}
+{
+I didn't expect to find you laughing at me when I turned around TAG TAG
+#POS O V V P V O V P O R O V P H H #POS
+}
+{
+I'm glad we were able to relate for NUM seconds
+#POS L A O V A P V P K N #POS
+}
+{
+I demand that attractive guys stop being friendly to me TAG
+#POS O V D A N V V A P O H #POS
+}
+{
+Gosh, he would be perfect if he just cut his hair...so cut your hair!
+#POS C W O V V A P O R V D N W P V D N W #POS
+}
+{
+I wish I had a time machine that stored time for me so that if I ever needed more time, I could get some
+#POS O V O V D N N P V N P O R O P O R V A N W O V V D #POS
+}
+{
+It's the time of the year when sugarplum is used in too many commercials and played in many stores TAG
+#POS L D N P D N R N V V P R A N F V P A N H #POS
+}
+{
+I didn't know that pumpkin ice cream existed until my mom made it
+#POS O V V D N N N V P D N V O #POS
+}
+{
+I have a talent for taking blurry cell phone pictures
+#POS O V D N P V A N N N #POS
+}
+{
+What if once we turned NUM, every birthday after that our age goes back down TAG
+#POS O P R O V K W D N P O D N V R R H #POS
+}
+{
+I want to see Frozen really badly when it finally comes out
+#POS O V P V A R R R O R V T #POS
+}
+{
+REF yet we love it at the same time
+#POS I R O V O P D A N #POS
+}
+{
+I'm too lazy to even try to look "pretty" TAG
+#POS L R A P R V P V W R W H #POS
+}
+{
+Ballet is what gets me up on Saturday mornings
+#POS N V O V O T P B N #POS
+}
+{
+It's weird, but it's true. I'm always in a better mood after a shower than before a shower TAG
+#POS L A W F L A W L R P D A N P D N P P D N H #POS
+}
+{
+akdhlgkjd...sometimes you just need to let it out
+#POS G W R O R V P V O T #POS
+}
+{
+So excited to see REF this weekend at Biola!
+#POS R A P V I D N P B W #POS
+}
+{
+I'm so overwhelmed with school, I almost don't care if I fail TAG
+#POS L R A P N W O R V V P O V H #POS
+}
+{
+I can't believe I missed out on seeing Venus and a shooting star last night -_-
+#POS O V V O V T P V B F D N N A N E #POS
+}
+{
+Happy Birthday, Mommy! URL
+#POS A N W N W U #POS
+}
+{
+Late night baking for my mommy's birthday tomorrow!
+#POS A N V P D S N N W #POS
+}
+{
+A chocolate a day sounds good
+#POS D N D N V A #POS
+}
+{
+I was done with precalculus after the first math problem and was in tears after the second
+#POS O V V P B P D A N N F V P N P D A #POS
+}
+{
+Why do people assume that I can read their minds TAG
+#POS R V N V P O V V D N H #POS
+}
+{
+REF I'm sure you look at it every day before you go to dance to gather inspiration
+#POS I L A O V P O D N P O V P V P V N #POS
+}
+{
+REF I have an even better idea than the coloring book! Make a new PBC calendar filled with our coloring pages :)
+#POS I O V D R A N P D N N W V D A B N V P D N N E #POS
+}
+{
+can I go on Twitter and freak out really quickly?
+#POS V O V P B F V T R R W #POS
+}
+{
+Me: Can things get any harder?
+Life: Yes, yes they can.
+Me: That was a rhetorical question.
+#POS O W V N V D A W
+N W C W C O V W
+O W O V D A N W #POS
+}
+{
+I should get off Twitter...half an hour later, I should get off Twitter...half an hour later, ok bye...goes back on half an hour later.
+#POS O V V T B W C D N R W O V V T B W C D N R W C C W V R P N D N R W #POS
+}
+{
+I just paid $NUM all in one dollar bills TAG
+#POS O R V K D P K N N C #POS
+}
+{
+I realized I have a love for oreos :D
+#POS O V O V D N P B E #POS
+}
+{
+Twitter is ruining my life. I'm not getting any school done.
+#POS B V V D N W L R V D N V W #POS
+}
+{
+I like flowers that look like sunshine
+#POS O V N P V P N #POS
+}
+{
+REF did you keep that picture for inspiration?
+#POS I V O V D N P N W #POS
+}
+{
+Teachers: Thank you very much, but I would like to get some sleep this school year.
+#POS N W V O R A W F O V V P V D N D N N W #POS
+}
+{
+REF our first picture should include strawberries
+#POS I D A N V V N #POS
+}
+{
+REF we should create a coloring book and sell it at the spring gala
+#POS I O V V D N N F V O P D N N #POS
+}
+{
+REF yes, just remember we are business partners
+#POS I C W R V O V N N #POS
+}
+{
+REF you should create a pointe shoe called "The Schuh"
+#POS I O V V D N N V W D B W #POS
+}
+{
+I don't understand how certain mirrors make me look uglier than other mirrors do
+#POS O V V R A N V O V A P A N V #POS
+}
+{
+That mood when you can't focus and find everything funny and can't stop laughing
+#POS D N R O V V F V N A F V V V #POS
+}
+{
+CATCHING FIRE COMES OUT THIS MONTH TAG
+#POS V B V T D N H #POS
+}
+{
+If you're God's daughter, you're a princess :)
+#POS P L Z N W L D N E #POS
+}
+{
+Feet were never attractive to begin with, even if you aren't a dancer TAG
+#POS N V R A P V P W R P O V D N H #POS
+}
+{
+Do you like elephants
+cause I think they're funny TAG
+#POS V O V N
+P O V L A H #POS
+}
+{
+"When you drink water through your trunk does it taste like boogers?" -Ice Age NUM
+#POS W R O V N P D N V O V P N W W B B K #POS
+}
+{
+Your randomness fits mine (:
+#POS D N V O E #POS
+}
+{
+Oh that's right, random is to be expected from you...but I love it
+#POS C L A W A V P V V P O W F O V O #POS
+}
+{
+I can't focus for the life of me. like I must be slightly ADD or something
+#POS O V V P D N P O W P O V V R V F N #POS
+}
+{
+After asking how I was, he says,
+"Do you enjoy toast
+I do"
+That made me laugh so hard I started crying TAG
+#POS P V R O V W O V W
+W V O V N
+O V W
+O V O V R A O V V H #POS
+}
+{
+Pumpkin cupcakes with cream cheese frosting TAG
+#POS N N P N N N H #POS
+}
+{
+How come I didn't know that Halloween Joe Joe's existed?
+#POS R V O V V P B B Z V W #POS
+}
+{
+I asked, "Life can you slow down please?" It answered with a flat out, "No."
+#POS O V W W N V O A P V W W O V P D A T W W C W W #POS
+}
+{
+making bows :) URL
+#POS V N E U #POS
+}
+{
+Until I bruised my toenail, I was pretty sure it was the most attractive part of me
+#POS P O V D N W O V R A O V D R A N P O #POS
+}
+{
+When my ballet teacher found out that I didn't go trick-or-treat, he said, "Why not? There's lots of candy!"
+#POS R D N N V T P O V V N W O V W W R R W L N P N W W #POS
+}
+{
+My mood: CHOCOLATE
+#POS D N W N #POS
+}
+{
+Halloween: the only time you can be whoever you want and not be criticized
+#POS B W D A N O V V O O V F R V V #POS
+}
+{
+REF I probably would be the only one who wouldn't think you're strange, but it would make my life
+#POS I O R V V D A K O V V L A W F O V V D N #POS
+}
+{
+Now that's what I call rain
+#POS R L O O V N #POS
+}
+{
+REF next Halloween you should be a strawberry ballerina
+#POS I A B O V V D N N #POS
+}
+{
+Works cited for essays is more work than citing
+#POS V V P N V A N P V #POS
+}
+{
+Do you know Jesus? 'Cause I kinda really like that guy. Just thought you should know.
+#POS V O V B W W P O R R V D N W R V O V V W #POS
+}
+{
+The weirdest compliment I have ever received: What beautiful hair you have! I just want to harvest it!
+#POS D A N O V R V W O A N O V W O R V P V O W #POS
+}
+{
+If you don't spend your time wishing you were with someone, being single is actually wonderful.
+#POS P O V V D N V O V P N W V A V R A W #POS
+}
+{
+REF you didn't send me this one (:
+#POS I O V V O D K E #POS
+}
+{
+So I decided to set aside a whole hour for writing an essay and ended up spending NUM of the minutes on social media TAG
+#POS P O V P V R D A N P V D N F V T V K P D N P A N H #POS
+}
+{
+I'm just embracing junior year and all its late nights...not
+#POS L R V N N F D L A N W R #POS
+}
+{
+REF Be sure to wear your weirdest black leotard tomorrow
+#POS I V A P V D A A N N #POS
+}
+{
+So I decided to start writing my essay at NUMam, and Twitter looks like a good place for inspiration
+#POS P O V P V V D N P K W F B V P D A N P N #POS
+}
+{
+Sounds like a good idea to write an essay at NUMam
+#POS V P D A N P V D N P K #POS
+}
+{
+I don't understand why people hide their gorgeous eyes behind their hair 'cause if I had them I wouldn't hide them
+#POS O V V R N V D A N P D N W P P O V O O V V O #POS
+}
+{
+I'm officially excited for Halloween...like who wouldn't be if you were planning on being a ballerina gangster
+#POS L R V P B W P O V V P O V V P V D N N #POS
+}
+{
+Don't like the way you look? Avoid mirrors. That's what I do. Duh. TAG
+#POS V V D N O V W V N W L O O V W C W H #POS
+}
+{
+REF REF If Miss Ann-Marie still hasn't decided what our pointe NUM dance is we should suggest doing Get Your Ballet On
+#POS I I P B B R V V O D N P N V O V V V V D N P #POS
+}
+{
+REF something I would do
+#POS I N O V V #POS
+}
+{
+I hate group messages when my phone is on vibrate when it's supposed to be silenced 'cause it sounds like it's at normal volume to everyone
+#POS O V N N R D N V P N R L A P V V W P O V P L P A N P N #POS
+}
+{
+When my phone is silenced, no one texts or calls me, oh but when it's on vibrate the whole, world decides to rock my phone with vibrations
+#POS R D N V V W D K N F V O W C F R L P N D A W N V P V D N P N #POS
+}
+{
+REF so adorable!
+#POS I R A W #POS
+}
+{
+How can you live and not eat pumpkin bread?
+#POS R V O V F R V N N W #POS
+}
+{
+What in the world made you think cucumber was in pumpkin bread?!
+#POS O P D N V O V N V P N N W #POS
+}
+{
+Pumpkin bread is the bomb.
+#POS N N V D N W #POS
+}
+{
+REF because people seem to have all kinds of animals as pets these days, I'm waiting for someone with a pet fox to answer tell us
+#POS I P N V P V D N P N P N D N W L V P N P D N N P V V O #POS
+}
+{
+Today felt like a wear-all-black-kinda-day...until the sun came out after lunch
+#POS N V P D N W P D N V T P N #POS
+}
+{
+Some days I'm dying to hang out with someone; other days I just want to be left alone and watch other people's lives on Facebook
+#POS D N L V P V T P N W A N O R V P V V R F V A S V P B #POS
+}
+{
+Whenever I find out that a friend knows another person that I know, I'm just dumbfounded TAG
+#POS R O V T P D N V D N P O V W L R A H #POS
+}
+{
+Swan Lake Act II Entrance of the Swans URL
+#POS B B B B N P D N U #POS
+}
+{
+REF That is my older sister. She like has the song memorized.
+#POS I O V D A N W O V V D N V W #POS
+}
+{
+Abt summer intensive Orange County :) URL
+#POS P N A B B E U #POS
+}
+{
+I should be one of those girls who stretch and do crunches every night, but I'm not
+#POS O V V K P D N O V F V N D N W F L R #POS
+}
+{
+I just said "bourreeing."  I mean isn't that a word? TAG
+#POS O R V W V W W O V V P D N W H #POS
+}
+{
+REF REF Those death falls really killed us
+#POS I I D N V R V O #POS
+}
+{
+REF REF SAME especially my toe nails
+#POS I I A R D N N #POS
+}
+{
+It's settled...I'm gonna be a ballerina rapper for Halloween REF
+#POS L V W L V V D N N P B I #POS
+}
+{
+REF I keep thinking your username is Hannah_shoestring :p
+#POS I O V V D N V B E #POS
+}
+{
+TAG TAG TAG TAG REF REF
+#POS H H H H I I #POS
+}
+{
+Good internet connection = happiness
+#POS A N N W N #POS
+}
+{
+So glad the PSAT is over!!!!!!!!!  No mention the SAT for like NUM months now
+#POS R A D B V P W D V D B P A K N R #POS
+}
+{
+Why is filling out my name and address on the PSAT so stressful?
+#POS R V V T D N F N P D N R A W #POS
+}
+{
+So I was gone all morning taking the PSAT and my sister didn't notice TAG
+#POS P O V V D N V D B F D N V V H #POS
+}
+{
+Oh, ya know, just adding more chocolate to the chocolate TAG
+#POS C W O V W R V A N P D N H #POS
+}
+{
+In case you can't tell, we're sitting on a bench TAG TAG URL
+#POS P N O V V W L V P D N H H U #POS
+}
+{
+I apologize ahead of time for the rest of my ballet career to my already abused toe nails URL
+#POS O V R P N P D N P D N N P D R V N N U #POS
+}
+{
+Some drivers drive on your tail like you're one of those slow seniors but you're just one of the few people who don't want a speeding ticket
+#POS D N V P D N P L K P D A N F L R K P D A N O V V D A N #POS
+}
+{
+Lol Tupperware is like tupperwhere is the lid
+#POS C B V P B V D N #POS
+}
+{
+Don't honk at me for being a good driver and not running over that pedestrian crossing the street
+#POS V V P O P V D A N F R V P D N V D N #POS
+}
+{
+Wait...all the chairs in this restaurant have wheels? I rate this restaurant as coolest restaurant ever!
+#POS V W X D N P D N V N W O V D N P A N R W #POS
+}
+{
+If someone made an Andes mint candy bar...that person is a genius
+#POS P N V D B B B N W D N V D N #POS
+}
+{
+Olive Garden has the best mints
+#POS B B V D A N #POS
+}
+{
+Sometimes I wonder why people don't seem to acknowledge me and other times why they can't stop asking me questions
+#POS R O V R N V V P V O F A N R O V V V O N #POS
+}
+{
+REF I know what you mean
+#POS I O V O O V #POS
+}
+{
+If there was any ounce of life left in my bruised toe nail, it's gone now
+#POS P X V D N P N V P D A N N W L V R #POS
+}
+{
+Smile lots; laugh even more
+#POS V N W V R A #POS
+}
+{
+A little girl said she was going to be Little Bo Peep for Halloween and her dog will be the sheep. The cuteness of the idea is killing me.
+#POS D A N V O V V P V A B B P B F D N V V D N W D N P D N V V O W #POS
+}
+{
+Laugh when you can
+#POS V R O V #POS
+}
+{
+One time someone came to my house and thought that the jicuma on the veggie platter was cheese...I'm so sorry my mom did that to her.
+#POS K N N V P D N F V P D B P D A N V N W L R A D N V O P O W #POS
+}
+{
+That guy creeps me out
+#POS D N V O T #POS
+}
+{
+I just used like NUM pages of paper for math TAG
+#POS O R V P K N P N P N H #POS
+}
+{
+Oh hey it's you....where have you been
+#POS C C L O W R V O V #POS
+}
+{
+REF you aren't normal if you don't
+#POS I O V A P O V #POS
+}
+{
+That mysterious girl who bothers you until you finally find out who she is
+#POS D A N O V O P O R V T O O V #POS
+}
+{
+REF heck yeah!
+#POS I C C W #POS
+}
+{
+I definitely just had Thanksgiving in a cracker
+#POS O R R V B P D N #POS
+}
+{
+Algebra just needs to face it; x will always be missing, but I don't know y
+#POS N R V P V O W E V R V V W F O V V R #POS
+}
+{
+RAIN!!!!!!!!!!!!!!!!
+#POS N W #POS
+}
+{
+I insist on believing that flowers are tangible sunshine
+#POS O V P V D N V A N #POS
+}
+{
+I think I'll be a princess in pointe shoes for Halloween (:
+#POS O V L V D N P N N P B E #POS
+}
+{
+Dance is my drug. It lets me forget all life's problems.
+#POS N V D N W O V O V D L N W #POS
+}
+{
+Holy mackerel! It's actually Friday!
+#POS A N W L R B W #POS
+}
+{
+Hahaha nope...not tired of this yet
+
+URL
+#POS C C W R A P O R
+
+U #POS
+}
+{
+When am I not busy
+#POS R V O R A #POS
+}
+{
+When am I not tired
+#POS R V O R A #POS
+}
+{
+I'm thankful that bugs and insects don't bleed when someone kills them.
+#POS L A P V F N V V R N V O W #POS
+}
+{
+You have to have a sense of humor to understand me
+#POS O V P V D N P N P V O #POS
+}
+{
+REF Thanks! The past years were good but I feel like this year is gonna be really good! I'm excited for the new costumes this year too!
+#POS I N W D A N V A F O V P D N V V V R A W L V P D A N D N R W #POS
+}
+{
+REF Bring it for your dance friends!
+#POS I V O P D N N W #POS
+}
+{
+Ballet makes the world more beautiful
+#POS N V D N R A #POS
+}
+{
+Naps are great
+#POS N V A #POS
+}
+{
+REF I'm the solo doll, angel queen, mirliton lead, and a maid :)
+#POS I L D A N W B B W B V W F D N E #POS
+}
+{
+"If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you." A.A. Milne, Winnie-the-Pooh
+#POS W P O V P V D K W O V P V P V D K P K N P O R V P V P O W W B B W B #POS
+}
+{
+REF That would be awesome! I hope so too since this is your last year!
+#POS I O V V A W O V R R P O V D A N W #POS
+}
+{
+REF What are your parts?
+#POS I O V D N W #POS
+}
+{
+REF Congrats!
+#POS I C W #POS
+}
+{
+Flowers are the way the earth smiles
+#POS N V D N D N V #POS
+}
+{
+REF Are you doing Nutcracker?
+#POS I V O V B W #POS
+}
+{
+REF Did you find out your parts yet?
+#POS I V O V T D N R W #POS
+}
+{
+Tryin' ta be social TAG
+#POS V W P V A H #POS
+}
+{
+Finally caught up with my old youth leader I haven't seen for a year
+#POS R V T P D A N N O V V P D N #POS
+}
+{
+"Who's more foolish, the fool or the one that follows the fool?" ~Obi-Wan
+#POS W L R A W D N F D K P V D N W W G B #POS
+}
+{
+Pumpkin spice latte!!!
+#POS N N N W #POS
+}
+{
+I can't believe how oblivious some people can be
+#POS O V V R A D N V V #POS
+}
+{
+REF Well, ain't he perfect
+#POS I C W V O A #POS
+}
+{
+Watch Star Wars as homework? No prob! Does that mean we watch the rest of the movies the following weeks? Consider it done.
+#POS V B N P N W C N W V O V O V D N P D N D N N W V O V W #POS
+}
+{
+You would think messy buns are easy to do because their mess. Not. Or maybe because I'm a ballerina it should be easier. Pft.
+#POS O V V A N V A P V P D N W R W F R P L D N O V V A W C W #POS
+}
+{
+Twitter: the place where I can say the things that are too weird to say on Facebook and not care.
+#POS B W D N R O V V D N P V R A P V P B F R V W #POS
+}
+{
+Fish with mango salsa, green beans, and rice is one of the best meals ever TAG
+#POS N P B N W A N W F N V K P D A N R H #POS
+}
+{
+Snacking on chocolate chips could become a bad habit of mine
+#POS V P N N V V D A N P O #POS
+}
+{
+My favorite teacher, of course, is the one who always gives us candy TAG
+#POS D A N W P N W V D K O R V O N H #POS
+}
+{
+All things chocolate :)
+#POS D N N E #POS
+}
+{
+REF It's an honor, but I feel like it belongs in Nutcracker and everyone saw it a couple months ago. I'd rather do it in Nutcracker.
+#POS I L D N W F O V P O V P B F N V O D N N R W L R V O P B W #POS
+}
+{
+Is it weird that I like cheese so much?
+#POS V O A P O V N R R W #POS
+}
+{
+REF Hahaha, no, but my teacher wants me to do it for a show we have in February where all the advanced students perform variations
+#POS I C W C W F D N V O P V O P D N O V P B R X D A N V N #POS
+}
+{
+There are so many distractions! The internet, bed, food. TAG
+#POS X V R A N W D N W N W N W H #POS
+}
+{
+Too bad I can never ditch school TAG
+#POS R A O V R V N H #POS
+}
+{
+I have mixed feelings about Sugarplum
+#POS O V A N P N #POS
+}
+{
+I want to be a cute little fairy for Halloween. Nah, go big or go home. I want to be a fairy for the rest of my life.
+#POS O V P V D A A N P B W C W V A F V N W O V P V D N P D N P D N W #POS
+}
+{
+Blub, blub
+#POS C W C #POS
+}
+{
+IT'S FALL!!!!!!!!!
+#POS L N W #POS
+}
+{
+REF Yes please! Like Friday forever?
+#POS I C V W P B R W #POS
+}
+{
+Why would I choose to be single? Because I don't want to have my heart torn to pieces unnecessarily.
+#POS R V O V P V A W P O V V P V D N V P N R W #POS
+}
+{
+adkjinfg
+#POS C #POS
+}
+{
+Why want to be an adult when you can be a kid? TAG
+#POS R V P V D N R O V V D N W H #POS
+}
+{
+It's the weekend. We do not speak of school TAG
+#POS L D N W O V R V P N H #POS
+}
+{
+Sassy at her sassiest
+#POS A P O N #POS
+}
+{
+Well, aren't you special
+#POS C W V O A #POS
+}
+{
+I don't like it when teachers have favorites. Like what's wrong with me? JK, don't tell me. I know it's a long list.
+#POS O V V O R N V N W P L A P O W C W V V O W O V L D A N W #POS
+}
+{
+My ballet teacher wants me to learn the Sleeping Beauty pas de deux with her son TAG
+#POS D N N V O P V D N N G P N P D N H #POS
+}
+{
+When I was younger, I used to love making bubbles with the soap and water while I washed the dishes TAG
+#POS R O V A W O V P V V N P D N F N P O V D N H #POS
+}
+{
+CHEESE!!!!!
+#POS N W #POS
+}
+{
+I like getting texts that are sooo long that they come in multiple texts, but who doesn't?
+#POS O V V N P V R A P O V P A N W F O V W #POS
+}
+{
+Nah, that commercial is a fake. Whenever I shop at that store, I never find clothes that are even close to being that cute.
+#POS C W D N V D A W R O N P D N W O R V N P V R A P V D A W #POS
+}
+{
+You mean I'm supposed to read NUM pages a day in order to finish this book in a week? Yeahhhh, right. TAG
+#POS O V L A P V K N D N P N P V D N P D N W C W R W H #POS
+}
+{
+I do not like it when my mind comes up with a question that I cannot answer
+#POS O V R P O R D N V T P D N P O V V #POS
+}
+{
+Why does my mind have to be so active when I want to go to sleep????
+#POS R V D N V P V R A R O V P V P V W #POS
+}
+{
+I don't like where my mind is taking me.
+#POS O V V R D N V V O W #POS
+}
+{
+Ew. Just stop it. Please. Like now. You're killing me.
+#POS C W R V O W V W P R W L V O W #POS
+}
+{
+It's a free country peeps
+#POS L D A N N #POS
+}
+{
+I strongly dislike how people save seats when it says saving seats are not allowed. Maybe I should go sit in a seat that looks saved anyway
+#POS O R V R N V N R O V V N V R V W R O V V V P D N P V V R #POS
+}
+{
+Oh, I can't sit with you? I guess I will go over there and make friends with that wall instead.
+#POS C W O V V P O W O V O V V P R F V N P D N R W #POS
+}
+{
+OH MY GOSH...No.
+#POS C D C W C W #POS
+}
+{
+Why am I SO hungry? Do I have parasites or something?
+#POS R V O R A W V O V N F N W #POS
+}
+{
+The ugliest part of me: my bruised toe nail TAG
+#POS D A N P O W D A N N H #POS
+}
+{
+The other girls are such copycats. They always copy me in liking whoever I like. Gosh.
+#POS D A N V A N W O R V O P V O O V W C W #POS
+}
+{
+I saw him first TAG
+#POS O V O A H #POS
+}
+{
+REF That's not a fun fact. It's more like a won't-let-you-fall-asleep-sleep-anymore fact.
+#POS I L R D A N W L R P D A N W #POS
+}
+{
+REF I like that game
+#POS I O V D N #POS
+}
+{
+Maybe I will catch up on my homework today...hahaha, you're funny, Alisa. Heck, no.
+#POS R O V V T P D N N W C W L A W B W N W C W #POS
+}
+{
+I'm silently laughing at my sister and she says, "Shut-up." But I didn't even make a sound!
+#POS L R V P D N F O V W W C W W F O V R V D N W #POS
+}
+{
+Some days I just can't help but make funny sounds with my mouth 'cause I'm bored
+#POS D N O R V V F V A N P D N W P L A #POS
+}
+{
+Life, I will never be prepared for it
+#POS N W O V R V A P O #POS
+}
+{
+REF I do too! It's so much better than math or science or English. I don't understand people who hate history.
+#POS I O V R W L R R A P N F N F N W O V V N O V N W #POS
+}
+{
+I feel like laughing for no reason...I might be going cray cray peeps
+#POS O V P V P D N W O V V V A A N #POS
+}
+{
+Oh life.
+#POS C N W #POS
+}
+{
+Ew. Planned power outage on Monday. That means no WiFi all day. Sucks to be me.
+#POS C W V N N P B W O V D N D N W V P V O W #POS
+}
+{
+Sorry, but I have to agree with her. If you're gonna tell her to wash her car, why don't you be a gentleman and do it for her?
+#POS A W F O V P V P O W P L V V O P V D N W R V O V D N F V O P O W #POS
+}
+{
+Overhearing my neighbors argue about how to wash a car TAG
+#POS V D N V P R P V D N H #POS
+}
+{
+REF REF cuties
+#POS I I N #POS
+}
+{
+I thought coloring for anatomy would be fun TAG
+#POS O V V P N V V A H #POS
+}
+{
+School, can you just stop it?
+#POS N W V O R V O W #POS
+}
+{
+What is the point of solving a problem that has an imaginary number? TAG
+#POS O V D N P V D N P V D A N W H #POS
+}
+{
+I don't get the point of imaginary numbers. How do they apply to my everyday life? They don't. Exactly.
+#POS O V V D N P A N W R V O V P D N N W O V W R W #POS
+}
+{
+Why on earth did mathematicians have to invent imaginary numbers as if real numbers were not enough
+#POS R P N V B V P V A N P P A N V R R #POS
+}
+{
+I want to dance, but I don't feel like driving myself to dance. Hey, Mom, Dad, can we build a studio next to our house?
+#POS O V P V W F O V V P V O P V W C W N W N W V O V D N P P D N W #POS
+}
+{
+I just realized that today is Friday, which means THE WEEKEND IS HERE!!!  Hello weekend :) TAG
+#POS O R V O N V B W D V D N V R W C N E H #POS
+}
+{
+Writing the most hilarious NUM-sentence animal stories ever in Spanish. The class is gonna have a good laugh (:
+#POS V D R A K N N R P B W D N V V V D A N E #POS
+}
+{
+Writing NUM-sentence animal stories as Spanish homework. Why can't English homework be this easy?
+#POS V K N N P B N W R V B N V D A W #POS
+}
+{
+First Nutcracker rehearsal tonight! Whoop, whoop!
+#POS A N N N W C W C W #POS
+}
+{
+What's the plural of rhinoceros? Rhinoceroses? Rhinoceri? Just rhinoceros like sheep and deer?
+#POS L D N P N W B W B W R N P N F N W #POS
+}
+{
+Teachers have a way of picking books that let me fall asleep while reading them
+#POS N V D N P V N P V O V R P V O #POS
+}
+{
+Even if you're gone, at least I have memories
+#POS R P L V W P A O V N #POS
+}
+{
+Summer, where did you go? Maybe it's what did I do with my summer that I can't remember my summer.  LOL, maybe I slept too much to remember.
+#POS N W R V O V W R L O V O V P D N P O V V D N W C W R O V R A P V W #POS
+}
+{
+Of course, I'm not wrong. The math book is wrong. TAG
+#POS P N W L R A W D N N V A W H #POS
+}
+{
+That awkward moment at the end of a math problem when your answer is not one of the choices and all you can say is "Well, that's awkward."
+#POS D A N P D N P D N N R D N V R K P D N F D O V V V W C W L A W W #POS
+}
+{
+math -_- TAG
+#POS N E H #POS
+}
+{
+Of course I, a dancer, jump higher than you non-dancers
+#POS P N O W D N W V A P O A #POS
+}
+{
+REF or such big purses they might as well bring a suitcase
+#POS I F A A N O V R R V D N #POS
+}
+{
+Daisies are just about my favorite flower because they are such happy looking TAG
+#POS N V R P D A N P O V A A V H #POS
+}
+{
+My ballet teacher saw me eating a juicy white nectarine and thought it was so beautiful that she called it TAG
+#POS D N N V O V D A A N F V O V R A P O V O H #POS
+}
+{
+REF I feel you
+#POS I O V O #POS
+}
+{
+REF It's just ok to me. Kinda sweet, but plain.
+#POS I L R V P O W R A W F A W #POS
+}
+{
+I love daydreaming on Pinterest :)
+#POS O V V P B E #POS
+}
+{
+I love TAG URL
+#POS O V N U #POS
+}
+{
+My NUM-year-old cousin said goodbye to the doorbell and then told us not to forget to close the door TAG
+#POS D A N V C P D N F R V O R P V P V D N H #POS
+}
+{
+I asked my cousin what his favorite food was and he said, "Chicken." I'm like ok. Then he said, "Hen." I think he should stick with chicken.
+#POS O V D N O D A N V F O V W W B W W L P A W R O V W W B W W O V O V V P N W #POS
+}
+{
+REF Thanks!
+#POS I N W #POS
+}
+{
+I asked my NUM-year-old cousin what sound a crocodile makes just to see what he would say and he gave the best answer ever: croc-a-doodle-doo!
+#POS O V D A N O V D N V R P V O O V V F O V D A N R W N W #POS
+}
+{
+"What sound does a monkey make?"
+my NUM-year-old cousin: Mooo
+I guess we still need to work with him
+#POS W O V V D N V W W
+D A N W C
+O V O R V P V P O #POS
+}
+{
+REF I got Mirliton lead, Angel Queen, solo doll, and maid group dance. Tell my your parts when you find out too (:
+#POS I O V B V W B B W A N W F N N N W V D D N R O V T R E #POS
+}
+{
+REF I wonder what the maid dance is!
+#POS I O V O D N N V W #POS
+}
+{
+REF totally called it
+#POS I R V O #POS
+}
+{
+REF pick your day and time and I will clear my schedule for it :p
+#POS I V D N F N F O V V D N P O E #POS
+}
+{
+REF hahaha yeah I just kinda need to pack all my stuff and grow some wings first so I can fly over there.
+#POS I C C O R R V P V X D N F V D N R P O V V P R W #POS
+}
+{
+REF Merliton lead, Angel Queen, solo doll, and maid dance too.  Are you THE mother as in Clara and Fritz's mother?
+#POS I B V W B B W A N W F N N R W V O D N P P B F Z N W #POS
+}
+{
+REF you have one awesome family. Can I join you?
+#POS I O V K A N W V O V O W #POS
+}
+{
+REF what did you get?!
+#POS I O V O V W #POS
+}
+{
+REF take me with you!
+#POS I V O P O W #POS
+}
+{
+When I see people sickle their feet, I cringe, and then remember that they're not dancers. So it's okay TAG
+#POS R O V N V D N W O V W F R V P L R N W P L A H #POS
+}
+{
+REF how sweet of him! well, I guess maybe you're drinking coffee for his protection after all.
+#POS I R A P O W C W O V R L V N P D N P O W #POS
+}
+{
+Miss Ann-Marie always does it to me. My whole body is sore.  Neck, shoulders, back, bottom, thighs, calves, arches, &amp; toe nails TAG
+#POS B B R V O P O W D A N V A W N W N W R W N W N W N W V W F N N H #POS
+}
+{
+Twitter can actually be addicting
+#POS B V R V A #POS
+}
+{
+Its the most beautiful thing when NUM people enter a marriage for God's glory because He was the one who brought them together TAG
+#POS L D R A N R K N V D N P Z N P O V D K O V O R H #POS
+}
+{
+Life is too short to spend being unhappy
+#POS N V R A P V V A #POS
+}
+{
+Thanks to Nutcracker, my Saturdays are forever busy now TAG
+#POS N P B W D B V R A R H #POS
+}
+{
+REF It was gorgeous!
+#POS I O V A W #POS
+}
+{
+REF seriously, sometimes just why
+#POS I R W R R R #POS
+}
+{
+REF Gingersnap corps for life
+#POS I B B P N #POS
+}
+{
+REF lucky!
+#POS I A W #POS
+}
+{
+It has always been my youth leader's dream to get married and have a family.  It will begin to come true tomorrow at her wedding TAG
+#POS O V R V D N S N P V V F V D N W O V V P V A N P D N V #POS
+}
+{
+Throwing it back to when I was on vacation in Seattle and it was still summer and I had no school TAG URL
+#POS V O R P R O V P N P B F O V R N F O V D N H U #POS
+}
+{
+When I was younger I would always panic that I would accidentally press the panic button on car keys
+#POS R O V A O V R V P O V R V D N N P N N #POS
+}
+{
+REF Will do!  Please let me know your casting too!
+#POS I V V W V V O V L V R W #POS
+}
+{
+REF You don't find out for NUM weeks? I wouldn't be able to stand the wait! We get our results the Tuesday after the audition :)
+#POS I O V V T P K N W O V V A P V D N W O V D N D B P D N E #POS
+}
+{
+Chocolate cinnamon cheesecake cupcakes for my sister's birthday! My mom almost had me put salt instead of sugar in it URL
+#POS N N N N P D S N W D N R V O V N R P N P O U #POS
+}
+{
+REF auditions are this Saturday! Have you started Nutcracker yet? So far everything is going okay with school and dance :)
+#POS I N V D B W V O V B R W R R N V V A P N F N E #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+REF oh ok. I guess school can be scarring
+#POS I C C W O V N V V V #POS
+}
+{
+I came to the conclusion that street cleaners were invented so that road kill would be conveniently removed
+#POS O V P D N P N N V V P D N V V V R V #POS
+}
+{
+Ew! I hate that high-pitched buzzing sound!
+#POS C W O V D A V V W #POS
+}
+{
+Without some noise, it's too quiet. That's my excuse if someone ever says I'm too loud
+#POS P D N W L R A W L D N P N R V L R A #POS
+}
+{
+REF really? of course I made sure no trains were around :)
+#POS I R W P N O V A D N V P E #POS
+}
+{
+I love it when my ballet teacher thinks I grew when I know perfectly well that I didn't
+#POS O V O R D N N V O V R O V R R P O V #POS
+}
+{
+Nutcracker? Bring it on! TAG
+#POS B W V O P W H #POS
+}
+{
+REF I'm tweeting you because I miss you &lt;NUM
+#POS I L V O P O V O E #POS
+}
+{
+Dumplings :) the little pleasures in life
+#POS N E D A N P N #POS
+}
+{
+being a TAG jk people do it all the time at the beach URL
+#POS V D N G N V O D D N P D N U #POS
+}
+{
+Seeing your grandma cry will make you cry
+#POS V D N V V V O V #POS
+}
+{
+Go big or go home
+#POS V A F V N #POS
+}
+{
+I'm so jealous of male dancers TAG
+#POS L R A P A N H #POS
+}
+{
+The awful feeling of a lazy core/bottom in ballet class and a lower leg in developes because of a NUM week break
+#POS D A N P D A N P N N F D A N P N P P D K N V #POS
+}
+{
+Homemade guacamole is the best TAG
+#POS A N V D A N #POS
+}
+{
+When I can't focus for the life of me, I feel like I must be slightly ADD just that my parents never bothered to tell me 'cause it's slight
+#POS R O V V P D N P O W O V P O V V R V R P D N R V P V O W P L A #POS
+}
+{
+I'm embracing life without the responsibilities adults would have while I still can
+#POS L V N P D N N V V P O R V #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+Oh, ya know, just hanging out with a troll URL
+#POS C W O V W R V T P D N U #POS
+}
+{
+REF where were you?
+#POS I R V O W #POS
+}
+{
+I hate sore toe nails TAG
+#POS O V A N N R #POS
+}
+{
+If I had a twin, I think I would either be having fun all the time or I wouldn't be able to stand my twin
+#POS P O V D N W O V O V D V V N X D N F O V V A P V D N #POS
+}
+{
+Nutcracker, here I come!
+#POS B W R O V W #POS
+}
+{
+A shower sounds refreshing
+#POS D N V A #POS
+}
+{
+I'm about to drown in my sweat
+#POS L P P V P D N #POS
+}
+{
+"Don't cry because it's over. Smile because it happened." -Dr. Seuss
+#POS W V V P L P W V P O V W W W B B #POS
+}
+{
+God is more than enough
+#POS B V A P R #POS
+}
+{
+The first day back to ballet is never your best day
+#POS D A N R P N V R D A N #POS
+}
+{
+Daphne's for lunch TAG
+#POS Z P N H #POS
+}
+{
+A good dress is necessary to find when doing back to school shopping :)
+#POS D A N V A P V R V R P N N E #POS
+}
+{
+I hope the parents feel young going to youth group tonight instead of us kids
+#POS O V D N V A V P B N R R P O N #POS
+}
+{
+Why does seafood cost so much? Oh well, still ordering it TAG
+#POS R V N N R R W C C W R V O H #POS
+}
+{
+Hiked Multnoma Falls URL
+#POS V B B U #POS
+}
+{
+REF that was me yesterday at my first class back
+#POS I O V O N P D A N R #POS
+}
+{
+I want to know if a British singer singing country would sound funny
+#POS O V P V P D A N V N V V A #POS
+}
+{
+Had hot dogs for lunch and fish for dinner NUM days in a row TAG
+#POS V A N P N F N P N K N P D N H #POS
+}
+{
+Music is always there for you when everything is quiet and you are lonely TAG
+#POS N V R R P O R N V A F O V A N #POS
+}
+{
+I have a way of always ordering the most expensive dish when my family eats out TAG
+#POS O V D N P R V D R A N R D N V T H #POS
+}
+{
+I call any old guy with a long white beard Santa Claus
+#POS O V D A N P D A A N B B #POS
+}
+{
+I can't sit like a lady for the life of me
+#POS O V V P D N P D N P O #POS
+}
+{
+Some day I want to get a fire pit at the beach and at night I want to dance around it like and Indian warrior. Yea I know not strange at all
+#POS D N O V P V D N N P D N F P N O V P V P O P F B N W C O V R A P D #POS
+}
+{
+Well, what time is it? URL
+#POS C W O N V O W U #POS
+}
+{
+Just heard a little boy ask his mom if it was almost Christmas TAG TAG TAG
+#POS R V D A N V D N P O V R B H H H #POS
+}
+{
+Made it on camera at the baseball game TAG
+#POS V O P N P D N N H #POS
+}
+{
+It's so hot I'm gonna die!
+#POS L R A L V V W #POS
+}
+{
+Saw NUMD in NUMD lol
+#POS V B P A C #POS
+}
+{
+It frustrates me how some dresses have zippers in the back and I can zip it up all the way except NUM centimeter
+#POS O V O R D N V N P D N F O V V O T D D N P K N #POS
+}
+{
+Ratatouille! I finally tried what that movie was named after. URL
+#POS B W O R V O D N V V P W U #POS
+}
+{
+Why am I always the one who trips?
+#POS R V O R D K O N W #POS
+}
+{
+Baseball game URL
+#POS N N U #POS
+}
+{
+Dresses are fun but dresses with pockets are even so much more fun TAG
+#POS N V A F N P N V R R R A N H #POS
+}
+{
+If you make me laugh, I automatically like you
+#POS P O V O V W O R P O #POS
+}
+{
+Annual Chipps hike TAG URL
+#POS A N N H U #POS
+}
+{
+Hollister should label the dudes' section "Bobs" to because ya know it goes with "Bettys" like guys &amp; gals or men &amp; women TAG
+#POS B V V D N W N W N W P P O V O V P W B W V N F N F N F N H #POS
+}
+{
+White shirt and spaghetti...this lunch might not end well
+#POS A N F N W D N V R N C #POS
+}
+{
+If it's true that people with a shy personality tend to make better friends, lovers, and spouses, I'm gonna start talking to some shy peeps.
+#POS P L A P N P D A N V P V A N W N W F N W L V V V P D A N W #POS
+}
+{
+REF La Fille Mal Gardee has some dancers dressed as chickens! I'm NUM% sure that a man is playing the mother. Look it up!
+#POS I B B B B V D N V P N W L K A P D N V V D N W V O T W #POS
+}
+{
+Dance is a beautiful way to express yourself
+#POS N V D A N P V O #POS
+}
+{
+Apparently ballerina grace only works for ballet and not everyday life TAG
+#POS R N B R V P N F R A N H #POS
+}
+{
+One of the many good things about chocolate is that is available year-round TAG
+#POS K P D A A N P N V O V A A N #POS
+}
+{
+I like the number NUM because it rhymes with heaven and is a soda and a game and there are NUM days in a week. NUM is just awesome like that.
+#POS O V D N K P O V P B F V D N F D N F R V K N P D N W K V R A P O W #POS
+}
+{
+If I were to have a pasta name, these are my choices:
+Alfredo Fettuccine
+Marinara Spaghetti
+Pesto Linguini
+Penne Butter
+Macaroni Anne Cheese
+#POS P O V P V D N N W D V D N W
+B B
+B N
+N N
+N N
+B B N #POS
+}
+{
+I love this group so much!  So talented! Evolution of Music - Pentatonix: URL via REF
+#POS O V D N R R W R A W N P N W B W U P I #POS
+}
+{
+iTunes is awesome. I thank the Lord for it.
+#POS B V A W O V D B P O W #POS
+}
+{
+Things to say randomly:
+The classic "poop"
+BANANA PLANET
+mushrooms!
+Pumpernickel
+Squirrels and anchovies! (my favorite)
+#POS N P V R W
+D N W N W
+N N
+N W
+N
+B F N W W D A W #POS
+}
+{
+Yup. I just watched almost NUM hours of ballet on YouTube. Midsummer's Night Dream is cute.
+#POS C W O R V R K N P N P B W Z N N V A W #POS
+}
+{
+Professional dancers kill me. TAG
+#POS A N V O W H #POS
+}
+{
+Wait...she can jump and turn?! That's no fair! TAG
+#POS V W O V V F V W L D N W H #POS
+}
+{
+OH MY GOSH HER FEET ARE KILLING ME. Only dancers would understand.
+#POS C D C D N V V O W A N V V W #POS
+}
+{
+My dad saw my painted nails and called it puke. Thanks, Dad, thanks. Love you too. At least I don't paint my nails that often.
+#POS D N V D A N F V O V W N W N W N W V O R W P A O V V D N P R W #POS
+}
+{
+saw Planes yesterday because my friend wanted to...it was pretty cute actually
+#POS V N N P D N V P W O V R A R #POS
+}
+{
+Watching professionals dance kills me. When will I look like them? Bahahaha...never
+#POS V N N V O W R V O V P O W C W R #POS
+}
+{
+If I could be a crayon I would a yellow one because it's so happy and sunny-looking TAG
+#POS P O V V D N O V D A K P L R A F A N #POS
+}
+{
+have I ever mentioned that I love flowers? Well, don't get me started 'cause I love love love love LOVE them
+#POS V O R V P O V N W C W V V O V W P O V V V V V O #POS
+}
+{
+Hello sunshine (: TAG URL
+#POS C N E H U #POS
+}
+{
+Why are we always looking for x? It's always being solved for in algebra and it always marks the spot for buried treasure on a map.
+#POS R V O R V P G W L R V V P P N F O R V D N P V N P D N W #POS
+}
+{
+some days I feel old and other days I feel like the most immature and foolish kids TAG
+#POS D N O V A F A N O V P D R A F A N H #POS
+}
+{
+Keep lovin' URL
+#POS V A W U #POS
+}
+{
+The view from the airplane URL
+#POS D N P D N U #POS
+}
+{
+Some day I want to live in a cozy little cottage TAG
+#POS D N O V P V P D A A N H #POS
+}
+{
+I REALLY want to rent a beach house TAG
+#POS O R V P V D N N V #POS
+}
+{
+I like being the friend who has to know everything first
+#POS O V V D N O V P V N R #POS
+}
+{
+All I see is chocolate TAG URL
+#POS D O V V N H U #POS
+}
+{
+"Ballet is a dance executed by the human soul." -Alexander Pushkin
+#POS W N V D N V P D A N W W B B #POS
+}
+{
+Lovin' livin' life NUM Him by doin' what I love NUM the One I love TAG
+#POS V W V W N P O P V W O O V P D K O V H #POS
+}
+{
+Duh, i go to parties on Friday nights...ya know me, myself, and I at my house all night long
+#POS C W O V P V P B N W O V O W O W F O P D N D N A #POS
+}
+{
+It's the little things that make me smile and they can add up to a big thing that makes my day
+#POS L D A N P V O V F O V V T P D A N P V D N #POS
+}
+{
+That sad moment when you realize someone didn't want to be as close of a friend as you hoped.
+#POS D A N R O V N V V P V R A P D N P O V W #POS
+}
+{
+"No love is as pure and simple as the love of food." -Oscar Wilde
+#POS W D N V R A F A P D N P N W W B B #POS
+}
+{
+There always seems to be a friend who has to move away and a friend who changes TAG
+#POS R R V P V D N O V P V R F D N O V R #POS
+}
+{
+The new One Direction fragrance is called "Our Moment." Well, guys, I guess it's finally our moment to smell good.
+#POS D A K N N V V W D N W W C W N W O V L R D N P V A W #POS
+}
+{
+I wish I could dance as long as I can watch ballet on YouTube
+#POS O V O V V R A P O V V N P B #POS
+}
+{
+I could eat fruit and vegetables all day, yet I don't think I could be a vegetarian
+#POS O V V N F N D N W R O V V O V V D A #POS
+}
+{
+I could spend all day just laughing with my friends
+#POS O V V D N R V P D N #POS
+}
+{
+When someone asked why I was smiling, I was thinking, "Does there have to be a reason? What's wrong with smiling?"
+#POS R N V R O V V W O V V W W V R V P V D N W L A P V W W #POS
+}
+{
+Thank you Merida from Brave for proving that not every princess needs a prince to be considered a princess
+#POS V O B P B P V O R D N V D N P V V D N #POS
+}
+{
+I want to go back to kindergarten when everyone talked and played with each other because they didn't care who you were
+#POS O V P V R P B R N V F V P D A P O V V O O V #POS
+}
+{
+Whoever came up with Chinese chicken salad must not have been Chinese because salad is not part of the Chinese cuisine
+#POS O V T P A N N V R V V A P N V R N P D A N #POS
+}
+{
+I'd rather dance than watch dance
+#POS L R V P V N #POS
+}
+{
+Montage Beach URL
+#POS N N U #POS
+}
+{
+Finally painted my nails TAG URL
+#POS R V D N H U #POS
+}
+{
+Hit the spot URL
+#POS V D N U #POS
+}
+{
+Of course the one time I actually try to go to bed at a decent time I can't fall asleep
+#POS P N D K N O R V P V P N P D A N O V V R #POS
+}
+{
+The awkward moment when I accidentally text the wrong person because she has the same name as my other friend...at least she is a friend too
+#POS D A N R O R V D A N P O V D A N P D A N W P A O V D N R #POS
+}
+{
+It's quite embarrassing how much I love food
+#POS L R A R R O V N #POS
+}
+{
+Just because someone is quiet all the time does not mean that person is shy
+#POS R P N V A X D N V R V D N V A #POS
+}
+{
+I find that the quietest people are the most interesting people and usually end up becoming good friends with them.
+#POS O V P D A N V D R A N F R V T V A N P O W #POS
+}
+{
+Best friends are like a four-leaf clover: hard to find and lucky to have
+#POS A N V P D A N W A P V F A P V #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+How come it seems like whatever my mom wants me to do I have no motivation to do TAG TAG
+#POS R V O V P O D N V O P V O V D N P V H H #POS
+}
+{
+My dirty shoes just got dirtier
+#POS D A N R V A #POS
+}
+{
+REF Yes please! Let's have a reunion! That would be amazing!
+#POS I C V W L V D N W O V V A W #POS
+}
+{
+*At the mall*
+"Hey, Daddy, let's go to the wine store! Just kidding, just kidding! Not really!"
+#POS W P D N W
+W C W N W L V P D N N W R V W R V W R R W W #POS
+}
+{
+I don't like how some girls cut their hair like a boy and some guys grow their hair out like a girl.
+#POS O V V R D N V D N P D N F D N V D N P P D N W #POS
+}
+{
+I need to find myself a guy with cool eyes so I can pick wedding colors that match his eyes. Gosh he will be hot at his wedding thanks to me
+#POS O V P V O D N P A N P O V V N N P V D N W C O V V A P D N N P O #POS
+}
+{
+I saw a squirrel running on a power line :)
+#POS O V D N V P D N N E #POS
+}
+{
+REF Thanks especially junior year probably will be tough :/
+#POS I N R A N R V V A E #POS
+}
+{
+Faith is worthless if you don't act on it.
+#POS N V A P O V V P O W #POS
+}
+{
+Ever since Abt I can't sleep in 'cause I'm used to waking up early but now school is starting I will have to wake up early anyway. Oh joy.
+#POS R P R O V V P W P L V P V T A F R N V V O V V P V T R R W C N W #POS
+}
+{
+I love my mom's homemade hamburgers &lt;NUM
+#POS O V D S A N E #POS
+}
+{
+Caramel frappuccino :) URL
+#POS N N E U #POS
+}
+{
+Vietnamese food!!!
+#POS A N W #POS
+}
+{
+Listening to a song called "Sunburn" at the beach...how ironic...I hope I don't get sunburned.
+#POS V P D N V W N W P D N W R A W O V O V V A W #POS
+}
+{
+It's fun watching people in their cars seeing who is bored who looks cramped in a smart car who is rich or not so fun a guy picking his nose
+#POS L A V N P D N V O V A O V A P D A N O V A F R R A D N V D N #POS
+}
+{
+REF He says "Your welcome."
+#POS I O V W D A W W #POS
+}
+{
+Home grown figs (: URL
+#POS N V N E U #POS
+}
+{
+REF Of course! I miss you so much! I hope you have a wonderful senior year.
+#POS I P N W O V O R R W O V O V D A A N W #POS
+}
+{
+REF The moment we have been waiting for finally came: The art masterpiece has been handed over to you.
+#POS I D N O V V V P R V W D N N V V V P P O W #POS
+}
+{
+Well, this says it all URL
+#POS C W O V O D U #POS
+}
+{
+Chillin' with REF tomorrow :p
+#POS V W P I N E #POS
+}
+{
+Uh...alrighty then. URL
+#POS C W C R W U #POS
+}
+{
+Of course the NUM weirdest books ever are right next to each other URL
+#POS P N D K A N R V R A P D A U #POS
+}
+{
+*I'm going down the stairs*
+My grandma: "You scare me."
+LOL
+#POS W L V T D N W
+D N W W O V O W W
+C #POS
+}
+{
+*I look at the ground and thinks it looks like cheese*
+Why do I always think of food?
+#POS W O V P D N F V O V P N W
+R V O R V P N W #POS
+}
+{
+Candy store is just another name for heaven
+#POS B N V R D N P B #POS
+}
+{
+The crazy things you see in Seattle URL
+#POS D A N O V P B U #POS
+}
+{
+My grandma called Harry Potter, Harry Potty. Bahahaha!
+#POS D N V B B W B B W C W #POS
+}
+{
+REF This was the view from the top (: You should definitely go there some day URL
+#POS I O V D N P D N E O V R V R D N U #POS
+}
+{
+I can't believe I have a shoe tan TAG
+#POS O V V O V D N N H #POS
+}
+{
+I'm the type of person who would see a sign warning of a step and still trip over it
+#POS L D N P N O V V D N N P D N F R V P O #POS
+}
+{
+I love how people still give me kids' menus
+#POS O V R N R V O N W N #POS
+}
+{
+Oooo watermelon honey sticks are good
+#POS C N N N V A #POS
+}
+{
+Got lost in the woods with my family and got out before it was dark and before we heard a bunch of freaky coyotes. We didn't tell grandma.
+#POS V V P D N P D N F V T P O V A F P O V D N P A N W O V V N W #POS
+}
+{
+Cafe Yumm. I sure hope it is living up to its name.
+#POS B C W O A V O V V T P D N W #POS
+}
+{
+Why in the world would someone have pet llamas?
+#POS R P D N V N V N N W #POS
+}
+{
+The sky looked so beautiful at Knott's URL
+#POS D N V R A P Z U #POS
+}
+{
+I went there REF It was awesome! URL
+#POS O V R I O V A W U #POS
+}
+{
+Gosh California needs more trees. Going to Oregon and Washington is motivating me to plant some trees.
+#POS C B V A N W V P B F B V V O P V D N W #POS
+}
+{
+Oregon and Washington are so green!  I'm in love!
+#POS B F B V R A W L P N W #POS
+}
+{
+How can someone drive a jeep with no doors? I would be freaking out that something would fall out of my car and for my life for that matter.
+#POS R V N V D N P D N W O V V V T O N V V P P D N F P D N P D N W #POS
+}
+{
+People these days
+#POS N D N #POS
+}
+{
+Oh dear. I think I drooled on a roller coaster.
+#POS C C W O V O V P D N N W #POS
+}
+{
+I did not almost pee on the third time I rode Ghost Rider.  I did not.
+#POS O V R R V P D A N O V B B W O V R W #POS
+}
+{
+Oh how I love when my shoes go squish from being soaked on a wet ride
+#POS C R O V R D N V N P V V P D A N #POS
+}
+{
+I love receiving hand-written notes or letters
+#POS O V V A N F N #POS
+}
+{
+Shouting "Oh my gosh!" on every roller coaster at Knott's
+#POS V W C D C W W P D N N P Z #POS
+}
+{
+The view from Silver Bullet last night REF URL
+#POS D N P B B A N I U #POS
+}
+{
+I love Thai food
+#POS O V B N #POS
+}
+{
+Going to Knott's tomorrow! Stoked!
+#POS V P Z N W V W #POS
+}
+{
+Looking at model homes is so cool!
+#POS V P N N V R A W #POS
+}
+{
+I love taking walks and admiring the houses and yards.
+#POS O V V V F V D N F N W #POS
+}
+{
+Hold it! There is a street called Lovejoy? It's decided. I'm moving there.
+#POS V O W X V D N V B W L V W L V R W #POS
+}
+{
+Deer are so cute!!!!!!!!!!!
+#POS N V R A W #POS
+}
+{
+Aghhh!!! I think my baby toe nail was bruised by a weight
+#POS C W O V D N N N V V P D N #POS
+}
+{
+I love walking around town
+#POS O V V P N #POS
+}
+{
+REF Oh yeah!  I forgot lots of people already started school.
+#POS I C C W O V N P N R V N W #POS
+}
+{
+REF What have you been up to?
+#POS I O V O V T P W #POS
+}
+{
+I like being just a typical girl who loves chocolate, flowers, dresses, and anything that makes me laugh
+#POS O V V R D A N O V N W N W N W F N P V O V #POS
+}
+{
+Wait...there is such a thing as rug stores?
+#POS V W X V X D N P N N W #POS
+}
+{
+REF I went on vacation to Portland/Washington for the first time and has so much fun!
+#POS I O V P N P B P D A N F V R A N W #POS
+}
+{
+Dim sum is so yummy
+#POS A N V R A #POS
+}
+{
+REF I miss you too!!! How is your Achilles?
+#POS I O V O R W R V D N W #POS
+}
+{
+I saw while I was in Portland and thought of REF You should've used this as your excuse to drink coffee at Abt URL
+#POS O V P O V P B F V P I O V V O P D N P V N P B U #POS
+}
+{
+Dear past, thank you for your lessons. Dear future, I'm ready. Dear God, thank you for another chance &lt;NUM
+#POS A A W V O P D N W A N W L A W A B W V O P D N E #POS
+}
+{
+If something looks easy in ballet it's because we're working hard to make it look that way
+#POS P N V A P N L P L V A P V O V D N #POS
+}
+{
+My back hurts...I must be getting old
+#POS D N V W O V V V A #POS
+}
+{
+Of course I'm the one who trips on the sidewalk
+#POS P N L D K O N P D N #POS
+}
+{
+Furniture stores are so much fun.  I feel like Goldilocks sitting in all the different chairs seeing which one I like :p
+#POS B N V R A N W O V P B V P X D A N V D K O V E #POS
+}
+{
+I LOVE Pinterest.  Enough said.
+#POS O V B W A V W #POS
+}
+{
+I love going to a store with a wall filled with just mirrors...it's so cool
+#POS O V V P D N P D N V P R V W L R A #POS
+}
+{
+Home sweet home
+#POS N A N #POS
+}
+{
+Even though Sunday is the Lord's day, every day is for Him
+#POS R P B V D Z N W D N V P O #POS
+}
+{
+I seem to be having typing issues -_-
+#POS O V P V V V N E #POS
+}
+{
+I just love flowers soooo much
+#POS O R V N R A #POS
+}
+{
+Hat shops are the cutest stores in the world
+#POS B N V D A N P D N #POS
+}
+{
+I can't believe I almost left my phone behind because for one moment I thought it was someone else's
+#POS O V V O R V D N P P P K N O V O V N S #POS
+}
+{
+I found a penny! Woohoo! I'm one cent richer!
+#POS O V D N W C W L K N A W #POS
+}
+{
+Had Indian food for the first time! Yum!
+#POS V A N P D A N W C W #POS
+}
+{
+I'm in denial. School is definitely not just around the corner.
+#POS L P N W N V R R R P D N W #POS
+}
+{
+I hate it when someone asks you a question but doesn't give you time to answer and then yells at you for not answering -_-
+#POS O V O R N V O D N F V V O N P V F R V P O P R V E #POS
+}
+{
+That moment when you're so tired you want to cry
+#POS D N R L R A O V P V #POS
+}
+{
+I love collecting magnets of places I've been too
+#POS O V V N P N L V R #POS
+}
+{
+Going on an adventure!
+#POS V P D N W #POS
+}
+{
+Abt was awesome!  Had so much fun dancing, learning new things, getting to know people, &amp; making new friends.They even took us to Disneyland
+#POS P V A W V R A N V W V A N W V P V N W F V A N W O R V O P B #POS
+}
+{
+AHHH!!!!!! I DIDN'T NOTICE A MOTH IN THE SHOWER UNTIL I WAS ALMOST DONE!
+#POS C W O V V D N P D N P O V R V W #POS
+}
+{
+I hate how some drivers honk unnecessarily because they are impatient and drive on your tail when it is the car in front of you that is slow
+#POS O V R D N V R P O V A F V P D N R O V D N P N P O O V A #POS
+}
+{
+Food is sooo good.  I just love food.
+#POS N V R A W O R V N W #POS
+}
+{
+I'm sooo hungry!!!!
+#POS L R A W #POS
+}
+{
+Jamb Juice!!!!!! URL
+#POS B N W U #POS
+}
+{
+I love mushrooms!!!!!!!!
+#POS O V N W #POS
+}
+{
+Farrell's :) URL
+#POS Z E U #POS
+}
+{
+"I do not try to dance better than anyone else. I only try to dance better than myself" -Mikhail Baryshnikov
+#POS W O V R V P V A P N R W O R V P V A P O W B B #POS
+}
+{
+I love smoothies &lt;NUM URL
+#POS O V N E U #POS
+}
+{
+I shed so much hair I'm surprised I'm not bald by now
+#POS O V R A N L A L R A P R #POS
+}
+{
+I love having that one friend who knows every single thing that goes on in my life
+#POS O V V D K N O V D A N P V P P D N #POS
+}
+{
+So happy to go to the happiest place on earth TAG URL
+#POS R A P V P D A N P B B U #POS
+}
+{
+I didn't know that figs were so yummy until now
+#POS O V V D N V R A P R #POS
+}
+{
+Jesus, the Friend I can always hang out with because He always has time for me
+#POS B W D N O V R V T P P O R V N P O #POS
+}
+{
+No, I'm not using the blow dryer to dry my wet hair but to dry my shirt that my hair wet
+#POS C W L R V D N N P V D A N F P V D N P D N A #POS
+}
+{
+There were a couple times when someone complimented my hair.  I'm just baffled about what they see 'cause I'm not seeing the same thing.
+#POS X V D N N R N V D N W L R V P O O V W P L R V D A N W #POS
+}
+{
+Everyone needs a friend who they can tell anything
+#POS N V D N O O V V N #POS
+}
+{
+Friends: people who know how to make you laugh
+#POS N W N O V R P V O V #POS
+}
+{
+*goes on Facebook*
+*sees NUM notifications*
+*feels popular*
+just to find out that half of them are from my sister -_-
+#POS W V P B W
+W V K N W
+W V A W
+R P V T D N P O V P D N E #POS
+}
+{
+Fire alarms are supposed to warn you of real fires, not wake you up in the morning to warn you of a non-existent fire like an alarm clock
+#POS B N V A P V O P A N W R V O T P D N P V O P D A N P D N N #POS
+}
+{
+Tea has suddenly become my best friend.  Yes, I know it's summer.  Yes, it's 'cause I have a sore throat -_-
+#POS B V R V D A N W C W O V L N W C W L W P O V D A N E #POS
+}
+{
+REF REF ohhhh. nope. don't have either of those peeps :/
+#POS I I C W C W V V D P D N E #POS
+}
+{
+REF REF who are you guys talking about?  I met a girl from Argentina!
+#POS I I O V O N V P W O V D N P B W #POS
+}
+{
+Oh how I just love waking up in the morning with a sore body
+#POS C R O R V V T P D N P D A N #POS
+}
+{
+Why is my dad so paranoid that I'm going to crack the counter top?
+#POS R V D N R A P L V P V D N A W #POS
+}
+{
+Always bring your own sunshine, even if you don't need it, because you never know who else will benefit from it.
+#POS R V D A N W R P O V V O W P O R V O R V V P O W #POS
+}
+{
+I LOVE mangoes!!!!!!
+#POS O V N W #POS
+}
+{
+Eeeek!!! So excited for ballet summer intensive REF that starts tomorrow!!!
+#POS C W R A P N N A I O V N W #POS
+}
+{
+funny bones are NOT funny
+#POS A N V R A #POS
+}
+{
+That friend who you gave a million nicknames to that only you are allowed to call them by :)
+#POS D N O O V D K N P O R O V A P V O P E #POS
+}
+{
+Everyone has that friend they can text forever
+#POS N V D N O V V R #POS
+}
+{
+Watched the weirdest Barney show with my little cousins. It's too weird for words. His eyes move creepily. My sister thought he was chubby.
+#POS V D A B N P D A N W L R A P N W D N V R W D N V O V A W #POS
+}
+{
+What kind of weird person gets a bloody nose in the shower? I do -_-
+#POS O N P A N V D A N P D N W O V E #POS
+}
+{
+When your best friend and you basically need to spend your whole lives together in order to complete your bucket list
+#POS R D A N F O R V P V D A N R P N P V D N N #POS
+}
+{
+REF same same same same same
+#POS I A A A A A #POS
+}
+{
+I love playing made up games that only my best friend and I are allowed to play
+#POS O V V V T N P R D A N F O V A P V #POS
+}
+{
+Went shopping with REF
+#POS V N P I #POS
+}
+{
+When summer ends, so does my tweeting.  'Cause no summer = no time
+#POS R N N W P V D N W W P D N W D N #POS
+}
+{
+That nerve-racking moment when the gas needle is right above the E and all you can do is pray that you don't end up having to push the car
+#POS D A N R D N N V R P D B F D O V V V V P O V V T V P V D N #POS
+}
+{
+It's NUM, the iPhone age.  So why am I still pumping gas for my car?
+#POS L K W D B N W P R V O R V N P D N W #POS
+}
+{
+I did not just drop my glasses in front of my mom.  Thankfully she didn't notice.  Maybe she wasn't wearing her glasses either.
+#POS O V R R V D N P N P D N W R O V V W R O V V D N R W #POS
+}
+{
+Dance camp: the only place where you will get asked how long you have been wearing a tutu
+#POS N N W D A N R O V V V R A O V V V D N #POS
+}
+{
+Dance camp: the only place you will get complimented on your tights.  old ones to be more exact.
+#POS N N W D A N O V V V P D N W A N P V R A W #POS
+}
+{
+Chocolate is perfection
+#POS N V N #POS
+}
+{
+I don't believe in swearing, but if I did swear, the first thing I would say is "I swear bean bags are one of the comfiest things on earth"
+#POS O V V P V W F P O V V W D A N O V V V W O V N N V K P D A N P N W #POS
+}
+{
+Why am I always hungrier at the beach?
+#POS R V O R A P D N W #POS
+}
+{
+Ew. I don't like talking to people who unconsciously wink while they talk.  Control your upper left eyelid for goodness' sake!
+#POS C W O V V V P N O R V P O V W N D A A N P N W N W #POS
+}
+{
+Although it doesn't have a great meaning, finagle certainly sounds like a fascinating word
+#POS P O V V D A N W V R V P D A N #POS
+}
+{
+I love playin' cards at the beach
+#POS O V V W N P D N #POS
+}
+{
+I treat all my friends all my friends like they're my best friends 'cause that's how I want to be treated
+#POS O V D D N X D N P L D A N W P L R O V P V V #POS
+}
+{
+Getting a new phone!!! TAG
+#POS V D A N W H #POS
+}
+{
+Got my hair trimmed today. I have TAG
+#POS V D N V N W O V H #POS
+}
+{
+I love looking at pictures when I was a wee one.  I was actually cute at some point in my life.
+#POS O V V P N R O V D A K W O V R A P D N P D N W #POS
+}
+{
+If you're having fun on earth, put heaven on your bucket list.  I've heard that's where the real fun begins.
+#POS P L V N P N W V B P D N N W L V L R D A N V W #POS
+}
+{
+I admit it.  I still like to color. URL
+#POS O V O W O R V P N W U #POS
+}
+{
+Homemade strawberry frozen yogurt! URL
+#POS A N A N W U #POS
+}
+{
+I tend to make funny sounds with my mouth when I'm bored
+#POS O V P V A N P D N R L A #POS
+}
+{
+Beach time!!!
+#POS B N W #POS
+}
+{
+i can never seem to get tan enough TAG
+#POS O V R V P V N R H #POS
+}
+{
+making strawberry frozen yogurt! TAG
+#POS V N A N W H #POS
+}
+{
+I should create ballerina figurines &amp; coloring pages with correct technique so people have the correct idea of ballet URL
+#POS O V V N N F V N P A N P N V D A N P N U #POS
+}
+{
+Everyone has that friend they always have to be in communication with or they would die
+#POS N V D N O R V P V P N P F O V V #POS
+}
+{
+That friend you have so many inside jokes with that you start to forget some of them
+#POS D N O V R A P N P P O V P V D P O #POS
+}
+{
+"Sometimes the smallest things take up the most room in your heart." -Pooh
+#POS W R D A N V T D A N P D N W W N #POS
+}
+{
+Ice cream is my best friend TAG
+#POS B N V D A N H #POS
+}
+{
+I lost a few pounds TAG
+#POS O V D A N H #POS
+}
+{
+Went to my youth leader's bridal shower today :)
+#POS V P D N S A N N E #POS
+}
+{
+That agonizing moment when your nose has an itch, but you're afraid to itch it because someone might think you're picking your nose
+#POS D A N R D N V D N W F L A P V O P N V V L V D N #POS
+}
+{
+I like things that make me laugh.  And I laugh easily.
+#POS O V N P V O V W F O V R W #POS
+}
+{
+Tablerock beach URL
+#POS B B U #POS
+}
+{
+That moment when you nearly have a heart attack because you almost slipped on a ladder
+#POS D N R O R V D N V P O R V P D N #POS
+}
+{
+went to the beach today!
+#POS V P D N N W #POS
+}
+{
+REF today!!!
+#POS I N W #POS
+}
+{
+being weird in different ways with different friends
+#POS V A P A N P A N #POS
+}
+{
+That one friend you know you can get weird with
+#POS D K N O V O V V A P #POS
+}
+{
+I don't need someone because I already have the One
+#POS O V V N P O R V D K #POS
+}
+{
+O the beauty that comes from pain
+#POS C D N P V P N #POS
+}
+{
+I like making people feel liked, wanted, and popular, but once in awhile it would be nice if they did the same
+#POS O V V N V V W V W F A W F R P R O V V A P O V D A #POS
+}
+{
+Their, They're, There...same thing. gosh. TAG
+#POS D W L W X W A N W C W H #POS
+}
+{
+coloring should be my hobby.  so what if I'm a teenager. TAG
+#POS V V V D N W P O P L D N W H #POS
+}
+{
+ya know what, i like coloring outside of the lines REF
+#POS O V O W O V V P P D N I #POS
+}
+{
+Eating REF at the beach with a friend TAG URL
+#POS V I P D N P D N H U #POS
+}
+{
+Going to the REF festival
+#POS V P D I N #POS
+}
+{
+even if i can't speak it, i can dance
+#POS R P O V V O W O V V #POS
+}
+{
+I can't believe High School Musical was my favorite movie when I was NUM  TAG
+#POS O V V A N N V D A N R O V K H #POS
+}
+{
+Watched High School Musical.  The sing-a-long version, of course. TAG
+#POS V A N N W D N N W P N W H #POS
+}
+{
+Ice cream is my best friend TAG
+#POS B N V D A N H #POS
+}
+{
+feelin' ignored -_- and slightly bored. wait. that rhymes. i should write poetry. not. yay for rambling. i feel lame.
+#POS V W V E F R A W V W O V W O V V N W R W C P V W O V A W #POS
+}
+{
+Words can be amazing.  They can be beautiful.  It just depends how you use them.
+#POS N V V A W O V V A W O R V R O V O W #POS
+}
+{
+You make beautiful things
+You make beautiful things out of the dust
+You make beautiful things
+You make beautiful things out of us
+#POS O V A N
+O V A N P P D N
+O V A N
+O V A N P P O #POS
+}
+{
+"A tree falls in the way it leans.  Be careful which way you lean." -The Lorax
+#POS W D N V P D N O V W V A D N O V W W G B #POS
+}
+{
+NUM movies in NUM days.  Hm. I should do a TAG
+#POS K N P K N W C W O V V D H #POS
+}
+{
+"I try to avoid looking forward or backward, and try to keep looking upward." -Charlotte Bronte
+#POS W O V P V V R F R W F V P V V A W W B B #POS
+}
+{
+It is more blessed to give than to receive
+#POS O V R A P V P P V #POS
+}
+{
+No God, no peace.  Know God, know peace.  There is no peace like the peace God gives.
+#POS D B W D N W V B W V N W X V D N P D B B V W #POS
+}
+{
+I feel like baking or drawing or decorating a pointe shoe or singing or taking up piano again or jumping off the moon. Can I do all at once?
+#POS O V P V F V F V D N N F V F V T N R F V T D N W V O V D P R W #POS
+}
+{
+Listening to REF (:
+#POS V P I E #POS
+}
+{
+That moment when you have the urge to do something but you're not sure what
+#POS D N R O V D N P V N F L R A O #POS
+}
+{
+Watermelon
+#POS N #POS
+}
+{
+Summer time is movie time :)
+#POS N N V N N E #POS
+}
+{
+Summer: The time I basically go into hibernation TAG
+#POS N W D N O R V P N H #POS
+}
+{
+Chips, tons of homemade ice cream, popcorn, NUM smoothies, potluck, froyo, toffee, &amp; boba since the NUMth til today; I should be obese by now
+#POS B W N P A N N W N W K N W N W B W N W F N P D A P N W O V V A P R #POS
+}
+{
+"Unless someone cares a whole awful lot, nothing is going to get better.  It's not." - Dr. Seuss
+#POS W P N V D A A N W N V V P V A W L R W W W B B #POS
+}
+{
+Saw NUM movies in NUM days.  Yay.  Maybe I can make it NUM movies in NUM days.
+#POS V K N P K N W C W R O V V O K N P K N W #POS
+}
+{
+Ecclesiastes TIM "...fear God and keep His commandments,for this is the whole duty of man."
+#POS B K W W V B F V D N W P O V D A N P N W W #POS
+}
+{
+I think it's movie time
+#POS O V L N N #POS
+}
+{
+It's show time!!! REF TAG
+#POS L N N W I H #POS
+}
+{
+Stayed up last night to watch High School Musical NUM cuz TAG
+#POS V T A N P V A N N P P H #POS
+}
+{
+Gosh, I love summer
+#POS C W O V N #POS
+}
+{
+I just love how seedless watermelon always has seeds in it TAG
+#POS O R V R A N R V N P O H #POS
+}
+{
+I have to admit that on the inside I'm a t-shirt and sweatpants kinda girl TAG
+#POS O V P V O P D P L D N F N R N H #POS
+}
+{
+REF for clarification: half kidding about the nooo part, the rest is truth
+#POS I P N W N V P D C N W D N V N #POS
+}
+{
+REF you know i'm kidding right? at least half kidding (:
+#POS I O V L V R W P A N V E #POS
+}
+{
+REF Kathrine said he is going to France for NUM years!!!!  He had good jumps...and looks TAG
+#POS I B V O V V P B P K N W O V A N W F V H #POS
+}
+{
+Summer, ready or not, here I come!
+#POS N W A F R W R O V W #POS
+}
+{
+that moment when you miss a step going down the stairs and your life flashes before your eyes
+#POS D N R O V D N V T D N F D N V P D N #POS
+}
+{
+I just love how my ballet teachers never fail to make my muscles sore
+#POS O R V R D N N R V P V D N A #POS
+}
+{
+"For to me, to live is Christ, and to die is gain." Philippians TIM
+#POS W P P O W P V V B W F P V V V W W B K #POS
+}
+{
+REF i won't be there tonight because i don't take classes on wednesdays...so i guess i'll see ya saturday?
+#POS I O V V R R P O V V N P N W R O V L V D B W #POS
+}
+{
+REF you so did not have to get me a present but i'm looking forward opening it :)
+#POS I O R V R V P V O D A F L V R V O E #POS
+}
+{
+REF at least it sounds like you had a blast with your family! my birthday was more than splendid! friends are just fantastic!
+#POS I P A O V P O V D N P D N W D N V A P A W N V R A W #POS
+}
+{
+REF oh dear! not the plague! we need you healthy for soloiste! i actually have a sore throat -_-
+#POS I C C W R D N W O V O A P N W O R V D A N E #POS
+}
+{
+REF i missed you yesterday! i hope the mountains were worth your time there (:
+#POS I O V O N W O V D N V V D N R E #POS
+}
+{
+REF i need that recipe!!!
+#POS I O V D N W #POS
+}
+{
+REF and I saw REF TAG TAG
+#POS I F O V Z B H #POS
+}
+{
+"Owe nothing to anyone except to love one another..." Romans TIM
+#POS W V N P N V P V K D W W B K #POS
+}

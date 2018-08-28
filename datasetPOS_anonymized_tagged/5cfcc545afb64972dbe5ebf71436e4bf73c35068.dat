@@ -1,0 +1,459 @@
+{
+REF Everything looks cooler from the sky!
+#POS I N V A P D N W #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+REF Clean bathroom's? URL
+#POS I A N W U #POS
+}
+{
+Twitter?
+#POS B W #POS
+}
+{
+F-NUM  Aggressor URL
+#POS N N U #POS
+}
+{
+Gonna get our season back on track starting with the Eagles.  TAG  TAG
+#POS V V D N R P N V P D B W H H #POS
+}
+{
+Hey REF fans, tweet and help us beat Eagles fans in the NUMth Man Battle! URL TAG  TAG
+#POS C I N W V F V O V B N P D A N N W U H H #POS
+}
+{
+REF You now have a follower.  TAG
+#POS I O R V D N W H #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at Tom Bean Ball Field URL
+#POS V P P B B B B U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at Ashton Gardens URL
+#POS V P P B B U #POS
+}
+{
+Checked in at Glass Cactus URL
+#POS V P P B B U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Ready for the Spring show.... (Checked in at Collinsville Elementary) URL
+#POS A P D N N W W V P P B B W U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at Denton Jazz Festival URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at North Lakes Recreation Center
+#POS V P P B B N N #POS
+}
+{
+Hello Win Column!  Way to go RANGERS!
+#POS C V N W N P V B W #POS
+}
+{
+I have reason to believe that Derek Jeter is upset at this time!!
+#POS O V N P V P B B V A P D N W #POS
+}
+{
+Way to go Ian!
+#POS N P V B W #POS
+}
+{
+This home plate umpire is testing my patience, but at least Darvish struck out A-Rod!
+#POS D N N N V V D N W F P A N V T B W #POS
+}
+{
+Again! (Checked in at Discount Tire) URL
+#POS R W W V P P B B W U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Come on Rangers!!
+#POS V P B W #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Flat tire this morning.  Happy Monday! (Checked in at Discount tire) URL
+#POS A N D N W A B W W V P P B N W U #POS
+}
+{
+Checked in at Arbor House Of Lewisville URL
+#POS V P P B B P B U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at Myrt's Paint & Body URL
+#POS V P P Z N F N U #POS
+}
+{
+Checked in at North Lakes Recreation Center URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at North Lakes Recreation URL
+#POS V P P B B N U #POS
+}
+{
+Checked in at Collinsville Pirate baseball field URL
+#POS V P P B B N N U #POS
+}
+{
+Watching The Muppets Movie  with Emma and I gotta say this movie is Greatness!!
+#POS V D B B P B F O V V D N V N W #POS
+}
+{
+Emma's Birthday breakfast. (Checked in at Donut Choice) URL
+#POS Z N N W W V P P B N W U #POS
+}
+{
+Getting ready for some Collinsville Pirates Baseball!
+#POS V A P D B B B W #POS
+}
+{
+Hello win column! Way to go Rangers!
+#POS C V N W N P V B W #POS
+}
+{
+Josh Hamilton is in BEAST mode tonight!
+#POS B B V P N N N W #POS
+}
+{
+Checked in at Collinsville Pirate baseball field URL
+#POS V P P B B N N U #POS
+}
+{
+Checked in at BoomerJack Wings & Grill - Denton URL
+#POS V P P B B F B W B U #POS
+}
+{
+Ladies and Gentlemen.... Its baseball season!!!
+#POS N F N W L N N W #POS
+}
+{
+Checked in at Flight Safety International - DFW URL
+#POS V P P N N N W B U #POS
+}
+{
+Checked in at The Yoga Hut URL
+#POS V P P D B B U #POS
+}
+{
+Checked in at South Lakes Park URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at Shooters URL
+#POS V P P N U #POS
+}
+{
+Checked in at Victory Park URL
+#POS V P P B B U #POS
+}
+{
+Checked in at American Airlines Center URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at Collinsville Tx. URL
+#POS V P P B B W U #POS
+}
+{
+Checked in at The Sizzler Taco Bar URL
+#POS V P P D B B B U #POS
+}
+{
+They are being super nice! (Checked in at Lillian Miller Dental) URL
+#POS O V V R A W W V P P B B N W U #POS
+}
+{
+Checked in at Luigi's Pizza Italian Restaurant URL
+#POS V P P Z B B N U #POS
+}
+{
+Checked in at Freeb!rds URL
+#POS V P P B W N U #POS
+}
+{
+Checked in at Super Cuts URL
+#POS V P P B B U #POS
+}
+{
+Emma just rode her bike without training wheels!  Look out!
+#POS B R V D N P N N W V T W #POS
+}
+{
+Checked in at Beth Marie's Old Fashioned Ice Cream &amp; Soda Fountain URL
+#POS V P P B Z A N N N F B N U #POS
+}
+{
+Checked in at North Lakes Park URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at WinStar World Casino URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at Myrt's Paint &amp; Body URL
+#POS V P P Z N F N U #POS
+}
+{
+Checked in at Denton Municipal Airport
+#POS V P P B B B #POS
+}
+{
+Checked in at Donut Choice URL
+#POS V P P B N U #POS
+}
+{
+Off to the Minute Clinic with Peyton.
+#POS P P D B B P B W #POS
+}
+{
+Looks like Peyton has chicken pox.  Lovely......
+#POS V P B V N N W A W #POS
+}
+{
+Way to go Lehigh! Upset Duke!!!!
+#POS N P V B W V B W #POS
+}
+{
+Picking up Peyton. (Checked in at Mom and Dads House) URL
+#POS V T B W W V P P B F N N W U #POS
+}
+{
+Man this work schedule! (Checked in at Business Air) URL
+#POS C D N N W W V P P B B W U #POS
+}
+{
+Up late yet again working, sleep is overrated. HURM
+#POS R A R R V W N V A W C #POS
+}
+{
+Checked in at Marcus High School URL
+#POS V P P B B N U #POS
+}
+{
+Checked in at Arbor House Of Lewisville URL
+#POS V P P B B P B U #POS
+}
+{
+Checked in at Gatti Town URL
+#POS V P P B B U #POS
+}
+{
+Well, looks like my Skins have the number NUM pick in the draft.  Welcome to DC RGIII!!!!!!!!
+#POS C W V P D B V D N P V P D N W V P B B W #POS
+}
+{
+Got selected for jury duty today, this is an unexpected turn of events that shall be interesting.
+#POS V V P N N N W O V D A N P N P V V A W #POS
+}
+{
+Checked in at Business Air URL
+#POS V P P N N U #POS
+}
+{
+Checked in at Tha Hizzie URL
+#POS V P P D B U #POS
+}
+{
+Checked in at Arbor House Of Lewisville URL
+#POS V P P B B P B U #POS
+}
+{
+Awesome dinner, boots guy showed up, and jammed Vanilla Ice on the way home while the kids stared at us in amazement.
+#POS A N W N N V T W F V B B P D N N P D N V P O P N W #POS
+}
+{
+Eating at the Smokehouse in Lindsay Texas with my family, life is good.
+#POS V P D N P B B P D N W N V A W #POS
+}
+{
+Checked in at Outback Steakhouse- Denton URL
+#POS V P P B B B U #POS
+}
+{
+Checked in at Dan's Silver Leaf URL
+#POS V P P Z B B U #POS
+}
+{
+TAG Go Jarrell and Dared!!!
+#POS H V B F V W #POS
+}
+{
+REF AMEN!
+#POS I C W #POS
+}
+{
+REF Rangers got this!!
+#POS I B V O W #POS
+}
+{
+Clarice Tensley just reported there is no tomorrow!!  REF
+#POS B B R V X V D N W I #POS
+}
+{
+REF while we sip mr. PibbTAG
+#POS I P O V B B
+H #POS
+}
+{
+REF I think we will have Calzones for dinner tomorrow night!TAG
+#POS I O V O V V N P N N N W
+
+H #POS
+}
+{
+REF I pledge carve pumpkins with him next week.
+#POS I W O V V N P O A N W #POS
+}
+{
+REF Not every chick knows what Nap Nap Weiner is.  Do not be offended by their ignorance.
+#POS I R D N V O N N B V W V R V V P D N W #POS
+}
+{
+REF We will bounce back and we are all looking forward to u playing a big role in that!  TAG
+#POS I O V V R F O V D V R P O V D A N P O W H #POS
+}
+{
+Dirk throwing out the pitch tonight.  Gonna be a good good time! REF TAG
+#POS B V T D N N W V V D A A N W I W H #POS
+}
+{
+REF We's gotsta packa up tha kidlins shiznit this evnin
+#POS I L V V T D N N D N #POS
+}
+{
+REF jam sticky! TAG
+#POS I V A W H #POS
+}
+{
+Why do the Rays fans feel the need to boo after everything? TAG
+#POS R V D B N V D N P V P N W H #POS
+}
+{
+Way to go SMU!  The Skillet is home TAG
+#POS N P V B W D N V N H #POS
+}
+{
+REF hey guess what I'm thinking
+#POS I W C V O L V #POS
+}
+{
+I like to move it....move it
+#POS O V P V O W V O #POS
+}
+{
+All I need are these stupid addresses!!!  Come ON!!!!
+#POS D O V V D A N W V P W #POS
+}
+{
+Kids dancing in the front yard to tha Gru Grux!
+#POS N V P D N N P D B B W #POS
+}
+{
+Dave tomorrow night!  Getting pumped!  Hopefully humped too!
+#POS B N N W V V W R V R W #POS
+}
+{
+I'm tired of backstabbing, fake "do-gooders".  Would be nice to let the truth be known, but it would be a waste of breath.
+#POS L A P A W A W N W W V V A P V D N V V W F O V V D N P N W #POS
+}
+{
+Way to go Ole Miss! LMAO
+#POS N P V A N W C #POS
+}
+{
+TCU / Oregon has all the feel of a bowl game.
+#POS B W B V X D N P D N N W #POS
+}
+{
+Football !
+#POS N W #POS
+}
+{
+Let drinks begin!
+#POS V N V W #POS
+}
+{
+Ready to celebrate my bday!
+#POS A P V D N W #POS
+}
+{
+Hey oh
+#POS C C #POS
+}
+{
+Havin a drink with the inlaws
+#POS V D N P D N #POS
+}
+{
+I jailbroke my phone
+#POS O V D N #POS
+}
+{
+Hi ho hi ho it's off to work I go
+#POS C C C C L R P V O V #POS
+}
+{
+Time to try tweeting
+#POS N P V V #POS
+}
+{
+Bartender please........
+#POS N V W #POS
+}
+{
+Listening to some DMB, getting pumped up for the concert tomorrow night!
+#POS V P D B W V V T P D N N N W #POS
+}

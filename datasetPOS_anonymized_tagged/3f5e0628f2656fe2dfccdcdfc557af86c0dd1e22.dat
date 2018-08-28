@@ -1,0 +1,8200 @@
+{
+"Hindi kita kayang gaguhin."”"
+#POS W B B B B W E #POS
+}
+{
+Goodnight &lt;NUM
+#POS C E #POS
+}
+{
+Bye &lt;NUM
+#POS C E #POS
+}
+{
+"REF ANG BABAE SINESERYOSO, HINDI SINO-SOGO. &amp;gt;:)"
+#POS W I J B B B W B B W E W #POS
+}
+{
+Out of NUM,NUM,NUM,NUM people. I choose you hart hart
+#POS P P K N W O V O V V #POS
+}
+{
+"REF Narinig lang yung pangalan ni crush, lilingon agad."
+#POS W I J B B B B B N W B B W W #POS
+}
+{
+Got to bitin in magic... tell me how do I extend it... in a world that's full of commercials.
+#POS V P V P A W V O R V O V O W P D N L A P N W #POS
+}
+{
+Sana may pag asa ako sakanya &lt;NUM
+#POS B V G G G G E #POS
+}
+{
+REF bye!! &lt;NUM
+#POS I C W E #POS
+}
+{
+Di ahh, soryoso ako =( promise &lt;NUM
+#POS B C W B B E V E #POS
+}
+{
+Sometimes all I want is a hug. &lt;NUM
+#POS R D O V V D N W E #POS
+}
+{
+Sorry &lt;NUM
+#POS A E #POS
+}
+{
+Juliana! Magpahawak ka kay honesto =D hahaha
+#POS B W B B B B E C #POS
+}
+{
+Bagay lang pero hindi meant to be.
+#POS B B G B V P V W #POS
+}
+{
+Huhugutin kita papunta sakin =P hahaha &lt;NUM
+#POS B B B B E C E #POS
+}
+{
+Yung feeling na bilyon ang tao sa mundo pero isa lang ang makakapagpasaya sayo. &lt;NUM
+#POS C V P B B B B B G G G G G G W E #POS
+}
+{
+Sya! Ang dami nyang crush. ako ang crush ko isa lang =P at ikaw yun &lt;NUM
+#POS B W G G G N W G G N G G G E P B B E #POS
+}
+{
+Kaantok -_-
+#POS B E #POS
+}
+{
+Nanlalaki ilong ni Joaquin
+#POS B B B B #POS
+}
+{
+Jde
+#POS B #POS
+}
+{
+REF basta, basta =(
+#POS I C W C E #POS
+}
+{
+its up to me kung sino daw ang gusto ko, kung san daw ako mgiging masaya-mommyNiJackiee
+#POS L T P O V G G G G B W B B G G G G
+
+B #POS
+}
+{
+REF wala kang kasalanan =(
+#POS I G G G E #POS
+}
+{
+REF hindi ka bad =(
+#POS I C C A E #POS
+}
+{
+bigans. &lt;NUM
+#POS B W E #POS
+}
+{
+Thank you mga par &lt;NUM
+#POS V O G G E #POS
+}
+{
+Naiiyak nanan ako :'(
+#POS B B B E #POS
+}
+{
+REF totoo bayun :'(
+#POS I G G E #POS
+}
+{
+Jackieeeee! &lt;NUM
+#POS B W E #POS
+}
+{
+"REF Best feeling? Relationship kay Lord :)"
+#POS W I J A N W N B B E W #POS
+}
+{
+Np: Confident by justin bieber
+#POS N W A P B B #POS
+}
+{
+Dear Music, I will never be able to thank you enough for always being there for me.
+#POS A N W O V R V A P V O R P R V R P O W #POS
+}
+{
+That  "bahala na, wala naman akong magagawa" feeling.
+#POS O W G G W G G G G W V W #POS
+}
+{
+REF maybe =( huhuhu! Nakaka iyak!
+#POS I R E C W G G W #POS
+}
+{
+REF tanong mo kay julia =( ayaw ko kwente :'(
+#POS I N N G B E G G G E #POS
+}
+{
+Naiiyak ako :'(
+#POS B B E #POS
+}
+{
+"REF Best feeling? Mahal ka ng mahal mo :)"
+#POS W I J A N W B B G G G E W #POS
+}
+{
+Lahat gagawin ko, maging akin ka lang. &lt;NUM
+#POS B B B W V A G G W E #POS
+}
+{
+Peram nga ng tubo dyan! =(
+#POS B B B B B W E #POS
+}
+{
+Cousins &lt;NUM URL
+#POS N E U #POS
+}
+{
+Sa acc ni micah na tweet ko yung pic  &gt;.&lt; tanga lang ang putek
+#POS G N G B P V B B N E G G G G #POS
+}
+{
+Saludo &lt;NUM
+#POS B E #POS
+}
+{
+Best feeling? Pagtingin mo kay crush, nakatingin din siya sayo :)
+#POS A N W B B B N W B G G G E #POS
+}
+{
+Malakas ka na nyan &gt;.&lt; haha
+#POS B B B B E C #POS
+}
+{
+"Someday you won't remember, this pain you thought would last forever and ever" - Taylor Swift"
+#POS W R O V V W D N O V V V R F R W W B B W #POS
+}
+{
+Kapagodb-.-
+#POS B E #POS
+}
+{
+Homebound &lt;NUM
+#POS A E #POS
+}
+{
+Chill lang par! Easyhan lang =D
+#POS V G N W B B E #POS
+}
+{
+With bigans URL
+#POS P B W I #POS
+}
+{
+Sleepy &gt;.&lt;
+#POS A E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+REF ahahaha, oo nga ehh, pinapabayaan ko nalang sila ehh ;D
+#POS I C W C B C W B B B B C E #POS
+}
+{
+REF chill par! =) haha
+#POS I V N W E C #POS
+}
+{
+REF yay! Ewan ko doon -.- hahaha
+#POS I C W B B V E C #POS
+}
+{
+REF dina par, parang lq sila na bati ehh &gt;.&lt; hahaha
+#POS I B N W V N G G G G E C #POS
+}
+{
+REF ganun parin ;) hahaha
+#POS I G G E C #POS
+}
+{
+REF hahaha medyo =) haha
+#POS I C C E C #POS
+}
+{
+REF kinuha nya lang ;) hahaha
+#POS I B B B E C #POS
+}
+{
+REF ahh, sige sige ;)
+#POS I C W C C E #POS
+}
+{
+REF pipe
+#POS I N #POS
+}
+{
+REF saan daw bang lugar??
+#POS I G G V B W #POS
+}
+{
+REF kinuha din namin yung p ehh =)
+#POS I B G G G G C E #POS
+}
+{
+REF tanong mo si hersh! =) hahaha
+#POS I N N G B W E C #POS
+}
+{
+REF sige sige =)
+#POS I C C E #POS
+}
+{
+REF si hersh, tas si kaye =) haha
+#POS I B B W G G B E C #POS
+}
+{
+REF &lt;NUM
+#POS I E #POS
+}
+{
+REF okay lang par ;) galing kameng marcos ngangayon lang ahh =D hahaha tambay tayo minsan doon =P
+#POS I C B P E V V B B B C E C B B B V E #POS
+}
+{
+At mcdo marcos with REF &amp; REF
+#POS P B B P I F I #POS
+}
+{
+You gotta be loyal if you want something real."
+#POS O V V A P O V N R W W #POS
+}
+{
+Freshhh! &lt;NUM
+#POS A W E #POS
+}
+{
+Be with someone who brings out the best in you, not the stress in you.
+#POS V P N O V T D A P O W R D N P O W #POS
+}
+{
+NUM
+#POS K #POS
+}
+{
+What happens between us, stays between us. Simple as that.
+#POS O V P O W V P O W A P O W #POS
+}
+{
+Shootout namn! Ang tahimek &gt;.&lt;
+#POS N C W B B E #POS
+}
+{
+Nitatamad ako! Lol hahaha =D
+#POS B B W C C E #POS
+}
+{
+Lalalalalalala =P
+#POS C E #POS
+}
+{
+Pupunta pa palang marcos, mamaya =) may kukunin lang =P
+#POS B B B B W B E V V G E #POS
+}
+{
+Anong magandang songs?
+#POS C A N W #POS
+}
+{
+Pero para sayo&lt;NUM
+#POS R G G E #POS
+}
+{
+Gusto ko mag mcdo &lt;NUM
+#POS B B N N E #POS
+}
+{
+If you put God first, you'll never be last. &lt;NUM
+#POS P O V B A W L R V A W E #POS
+}
+{
+Aba famous! &gt;.&lt;
+#POS G A W E #POS
+}
+{
+Goodmorning &lt;NUM
+#POS C E #POS
+}
+{
+Cutting people off gets easier and easier."
+#POS V N P V A F A W W #POS
+}
+{
+REF ano gawa mo dyan! -_-
+#POS I C C C C W E #POS
+}
+{
+Bye =)
+#POS C E #POS
+}
+{
+REF par followback naman =D haha
+#POS I P V B E C #POS
+}
+{
+You won't it, you got it &lt;NUM
+#POS O V O W O V O E #POS
+}
+{
+TAG nanaman pinapanood ko ^^
+#POS H G G G E #POS
+}
+{
+"REF TURN ON: Yung lalaking bad boy tingnan pero stick to one."
+#POS W I J V T W B V A N P R V P K W W #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+Karamihan naman eh nag uumpisa sa friends =P haha
+#POS B B C N G G N E C #POS
+}
+{
+Oo naman yes! Haha ;)
+#POS C C C W C E #POS
+}
+{
+REF hahahahahahaha =D
+#POS I C E #POS
+}
+{
+"REF "Yung mga itsurang naisalba lang ng shades.""
+#POS W I J W B B B B B B N W W #POS
+}
+{
+REF hahahahahaha! Wag mang realtalk haha jkk
+#POS I C W N N G C C #POS
+}
+{
+"REF Yung classmate mong may sariling mundo."
+#POS W I J B N G V V N W W #POS
+}
+{
+Life should be happy.
+#POS N V V A W #POS
+}
+{
+REF lam na =) hahaha
+#POS I G G E C #POS
+}
+{
+Minsan napapaisip ako kung itutuloy ko pa ba o tumigil nalang. =(
+#POS B B B B B B B G G G G W E #POS
+}
+{
+"REF Hindi kasi lahat ng bagay, nadadaan sa sorry."
+#POS W I J B B B G B W B G A W W #POS
+}
+{
+Bibili ako ng g-shock konting ipon nalang bibili ako ng katulad kay justin bieber
+#POS B B B B B B B B B B B B B B #POS
+}
+{
+Got to bitin! &gt;.&lt;
+#POS V P V W E #POS
+}
+{
+Pa bitin naman -.-
+#POS B V G E #POS
+}
+{
+Chill lang! =) haha
+#POS V N W E C #POS
+}
+{
+"REF Hirap magipon, ansarap kumaen eh"
+#POS W I J B B W B B C W #POS
+}
+{
+"REF I need a phone with NUM% battery."
+#POS W I J O V D N P K N W W #POS
+}
+{
+Niceswan Joaquin  =D
+#POS B B E #POS
+}
+{
+Pati number naalala ! Imba! -.- hahaha
+#POS B N G W G W E C #POS
+}
+{
+Ughhh
+#POS C #POS
+}
+{
+REF luh , baket nga po???
+#POS I V W N G G W #POS
+}
+{
+Baket nanaman galit sakin si micah -_-
+#POS B B B B B B E #POS
+}
+{
+REF hala! Baket??
+#POS I C W N W #POS
+}
+{
+REF kanino par??
+#POS I C N W #POS
+}
+{
+Trip ai ate ohh! -_- pag may kacall gf ko na kagat -.- hahaha
+#POS N V V C W E N V R N G G G E C #POS
+}
+{
+REF ahhhh, easyhan nyo na =D
+#POS I C W B B B E #POS
+}
+{
+Minumonggi na sila elias at renzyl! Hahaha -.-
+#POS B B B B P B W C E #POS
+}
+{
+"REF bait ni mama naguwi ng mcdoo &amp;lt;NUM" mama ko din =P haha same tayo
+#POS W I J N N N G G B E W N B G E C A N #POS
+}
+{
+REF yup =) haha
+#POS I C E C #POS
+}
+{
+REF haha ba=( hah oo nalang =P
+#POS I C C E C C C E #POS
+}
+{
+REF hahah oo nalang =P haha
+#POS I C C C E C #POS
+}
+{
+REF luh, sorry n payat =( haha =P
+#POS I V W A F N E C E #POS
+}
+{
+REF okay =( sorry nalang po =)
+#POS I C E A B B E #POS
+}
+{
+"REF Sa isang sulyap mo ay nabwisit ako."
+#POS W I J G G G G C C C W W #POS
+}
+{
+Yummm
+#POS C #POS
+}
+{
+REF wehh, pano mo nalaman yung sinabi sakin ni julia =P
+#POS I C W B B B B B B B B E #POS
+}
+{
+REF sorry na par =(
+#POS I A P N E #POS
+}
+{
+Mcdo yeahhay! &lt;NUM
+#POS B C W E #POS
+}
+{
+Yung nakabukas ang TV niyo pero todo tweet ka =D haha
+#POS C G G N N V N V G E C #POS
+}
+{
+Haha, okay lang par =D haha
+#POS C W C B G E C #POS
+}
+{
+Touch move =P haha
+#POS N N E C #POS
+}
+{
+"REF GREAT FRIENDS are hard to find,difficult to leave and impossible to forget."
+#POS W I J A N V A P V W A P V F A P V W W #POS
+}
+{
+Galit sakin si micah :'(
+#POS B B B B E #POS
+}
+{
+Sorry na par =(
+#POS A P N E #POS
+}
+{
+*dat
+#POS W O #POS
+}
+{
+Day pala di ko nalang ginawa =(
+#POS N G G G G G E #POS
+}
+{
+Sorry par =(
+#POS A N E #POS
+}
+{
+REF luhh, sorry =( ikaw din naman minsa ahh =P hahaha sorry po =(
+#POS I N W A E G G G G C E C A N E #POS
+}
+{
+REF haha luhh, galit ka na nyan ^^
+#POS I C V W G G P B E #POS
+}
+{
+REF hahahaha :NUM po?? =)
+#POS I C E G W E #POS
+}
+{
+REF REF pero di lahat nag tatago ng feelings =P haha boom!
+#POS I I R G G G N V N E C C W #POS
+}
+{
+Nabasa ko yung dm lalalaalalala &lt;NUM haha =D
+#POS B B B V C E C E #POS
+}
+{
+REF sige ;NUM okay lang &lt;NUM haha
+#POS I C E C C E C #POS
+}
+{
+Hart hart &lt;NUM
+#POS B B E #POS
+}
+{
+Nabasa ko po yun &lt;NUM hahaha
+#POS B B B B E C #POS
+}
+{
+"REF Never expect, never assume, and never demand."
+#POS W I J R V W R V W F R N W W #POS
+}
+{
+REF konte =( hahaha =D
+#POS I B E C E #POS
+}
+{
+Sorry nalang masesay ko sakanila &lt;NUM
+#POS A N N B B E #POS
+}
+{
+Ayaw ko na nga =( haha diko na sya tatawaginh babe =D hahaha
+#POS G G G G E C C G G G N E C #POS
+}
+{
+REF ikaw =(
+#POS I G E #POS
+}
+{
+Ay! Famous =( hahaha
+#POS C W A E C #POS
+}
+{
+Hi babe! &lt;NUM hahaha
+#POS C N W E C #POS
+}
+{
+Badboy &lt;NUM hahaha
+#POS N E C #POS
+}
+{
+Sila ang tunay na tropa &lt;NUM bigans
+#POS B B B B B E E #POS
+}
+{
+Where to go tomorrow!?? =)
+#POS R P V N W E #POS
+}
+{
+REF maliit na away pinapalaki pa natin hahahaha =D jkk
+#POS I C V R G G G C E E #POS
+}
+{
+REF hahahaha!wiwness pag ganun, ang dami nila ehh
+#POS I C W N G G W G G G C #POS
+}
+{
+REF mahirap yun par =( hahaha ;)
+#POS I G G G E C E #POS
+}
+{
+hahahaha :))
+#POS C E #POS
+}
+{
+nageenjoy ako dito hahahahaha sa pangrarak &lt;NUM
+#POS G G G C G G E #POS
+}
+{
+REF hahahahahaha okaaaay
+#POS I C C #POS
+}
+{
+REF may big problem
+#POS I V A N #POS
+}
+{
+REF im here for you :)) gusto mo tulong
+#POS I L R P O E N N V #POS
+}
+{
+Need ko ng tulong nyo guys! =( kung sino pa tama siya pa yung nag mumukang mali :'(
+#POS V B B B B N W E B B B B B B N N G B E #POS
+}
+{
+hindi naman ako mawawala eh hahahahahaha :))
+#POS B B B B C C E #POS
+}
+{
+REF REF sii akoo &lt;NUM
+#POS I I G G E #POS
+}
+{
+anbaliw ko :)))
+#POS B B E #POS
+}
+{
+micah lanzaga hereee
+#POS B B R #POS
+}
+{
+hiiiiiiii :)
+#POS C E #POS
+}
+{
+REF susunod nalang ako par ;) hahaha jkkk
+#POS I B B G G E C C #POS
+}
+{
+REF hahahahaha, yay =D okay lang yun pareho lang tayo mamamatay haha jkkkk
+#POS I C W C E C B B B B B B C C #POS
+}
+{
+Mamatay na babaero ;D hahaha
+#POS B B B E C #POS
+}
+{
+Yeahhay! Wala dito sa bahay ngayon sila mama =D sino gusto pumunta or gala!???
+#POS C W G G G G G G N E G G G F N W #POS
+}
+{
+Tireeeed! :NUM
+#POS A W E #POS
+}
+{
+Tireeeed! &gt;.&lt;
+#POS A W E #POS
+}
+{
+Ahahah hart hart! &lt;NUM
+#POS C B B W E #POS
+}
+{
+Hmmmmmm....
+#POS C W #POS
+}
+{
+Mag isport center sila mama =D sasama ba ako!?? Hmmm?
+#POS N V N G N E G G G W C W #POS
+}
+{
+Sana sumama yun! =D ahahaha
+#POS B G G W E C #POS
+}
+{
+Ughhhh
+#POS C #POS
+}
+{
+Nw: spider manNUM
+#POS B W N N #POS
+}
+{
+Ang dami kase nila -.- haha
+#POS B B B G E C #POS
+}
+{
+Realtalk: kinakabahan ako kanina =D hahaha
+#POS J W B B B E C #POS
+}
+{
+"REF Mukha lang pala habol mo eh, Sana picture nalang sinyota mo.."
+#POS W I J B B B B B C W B N V G G W W #POS
+}
+{
+Muntikan ng mag ka suntukan kanina buti lumabas si sir eric =D hahaha Ang dami pa naman nila -_-
+#POS B B B B B B B B B G B E C B B B B G E #POS
+}
+{
+Ang daming nangyayari nitong murch =( haha
+#POS B V G G B E C #POS
+}
+{
+Gutoom =(
+#POS C E #POS
+}
+{
+Hersh!! Dm =)
+#POS B W V E #POS
+}
+{
+Homebound =)
+#POS A E #POS
+}
+{
+Goodnoyt! (:
+#POS C W E #POS
+}
+{
+Sige sige =)
+#POS C C E #POS
+}
+{
+okay! Hahaha =P
+#POS C W C E #POS
+}
+{
+Paitimin mo yun! =P hahahaha
+#POS B B B W E C #POS
+}
+{
+REF hahaha =P
+#POS I C E #POS
+}
+{
+Wala ka friend?? Hahaha ./.
+#POS B B N W C W W W #POS
+}
+{
+Panis sakin yung bestfriend mo =P hahaha
+#POS B B B B B E C #POS
+}
+{
+REF gagu! Subo mo yung akin, diba pav mo to!? Haha ./. Punta condo ko ha. Dala ka foods ./.
+#POS I C W B C C A W C B N P W C W W W B B B C W C B N W W W #POS
+}
+{
+Lul! Walang may paki din sa julia! =P haha
+#POS B W B B B G G B W E C #POS
+}
+{
+Baka hindi marunong! &gt;.&lt;
+#POS B B B W E #POS
+}
+{
+REF kaya nga pinapanis lang kita ehh, hahah :NUM
+#POS I C C G G G C W C E #POS
+}
+{
+Yung totoo, sabi mo goodnight tas nag titweet kapa!  -.- hahaha julia ./.
+#POS C C W B B C N N N N W E C B W W W #POS
+}
+{
+Gusto ko mag basket (:
+#POS B B B N E #POS
+}
+{
+Ang sakit patin ng tapilok ko &gt;_&lt;
+#POS B B B B B B E #POS
+}
+{
+Ikinaganda mo na bayan!??? &gt;.&lt;
+#POS B B B B W E #POS
+}
+{
+Lalalala
+#POS C #POS
+}
+{
+Tiga yow yow kalang naman ehh ./.
+#POS B G G G G C W W W #POS
+}
+{
+Ano orS kaya ako matutulog? =D
+#POS C G G G G W E #POS
+}
+{
+REF hahaha, sige lang =) noyt noyt! =P
+#POS I C W C C E R R W E #POS
+}
+{
+REF sige na nga, basta walang tungkol kay zombie
+#POS I C P B W C C G B B #POS
+}
+{
+REF luhh! Di kaya ikaw yun =P haha jkkkkkkkkk
+#POS I N W G G G G E C C #POS
+}
+{
+Ang laki ng bukol sa kilay =D TAG
+#POS B B B B B B E H #POS
+}
+{
+Bugbog muka nya! Hahaha ;)
+#POS B B B W C E #POS
+}
+{
+Luhh! Hahaha =D
+#POS N W C E #POS
+}
+{
+∞ iloveyou to infinity and beyond hahahahaha
+#POS J G P B F P C #POS
+}
+{
+Na injoy sya sa acc ko ^^ haha
+#POS B V G G N B E C #POS
+}
+{
+papadamihi  ko tweet ni tian
+#POS B B V G G #POS
+}
+{
+♪ music
+#POS G N #POS
+}
+{
+hahahahahah
+#POS C #POS
+}
+{
+→sexxxxyy
+#POS G A #POS
+}
+{
+Yan nanaman &gt;.&lt;
+#POS C G E #POS
+}
+{
+"REF TAG hindi mawawalan ng kaklaseng OA AT KJ. Sarap lang ibigay sa ibang section!"
+#POS W I J H B B B B B P B W G G G G G N W W #POS
+}
+{
+ang pogi ko po :)
+#POS G G G G E #POS
+}
+{
+—_–
+#POS W G G #POS
+}
+{
+sorry tian hahahahaha :))
+#POS A B C E #POS
+}
+{
+REF hahaha! Tulad moko kay jonas :NUM
+#POS I C W B B B B E #POS
+}
+{
+REF gaysheet! Hahaha =D
+#POS I C W C E #POS
+}
+{
+Ni rarak nanaman ni micah acc ko -.-
+#POS B B B B B B B E #POS
+}
+{
+Awtsu!! Feeler &gt;.&lt;
+#POS B W N E #POS
+}
+{
+REF ni rarak mo nanaman acc ko =(
+#POS I C G G G G B E #POS
+}
+{
+sexy ni micah
+#POS A N B #POS
+}
+{
+"REF Buti pa sa twitter, pwede kang magsalita kahit walang kausap."
+#POS W I J B B G B W G G G G G N W W #POS
+}
+{
+Me toooooooo!
+#POS O R W #POS
+}
+{
+Nw: UFC =D
+#POS B W B E #POS
+}
+{
+Aga naman matulog ng pav dog ko! =D hahaha
+#POS B B B B B N B W E C #POS
+}
+{
+Ughhhh!
+#POS C W #POS
+}
+{
+REF ni rarak mo lang acc ko ehh =P haha
+#POS I C G G G G B C E C #POS
+}
+{
+REF baket par?? Pakyu./. Hahah ni rarak acc ko kase ehb -.-
+#POS I N N W B W W W C C N N G G G E #POS
+}
+{
+Micahh! Wag mo na rak! -_-
+#POS B W G G G G W E #POS
+}
+{
+REF ni rak mo acc ko ehh! Feeler mo =P hahahaahaha
+#POS I C G G G B C W G G E C #POS
+}
+{
+ang pogi ko &lt;NUM
+#POS G G G E #POS
+}
+{
+REF wag mona kase irak yung akin =D
+#POS I G B B B V A E #POS
+}
+{
+omg hahahahahaha :)
+#POS C C E #POS
+}
+{
+REF irarak ko din sayo sigi ka! =P
+#POS I G B G G B B W E #POS
+}
+{
+*ni
+#POS W C #POS
+}
+{
+Luhh! No rak na :'(
+#POS N W C G G E #POS
+}
+{
+ang gandaa ni micaah lanzaga REF &lt;NUM
+#POS G G G B B I E #POS
+}
+{
+REF wag na par =P hahaha
+#POS I G G G E C #POS
+}
+{
+micah lanzaga here :))
+#POS B B R E #POS
+}
+{
+Wag par =(
+#POS C N E #POS
+}
+{
+REF nooooo! =(
+#POS I C W E #POS
+}
+{
+Derek lang ako! Ikaw yung artista eh! Edi ikaw panget julia =P hahaha
+#POS B B B W G G G C W G G G B E C #POS
+}
+{
+Got NUM Bitin -.- hahaha =D
+#POS V P V E C E #POS
+}
+{
+Ang ineeeeet!! &gt;_&lt;
+#POS B B W E #POS
+}
+{
+Di sya tinamaan sa patama ko! -_- naka ilag kaba!?? &gt;.&lt; hahaha jkk
+#POS G G G G G B W E B B B W E C C #POS
+}
+{
+Babalik na si REF sa ShowTime &lt;NUM hahaha kaso di ako makaka nood =(
+#POS B B B I G B E C C G G G G E #POS
+}
+{
+*silbe
+#POS W V #POS
+}
+{
+Ano silpe ng phone -_- pwede naman itxt or icall ahh! ^.^ hahahahahabHBBBBVzisjsovaisbaiav
+#POS C N V N E G G G F N C W E E #POS
+}
+{
+Jde =P
+#POS B E #POS
+}
+{
+"REF REAL feelings don't just go away.."
+#POS W I J A N V R V R W W #POS
+}
+{
+Medyo namamaga na yung paa ko &gt;_&lt;
+#POS B B B B B B E #POS
+}
+{
+Laugh trip yung katulong namin sakin ehh!! ./. Hahaha &gt;.&lt;
+#POS V N N V G G C W W W W C E #POS
+}
+{
+Yung feeling na natapilok kana tas tatawana ka ng katulong mo! -_- ka banas lang! &gt;.&lt; hahaha TAG
+#POS C V P G B B B B B B B W E B B B W E C H #POS
+}
+{
+Ouchhh!
+#POS C W #POS
+}
+{
+Alam mo ba kung bakit hindi ako naghahanap ng hihigit pa sayo? Kasi alam ko ang salitang kuntento. &lt;NUM
+#POS B G G G G G G G G G G G W B B B B B B W E #POS
+}
+{
+"REF Ang kaibigan,parang unan:
+Pwede mong iyakan.
+Pwede mong yakapin.
+Kaya kapag kailangan mo ng kaibigan.
+BUMILI KA NG UNAN !"
+#POS W I J B B W V B W
+B B B W
+B B B W
+B B B B B B W
+B B B B W W #POS
+}
+{
+"REF Yung mga taong mahilig magpaparinig? O bat di mo i-tag! Nahiya ka pa sa lagay na yan?"
+#POS W I J B B B B B W B N G G O W G G G G G G G W W #POS
+}
+{
+"REF BARKADA: Kapag hindi sumama ang isa, hindi na sasama ang lahat."
+#POS W I J N W B B B B B W B B B B B W W #POS
+}
+{
+"REF Realtalk: Hindi lahat ng maitim ay panget at hindi lahat ng maputi ay maganda/pogi
+#POS W I J B W B B B B C N P B B B B C G #POS
+}
+{
+Edi magpa guidance ka! -.- sino tinakot mo! ./. Fc kana ngalang ehh tas mag papa guidance kapa -.- ./.
+#POS B B N G W E G G N W W W W B B B C B B B N G E W W W #POS
+}
+{
+Basta single, expert mag-advice. :D
+#POS C A W N N W E #POS
+}
+{
+Gutom ako every NUM minutes! Tangina.
+#POS B G D K N W C W #POS
+}
+{
+REF alam kona par =) haha
+#POS I C B N E C #POS
+}
+{
+Alam kona =P hahaha
+#POS B B E C #POS
+}
+{
+Ahhhh, gegege lang
+#POS C W B B #POS
+}
+{
+Saan bayung felinas?? =D
+#POS B B B W E #POS
+}
+{
+REF saan yun??
+#POS I G G W #POS
+}
+{
+"REF Ayoko na ng war pleaseeeeee?? :"(((((((((("
+#POS W I J B B B N V W E W #POS
+}
+{
+Saan yung filinas??
+#POS B G G W #POS
+}
+{
+REF gegegegege =) pogi daw kase ako ehh =) haha jkkkkkk
+#POS I C E G G G G C E C C #POS
+}
+{
+REF riot! Hahaha =D
+#POS I N W C E #POS
+}
+{
+Kase nga ng trip sila! -.- ikaw ba naman turumpitin ehh -_-
+#POS B B B B B W E G G G G C E #POS
+}
+{
+Baka ako, sila ng trip ehh
+#POS B B W G G N C #POS
+}
+{
+REF okay =( haha
+#POS I C E C #POS
+}
+{
+REF tssss. Ano nga ? :'(
+#POS I C W C C W E #POS
+}
+{
+"REF May mga times na dapat nagseseryoso rin. Di puro biro."
+#POS W I J B B N P B B B W G G N W W #POS
+}
+{
+REF wehh?? Anong issue yung kay jackiee babe? =(
+#POS I C W C N G B B N W E #POS
+}
+{
+Yung moment na halos mamatay ka sa gulat dahil akala mo nahulog ka habang natutulog.
+#POS D N P N N G G G G G G G G V N W #POS
+}
+{
+Parang ang daming nag aaway ngayon?? Ang panget ng pag pasok ng murch -.-
+#POS B B B V R G W B B G G G G B E #POS
+}
+{
+REF ang dami kaya nila -.- mga NUM ata =)
+#POS I C C G G E G K G E #POS
+}
+{
+REF mag kaaway kayo?? =(
+#POS I N N V W E #POS
+}
+{
+REF hahaha sainyo din =)
+#POS I C B G E #POS
+}
+{
+REF oo nga promise tanong mo pa kay job ;) hahah
+#POS I C B V N N G B N E C #POS
+}
+{
+REF ayun nga yung hawak ko kanina, habang sinusundan ako ehh
+#POS I C B B B B B W V G G C #POS
+}
+{
+"REF Lahat ng tao nasasaktan. Magaling lang talagang magtago ang ilan."
+#POS W I J B B B B W G G G G G B W W #POS
+}
+{
+REF naliliitan ata sila sa muscles ko eh =D hahaha
+#POS I G G G G N G C E C #POS
+}
+{
+REF sinundan nga ako ehh -_- hahaha kaya nga bukas mag dadala ako ng kargada eh ;)
+#POS I B B B C E C B B B B B B B B C E #POS
+}
+{
+Mga NUM yun! ^^
+#POS B B B W E #POS
+}
+{
+REF si willem, tas yung mga tropa nya
+#POS I G B W G G G G G #POS
+}
+{
+REF pina uwi na kase ni tchr kim =) haha tyaka kinakabahan ako sa kaaway ko, madami sila =D
+#POS I N G G G G N B E C B B B B B B W B B E #POS
+}
+{
+Passion is better than Fashion."
+#POS N V A P N W W #POS
+}
+{
+REF pinag tripan kase ako, tas yun sinagot ko sila tas nagka abangan =) kaya lumayo ako sainyo eh =(
+#POS I C V B B W G G G G G G G G E B B B B C E #POS
+}
+{
+Kinakabahat ako para bukas &gt;_&lt;
+#POS B B G G E #POS
+}
+{
+Yung feeling na Monday palang pero pagod na pagod kana."
+#POS C V P B B G G G G B W W #POS
+}
+{
+"REF Wag ka ng umasang magkakagusto siya sayo."
+#POS W I J B B B B B B B W W #POS
+}
+{
+Loyalty kaaway ko din &gt;.&lt; hahaha
+#POS N N B G E C #POS
+}
+{
+Hindi ko hiningi opinyon mo kaya manahimik ka! =)
+#POS B B B B B B B B W E #POS
+}
+{
+Sheet ang dami kong kaaway ngayon! -_- loyalty pa kaaway ko puro NUM &gt;.&lt;
+#POS N G G B B B W E N N N G G K E #POS
+}
+{
+Dear Crush, Gusto kita, iuukit ko pa sa kahoy. Tapos ipapalo ko sayo para naman dama mo.
+#POS A N W B B W G B B G G W B B B B G G G N W #POS
+}
+{
+Homebound =D
+#POS A E #POS
+}
+{
+Night night! =D
+#POS N N W E #POS
+}
+{
+Life will keep bringing you the same test over and over again, until you pass it.
+#POS N V V V O D A N P F R R W P O V O W #POS
+}
+{
+REF fuckyou ka naman! Tulad moko sayo./.
+#POS I C B B W B B B W W W #POS
+}
+{
+REF gagu! Haha
+#POS I C W C #POS
+}
+{
+Gaysheet si kenneth
+#POS B B B #POS
+}
+{
+Ughhh!
+#POS C W #POS
+}
+{
+Night
+#POS N #POS
+}
+{
+lul! ./. Hahaha
+#POS C W W W W C #POS
+}
+{
+Ouchh! Ang hard nun gago! :'(
+#POS C W V A N B W E #POS
+}
+{
+Anak ko yang si kendra
+#POS B B G G B #POS
+}
+{
+Sa isang iglap pwedeng maglaho ang tiwala.
+#POS G G G G G G N W #POS
+}
+{
+NOON: Ahh di naman masakit! bleh! 
+NGAYON: It's not ouchie my dear!
+
+=))))))
+#POS N W C G G G W C W
+B W L R V D N W
+
+E #POS
+}
+{
+Kendra &lt;NUM
+#POS B E #POS
+}
+{
+Every morning:
+Papasok sa banyo, NUM minutes tutunganga, NUM minutes maliligo.
+#POS D N W
+B B B W K N N W K N N W #POS
+}
+{
+Cute baby! &lt;NUM
+#POS A N W E #POS
+}
+{
+Yay! Ang cute ng baby sa Ggv &lt;NUM
+#POS C W V A N N G B E #POS
+}
+{
+Homebound =)
+#POS A E #POS
+}
+{
+REF slr, ahhh good &lt;NUM haha
+#POS I N W C A E C #POS
+}
+{
+REF REF hahaha =D
+#POS I I C E #POS
+}
+{
+REF hahaha, walang pakelamanan =D hahaha
+#POS I C W V V E C #POS
+}
+{
+REF musta babe!?? Kumain kana ba babe?? Haga &lt;NUM
+#POS I V N W B B B N W E E #POS
+}
+{
+REF hahaha, wala eh na fall lalo ehh &lt;NUM
+#POS I C W B C P V B C E #POS
+}
+{
+REF hahaha =D hi babe! &lt;NUM
+#POS I C E C N W E #POS
+}
+{
+TAG: pare ko
+#POS H W G B #POS
+}
+{
+REF edi mas okay ;) hahaha ma fall kana &lt;NUM pero di kita mamadaliin =D
+#POS I G G C E C D N B E R G G G E #POS
+}
+{
+REF REF hindi par! Susulitin ko ngayon tas bukas tas araw araw na &lt;NUM
+#POS I I B B W G G G G G G G G G E #POS
+}
+{
+REF gamot sa pag mamahal?? Isa lang gamit dyan ehh =( IKAW &lt;NUM
+#POS I C G G G W B B G G C E B E #POS
+}
+{
+REF nag ka sakit ako sa pag mamahal sayo ;) hahaha &lt;NUM
+#POS I C B B G G G G G E C E #POS
+}
+{
+REF hello babe! =) haha sorry unli sa pag mamahal sayo ehh &lt;NUM
+#POS I C N W E C A G G G G G C E #POS
+}
+{
+REF hahaha, yiiehh! Hi babe! =D
+#POS I C W C W C N W E #POS
+}
+{
+Hindi ako marunong mang trip ng mahal ko =(
+#POS B B B B N W B B E #POS
+}
+{
+REF hala, baka trip =( ahh =)
+#POS I C W B N E C E #POS
+}
+{
+Yung feeling na tinititigan mo si CRUSH na halos matunaw na siya.
+#POS C V P B B B B P N G G G W #POS
+}
+{
+REF baket babe!?? xD hahahaha ;) &lt;NUM
+#POS I N N W E C E E #POS
+}
+{
+REF fav mo yung tiwala ahh, ikaw trust! xD hahaha :P
+#POS I A N V N C W G N W E C E #POS
+}
+{
+REF kung pwede eh ;) hahahahaha
+#POS I C G G E C #POS
+}
+{
+Kinilig ako  =D hahahahahaha
+#POS B B E C #POS
+}
+{
+REF sakay ka nalang par ;)
+#POS I B B B G E #POS
+}
+{
+REF REF REF yay! Hahaha =D
+#POS I I I C W C E #POS
+}
+{
+REF gago lang =) nilagyan pa ng date -.- hahaha
+#POS I B B E B B B N E C #POS
+}
+{
+REF hahahaha sakay ka nalang =D hhaha
+#POS I C B B B E C #POS
+}
+{
+REF hahaha =) yeaah
+#POS I C E C #POS
+}
+{
+REF sumakay ka nalang;) hahahaha
+#POS I C G G E C #POS
+}
+{
+Jackieee! Babe! xD hahahahaga &lt;NUM
+#POS B W N W E E E #POS
+}
+{
+"REF At cafe flora REF URL"
+#POS W I J P B B I U W #POS
+}
+{
+Here REF
+#POS R I #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+Sometimes you have to cry in order to smile again." -TCHR BRIAN =D HAHAHA
+#POS R O V P V P N P V R W W N B E C #POS
+}
+{
+Meron talagang taong wala pang ginagawang kahit na anong masama sayo pero kumukulo na ang dugo mo.
+#POS B B B B B B B B C B B R V P G G N W #POS
+}
+{
+REF ge! Tara KA =P HAHAHAHA jkkk :D
+#POS I C W B B E C C E #POS
+}
+{
+REF hahahahahhahaha! Par saluhin mo ha! Yan na malapit na! -_- hahahaha jkkk ./.
+#POS I C W B B B C W B B B B W E C C W W W #POS
+}
+{
+Yung classmate mong kokopya na nga lang tatanungin ka pa ng "SURE KA DYAN?" Tangina sarap tusukin ng bagong tasang pencil sa liver!
+#POS D N G G G G G G G G G W A B B W W C C V V V V N G N W #POS
+}
+{
+REF Gag U! Di ako nag gaganun-.-  hahahaha ./.
+#POS I V O W G G G G E C W W W #POS
+}
+{
+Yung nakahiga ka lang sa kama tapos nag-iimagine ng kung anu-ano.
+#POS C C G G G B B B B B B W #POS
+}
+{
+Zombie land
+#POS B N #POS
+}
+{
+Pinoproblema kita pero hinde moko pinoproblema? Unfair hah! Hahahaaha
+#POS B B G B B B W A C W C #POS
+}
+{
+Sa likod ng salitang "PAALIS NA AKO",  may nakatagong "MALILIGO PA LANG AKO=D
+#POS G G G N W B B B W W V V W B B B B E #POS
+}
+{
+REF syempre joke lang lahat ng sinabi ko =P hahaha
+#POS I B B B B G G G E C #POS
+}
+{
+Yung ngiting hindi mapigilan dahil sa kakiligan.
+#POS C C B B B B B W #POS
+}
+{
+Nakakawalang gana mag twitter! ./.
+#POS B B B B W W W W #POS
+}
+{
+Di ko maintindihan -_-
+#POS G G G E #POS
+}
+{
+Pakyu ka! Julia! ./. =(
+#POS B B W B W W W W E #POS
+}
+{
+REF REF sayo nalang ! Please=D haha jkk di akin yan ehh
+#POS I I G G W V E C C D A N C #POS
+}
+{
+REF uoopsss! Di sakin yan ;) hahha kay julia ata yan =D
+#POS I N W G G G E C B B G G E #POS
+}
+{
+REF hahaha, gaga una na sya! Kailangan nya ng tulong di nya kase kayang mag tali =) hahaha
+#POS I C W B B B B W B B B B B B B B B B E C #POS
+}
+{
+REF feeling chicks. =P hahaha
+#POS I V N W E C #POS
+}
+{
+REF ay! Hahaha edi mahilig sya aa monkey? Edi si joseph dapat cruah nun! -.- hahaha
+#POS I C W C G G G G N W G G B B B N W E C #POS
+}
+{
+Laughtrip kay elias! Hahahaha
+#POS G G B W C #POS
+}
+{
+REF natatawa ako sa kalokohan mo! Hahahahahahaa ./.
+#POS I C G G G N W C W W W #POS
+}
+{
+Nag dadrama si elias! Hahaha ^^
+#POS V N G B W C E #POS
+}
+{
+REF ano meaning??
+#POS I D N W #POS
+}
+{
+Si juliya pinag tritripan nanaman ako! =( ./.
+#POS B B B B B B W E W W W #POS
+}
+{
+REF walang may pake!
+#POS I V V V W #POS
+}
+{
+Pak yu ka julya!!!!!! ./.
+#POS B O G G W W W W #POS
+}
+{
+Craving in mango float =(
+#POS V P N N E #POS
+}
+{
+Lalalalalala
+#POS C #POS
+}
+{
+REF tsss. Sorry po! ;D hahaha di na po mauulit
+#POS I C W A N W E C G G G G #POS
+}
+{
+REF napilitan lang ako par =P jkkk hahaha
+#POS I B B G G E E C #POS
+}
+{
+"REF Everything is possible for those who believe."
+#POS W I J N V A P O O V W W #POS
+}
+{
+Real feelings don't change fast.
+#POS A N V V A W #POS
+}
+{
+"REF Some people come in your life as blessings, others come in your life as lessons."
+#POS W I J D N V P D N P N W N V P D N P N W W #POS
+}
+{
+Sige na Kayo na Hot, Ako na Cool =P hahaha
+#POS C P B B B W B B B E C #POS
+}
+{
+REF hahaha ;) kulang pa yan =P push =)
+#POS I C E B B B E V E #POS
+}
+{
+REF sige =) okay lang. Hahahaha ;)
+#POS I C E C C W C E #POS
+}
+{
+Summer Vacation is approaching! :)
+#POS N N V V W E #POS
+}
+{
+Feeler alert ;) hahaha
+#POS G N E C #POS
+}
+{
+REF gutom lang po yan! =) hahaha
+#POS I G G G G W E C #POS
+}
+{
+REF tsk tsk! Hahaha feeler -_-
+#POS I C C W C N E #POS
+}
+{
+Feeler -.- hahaha push nyo yan
+#POS N E C V B B #POS
+}
+{
+Ang inet parin &gt;.&lt;
+#POS B B B E #POS
+}
+{
+NANAY - Ang nag iisang tao sa buhay mo na hinding-hindi mapapagod na intindihin, alagaan at mahalin ka.&lt;NUM
+#POS B W B B B B B B G P G G P N W N P B B W E #POS
+}
+{
+Wag mo sabihing walang time. Meron naman eh, tamad ka lang talaga mag-effort.
+#POS B B B B N W B B C W A G G G N W #POS
+}
+{
+Bad decisions make good stories.
+#POS A N V A N W #POS
+}
+{
+Sana bato nalang ang puso ko. Edi sana hindi ako nakakaramdam ng sakit ngayon.
+#POS B G G G G B W G G G G G G G G W #POS
+}
+{
+Yung mga babaeng hindi pa-chix tumawa. :)
+#POS C C N B B B W E #POS
+}
+{
+Sa sobrang friendly mo, yan tuloy FRIENDS lang kayo.
+#POS G G A N W C B B B B W #POS
+}
+{
+Everyone wants the truth but nobody wants to be honest.
+#POS N V D N F N V P V A W #POS
+}
+{
+Hahaha =) di kame malandi =P kase fuckyou ka asshole! ./.
+#POS C E G V N E B C B B W W W W #POS
+}
+{
+Pag ibig? Yan yung pinag dadamot ko sa iba tas sinasayang ng isa =( hahaha (:
+#POS B B W B B B B B G G G G G G E C E #POS
+}
+{
+Riot nalang no!? ^.^ hahaha
+#POS N V C W E C #POS
+}
+{
+Do you ever wish you had a second chance to meet someone again for the first time?
+#POS V O R V O V D A N P V N R P D A N W #POS
+}
+{
+"REF yung mga taong magtatanong tapos hindi rin pala maniniwala."
+#POS W I J C G V V Z B B B B W W #POS
+}
+{
+Tireeed =(
+#POS A E #POS
+}
+{
+"REF Puro ka "Do you wanna build a snowman?" Summer na! Tanga."
+#POS W I J B B W V O V V D N W W N N W B W W #POS
+}
+{
+Summer Vacation...   
+█████████████ NUM%"
+#POS N N W
+B K W #POS
+}
+{
+Jde =) burb! =D
+#POS B E N W E #POS
+}
+{
+That "Monday nanaman bukas" feeling ...
+#POS O W B B G W V W #POS
+}
+{
+Kami'y kasama mo=) hahaha
+#POS B B B E C #POS
+}
+{
+"REF The people that actually try to stay in your life are the only ones you really need."
+#POS W I J D N P R V P V P D N V D A N O R V W W #POS
+}
+{
+Mahal kita, mahal kita di to bola=) -ewan
+#POS B B W B B B P B E B #POS
+}
+{
+Pumapatak nanaman ang ulan sa bubong ng bahay! =) lalalalalala
+#POS B B B B B B B B W E C #POS
+}
+{
+"REF Tiwala? Pag ka tapos mo kong iwan, saktan at gaguhin. Humihingi ka ulet ng tiwala? TAG."
+#POS W I J B W G G G G B B W B P B W B B B B B W G W W #POS
+}
+{
+Kapag mahal mo. Mahal mo! Walang turn off, turn on dyan. Gets?!
+#POS B B B W B B W V V T W V T B W V W #POS
+}
+{
+Wag mo ipilit sakin yung kaibigan mo. Hindi sya ang gusto ko, ikaw.
+#POS B B B B B B B W B B B B B W G W #POS
+}
+{
+Freshh!
+#POS A W #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+Will take a bath =)
+#POS V V D N E #POS
+}
+{
+Yay! Hahaha =D
+#POS C W C E #POS
+}
+{
+The longer you wait, the less likely it will happen. Go make it happen. =)
+#POS D R O V W D A A O V V W V V O V W E #POS
+}
+{
+This is my life! ./.
+#POS O V D N W W W W #POS
+}
+{
+Holy grail TAG
+#POS C N H #POS
+}
+{
+TAGNUM
+#POS H #POS
+}
+{
+"REF Sakit sa mata, tenga at ulo ng Sunday All Stars.. nyeta. dugyot! TAG"
+#POS W I J B G B W N P B B B D N W N W C W H W #POS
+}
+{
+years from now, i hope we are still in each others lives.
+#POS N P R W O V O V R P D N N W #POS
+}
+{
+Unfollowing if you are not following back :)
+#POS V P O V R V R E #POS
+}
+{
+Being yourself is the prettiest you can be.
+#POS V O V D A O V V W #POS
+}
+{
+I wish I was good enough for you.
+#POS O V O V A N P O W #POS
+}
+{
+Sana hindi nalang nagpropromise kung hindi naman kayang panindigan ./.
+#POS B B B B B B B B B W W W #POS
+}
+{
+Friend mo si Mary jane?? Bini B.I ka lang nyan =) hahaha
+#POS N G G B B W B B B B B E C #POS
+}
+{
+Mcdo fries lang &lt;NUM
+#POS B N N E #POS
+}
+{
+Hungry =(
+#POS A E #POS
+}
+{
+Sorry =) haha
+#POS A E C #POS
+}
+{
+*dyesebel
+#POS W C #POS
+}
+{
+Dyesabel
+#POS C #POS
+}
+{
+Hahahahaha (:
+#POS C E #POS
+}
+{
+Fc lang! =D
+#POS B B W E #POS
+}
+{
+Feeler alert =) jkkkk
+#POS G N E E #POS
+}
+{
+I want nothing but positive vibes surrounding me. ;D
+#POS O V N F A N V O W E #POS
+}
+{
+Imbis fight sabihin fact yung nasabi -_- hahaha
+#POS B V V N V N E C #POS
+}
+{
+People will judge you no matter what. ./.
+#POS N V V O D N O W W W W #POS
+}
+{
+Lahat ng tao may pagkakaiba kaya hindi dapat tayo nagkukumpara.
+#POS B B B B B B B B B B W #POS
+}
+{
+Good attitude is better than having a good face. :)
+#POS A N V A P V D A N W E #POS
+}
+{
+Good fighter =)
+#POS A N E #POS
+}
+{
+Tiga yow yow ko lang! (:
+#POS B G G G G W E #POS
+}
+{
+Gusto ko manood ng cine &gt;.&lt;
+#POS B B B G G E #POS
+}
+{
+REF sige ;) haha Fuchsia =P
+#POS I C E C C E #POS
+}
+{
+Are you ready!? =)
+#POS V O A W E #POS
+}
+{
+TAG: YOLO &lt;NUM
+#POS H W B E #POS
+}
+{
+REF hahahaha =) ikaw bahala ;)
+#POS I C E G G E #POS
+}
+{
+REF pwede red nalang ;) hahaha
+#POS I G A N E C #POS
+}
+{
+People don't change, they just reveal who they really are.
+#POS N V V W O R V O O R V W #POS
+}
+{
+Kobe forever &lt;NUM
+#POS B R E #POS
+}
+{
+Tandaan mo, kapag naguguluhan, utak ang gamitin, hindi puso.
+#POS B B W B B W G G V W B B W #POS
+}
+{
+Goodmorning =)
+#POS C E #POS
+}
+{
+Tinamaan ng laseng -_-
+#POS B C N E #POS
+}
+{
+Helo ako doon ah ^.^
+#POS C C V C E #POS
+}
+{
+Homebound =D
+#POS A E #POS
+}
+{
+REF hahahaba! Ano ba gusto mo ha!? Away, gulo, gera?? Suntukan nalang no? Haha jkkkkk =D
+#POS I C W C G G G C W R W C W G W B V C W C C E #POS
+}
+{
+REF hahahaha =P sasabihin din pala eh =P dikitainaaway -.-
+#POS I C E V V B C E N E #POS
+}
+{
+REF sino niloko mo! Ang dami na nag sabi ehh! Sinungaling! =)
+#POS I C C C W G G P G G C W V W E #POS
+}
+{
+REF wala kang maloloko dito -_- haha
+#POS I G G G G E C #POS
+}
+{
+Elibs nanaman kayo. =P haha
+#POS B B B W E C #POS
+}
+{
+REF ahh, edi mahilig sya sa unggoy!? Edi dapat si Joseph yung crush nya -_- hahaha
+#POS I C W G G G G A W G G G B B N G E C #POS
+}
+{
+Everybody needs insPERAsyon.
+#POS N V B W #POS
+}
+{
+REF oo nga promise =) kayo saan swimming nyo??
+#POS I C B V E V B V G W #POS
+}
+{
+Saan ba outing nyo??? Kame kase sa Boracay ehh =P hahaha
+#POS B B N G W V B G B C E C #POS
+}
+{
+Guys! May tanong ako =) umiinom ba yung isda?? =D
+#POS N W V V G E G G G G W E #POS
+}
+{
+REF sino ba =) hahaha
+#POS I C G E C #POS
+}
+{
+REF sino nag sabi &gt;.&lt;
+#POS I C C N E #POS
+}
+{
+REF hahahha =)
+#POS I C E #POS
+}
+{
+Jfe &lt;NUM burrp
+#POS B E V #POS
+}
+{
+REF bibigyan ko sya =) antanodng! Gusto bang makipag kaibigan =)
+#POS I B B B E N W N V B B E #POS
+}
+{
+REF okay =D isa lang ma si say ko dyan! Wala ng pag asa yan ;)
+#POS I C E G G G G V B B W G G G G G E #POS
+}
+{
+REF pa welding nalang natin yung kamay nya=) sagot ko na =D hahahahaha
+#POS I B N G G G G G E G G G E C #POS
+}
+{
+REF bigay mo kay ano =) hahahaha lagay nya sa daliri nya ;) hahahaha
+#POS I B B B B E C B B B B B E C #POS
+}
+{
+Guys! Nasan yung hustisya!??? Hahahahaaha =D
+#POS N W B B B W C E #POS
+}
+{
+Yung kaibigan mong kung mag kwento may action pa!
+#POS C B B B B B V N N W #POS
+}
+{
+Paa nya ata ginagamit nya pang type ehhh ^_^ hahahaha
+#POS B B B B B B N C E C #POS
+}
+{
+REF try lang =) hahahahahaha
+#POS I V N E C #POS
+}
+{
+Gusto ko mag basket,pero tutulungan ko muna sila makipag away =D haha
+#POS B B B N W F B B B B B R E C #POS
+}
+{
+Hahaha &lt;NUM
+#POS C E #POS
+}
+{
+REF hahaha tignan mo mga tweet mo =D
+#POS I C B B B V N E #POS
+}
+{
+Hahahahahaha ! Onw time lang yun micah =)
+#POS C W K N G G B E #POS
+}
+{
+REF ang hirap ehh =)
+#POS I C C C E #POS
+}
+{
+Away ng isa, away ng lahat! =) bigans yan eh. &lt;NUM kaya mahal ko kayo eh &lt;NUM
+#POS R G B W R G B W E B B C W E B B B B C E #POS
+}
+{
+Matatakot talaga kame! Zombie ka ehh! -_-
+#POS B B V W B B C W E #POS
+}
+{
+May mga taong dapat pinagpapasensiyahan at may mga tao rin na dapat banatan ./.
+#POS B B B B B P B B B B B B B W W W #POS
+}
+{
+Relate yung zombie oh! Bitch please!  Tamang hinala ka din eh ./.
+#POS V D N C W N V W V B B G C W W W #POS
+}
+{
+IF YOU THINK NA MAGANDA KA, THINK AGAIN!
+#POS P O V B B B W V R W #POS
+}
+{
+You gotta fight for what you want. :)
+#POS O V V P O O V W E #POS
+}
+{
+Forever is just a word.
+#POS R V R D N W #POS
+}
+{
+REF haha baket naman kawawa? =(
+#POS I C B B B W E #POS
+}
+{
+REF yup! =) hahahahaha
+#POS I C W E C #POS
+}
+{
+REF lam na =) hahahha
+#POS I G G E C #POS
+}
+{
+Isusulat ko sa isang malaking kahoy na mahal na mahal Kita, tapos ihahampas ko sayo para damang-dama mo talaga!
+#POS B B G G V R P G G G B W B B B B G G G G W #POS
+}
+{
+Maganda ka? Paki sulat yan sa hangin, pag nabasa ko, maniniwala ako!
+#POS B B W B B B B V W G G B W B B W #POS
+}
+{
+Hahaha! Kinakabahan sya =)
+#POS C W B B E #POS
+}
+{
+REF haha, pagbigyan muna lang =) hahaha
+#POS I C W B B B E C #POS
+}
+{
+Ayaw ko  talaga =P
+#POS G G G E #POS
+}
+{
+Kayo nalang. =)
+#POS B B W E #POS
+}
+{
+But I fell in love with my bestfriend."
+#POS F O V P N P D N W W #POS
+}
+{
+Wag! Mag kaka virus yung gadgets. Nyo
+#POS C W B B N N N W C #POS
+}
+{
+Yumm oreo &lt;NUM
+#POS C N E #POS
+}
+{
+Walang may pake =P haha
+#POS B V V E C #POS
+}
+{
+REF hala! Di sila pumunta samin =( sa school lang kame malapit kila yatchie =(
+#POS I C W G G G G E G N V V G G G E #POS
+}
+{
+Better than you
+#POS A P O #POS
+}
+{
+Pets are not allowed =D haha
+#POS N V R V E C #POS
+}
+{
+Tired=)
+#POS A E #POS
+}
+{
+You are cooler than me? Meaning. I'm hotter than you? =P hahha
+#POS O V A P O W N W L A P O W E C #POS
+}
+{
+Home from school
+#POS N P N #POS
+}
+{
+Yung feeling na papapuntahin ka ng school para lang mang hiram ng NUMpeso -.- hahaha renzyl yan ehh (:
+#POS C V P G G G N G G N B V K E C G G C E #POS
+}
+{
+Masyado mo atang fine-feel yung pagkakagusto ko sayo dati. Wag feeling please.
+#POS B B V A N G G G N W C V V W #POS
+}
+{
+Naasar ako dahil humihinga ka pa"
+#POS B B B B B B W #POS
+}
+{
+REF bahay na par  =P hahaha
+#POS I G G G E C #POS
+}
+{
+Yummmm
+#POS C #POS
+}
+{
+Kung gusto mong unli gravy sa gateway ka =) malulunod yung kanin mo ng gravy ;D hahaha
+#POS B B B B N G N G E B B B B B N E C #POS
+}
+{
+Will eat ;)
+#POS V V E #POS
+}
+{
+Homebound =)
+#POS A E #POS
+}
+{
+Awesome =D
+#POS A E #POS
+}
+{
+Mag e exercise muna ako =D
+#POS B B N G G E #POS
+}
+{
+Super book &lt;NUM
+#POS B N E #POS
+}
+{
+Don't ever forget who was there for you when no one else was.
+#POS V R V O V R P O R D N R V W #POS
+}
+{
+Jwu!
+#POS B W #POS
+}
+{
+Bobay! &lt;/NUM
+#POS B W E #POS
+}
+{
+Night night!! &lt;NUM
+#POS N N W E #POS
+}
+{
+Niaantok na ako xD hahahahaha =)
+#POS B B B E C E #POS
+}
+{
+Ang hirap po kaya nun =(
+#POS B B B B N E #POS
+}
+{
+Baby, baby blue eye's &lt;NUM
+#POS N W N A N E #POS
+}
+{
+REF ah, sorry par, ayaw ko kase lapitan yun tas kakausapin ko pa =( ang hirap nun par :'( hahaha
+#POS I C W A N W G G G G G G G B B E G G N P E C #POS
+}
+{
+REF bakeeet ??
+#POS I N W #POS
+}
+{
+Ang astig ng pass ni micah! Hahaha
+#POS B C V V B B W C #POS
+}
+{
+REF sabi muyan ha ! =(
+#POS I B B C W E #POS
+}
+{
+Ughh! Micah! =(
+#POS C W B W E #POS
+}
+{
+Tatambay lang ako dun
+#POS B B B V #POS
+}
+{
+hiiiiiii :)
+#POS C E #POS
+}
+{
+REF ge lang =)
+#POS I G G E #POS
+}
+{
+Oo nalang =) hahaha jkk
+#POS C C E C C #POS
+}
+{
+she's not perfect, but he's all I want. ❤"
+#POS L R A W F L D O V W E W #POS
+}
+{
+Inutusan mo lang yang kapatid mk kaya nag huhugas -_- haha jkkk
+#POS B B B B B B B B B E C C #POS
+}
+{
+*talaga
+#POS W G #POS
+}
+{
+Aga naman matulog -.-
+#POS B B B E #POS
+}
+{
+Kailangan ba taga yun =(
+#POS B B B B E #POS
+}
+{
+REF hahaha =P
+#POS I C E #POS
+}
+{
+REF hahab=)
+#POS I C E #POS
+}
+{
+Try lang naman pala eh! - pedro
+#POS V G G G C W W B #POS
+}
+{
+REF po??? =)
+#POS I G W E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+Di na ako manlalait! Promise =D
+#POS G G G G W V E #POS
+}
+{
+REF walang may pake =P hahah jkkk =)
+#POS I V V V E C C E #POS
+}
+{
+REF haha, tugma pa sa tweet ko -.- di na ako manlalait ;)
+#POS I C W B B G V B E G G G G E #POS
+}
+{
+Sayang EFFORT. =( Sayang yung limusin na nerentahan xD haha
+#POS B N W E B B B B B E C #POS
+}
+{
+Haha, sayang effort =(
+#POS C W V N E #POS
+}
+{
+REF haha! Paku =P haha =)
+#POS I C W B E C E #POS
+}
+{
+REF hHah! Elibs ka nanaamn =P haha ayaw ko na. Gusto kona sa convo kaysa kung saan saan =P
+#POS I C W B B B E C C B B W G G G N N V G G E #POS
+}
+{
+Kahit hindi mo sabihin, nahahalata ko naman :P
+#POS B B B B W B B B E #POS
+}
+{
+Actually! Walang may pake eh &gt;.&lt; haha =P
+#POS R W B V V C E C E #POS
+}
+{
+Alam ko naman yun ehh =P haha
+#POS B B B B C E C #POS
+}
+{
+Ang chickboy ni dj. =) haha
+#POS B B B B W E C #POS
+}
+{
+TireeeeD!!
+#POS A W #POS
+}
+{
+Yay! Haha =D
+#POS C W C E #POS
+}
+{
+Walang ibibigay si God na hindi mo kaya. Pero si Teacher, palaging meron
+#POS C G G B P B B B W F B B W V B #POS
+}
+{
+"REF Walang BORING na topic basta si crush ang kausap mo."
+#POS W I J V A P N C B N G G N W W #POS
+}
+{
+REF yiehh! Haha ;)
+#POS I C W C E #POS
+}
+{
+REF hahahahahha! Hard -.- haha =)
+#POS I C W N E C E #POS
+}
+{
+REF haha ;) ayaw ko pumangit =D haha
+#POS I C E G G G E C #POS
+}
+{
+REF hahah! Talaga =P
+#POS I C W G E #POS
+}
+{
+Kahit kailan di ko tatry yung mary jane
+#POS B B B B B B B B #POS
+}
+{
+REF iis stalkin ko yun &lt;NUM haha
+#POS I V V B B E C #POS
+}
+{
+REF hahahaha =)
+#POS I C E #POS
+}
+{
+REF yup, promise di ko tatry yan =) sa stic-O ko nalang tatry =D
+#POS I C W V G G G G E G G G G N E #POS
+}
+{
+Nababanas parin ako sa kapatid ko &gt;_&lt; nag iiba ugali nya!
+#POS B B B G G G E N N N N W #POS
+}
+{
+REF yay! Hahaha sorry naman =( kailab birthday nya ^_^
+#POS I C W C A B E B N G E #POS
+}
+{
+Minsan ang taong makakaintindi lang sayo ay ang sarili mo.
+#POS B B B B B B C C G N W #POS
+}
+{
+REF done =) hindi daw sila nag gaganun! -_- hahaha :P
+#POS I V E B G G G N W E C E #POS
+}
+{
+REF hahaah, joke lang talaga yun eh =)
+#POS I C W N G G G C E #POS
+}
+{
+REF tatanong ko muna kay wizkhalifa &amp;snoopdog kung ano lasa and feeling =) hahahaha ^^
+#POS I V B B B B F B B B B F V E C E #POS
+}
+{
+REF promise ;) diko pa natitikman yun :P
+#POS I V E G G G G E #POS
+}
+{
+Murch NUM birthday ni pamela ga &lt;NUM
+#POS B K N G B B E #POS
+}
+{
+REF di ko pa nga natitikman si maryjane eh =( hahaha ;)
+#POS I G B B B B B B C E C E #POS
+}
+{
+Sa mga maliliit may sulusyon na sainyo ;) hahaha
+#POS G G G V V P B E C #POS
+}
+{
+REF yay! Haha may gomot ba dito!?? Haha xD
+#POS I C W C V V G G W C E #POS
+}
+{
+REF ngayon ;) ikaw na kumausap =P haha
+#POS I C E G G G E C #POS
+}
+{
+Bukas pala,pupunta pa akong school -.- haha gagala lang
+#POS B B W B B B N E C C C #POS
+}
+{
+REF teka,wait,sandali =) nosebleed  na ako;) hahaha djkkk
+#POS I B W V W B E N P G E C C #POS
+}
+{
+REF ahh, saan ko kukunin?? =D haha punta nalang tayo doon :P
+#POS I C W B B B W E C C G G V E #POS
+}
+{
+REF edi always nalang =) haha =P
+#POS I G R V E C E #POS
+}
+{
+REF ayy! Naka kanino? Ahhh =)
+#POS I C W B B W C E #POS
+}
+{
+REF ngayon! Ano?? =D
+#POS I C W C W E #POS
+}
+{
+REF sometimes, we need to speaking English =) haha
+#POS I R W O V P V N E C #POS
+}
+{
+REF tara! Punta tayo nila renzzzyl
+#POS I B W B B B B #POS
+}
+{
+REF tara ka! Jkkk hahaha kidding ^^
+#POS I B B W C C V E #POS
+}
+{
+REF sabog na! Djkk haha ;D
+#POS I G G W C C E #POS
+}
+{
+You make me happy! Lalalalalalaa
+#POS O V O A W C #POS
+}
+{
+REF maybe! Yay! Hahaha ^.^
+#POS I R W C W C E #POS
+}
+{
+REF wala akong masabi eh ;) haha (:
+#POS I G G G C E C E #POS
+}
+{
+REF marami dun par! Hahahaha =D
+#POS I B V V W C E #POS
+}
+{
+REF haha ;D
+#POS I C E #POS
+}
+{
+REF haha si mary jane??
+#POS I C B B B W #POS
+}
+{
+REF hahaha! Sabagay =) tyaga nalang sa foods =)
+#POS I C W B E B B B N E #POS
+}
+{
+REF sabi nila ;) di ko sure =) hahaha
+#POS I G G E G G A E C #POS
+}
+{
+REF haha =) try lang ;)  sabi kase nila pampataba daw yun eh
+#POS I C E V G E G G G G G G C #POS
+}
+{
+Famous yung isa dyan! -.- di na nag reply
+#POS A N G B W E G P N N #POS
+}
+{
+REF yay! Haha =D
+#POS I C W C E #POS
+}
+{
+Just kidding!
+#POS R V W #POS
+}
+{
+REF haha, nosebleed ;) okay po =)
+#POS I C W N E C B E #POS
+}
+{
+REF wag ako iba nalang jkk haha ;)
+#POS I C G G G G C E #POS
+}
+{
+REF pakyy! Haha pwesde kaba? Marami namantayong kilala dun eh ;) tas yayain natin si hersh
+#POS I C W C B B W B B B V V E N V G G B #POS
+}
+{
+REF hhaha =) pero natikman muna si maryjane??
+#POS I C E R G G G B W #POS
+}
+{
+REF alam mo meaning?? =D
+#POS I B B N W E #POS
+}
+{
+REF hahaha! Lam na ;) punta tayo!
+#POS I C W G G E G G W #POS
+}
+{
+Gusto ko pumuntang mcdo marcos &gt;.&lt;
+#POS B B B B B E #POS
+}
+{
+REF punta tayo dun/? Yeahh! Me too
+#POS I G G V W C W O R #POS
+}
+{
+REF naman! ;) hahaha =D
+#POS I C W E C E #POS
+}
+{
+Yay! Hahahaa &lt;NUM
+#POS C W C E #POS
+}
+{
+Feel like doing anything, today I do not.
+#POS V P V N W N O V R W #POS
+}
+{
+Haha =) pero wala talagang tatalo kay jackiee ko ^.^
+#POS C E R G G G B B B E #POS
+}
+{
+REF tambay din pala ng mcdo marcos yun pati ai rafael, tas marami pa sila eh =)
+#POS I B G G G B B B B B B W G G G G C E #POS
+}
+{
+Dat pala sumama ako kay kaye! -.- pupunta pa naman sya kay pamela galang =D
+#POS O G G G G B W E G G G G G B B E #POS
+}
+{
+REF kilala mo si rochie?? Sa sanlo.
+#POS I B B B B W G N W #POS
+}
+{
+REF renzyl!!
+#POS I C W #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Goodnight &lt;NUM
+#POS C E #POS
+}
+{
+Inaantok nako ! &gt;_&lt;
+#POS B B W E #POS
+}
+{
+REF okay -_- hahaha
+#POS I C E C #POS
+}
+{
+REF hahaha asa ka naamn na di bumukas yung cr -_-
+#POS I C G G G G G G G G E #POS
+}
+{
+REF tapos na par. =P hahah sa cr ako eh
+#POS I G G N W E C G G G C #POS
+}
+{
+Feeling good =)
+#POS V A E #POS
+}
+{
+Yieehhh! Success =D
+#POS C W N E #POS
+}
+{
+Yun bukas na yung mahiwagang cr =D
+#POS B B B B B B E #POS
+}
+{
+REF tara ka =P hahaha jkk no thanks =) sa kalsada nalang ako libre pa xD
+#POS I B B E C C C N E G G G G N N E #POS
+}
+{
+"REF Magpupuyat sa gabi, magsisisi sa umaga. Pero uulitin pa rin. Yan tayo eh!"
+#POS W I J B B B W B B B W F B B B W B B C W W #POS
+}
+{
+REF di pa nga ehh &gt;_&lt; hahaha
+#POS I G G G C E C #POS
+}
+{
+REF ahhh, hahahaha =D oo nga ehh -.-
+#POS I C W C E C B C E #POS
+}
+{
+REF hahaha, si ko gets yung lrt na sinasabi mo=)
+#POS I C W B B V D B P G G E #POS
+}
+{
+May tao sa cr !
+#POS B B G N W #POS
+}
+{
+Wiwi!
+#POS C W #POS
+}
+{
+"REF The best way to predict your future is to create it."
+#POS W I J D A N P V D N V P V O W W #POS
+}
+{
+Shes not perfect. But shes worth it.
+#POS L R A W F L A O W #POS
+}
+{
+Maginoo pero medyo bastus =D
+#POS B F B B E #POS
+}
+{
+"REF Don't compare me to anyone."
+#POS W I J V V O P N W W #POS
+}
+{
+Ang sakiit! &gt;.&lt;
+#POS B B W E #POS
+}
+{
+Change your thoughts and you change your world.
+#POS V D N F O V D N W #POS
+}
+{
+Hindi naman sana madaldal yun (:
+#POS B B B B B E #POS
+}
+{
+Ano kaya trip neto ni hershey?? Haha ang drama eh -.- haha
+#POS C B B B B B W C C N C E C #POS
+}
+{
+Nag dadrama nanaman si hershey -_- hhaha
+#POS V N G G B E C #POS
+}
+{
+REF REF REF goodnight =) hahahaha
+#POS I I I C E C #POS
+}
+{
+REF REF hahahaha! Gagu si yats amputek ;D
+#POS I I C W G G B B E #POS
+}
+{
+REF hahaha nakita ko yun &lt;NUM haha
+#POS I C B B B E C #POS
+}
+{
+REF hahahaha kilig ka naman! xD haha
+#POS I C A G G W E C #POS
+}
+{
+Iblock muna par!! =)
+#POS B B N W E #POS
+}
+{
+REF panggulo ba!? Hahaha okay lang yun nag ka ayos naman eh &lt;NUM haha
+#POS I B B W C C B B B B B B C E C #POS
+}
+{
+REF hahahaha! Elias BURDADO!! xD hahaha
+#POS I C W B B W E C #POS
+}
+{
+Life is simple, people are complicated.
+#POS N V A W N V A W #POS
+}
+{
+In love there is no fear. -StartingOverAgain
+#POS P N X V D N W G #POS
+}
+{
+REF hahaha, maybe xD sino ba? ^^
+#POS I C W R E G G W E #POS
+}
+{
+REF hahah ako din ;) babawi ako dun,pinaltukan ako nun eh -_-
+#POS I C C N E E G V W B B N C E #POS
+}
+{
+Gusto ko lang malaman kung bakit moko iniwan? -StartingOverAgain
+#POS B B B B B G G G W G #POS
+}
+{
+REF sige sige! Mahihighblood nanamn si brian tas raymart =D haha
+#POS I C C W B B B B B B E C #POS
+}
+{
+GNUMb na &lt;NUM
+#POS B B E #POS
+}
+{
+REF ay! Ge. Ikaw bahala =)
+#POS I C W B W G G E #POS
+}
+{
+J's on my feet tomorrow =) with othan REF kaw din ;)
+#POS B P D N N E P B I B N E #POS
+}
+{
+Burrppp! :O
+#POS N W E #POS
+}
+{
+Jfe! Buurppp! Thank you God &lt;NUM
+#POS B W V W V O B E #POS
+}
+{
+True friends will love you for the person you are, not the things you do.
+#POS A N V V O P D N O V W R D N O V W #POS
+}
+{
+REF di ko alam eh ;) sino ba =D
+#POS I G G G C E G G E #POS
+}
+{
+REF ahh, sino ;) hahaha
+#POS I C W G E C #POS
+}
+{
+REF daha nalang ;) hahaha mag didate kame sa Saturday ;) pwede ba?
+#POS I C C E C N N V G B E G G W #POS
+}
+{
+Will eat again =) papataba =P
+#POS V V R E E E #POS
+}
+{
+REF hahaha =D bukod sa daga ano pa? Ipis?
+#POS I C E B B B B B W B W #POS
+}
+{
+Hindi lahat ng patama, tungkol sayo. Nagkataon lang na tumugma sayo at nasapul ka ng husto. =P
+#POS B B B B W B B W B B B B B P B B B B W E #POS
+}
+{
+REF ano!???
+#POS I C W #POS
+}
+{
+REF yung daga nyo nalang ;) baka naman mahal mo din yun -_- haha
+#POS I C C C C E B B B B G G E C #POS
+}
+{
+Nasa Earth =) jk
+#POS B B E E #POS
+}
+{
+REF hahaha! Yung aso nyo nalang ;) baka pagluto pa ako ng masarap na dogfood tas shishare ko kay julia =D hahaha
+#POS I C W C G G G E B B B G G G G N N G G G B E C #POS
+}
+{
+REF takte! Sayang =( haha magbrebreak din yun =P haha jkkkkkkkkkkk
+#POS I N W G E C B G G E C C #POS
+}
+{
+TornOn: babaeng marunong magluto ng mga ulam &lt;NUM
+#POS B W N N N V G G E #POS
+}
+{
+Okay! Ikaw bahala
+#POS C W G G #POS
+}
+{
+Ughh! Tiwala nanaman -.-
+#POS C W B B E #POS
+}
+{
+Hahahaha
+#POS C #POS
+}
+{
+Laughtrip kay joseph/mangyan kanina eh, hahaha hinubadan habang naka pusas yung kamay nya!^^
+#POS G G B B C W C C V B B B B B W E #POS
+}
+{
+Puro tiwala, wala sa gawa -_- haha xD
+#POS B B W G G G E C E #POS
+}
+{
+"REF Yung KAIBIGAN mo na parang KAPATID mo na rin."
+#POS W I J B B B B B B G G G W W #POS
+}
+{
+"REF Hindi Lahat ng FC, "Feeling Close/Flat Chested". Yung Iba "Feeling Chics!""
+#POS W I J B B B B W W V A N W W G G W V N W W #POS
+}
+{
+Ang hirap pigilan mag mura &gt;_&lt;
+#POS B B B B B E #POS
+}
+{
+Pakyu! Haha ;P
+#POS B W C E #POS
+}
+{
+Tara. xD
+#POS B W E #POS
+}
+{
+Gusto ko mag zentea &lt;NUM
+#POS B B N N E #POS
+}
+{
+Ayaw ko mag bakasyon! Walang pera =)
+#POS G B B B W G G E #POS
+}
+{
+Gusto ko mag luto ng ulam, pero si ako marunong =(
+#POS B B B B G G W F B G N E #POS
+}
+{
+Ah, gege
+#POS C W B #POS
+}
+{
+No problem ;)
+#POS D N E #POS
+}
+{
+Haha, sige kailan gusto mo?
+#POS C W C B B B W #POS
+}
+{
+*par
+#POS W A #POS
+}
+{
+Paturo mag luto ng adobo lar! ;)
+#POS B B B B B B W E #POS
+}
+{
+NiceOne! Effective yung turo ko sayo ;)
+#POS B W A N N B B E #POS
+}
+{
+Ang problema kasi sainyo, hindi nyo pa natatapos, sumusuko na kayo"  EngineeringProblems.
+#POS B B B B W B B B B W B B B W B W #POS
+}
+{
+TAG!
+#POS H W #POS
+}
+{
+Yum!
+#POS C W #POS
+}
+{
+"REF TAG ng Single: Di bale ng walang lovelife, busog naman."
+#POS W I J H V A W B N W V N W G G W W #POS
+}
+{
+Libog ang putek -.-
+#POS B B B E #POS
+}
+{
+Natawa ako sa dalawang babae sa clasroom namin nanood ng porn! -_- hahaha
+#POS B G G G G G G G G V N W E C #POS
+}
+{
+Ang awkward naman dito sa bahay -_- hahaha sapakin kita eh ./.
+#POS B A B B G G E C V B C W W W #POS
+}
+{
+Hala! Delekado pala -.-
+#POS C W B B E #POS
+}
+{
+Hahaaha
+#POS C #POS
+}
+{
+Walang araw na hindi nabalita ang TAG sa tv patrol -_-
+#POS G G G B B B B B B N E #POS
+}
+{
+Pinatay dahil sa dota!  Ang weird
+#POS B B B B W V A #POS
+}
+{
+Tired! &gt;.&lt;
+#POS A W E #POS
+}
+{
+Sana. xD
+#POS B W E #POS
+}
+{
+Tsk tsk
+#POS C C #POS
+}
+{
+Crush*
+#POS N W #POS
+}
+{
+Sino kaya cruah nya!??
+#POS B B B B W #POS
+}
+{
+Hala!! Trip lang ni micah yung sinabi nya! -.-
+#POS A W V G G B B B B W E #POS
+}
+{
+Np
+#POS C #POS
+}
+{
+Ahh, good luck
+#POS C W A N #POS
+}
+{
+TAG: Phineas and ferb
+#POS H W B F V #POS
+}
+{
+Anong NUM day nalang??
+#POS C K N G W #POS
+}
+{
+REF oo nga eh! Haha ako maraming sometimes tas NUM&amp;NUM pa =(
+#POS I C B C W C C V R Z K N E #POS
+}
+{
+REF hahaha, sakin hinulaan ko nalang eh. Lorence gaming =D
+#POS I C W V B B B C W B N E #POS
+}
+{
+Huuuu ahhhh!
+#POS C C W #POS
+}
+{
+REF hahaha ayaw ko dun English carabao yun eh
+#POS I C G B V B N G C #POS
+}
+{
+REF hahahaha! Di mo lang ma translate eh -_- may google naman eh! Haha ./.
+#POS I C W G G G G V C E V B B C W C W W W #POS
+}
+{
+REF hahaha, par! Paki translate! Nosebleed ako ;) haha
+#POS I C W N W B V W N G E C #POS
+}
+{
+REF hahaha, nakaka banas kase par eh, pinag tulungan ako eh &gt;.&lt;
+#POS I C W B B B P C W V B B C E #POS
+}
+{
+Gusto ko mag shot ;] pampa wala lang ng tang inang bv =D
+#POS B B B N E B B B B N N N E #POS
+}
+{
+Kilala ko na crush ng crush ko!
+#POS B B B N V N B W #POS
+}
+{
+Jfe ./.
+#POS B W W W #POS
+}
+{
+Will eat
+#POS V V #POS
+}
+{
+Bv parin -_-
+#POS G G E #POS
+}
+{
+Turn on: Yung babae na maganda pero humble lang :')
+#POS V T W B B B B R A N E #POS
+}
+{
+Homebound =D
+#POS A E #POS
+}
+{
+I'm not okay but I smile. =D
+#POS L R A F O V W E #POS
+}
+{
+Kahit saan ako pwede, hahaha tang ina!
+#POS B B G G W C N N W #POS
+}
+{
+Gabi na ako uuwi bukas =)
+#POS B B B B B E #POS
+}
+{
+Chill christian chill! Kung di lang kita kapatid pinatulan nakita!!
+#POS V B N W B G G G G G G W #POS
+}
+{
+Kabadtrip! &gt;_&lt;
+#POS B W E #POS
+}
+{
+REF wala
+#POS I C #POS
+}
+{
+Bv! ./.
+#POS C W W W W #POS
+}
+{
+Sabi ko sayo cj! Pag nakalimutan kita na kapated kita! Baka mabanatan kita ./. Pasalamat ka nakokontrol kopa
+#POS B B B B W B B B B B B W B B B W W W B B B B #POS
+}
+{
+Tang inang buhay yan!!  Lalayas din ako dito ./.
+#POS N N G G W B G G G W W W #POS
+}
+{
+Jfe
+#POS B #POS
+}
+{
+Yung pasimple mong tinitingnan yung crush mo. :")
+#POS C B B B B N N W E #POS
+}
+{
+ipabugbog na natin yung mga SNOBBER.=D
+#POS G G G G G B W E #POS
+}
+{
+Ang saya mag pa habol sa crush mo =D sana laging ganun &lt;NUM
+#POS B B B B B B N N E G G G E #POS
+}
+{
+Yiehh! May load ulit ako ti nxt ako ng bestfriend kong si NUM
+#POS C W V V G G G A N V N N G G #POS
+}
+{
+REF po???
+#POS I G W #POS
+}
+{
+Nag txt na si NUM -_-
+#POS V V P G G E #POS
+}
+{
+TAG: poppin
+#POS H W V #POS
+}
+{
+Pag tritripan kita!=P
+#POS B B B W E #POS
+}
+{
+Niligawan kita noon tas mag iinaso ka na pwede ako! -.- pakyu ka bente =P hahaha
+#POS B B B B B B B B B B W E G G G E C #POS
+}
+{
+Ngayon lang ulit ako nag english &lt;NUM
+#POS B B B B V N E #POS
+}
+{
+Nosebleed sya sakin! =D
+#POS N G G W E #POS
+}
+{
+Expired na load ko =(
+#POS V P N G E #POS
+}
+{
+Nag txt nanaman yung bestfriend ko ! -.-#NUM
+#POS V N G G G B W E
+
+H #POS
+}
+{
+Hahaha may na realtalk ako =D
+#POS C V V G G E #POS
+}
+{
+Hungry -.-
+#POS A E #POS
+}
+{
+Sleepy &gt;.&lt;
+#POS A E #POS
+}
+{
+Di ko po sinasadya =)
+#POS G G G G E #POS
+}
+{
+Namura ko si sir eric kanina! =) hahahaha
+#POS B B B G B B W E C #POS
+}
+{
+Naiinis ako sa mga taong ng babatok sakin -_- pasalamat ka babae tas tropa pa kita ^^ hahaha pagbigyan
+#POS B B G G G G G G E N G G G G G G E C B #POS
+}
+{
+Ang anghang!! &gt;_&lt;
+#POS B B W E #POS
+}
+{
+Ughhh!
+#POS C W #POS
+}
+{
+REF np =)
+#POS I C E #POS
+}
+{
+"REF followback REF :)" Done
+#POS W I J N I E W V #POS
+}
+{
+Kapag nag titxt ka sakin, lagi akong napapangiti =) haha
+#POS B B B B B W B B B E C #POS
+}
+{
+REF REF ahh, haha Hi! ;)
+#POS I I C W C C W E #POS
+}
+{
+Ang hina ko kay angge =( haha;)
+#POS B B B B B E C E #POS
+}
+{
+REF sup! Haha ;)
+#POS I C W C E #POS
+}
+{
+REF hello =) hahaha =D
+#POS I C E C E #POS
+}
+{
+Ughhh!
+#POS C W #POS
+}
+{
+My feelings for you will never change.
+#POS D N P O V R V W #POS
+}
+{
+Pag-uwi ng Bahay, Twitter agad. Yan tayo eh!
+#POS G G B W B N W B B C W #POS
+}
+{
+"REF Yung sana, puro nalang sana, nakakasawa na."
+#POS W I J B B W B B B W G G W W #POS
+}
+{
+Ano ba meaning ng "db" ??
+#POS C G N W W N W W #POS
+}
+{
+Lahat ng tao may pagkakaiba, kaya dapat lahat tayo marunong rumespeto sa isa’t isa.
+#POS B B B B B W B B B B B B B B B W #POS
+}
+{
+Best friends do not judge each other. =)
+#POS A N V R V D A W E #POS
+}
+{
+Daya ni angge! =(
+#POS B B B W E #POS
+}
+{
+REF sige ;) clue nalang!??? =P
+#POS I C E N V W E #POS
+}
+{
+Mahal na mahal kita higit pa sa iniisip mo &lt;NUM
+#POS B B B B B B G G G E #POS
+}
+{
+REF di yan ako bahala =) hahaha please
+#POS I G G G G E C V #POS
+}
+{
+Pag friends , friends lang. Wag na maghangad pa ng iba. Lalo ka lang masasaktan =(
+#POS B N W N N W G G G G G G W B B B B E #POS
+}
+{
+REF i dm mo par ;)
+#POS I O V G G E #POS
+}
+{
+REF di ko naman pag kakalat ehh =( hahaha =D
+#POS I G G G G G C E C E #POS
+}
+{
+REF hahaha sige ;) btw sino ba crush ni jackie?? ;D
+#POS I C C E G G G N G B W E #POS
+}
+{
+REF wehh!? Papatqyin ko na sya, baka agawin pa sakin =) hahaha
+#POS I C W B B B B W B B B B E C #POS
+}
+{
+REF kasama ko sila cesar =P hahaha
+#POS I B B G B E C #POS
+}
+{
+REF gala lang =) hahaha
+#POS I N N E C #POS
+}
+{
+Kahit ang Lakas ng loob kong pag-tripan ka, Kahit ang tapang kong Awayin ka, Tandaan mo! Takot padin akong mawala ka.
+#POS B B B B B B B B W B B B B B B W B B W B B B B B W #POS
+}
+{
+REF luhh!! Sakto lang par money ko =P hahaha
+#POS I V W B B A N G E C #POS
+}
+{
+Di bale ng late, atleast pumasok.
+#POS B N V A W R A W #POS
+}
+{
+Pupunta pa pala akong gateway sa sabado =D sama ka??
+#POS B B B B B G G E G G W #POS
+}
+{
+Merry me
+#POS V O #POS
+}
+{
+Hungry
+#POS A #POS
+}
+{
+People are far too often in love with people they've never met.
+#POS N V R R R P N P N L R V W #POS
+}
+{
+Some things are not worth fighting for.
+#POS D N V R V V P W #POS
+}
+{
+Homebound =D
+#POS A E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+REF hahaha may friend kana! ;) hahaha
+#POS I C V N B W E C #POS
+}
+{
+TAG Wag na kayo magbabanggit ng salitang pogi kung AKO lang naman ang nais niyong patamaan  ^_^  TAG"
+#POS H G G G G G G G G G G G G G G G E H W #POS
+}
+{
+REF ay!! Wala ka friend? Gusto friend tayo!? Hahaha jkk
+#POS I C W B B N W B B B W C C #POS
+}
+{
+Promise I'll be here forever, I swear. ♥
+#POS V L V R R W O V W E #POS
+}
+{
+REF wala ka parin friend =P haha
+#POS I G G G N E C #POS
+}
+{
+"REF GNUMB : Got NUM Bitin"
+#POS W I J B W V P V W #POS
+}
+{
+REF WALA KA FRIEND!??? =P HAHAHAHA
+#POS I B B B W E C #POS
+}
+{
+REF pwede red nalang!? -.- hahaha xD
+#POS I G A N W E C E #POS
+}
+{
+REF akin yun ahh, tas sayo yung walang may pake! -.- change!!!
+#POS I A N C W G G G G V V W E N W #POS
+}
+{
+She will continue to smile, no matter how hurt she is.
+#POS O V V P V W D N R V O V W #POS
+}
+{
+REF pero realtalk! Walang may pake =P bawi lang hahaha
+#POS I F N W V V V E G G C #POS
+}
+{
+REF hahaha! Wag naman si sir raymart! Hahaha jkk
+#POS I C W G G G G B W C C #POS
+}
+{
+REF hahahaha =D kaya yan ang natutunan ni elias! Elias yan ehh! =)
+#POS I C E B B B B B B W B B C W E #POS
+}
+{
+REF hahahahaha, oo nga eh, puro kalokohan lang at kalandian xD hahah ^^
+#POS I C W C B C W B B B P B E C E #POS
+}
+{
+REF wala kang palag dyan! Libro lang =D hahahaha Pagbigyan munA
+#POS I G G G B W W G E C B B #POS
+}
+{
+REF oo tas mag pa sagot kadin!
+#POS I C B B B B B W #POS
+}
+{
+REF ewan ko par. Haha baka pwede yun
+#POS I B B N W C B B B #POS
+}
+{
+Uso umilag! -.- haha
+#POS B B W E C #POS
+}
+{
+Hahaha =D
+#POS C E #POS
+}
+{
+Takte ang landi ni chixhay! Hahahaha jkkk
+#POS B B B B B W C C #POS
+}
+{
+GNUMb na =)
+#POS B B E #POS
+}
+{
+Jfe =)
+#POS B E #POS
+}
+{
+Dalaga nung nalaseng NANAY ng NAGISING!
+#POS B B B B C C W #POS
+}
+{
+REF namamansin kaya ako =( hahaha sicret =D
+#POS I G G G E C C E #POS
+}
+{
+REF sicret! =) hahahaha =P
+#POS I C W E C E #POS
+}
+{
+REF hahaha! Ikaw kase eh ^.^ hahaha
+#POS I C W G G C E C #POS
+}
+{
+Inlove ka? Kanino? Sa taong hindi inlove sayo? Congrats! Marami tayo!
+#POS V B W B W G G B V B W C W B B W #POS
+}
+{
+Famous pag ganun! =P ahahhaha
+#POS A G G W E C #POS
+}
+{
+"REF kamusta naman ang lalaking naiihi na hahahahaha.. REF URL" hahaha =D
+#POS W I J B B B B B B C W I U W C E #POS
+}
+{
+Download kana par =)
+#POS V B N E #POS
+}
+{
+"REF Nakangiti ako pero ilang beses na kitang pinatay sa isip ko."
+#POS W I J B B G G G P V N G G B W W #POS
+}
+{
+Donuts
+#POS N #POS
+}
+{
+Tears of joy!
+#POS N P N W #POS
+}
+{
+Amnesia *
+#POS B W #POS
+}
+{
+NUMforNUM =) haha
+#POS K E C #POS
+}
+{
+*kaibigan
+#POS W V #POS
+}
+{
+Mas gugustuhin ko pang maging kaibiga. Nalang tayo kaysa maging tayo =(  kase mas matagal pag sasama natin =) gets nyo? Ako kase hindi eh=D
+#POS B B B B B B W G G G G G E B B B B B B E V B W G G G C E #POS
+}
+{
+Laugh trip sa pinapanood ko ^.^
+#POS V N G G B E #POS
+}
+{
+"REF May mga taong sweet sayo, pero kaibigan lang pala ang tingin."
+#POS W I J B B V A N W F B B B B B W W #POS
+}
+{
+What the heck!! &gt;.&lt;
+#POS O D N W E #POS
+}
+{
+Talking to you makes me happy.(:
+#POS V P O V O A W W W #POS
+}
+{
+Sa kanya ka ba masaya? Ge. Bahala ka.=(
+#POS G G G G G W B W G G W E #POS
+}
+{
+Hahahaha! Astig ng prank ng babae &lt;NUM
+#POS C W C C N W B E #POS
+}
+{
+No, thanks =)
+#POS C W N E #POS
+}
+{
+Ingat =)
+#POS B E #POS
+}
+{
+Nag-uunli ako para sayo kasi umaasa ako na mag-rereply ka. =(
+#POS G G G G G G G G G G W E #POS
+}
+{
+Ikaw kasi ang gusto ko.
+#POS G G G G B W #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Byeeeeee
+#POS C #POS
+}
+{
+Tsk tak! Ni rak nila acc. Ko =(
+#POS C N W B B B N W B E #POS
+}
+{
+Takte ni rak nila twitter ko =(
+#POS B B B B B B E #POS
+}
+{
+Tigil na nga akooo ~_~
+#POS B B B B E #POS
+}
+{
+Nilalamig na kooo ~_~
+#POS B B B E #POS
+}
+{
+No hackerss
+#POS D N #POS
+}
+{
+I
+#POS O #POS
+}
+{
+Buti na lang wala yung acc. Ko dun sa phone ni hersh kundi na rack na din nila
+#POS B B B B B N W B V G N G B B B B B G G #POS
+}
+{
+Kulit namin -.- palitan phone
+#POS B B E B N #POS
+}
+{
+Tweet nyo sexy ni micah hahahahahahahaha
+#POS V G A N B C #POS
+}
+{
+REF REF oo :))))
+#POS I I C E #POS
+}
+{
+Hahahahahaha
+#POS C #POS
+}
+{
+Sexxxxxyy ni micah &lt;NUM dba REF
+#POS A N B E N I #POS
+}
+{
+Iloveyouuuuuu
+#POS C #POS
+}
+{
+Ang ganda ganda at sexy ni micah REF
+#POS B B B P A N B I #POS
+}
+{
+Christian back
+#POS B R #POS
+}
+{
+REF hindi yan hack si tian talaga nagtweet nyan
+#POS I C C V B B B B B #POS
+}
+{
+Ang astig ng phone ni tiaaaaaannn
+#POS B C C N G G #POS
+}
+{
+Tian irack mo na twitter ni juliaaa
+#POS B B B B B B B #POS
+}
+{
+:))))))
+#POS E #POS
+}
+{
+Hindi -.-
+#POS B E #POS
+}
+{
+Di ako makapagtweet dun sa phone ko bagal wifi eh
+#POS G G G V G N B B N C #POS
+}
+{
+O.p na si jayjay
+#POS C W G G G B #POS
+}
+{
+Laughtrip dito
+#POS G G #POS
+}
+{
+Hahahahaha.pagtitripan ko ting twitter ni tian
+#POS C W G B N B B B #POS
+}
+{
+Micah's here
+#POS Z R #POS
+}
+{
+Baka isip bata -.-
+#POS B G G E #POS
+}
+{
+=) me nabasa ako -_-
+#POS E O G G E #POS
+}
+{
+Nakakairita po :|
+#POS B B E #POS
+}
+{
+Baboy ho si julia
+#POS B B B B #POS
+}
+{
+Maganda po si micah
+#POS B B B B #POS
+}
+{
+Sexy po si micah :)))))
+#POS A N G B E #POS
+}
+{
+Bakla po ako
+#POS B B G #POS
+}
+{
+Crush ko si
+#POS N G G #POS
+}
+{
+Never give up. Great things take time (:
+#POS R V T W A N V N E #POS
+}
+{
+REF REF kaya nga. -.- hahaha
+#POS I I B B W E C #POS
+}
+{
+Here REF with bigan =(
+#POS R I P B E #POS
+}
+{
+Joke lang yun par =(
+#POS N G G G E #POS
+}
+{
+Galit nya sya! Hahahahahaha jkk lang par ;)
+#POS B B B W C C C N E #POS
+}
+{
+Tsk tsk! Sanay na kame!! -.- hahaa
+#POS C C W B P V W E C #POS
+}
+{
+The people who are still with you at the end of the day are the ones worth keeping.
+#POS D N O V R P O P D N P D N V D N V V W #POS
+}
+{
+REF hahaha ;D
+#POS I C E #POS
+}
+{
+REF tsk tsk! Hahaha =P
+#POS I C C W C E #POS
+}
+{
+REF hahaha, joke lang par =P hahaha tinigilan ko nayan! =)
+#POS I C W N G G E C B B B W E #POS
+}
+{
+REF hala! Kalokohan mo! Hahahaha -_-
+#POS I C W B B W C E #POS
+}
+{
+REF bolt par yung aso ! -.- hahaha green ka ah =P
+#POS I N P G G W E C A B C E #POS
+}
+{
+REF hahahaha lam na! Cindi hahaha jkkk =)
+#POS I C G G W B C C E #POS
+}
+{
+TAG: Bolt &lt;NUM
+#POS H W N E #POS
+}
+{
+"REF Kumain ka ng masustansyang pagkain! Wag puro Pancit Canton :D" ganun naman lagi ginagawa ko ehh, pero ayaw  parin -_-
+#POS W I J B B B B B W G G G B E W B B B B B C W F G G E #POS
+}
+{
+Pano ba tumaba!?? -.-
+#POS B B B W E #POS
+}
+{
+Lipat na ng channel! Maya na! -.- hahaha
+#POS B B B B W B B W E C #POS
+}
+{
+Astig ni nashhh
+#POS C C C #POS
+}
+{
+Hahahaha =D
+#POS C E #POS
+}
+{
+If you don't fight for what you want, don't cry for what you lost.
+#POS P O V V P O O V W V V P O O V W #POS
+}
+{
+Hahaha thanks ;)
+#POS C N E #POS
+}
+{
+Sumakay ka nalang! -.- hahaha =D
+#POS B B B W E C E #POS
+}
+{
+"REF Patagong nag mamahal,
+Patagong nasasaktan &lt;/NUM
+#POS W I J N V N W
+N N E #POS
+}
+{
+Astig ng girlfriend ko na si julia barretto &lt;NUM
+#POS C C N G G G B B E #POS
+}
+{
+Correction Julia barretto po yun hindi,kung ano ano =P haha
+#POS N B B B B B W B B B E C #POS
+}
+{
+Feeler alert! -_-
+#POS G N W E #POS
+}
+{
+Tinalo nyan si alexa =( haha okay langbyan lilibre ka naman nya eh
+#POS B B B B E C C B B B B B C #POS
+}
+{
+Si julia nasa singingBee din hahaha. ;)
+#POS B B B B G C W E #POS
+}
+{
+Alexa &lt;NUM
+#POS B E #POS
+}
+{
+"REF Lakas maka-hashtag nagppray ba talaga?"
+#POS W I J B B B B B W W #POS
+}
+{
+Mas bagay daw sayo eh :] hahaha
+#POS B B G G C E C #POS
+}
+{
+Haha ;) hiniram ko lang sayo yun, binabalik kona =P hahaha
+#POS C E E B B B B W B B E C #POS
+}
+{
+Pero mas pangit ka =P
+#POS R B B B E #POS
+}
+{
+Oo nalang =D haha
+#POS C C E C #POS
+}
+{
+Nothing! =P chiwawa
+#POS N W E N #POS
+}
+{
+SMALL changes can make a BIG difference. &lt;NUM
+#POS A N V V D A N W E #POS
+}
+{
+Okay lang yan =) wag na choosy, pare kayo ni chiwawa eh -.- haha =P
+#POS C C C E N P A W B B B B C E C E #POS
+}
+{
+Learn to care less, and you'll be less stressed.
+#POS V P V A W F L V A A W #POS
+}
+{
+Never let the bullshit stress you.
+#POS R V D N V O W #POS
+}
+{
+Takte! Famous sya! -.- hahaha
+#POS N W A N W E C #POS
+}
+{
+Si job tinxt ako
+#POS B N N G #POS
+}
+{
+Awkward ;)
+#POS A E #POS
+}
+{
+"REF Mirror: aw, you look cute today.  
+
+Camera: LOL, no."
+#POS W I J N W C W O V A N W
+
+N W C W C W W #POS
+}
+{
+Real men stay dedicated to one girl. ;)
+#POS A N V V P K N W E #POS
+}
+{
+Haha=D
+#POS C E #POS
+}
+{
+Haha, gege
+#POS C W B #POS
+}
+{
+Smart yun ehh! -_-
+#POS A N C W E #POS
+}
+{
+Hoy, babaeng mahilig sa dogfood! Di sya nag rereply eh  -_-
+#POS B W V B B N W G G G G G E #POS
+}
+{
+Stay strong, be positive. We all struggle sometimes.
+#POS V A W V A W O D N R W #POS
+}
+{
+Dewberry &lt;NUM
+#POS B E #POS
+}
+{
+Nararamdaman ko na yung talk.....
+#POS B B B B V W #POS
+}
+{
+Walang may pake =P
+#POS B V V E #POS
+}
+{
+REF hapit ka naman! -_- hahaha =P
+#POS I V G G W E C E #POS
+}
+{
+REF joke lang yun syempre ;D hahaha
+#POS I N G G G E C #POS
+}
+{
+REF haha, mas lalu kanaa =P haha
+#POS I C W B B B E C #POS
+}
+{
+Makapag fb nga saglit =) TAG
+#POS B B B B E
+
+H #POS
+}
+{
+REF oo nga pala, no pets allowed don! &gt;.&lt;
+#POS I C B B W D N V N W E #POS
+}
+{
+WeedsKadudung! ^^
+#POS C W E #POS
+}
+{
+REF ay! Haha hindi pala =P hahaha
+#POS I C W C B B E C #POS
+}
+{
+Tara ka =P hahaha jk
+#POS B B E C C #POS
+}
+{
+Nagugutom lalo ako sa pinapanood ko! -.-TAG
+#POS B B B B B B W E
+H #POS
+}
+{
+REF kayo! Bahala =P
+#POS I C W G E #POS
+}
+{
+No choice eh -_-
+#POS D N C E #POS
+}
+{
+Aalis pa pala kame sa Saturday -_- hahaa
+#POS B B B B B B E C #POS
+}
+{
+Wala na akong breakfast ;) lam na =PTAG
+#POS B B B N E G G E
+H #POS
+}
+{
+Sana walang talksheet mamaya! (:
+#POS B B B B W E #POS
+}
+{
+Goodmorning! &lt;NUM
+#POS C W E #POS
+}
+{
+REF siguraduhin ko lang ;P hahaha =D
+#POS I V B B E C E #POS
+}
+{
+REF takte ka eh! Tinuruan moko mag luto eh -_- hahah jkk
+#POS I N G C W B B B B C E C C #POS
+}
+{
+Wawa ka  naman =P hahaha jkkk
+#POS B B B E C C #POS
+}
+{
+REF gege =D ganyan ganyan ka baka naman ikaw ang ma late! -.- haha
+#POS I B E B B B B B G G D A W E C #POS
+}
+{
+Eating pancit canton ulit =D hahaha tinuruan kase ako ni renzyl ^^
+#POS V G B B E C B B G G G E #POS
+}
+{
+Yung titingin ka pa lang, sya nakatingin na. ♥
+#POS C V B B B W G G G W E #POS
+}
+{
+REF oo nga ehh -_- kutongan nalang yun =D
+#POS I C B C E B B B E #POS
+}
+{
+"REF At least I tried.
+#POS W I J P A O V W #POS
+}
+{
+REF gege =(
+#POS I B E #POS
+}
+{
+REF ge lang ;) haha
+#POS I G G E C #POS
+}
+{
+REF why?? :'(
+#POS I R W E #POS
+}
+{
+REF ahhh, gegege ;) dapat nandun na kayo ng NUM =P
+#POS I C W B E V G G G G K E #POS
+}
+{
+Bigans! Tuloy ba bukas? What time??
+#POS B W B B B W O N W #POS
+}
+{
+Home from Ora Vista ;) off to sport center later =D
+#POS N P B B E R P N N R E #POS
+}
+{
+Feeler si micah! -.- haha jkk
+#POS G G B W E C C #POS
+}
+{
+What's gonna make you fall in love?? &lt;NUM
+#POS L V V O V P N W E #POS
+}
+{
+Gusto ko mag paka weirdo =) haha ma try nga yun^.^ xD
+#POS B B B B N E C D V B B E E #POS
+}
+{
+Malamig ba!?? &gt;.&lt;
+#POS B B W E #POS
+}
+{
+REF sige sige ;)
+#POS I C C E #POS
+}
+{
+REF ay, hahaha =D
+#POS I C W C E #POS
+}
+{
+If you like me than tell me because I really like you. ;)
+#POS P O V O P V O P O R V O W E #POS
+}
+{
+REF ahh, hahahaha =D
+#POS I C W C E #POS
+}
+{
+TornOn: babaing sumasakay sa trip mo &lt;NUM
+#POS B W V R G N N E #POS
+}
+{
+REF nino? Hahaha =)
+#POS I B W C E #POS
+}
+{
+REF hahaha, ge lang ;)
+#POS I C W G G E #POS
+}
+{
+REF REF oo nga eh par, nakaka gulat! Hahaha ./.
+#POS I I C B C N W B B W C W W W #POS
+}
+{
+REF naka tayo na ako par ehh, hahaha ako nalang nag saksak, takot kase sila maka patay ehh ^^ hahaha jkk
+#POS I B B B B P C W C G G G N W G G G G G C E C C #POS
+}
+{
+REF gusto ko kase kasama sila bigans na lalaki, ako lalaki kase -_- haha
+#POS I C B B B B B B B W G G G E C #POS
+}
+{
+REF WALA KANG MALOLOKO DITO!! =P
+#POS I B B B B W E #POS
+}
+{
+REF hahaha! Sorry par =P
+#POS I C W A N E #POS
+}
+{
+REF paku!! =P t
+#POS I N W E G #POS
+}
+{
+REF kahit ako eh, damit nalang hahaha
+#POS I C G C W C C C #POS
+}
+{
+REF matulog kana lang!! =P
+#POS I C B B W E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+REF hahahaha =)
+#POS I C E #POS
+}
+{
+REF nice swan! Haha ;)
+#POS I A N W C E #POS
+}
+{
+Lord Jesus thank You for this day =)
+#POS B B V O P D N E #POS
+}
+{
+I want someone who will stay with me no matter how hard I am to be with.
+#POS O V N O V V P O D N R A O V P V P W #POS
+}
+{
+REF anong proposal? Sa science?
+#POS I C N W G N W #POS
+}
+{
+REF wala! =) haha
+#POS I C W E C #POS
+}
+{
+Hahaha ;) ./.
+#POS C E W W W #POS
+}
+{
+REF gege
+#POS I B #POS
+}
+{
+REF ewan ko -_- hahaha =)
+#POS I B B E C E #POS
+}
+{
+REF pm nyo nalang ako ;) dat may kasamabng lalaki ha
+#POS I N G G G E O V V B C #POS
+}
+{
+REF kayo bahala
+#POS I C C #POS
+}
+{
+REF kayo! Kayo bahala
+#POS I C W B B #POS
+}
+{
+REF ang panget pag ganun
+#POS I C G G G #POS
+}
+{
+REF REF wag na natin tuloy =P hahaha
+#POS I I N P G G E C #POS
+}
+{
+REF maganda kase pag kompleto
+#POS I B B B B #POS
+}
+{
+REF hala! Edi di nalang natin tuloy
+#POS I C W G G G G G #POS
+}
+{
+REF lah! Cine nga tayo eh. -.-
+#POS I C W B B B C W E #POS
+}
+{
+Bigans! Cine tayo sa tuesday! ;) wala namang pasok eh =P
+#POS B W B B B B W E G G G C E #POS
+}
+{
+Mulan
+#POS B #POS
+}
+{
+TAG feeling deserving -_-
+#POS H V A E #POS
+}
+{
+Yummmm
+#POS C #POS
+}
+{
+Breakfast! (:
+#POS N W E #POS
+}
+{
+I'm always grateful when God lets me see another day. =)
+#POS L R A R B V O V D N W E #POS
+}
+{
+Goodmorning =)
+#POS C E #POS
+}
+{
+Busog &lt;NUM
+#POS B E #POS
+}
+{
+Wala nang mag mamaliit sakin! Marami na akong alam na lutuin =D hahaha =P
+#POS B B B B B W B B B B B B E C E #POS
+}
+{
+First time ko mag luto ng pancit kanton ngayon ^.^ haha
+#POS A N B B B G G G G E C #POS
+}
+{
+Wala ehh, di ako marunong mag luto ng pancit ehh ;) hahaha
+#POS B C W G G N N N G G C E C #POS
+}
+{
+Nag papaturo ako kay renzyl kung pano mag luto ng pancit kanton =D hahaha
+#POS V N G G G G G N N G G G E C #POS
+}
+{
+Yumm pancit canton +freshmilk &lt;NUM
+#POS C C B B E #POS
+}
+{
+Waking up every day is a blessing, not a privilege. Don't take it for granted.
+#POS V T D N V D N W R D N W V V O P V W #POS
+}
+{
+REF sige na nga ;) hahah
+#POS I C P G E C #POS
+}
+{
+REF =(=(=(=(=(=(=/
+#POS I E E E E E E E #POS
+}
+{
+REF awtsu! Trip =(
+#POS I C W N E #POS
+}
+{
+REF luh! Ganun lang yun =(
+#POS I V W B B B E #POS
+}
+{
+REF luhh! Wag ganun -_-
+#POS I N W G G E #POS
+}
+{
+REF saan??
+#POS I C W #POS
+}
+{
+URL ;)
+#POS R I E #POS
+}
+{
+Relate talaga ako sa song na "Fall" &lt;NUM by: justinBieber
+#POS V G G G N P W N W E P W B #POS
+}
+{
+Fall TAG by: justin bieber
+#POS B H P W B B #POS
+}
+{
+Jfe ;)
+#POS B E #POS
+}
+{
+Ni like nya &lt;NUM
+#POS B P G E #POS
+}
+{
+Be good to the people who are there for you, they deserve it.
+#POS V A P D N O V R P O W O V O W #POS
+}
+{
+REF ge ;) anu bayun??
+#POS I C E G G W #POS
+}
+{
+REF ewan ko lang =D hahahaha diko sure kong sino sino eh
+#POS I B B B E C V A B B B C #POS
+}
+{
+Will eat ;)
+#POS V V E #POS
+}
+{
+REF hahaha, ayaw ko dun =P sa susunod na sabado gateway naman kame =D
+#POS I C W G G V E G G G G N G V E #POS
+}
+{
+REF ako lang mag isa =)
+#POS I G G N G E #POS
+}
+{
+REF marami ehh, b,c,d
+#POS I B C W V W N W G #POS
+}
+{
+REF nanood sa mga nag remedial =D hahaha gagawa dapat kame ng project e hindi na tuloy yun, nanood nalang ako sa mga nag remidial
+#POS I B B B V N E C C V V V N G G G G G W B B G G G G G #POS
+}
+{
+Tired
+#POS A #POS
+}
+{
+"REF True friends don’t talk shit about you."
+#POS W I J A N V V N P O W W #POS
+}
+{
+Home from sm and school
+#POS N P B F N #POS
+}
+{
+Nagugutom ako -_-
+#POS B B E #POS
+}
+{
+Goodmorning bitch! ;)
+#POS C N W E #POS
+}
+{
+Once you fall in love there’s no going back to being just friends.
+#POS R O V P N L D V R P V R N W #POS
+}
+{
+That "Crush niya kaya ako?" feeling.
+#POS O W B B B B W W V W #POS
+}
+{
+Crush is "paghanga", na may konting pagnanasa.
+#POS N V W N W W P V V N W #POS
+}
+{
+We got such an amazing friendship and that you don't wanna lose &lt;NUM TAG
+#POS O V A D A N F P O V V V E
+H #POS
+}
+{
+Ang effort ni chichayy -.-
+#POS B N N N E #POS
+}
+{
+Relate talaga ako sa kantang "Fall" by justin bieber
+#POS V G G G G W N W P B B #POS
+}
+{
+I will catch you if you fall &lt;NUM
+#POS O V V O P O V E #POS
+}
+{
+Holy Grail &lt;NUM
+#POS A N E #POS
+}
+{
+Baby kiss me from my nose down to my!!?^^ TAG
+#POS N V O P D N P P D W E
+H #POS
+}
+{
+"REF Okay lang maging MATABA. Para pag dumating ang tag-gutom, papayat ka palang. Sila, mamamatay na."
+#POS W I J C C V B W G G G G N W B B B W B W B B W W #POS
+}
+{
+Homebound ;)
+#POS A E #POS
+}
+{
+Mango float &lt;NUM yumm
+#POS B V E C #POS
+}
+{
+Got my new shoes &lt;NUM
+#POS V D A N E #POS
+}
+{
+REF np par =)
+#POS I G G E #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Pag minura kita. Tapos lalaki ka, ibig sabihin hindi kita gusto. Tropa tropa lang." si jackiee! Hahaha
+#POS B B B W B B B W G G G G N W B B B W W B B W C #POS
+}
+{
+Ang mga babae, mahirap makalimot yan.
+#POS B B B W B B B W #POS
+}
+{
+God puts certain people in your life for a reason.
+#POS B V A N P D N P D N W #POS
+}
+{
+Being single is better than being in the wrong relationship.
+#POS V A V A P V P D A N W #POS
+}
+{
+Waiting, hoping, wishing.
+#POS V W V W V W #POS
+}
+{
+Yummm
+#POS C #POS
+}
+{
+Mango float &lt;NUM
+#POS B V E #POS
+}
+{
+REF ge lang
+#POS I G G #POS
+}
+{
+REF wala wala =]
+#POS I C C E #POS
+}
+{
+REF tsktsk! Bat kayo ni ano hahahaha jkk =P
+#POS I C W N G G G C C E #POS
+}
+{
+Minsan malulungkot ka na lang bigla.
+#POS B B B B B B W #POS
+}
+{
+True friends don’t talk shit about you.
+#POS A N V V N P O W #POS
+}
+{
+REF hahahaha! Pag ibig haha =D
+#POS I C W G G C E #POS
+}
+{
+REF hahahaha! Oo nga eh chicks =) haha
+#POS I C W C B C N E C #POS
+}
+{
+REF syempre! Nakakahiya -.- hahahahahaha =D
+#POS I C W G E C E #POS
+}
+{
+REF konti lang =D hahahaha
+#POS I B B E C #POS
+}
+{
+REF hahahahaha ;) how did you now???  Jkk haha =D
+#POS I C E R V O R W C C E #POS
+}
+{
+Naiiyak putek &gt;_&lt;
+#POS B A E #POS
+}
+{
+"REF Turn On: yung babaeng walang kaalam alam na maganda siya."
+#POS W I J V T W C V V B B B B B W W #POS
+}
+{
+Home from jajay's crib
+#POS N P Z N #POS
+}
+{
+REF wag na, yup ;)
+#POS I G G W C E #POS
+}
+{
+REF oo nga pala ;) haha =D
+#POS I C B B E C E #POS
+}
+{
+REF pakyu! =P
+#POS I C W E #POS
+}
+{
+REF ng ano??
+#POS I C C W #POS
+}
+{
+REF fuck you!! ./.
+#POS I V O W W W W #POS
+}
+{
+REF ito nalang ;) haha
+#POS I G G E C #POS
+}
+{
+Nakakataba ng puso yung gm ni renzyl &lt;NUM
+#POS B B B B B B B E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+REF dibali nalang lahat ng tao walang paki sakin wag lang yung Zombie :D haha -_-
+#POS I C G G G B B B B G G G B E C E #POS
+}
+{
+Move-on? Bakit naging kayo ba?
+#POS B W G G G G W #POS
+}
+{
+REF walang may pake :P hahaha ;) pauso nanaman eh hah =D
+#POS I V V V E C E N G G C E #POS
+}
+{
+Baket puro tugtog ng phone ko puro kay bieber? -.-
+#POS B B B B N B B B B W E #POS
+}
+{
+Babae ka, wag ka naman magpaka-pokpok.
+#POS B B W G G G G W #POS
+}
+{
+Gusto ko manood ulit ng frozen =D haha
+#POS B B B G G A E C #POS
+}
+{
+KAIBIGAN? Siya yung laging umuubos ng pagkain mo.
+#POS B W B B B B B B N W #POS
+}
+{
+Dapat alam mo limitations mo.
+#POS B B B N N W #POS
+}
+{
+i believe in hate at first sight
+#POS O V P N P A N #POS
+}
+{
+REF luko! Haha realtalk: papatayin kita -_- hahaha jkk lang pati sa twitter wala paring paki -.- haha
+#POS I C W C C W N G E C C C G G B B V B E C #POS
+}
+{
+RealTalk: mamimis ko si renzyl, kahit dipa sya umaalis ng pinas =( labyu par &lt;NUM
+#POS G W B B B B W C C G G G B E C N E #POS
+}
+{
+Akala ko sa init ako nahihilo, yun pala sa amoy mo. :))))
+#POS B B B P G G W G G G G N W E #POS
+}
+{
+Homebound =D
+#POS A E #POS
+}
+{
+Freshhh &lt;NUM
+#POS A E #POS
+}
+{
+Will take a bath =)
+#POS V V D N E #POS
+}
+{
+REF hahaha, babawi ako bukas
+#POS I C W B B B #POS
+}
+{
+REF sige sige ;)
+#POS I C C E #POS
+}
+{
+REF awww, sorry par bawi ako tom
+#POS I C W A P G G B #POS
+}
+{
+REF huh?? Bati tayo haha =)
+#POS I C W B B C E #POS
+}
+{
+Naaalala nya lahat!
+#POS B B B W #POS
+}
+{
+TAG Tagal tumakbo ng oras =,=
+#POS H B B B B E #POS
+}
+{
+Yeahhay! Lilipat ako ng school =D haha
+#POS C W B B B N E C #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+TAG ang haggard haggard ng pagmumukha ko!-_-
+#POS H G A A N G B W E #POS
+}
+{
+Maganda ka! Mula paa hanggang leeg ./.
+#POS B B W N N V N W W W #POS
+}
+{
+Sorry ka ng sorry, kung pwede lang makain yang sorry mo, siguro tumaba na ako.
+#POS A B C A W B B B B C A N W B B B B W #POS
+}
+{
+Hindi lahat ng plastik makikita mo sa basura. Minsan nga nakakausap mo pa.
+#POS B B B B B B B B W B B B B B W #POS
+}
+{
+Kahit dipa umaalis ai renzyl, na mimis ko na sya :'(
+#POS B B B B B W P B B B B E #POS
+}
+{
+Hinay-hinay lang sa pang-aabuso, napupuno rin ang taong mabait.
+#POS B B G G W B B B B B W #POS
+}
+{
+I'm no superman but for you, I'll be a superhuman
+#POS L D N F P O W L V D A #POS
+}
+{
+Si renzyl aalis sya! Sa ibang bansa na daw sya pag aaralin =( par dito ko nalang mag aral :'(
+#POS B B B B W G G G G G G G G E P G G G N G E #POS
+}
+{
+If I treated you the way you treated me, you wouldn't of stuck around like I did.
+#POS P O V O D N O V O W O V P V R P O V W #POS
+}
+{
+You hate me? Well okay, grab a chair and wait for me to care.
+#POS O V O W C C W V D N F V P O P V W #POS
+}
+{
+Ang corny ng laban -.-
+#POS B A N B E #POS
+}
+{
+Loving you is the only thing that seems to make sense.
+#POS V O V D A N P V P V N W #POS
+}
+{
+Nakakapag laro na ba si Kobe Bryant??
+#POS B B B B B B B W #POS
+}
+{
+Happy
+#POS A #POS
+}
+{
+Got lucky &lt;NUM
+#POS V A E #POS
+}
+{
+I overthink things way too much.
+#POS O V N N R A W #POS
+}
+{
+Kobe &lt;NUM
+#POS B E #POS
+}
+{
+Windows phone or iphone!???
+#POS B N F B W #POS
+}
+{
+Mag papalit na nga ako ng phone, nakakasawa yung windows phone -_-
+#POS N N P G G G N W G G N N E #POS
+}
+{
+Wade
+#POS B #POS
+}
+{
+Chris Paul &amp; Kobe Bryant is &lt;NUM
+#POS B B F B B V E #POS
+}
+{
+Ang tagal naman mag simula -.- hahaha concert pa &gt;.&lt;
+#POS B B B B B E C N N E #POS
+}
+{
+Mukang aabsent nanaman ako bukas ahh (:
+#POS V A B G G C E #POS
+}
+{
+Ang sakit parin ng katawan ko -.-
+#POS B B B B B B E #POS
+}
+{
+Not even a month into the semester and I'm already stressed out
+#POS R R D N P D N F L R V T #POS
+}
+{
+Never ignore a person who loves you and cares for you.
+#POS R V D N O V O F V P O W #POS
+}
+{
+Goodmorning =)
+#POS C E #POS
+}
+{
+REF sure! Mag isa ka hahah jkk =) basta kkb
+#POS I A W B B B C C E C B #POS
+}
+{
+REF sige night na =) thank you ulit
+#POS I C N P E V O V #POS
+}
+{
+REF wala ngang handa tas may sakit pa -.- haha next time nalang haha =P
+#POS I C C B B V G G E C A N G C E #POS
+}
+{
+REF oo nalang -_- babye kase matutulog na ako =P Night
+#POS I C N E C B B B B E N #POS
+}
+{
+REF yiehh! Thank you par, okay lang yun =D
+#POS I C W V O A W C C C E #POS
+}
+{
+REF wag ako iba nalabg kase :P hahaha
+#POS I C G G G B E C #POS
+}
+{
+REF wag ako iba nlang =P
+#POS I C G G G E #POS
+}
+{
+REF san kayo pupunta??
+#POS I B B B W #POS
+}
+{
+REF REF nag tampo ako tropa! =(
+#POS I I N N G N W E #POS
+}
+{
+REF ahh, baket kayo kukuha ng passport??
+#POS I C W N V G G N W #POS
+}
+{
+REF REF hahaha, ngayon lang aabsent =)
+#POS I I C W B B A E #POS
+}
+{
+REF ako subrang sakit bg katawan ko =( ikaw?? Si julia mag papa checkup
+#POS I C C G N B B E G W B B B B N #POS
+}
+{
+Muling ibalik ang tamis ng pag ibig hahaha jkkk REF =P
+#POS V G G G G G G C C I E #POS
+}
+{
+REF tayong tatlo nila julia =D
+#POS I V N G B E #POS
+}
+{
+Yumm dairy milk &lt;NUM
+#POS C N N E #POS
+}
+{
+Night
+#POS N #POS
+}
+{
+Flappy Bird ka ba? Kasi kahit nakakainis ka, sineseryoso pa rin kita. :''&gt;
+#POS A N G G W B B B B W B B G G W W W G #POS
+}
+{
+REF haha sige, promise ;)
+#POS I C C W V E #POS
+}
+{
+REF sorry na =(
+#POS I A N E #POS
+}
+{
+REF ewan ko nga po ehh :'(
+#POS I B B B B C E #POS
+}
+{
+REF hindi na ako umiinom, last ko na yung kahapon
+#POS I B B B B W A B P G G #POS
+}
+{
+REF hindi ko kaya =( ang bigat lagat ng katawan ko =(
+#POS I C B B E G G G G B B E #POS
+}
+{
+REF di nga ako papasok bukas :P
+#POS I G G G G G E #POS
+}
+{
+Hahaha! Sorry ;)
+#POS C W A E #POS
+}
+{
+Truth hurts.
+#POS N V W #POS
+}
+{
+Ngayong birthday ko, ngayon lang ako walabg natanggap na gift or money kahit NUMpeso -.- hahaha
+#POS B N B W B B B B B B N F N G G E C #POS
+}
+{
+Di ako papasok bukas! Ang bigat ng katawan ko =(
+#POS G G G G W B B B B B E #POS
+}
+{
+Hurt my bestfriend and I will punch your face!
+#POS V D N F O V V D N W #POS
+}
+{
+Yung ang tahimik mo kapag wala ang mga kaibigan mo. Aminin mo!
+#POS C C N N G G G G G N W B B W #POS
+}
+{
+Yung kaibigan mo na suportado ka sa mga trip mo.
+#POS C B B B B B G G N N W #POS
+}
+{
+Sometimes you just have to stop explaining yourself.
+#POS R O R V P V V O W #POS
+}
+{
+REF thank you ;) haha
+#POS I V O E C #POS
+}
+{
+Home from church
+#POS N P N #POS
+}
+{
+We only get one life.
+#POS O R V K N W #POS
+}
+{
+Bbl off robinson church.;)
+#POS C P B N W E #POS
+}
+{
+REF chupoy nanaman -_- hahaha pasabi thank you  =D
+#POS I B B E C B V O E #POS
+}
+{
+REF ayy! Hahhaha -.-
+#POS I C W C E #POS
+}
+{
+REF sige! Haha ;)
+#POS I C W C E #POS
+}
+{
+It's like I'm screaming and no one can hear.
+#POS L P L V F D N V V W #POS
+}
+{
+REF REF uso mamigay de joke hahaha
+#POS I I C B B N C #POS
+}
+{
+The happiest people with the biggest smiles are sometimes the best actors
+#POS D A N P D A N V R D A N #POS
+}
+{
+Good News: Ang daming available na WiFi networks.
+
+Bad News: May password lahat.
+#POS A N W B V A P N N W
+
+A N W B B B W #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+Julia!! GOTOM lang yan hahaha ;)
+#POS B W V G G C E #POS
+}
+{
+REF wala naman eh -.-
+#POS I G G G E #POS
+}
+{
+Chiwawa! Ano ng yari sayo??
+#POS B W B G G G W #POS
+}
+{
+REF pano par tatlong araw umiinom -.- hahaha
+#POS I C N V G G E C #POS
+}
+{
+Army: "No pain, No gain" 
+Airforce: "No guts, No glory" 
+Security Guards: No ID, No entry" =D
+#POS N W W D N W D N W
+B W W D N W D N W
+N N W C L W C N W E #POS
+}
+{
+REF parang nilalagnan ako ehh =)
+#POS I V G G C E #POS
+}
+{
+Di ako papasok bukas =)
+#POS G G G G E #POS
+}
+{
+REF thank you po ;) haha
+#POS I V O V E C #POS
+}
+{
+REF joke lang, try ko humingi sa tropa ko
+#POS I N N W V B B B B B #POS
+}
+{
+When two people are meant for each other, no time is too long, no distance is too far, and no one can ever tear them apart.
+#POS R K N V V P D A W D N V R A W D N V R R W F D N V R V O R W #POS
+}
+{
+REF oww, thank you par =D
+#POS I C W V O A E #POS
+}
+{
+REF ge :)
+#POS I C E #POS
+}
+{
+REF REF hahaha =D
+#POS I I C E #POS
+}
+{
+REF hahaha loko ka!!  Btw thank you par  =D
+#POS I C C B W C V O A E #POS
+}
+{
+REF REF par ako meron;) hahahaha
+#POS I I P G G E C #POS
+}
+{
+REF baket par??
+#POS I N N W #POS
+}
+{
+May mga oras talaga na akala natin masaya tayo.
+#POS B G G G G G G G G W #POS
+}
+{
+Things go wrong but stay strong.
+#POS N V A F V A W #POS
+}
+{
+People change, even when they say they won't, it's part of life, you have to get used to it.
+#POS N N W R R O V O V W L N P N W O V P V V P O W #POS
+}
+{
+Ughh! Parqng may sakit ako ahh -.-
+#POS C W B V G G C E #POS
+}
+{
+Tired &gt;.&lt;
+#POS A E #POS
+}
+{
+Home from court ^^
+#POS N P N E #POS
+}
+{
+REF yieh! Sige jk haha thank you par (:
+#POS I C W C C C V O A E #POS
+}
+{
+"REF Bradley Beal settles for a score of NUM, making Marco Belinelli your NUM #NUMPointShootout champion!"
+#POS W I J B B V P D N P K W V B B D K H N W W #POS
+}
+{
+Bbl ;)
+#POS C E #POS
+}
+{
+REF pano kase si julia -_- dat pala di ko muna finallow ngayun, pinag bukas ko nalang dapat =(
+#POS I C B B B E O G G G G G B W V G G G G E #POS
+}
+{
+REF thank you
+#POS I V O #POS
+}
+{
+Nasisira nanaman araw ko
+#POS B B B B #POS
+}
+{
+It's sad when someone you know becomes someone you knew.
+#POS L A R N O V V N O V W #POS
+}
+{
+REF pano naman kase, panira ng araw =(
+#POS I C B B W N V G E #POS
+}
+{
+REF pano naman kase ako, par delete mo na yung tinweet mo
+#POS I C B B B W P V N P N N N #POS
+}
+{
+REF REF REF wala akong pake par
+#POS I I I G G G G #POS
+}
+{
+REF REF REF hala!  Feeler kase yung zombie na yun eh
+#POS I I I C W G G G N P G C #POS
+}
+{
+REF bilis na
+#POS I G G #POS
+}
+{
+REF REF panira talaga ng araw ko yung zombie na yun  -_-
+#POS I I B B G G G G N P G E #POS
+}
+{
+REF unfriend mo na kase syaaa!
+#POS I V N P B B W #POS
+}
+{
+REF lalalalalalalala
+#POS I C #POS
+}
+{
+REF okay na sana ehh, may lov u pa ./. Delete mo na yang picture thanks
+#POS I C B B C W V V O B W W W V N P G N N #POS
+}
+{
+REF thank you (: haha
+#POS I V O E C #POS
+}
+{
+REF hindi kaya =) sumunod lang ako sayo :P haha
+#POS I C C E B B G G E C #POS
+}
+{
+REF mas panget ka =P haha jkk
+#POS I G G G E C C #POS
+}
+{
+REF luh, haha tyaka na haha jkk =P
+#POS I V W C B B C C E #POS
+}
+{
+Yung teacher niyong laging mainit ang ulo. MA'AM KALMA!
+#POS B N G G G G G W C B W #POS
+}
+{
+Last ko na tong pag iinom :P
+#POS A B B B B B E #POS
+}
+{
+Pag NBA, Gatorade.   
+
+Pag PBA, Mineral Water.   
+
+Pag Liga, Ice Water.
+#POS B B W B W
+
+B B W B N W
+
+B B W B B W #POS
+}
+{
+"REF Ayoko na mag shot"
+#POS W I J B B B N W #POS
+}
+{
+Ang tunay na estudyante nagrereview NUM mins bago ang exam.
+#POS B B B B B K N G G N W #POS
+}
+{
+REF yieehh! Wag kang ganyan chiwawa , kinikilig ako haha jk btw thank you ^.^
+#POS I C W G G G N W G G C C C V O E #POS
+}
+{
+Wine naman iniinom namin ngayun! Kagabi empilights
+#POS N G G G G W B B #POS
+}
+{
+Luhh, hahaha
+#POS N W C #POS
+}
+{
+No matter how strong of a person you are, there’s always that one person who can make you weak.
+#POS D N R A P D N O V W L R D K N O V V O A W #POS
+}
+{
+Another Day Another blessings
+#POS D N D N #POS
+}
+{
+Ang love story natin parang chewing gum, nasa umpisa lang yung tamis.
+#POS B V N G V V N W B B B B B W #POS
+}
+{
+REF hahaha, next time nalang par ;)
+#POS I C W A N G G E #POS
+}
+{
+REF haha, thank you par, btw handsome? Yiehh plotterd;) jkk
+#POS I C W V O A W G A W C B E E #POS
+}
+{
+REF hahaha oo nga ehh :P
+#POS I C C B C E #POS
+}
+{
+REF hala! Dina kaya ako ano =P btw thank you ;D
+#POS I C W B B G G E G V O E #POS
+}
+{
+REF wala nga akong load eh -.- haha
+#POS I G G G N C E C #POS
+}
+{
+Sabi ko mag papa load ako kagabi tas, biglang tinamad &gt;.&lt;
+#POS B B B B N G G G W V N E #POS
+}
+{
+Wifi Hunt: 
+- AT&amp;amp;T
+- Hospital
+- Starbucks
+- Best Buy
+- Walmart
+- Some stores
+- AT&amp;amp;T again."
+#POS N N W
+W B
+W N
+W B
+W A N
+W B
+W D N
+W B R W W #POS
+}
+{
+REF NUM palang ako =P hahaha
+#POS I K B G E C #POS
+}
+{
+REF hala, ano pa si kuya! Jkk hahaha (:
+#POS I C W D G G B W C C E #POS
+}
+{
+REF yiehh! Thank you haha =D
+#POS I C W V O C E #POS
+}
+{
+Never ignore a person who loves you and cares for you.
+#POS R V D N O V O F V P O W #POS
+}
+{
+Nawala nga yung freshmilk, wine naman pumalit -_- haha
+#POS B B B B W N G G E C #POS
+}
+{
+Mag sanlo renzo nalang ulit kaya ako=/
+#POS N N B B G G G E #POS
+}
+{
+Gusto ko sumama sa open party! =] haha
+#POS B B B G A N W E C #POS
+}
+{
+"REF Parents: Did you make it home safely?
+
+Me: No I died a few times"
+#POS W I J N W V O V O R R W
+
+O W C O V D A N W #POS
+}
+{
+Himala!! Walang freshmilk. (:
+#POS B W V N W E #POS
+}
+{
+NUMdays na high! Tas mamaya, ganun ulit -.- haha last ko na ngayon ^^
+#POS K P N W G G W B G E C A B B B E #POS
+}
+{
+"REF I can't wait to see you... REF ❤️❤️❤️"
+#POS W I J O V V P V O W I E E E E E E W #POS
+}
+{
+When you give a hug, you get a hug. =)
+#POS R O V D N W O V D N W E #POS
+}
+{
+Craving in any cooks of chicken &lt;NUM
+#POS V P D N P N E #POS
+}
+{
+rise and shine bitches! :)
+#POS N F V N W E #POS
+}
+{
+Super book &lt;NUM
+#POS B N E #POS
+}
+{
+Thank you payaat! Effort pa mag greet ;)
+#POS V O V W N N N V E #POS
+}
+{
+◻Single 
+◻Taken 
+☑Sports
+#POS C
+B
+C #POS
+}
+{
+Goodmorning again =P
+#POS C R E #POS
+}
+{
+Birthday ko na pala ngayon O_O
+#POS N G G G G E #POS
+}
+{
+Every girl is beautiful, just takes the right guy to see it.
+#POS D N V A W R V D A N P V O W #POS
+}
+{
+Have a blessed Sunday! God bless us. =D
+#POS V D A N W B V O W E #POS
+}
+{
+Dear God, I know I am not perfect but thank you for loving me anyway.
+#POS A B W O V O V R A F V O P V O R W #POS
+}
+{
+Holy grail TAG
+#POS C N H #POS
+}
+{
+Goodmorning! Hahahaha aga no. Birthday ko ngayun ehh, pag bigyan. =P
+#POS C W C P C W N B B C W G G W E #POS
+}
+{
+Kamuka ni Rondo si Reavis sa PBA =D
+#POS B B B B B B B E #POS
+}
+{
+Kahit gaano ka pa katamad, babangon at babangon ka para magcharge.
+#POS B B B B B W N P B B B B W #POS
+}
+{
+Kung purga ako sa freshmilk, magiging pura din ako sa empelights ;P
+#POS B B B B B W V B G G G G E #POS
+}
+{
+Purgang purga na talaga ako sa freahmilk =) haha araw araw ba naman  ehh ;D
+#POS B B B B G G G E C G G G G C E #POS
+}
+{
+Freshmilk &lt;NUM
+#POS B E #POS
+}
+{
+Sabog ka nanaman christian -_-
+#POS B B B B E #POS
+}
+{
+Real talk: BIRTHDAY KO NA BUKAS! hahaha =D
+#POS A N W N B B B W C E #POS
+}
+{
+Real talk: ang inet!! -.-
+#POS A N W G N W E #POS
+}
+{
+REF alam ko naman yun ehh =P hahaha jkkk =]
+#POS I C B B B C E C C E #POS
+}
+{
+Starbucks tayo!? Bili!
+#POS B B W B W #POS
+}
+{
+Kung patangahan ang kompetisyon, panalo ka na!
+#POS B B B B W B B B W #POS
+}
+{
+REF sumakay ka nalang haha jkkk =) uyy! Seryoso ako sa babae di lang halata =P haha
+#POS I C G G C C E C W G G G G G G G E C #POS
+}
+{
+"REF Ang boyfriend: 
+- hindi tagalibre.
+- hindi tagabitbit ng bag.
+- hindi supplier ng load.
+- hindi utusan."
+#POS W I J B N W
+W C N W
+W B B B N W
+W B N W N W
+W B B W W #POS
+}
+{
+Sometimes, all you can do is laugh to keep yourself from crying.
+#POS R W X O V V V V P V O P V W #POS
+}
+{
+Ako yung tipong lalaking "Gago" pero seryoso sa babae =D haha nag drama nanaman ako -.-
+#POS B B B B W B W R G G G E C C N G G E #POS
+}
+{
+Madalas kung sino ang wagas tumawa sila yung may mabigat na dinadala.
+#POS B B B B B B B B V V P N W #POS
+}
+{
+Dito lang  sa twitter na-iexpress mo ang buong saloobin mo.
+#POS B B B B G G G G G N W #POS
+}
+{
+We all have to be selfish sometimes.
+#POS O D V P V A R W #POS
+}
+{
+REF hahahahaha! Pogi problemssss hahaha
+#POS I C W B N C #POS
+}
+{
+REF hahahaha! TAG gaming haha =D
+#POS I C W H N C E #POS
+}
+{
+Pag ako pumuti! WHO YOU KAYO SAKIN ./.
+#POS B B B W O O V B W W W #POS
+}
+{
+REF lul! Ikaw nga yun ehh :P
+#POS I C W G G G C E #POS
+}
+{
+Putek! Ang panget ng lalaki sa TAG -.- haha
+#POS B W G G G G G H E C #POS
+}
+{
+REF hahaha! Last na nga yun ehh =P
+#POS I C W A P G G C E #POS
+}
+{
+REF it's okay ;) haha thank you nalang =D
+#POS I L A E C V O V E #POS
+}
+{
+REF for the last time! Fvck you! Hahaha
+#POS I P D A N W V O W C #POS
+}
+{
+Cup noodles TAG &lt;NUM
+#POS B N H E #POS
+}
+{
+REF kaye!! Pwede ?? =]
+#POS I B W B W E #POS
+}
+{
+REF ang jeje ko dyan =( hahaha =D
+#POS I C C B B E C E #POS
+}
+{
+REF loko! =P haha baka babaero -.- ikaw yun ehh!
+#POS I C W E C B B E G G C W #POS
+}
+{
+Bakit medyo lasing pa ako :'(
+#POS B B B B G E #POS
+}
+{
+Promise! Hindi na ako mag mumura ;P
+#POS V W B B B B B E #POS
+}
+{
+REF REF haha ganun talaga =P
+#POS I I C B B E #POS
+}
+{
+REF loko! -_- hahaha =)
+#POS I C W E C E #POS
+}
+{
+Namatay ba yung baby?? =(
+#POS B B B N W E #POS
+}
+{
+REF REF kailangan yun! Tropa tayo  ehh  ^_^
+#POS I I B B W B B C E #POS
+}
+{
+Fact: Kapag LOVE ang topic sa klase, lahat ng estudyante ACTIVE. ❤
+#POS N W B V B N G B W B B B A W E #POS
+}
+{
+Naalala ko! BIRTHDAY ko na pala BUKAS ! =D HAHA
+#POS B B W N G G G G W E C #POS
+}
+{
+Yung madali pang i-memorize yung lyrics kaysa lesson.
+#POS C C N O V N N N W #POS
+}
+{
+REF REF wag tayo sa malayo! Malapit lang dapat ;) haha
+#POS I I G G G C W G G G E C #POS
+}
+{
+Minamahal kita ba't di ka maniwala!
+#POS B B B B B B W #POS
+}
+{
+REF REF syempre! Tayo pa =D haha
+#POS I I B W B B E C #POS
+}
+{
+REF saan ba yun??
+#POS I G G G W #POS
+}
+{
+REF REF haha syempre sure ng pasa haha jkk
+#POS I I C G A W C C C #POS
+}
+{
+Last day kona uminom bukas or ngayon . Haha bisyo ko nalang mag pataba at mag pa aix pack ng ABS :P HAHA
+#POS A N B B B F B W C C B B B B P B B B N V N E C #POS
+}
+{
+REF REF paalam muna tayo ;) haha
+#POS I I N G G E C #POS
+}
+{
+Gusto ko lumipat kase hindi masyadong tutok ang pag tutueo samin ng ibang teachers
+#POS B B B B B B B B B B B G G N #POS
+}
+{
+REF REF kayo =(
+#POS I I C E #POS
+}
+{
+Olopsc, Sanlo renzo, roosvelt, or rb?? &gt;.&lt;
+#POS B W B B W B W F N W E #POS
+}
+{
+REF REF hahaha, oo nga ehh -.-
+#POS I I C W C B C E #POS
+}
+{
+Gusto ko mag movie marathon ^_^
+#POS B B B N N E #POS
+}
+{
+Titignan ko yung picture mo! Pag putapete ka, papatayin kita -_- hahahaTAG
+#POS B B B N N W B B B W V G E C
+H #POS
+}
+{
+TAG tayo! Sino gusto sumama!?
+#POS B B W B B G W #POS
+}
+{
+Gusto ko mag TAG  &lt;NUM
+#POS B B N H E #POS
+}
+{
+"REF tulong ako ng tulong sa mga bestfriend ko pero sarili ko di ko matulungan hahaha"
+#POS W I J V G G G G G G B R R B G G G C W #POS
+}
+{
+Moo&lt;NUM
+#POS B E #POS
+}
+{
+REF REF hahaha =P
+#POS I I C E #POS
+}
+{
+Hahahaha =D
+#POS C E #POS
+}
+{
+REF REF *SANA =(
+#POS I I W G E #POS
+}
+{
+REF REF nasan =(
+#POS I I N E #POS
+}
+{
+REF REF ako nga rin eh, gusto ko lumipat =)
+#POS I I G G G C W N G G E #POS
+}
+{
+REF baka naman kase malayo yun &gt;.
+#POS I B B B B B B W #POS
+}
+{
+REF REF oo nga eh ;) kase sawang sawa na ako sa ulam ng nclc eh -_- hahahaha
+#POS I I C B C E B B B B B G G G G G E C #POS
+}
+{
+REF REF kapag di tayo pinayagan sa olopsc, nclc nalang parin tayo
+#POS I I B B B B B B W B B B B #POS
+}
+{
+Pag lumayo na, bitaw na agad. Madami naman dyan!
+#POS B B B W G G G W B B B W #POS
+}
+{
+REF REF sigee =)
+#POS I I C E #POS
+}
+{
+REF REF sigge ;)  ahahah
+#POS I I C E C #POS
+}
+{
+REF REF Sige, ako rin ehh ;)
+#POS I I C W G G C E #POS
+}
+{
+REF REF luhh, di naman lahat :P tyaka depende naman sa tao yun ehh
+#POS I I N W G G G E B B B B B B C #POS
+}
+{
+Olopsc nalang kase tayo =) pleasssee  =(
+#POS B B B B E V E #POS
+}
+{
+The number you are calling is may nilalanding iba, Please stop hoping.
+#POS D N O V V V V V B W V V V W #POS
+}
+{
+REF REF ahh, mura hahaha jk tala olopsc nalabg tayo ;)
+#POS I I C W B C C C C C C E #POS
+}
+{
+REF REF ahh, baka naman malayo yun -_- magkano ba  tuition sa olopsc =P
+#POS I I C W B B B B E B B N G G E #POS
+}
+{
+REF REF anong sb?? =D
+#POS I I C G W E #POS
+}
+{
+REF REF actually di ko pa sure kung papayagan ako sa olopsc ehh =D
+#POS I I R G G G A N G G G G C E #POS
+}
+{
+Libog lang yan! =D # Mmk
+#POS B B B W E
+H C #POS
+}
+{
+"REF yung topic ng mmk para sa mga lalaking malalandi at babaeng two timer"
+#POS W I J D N W C G G G G N P B K N W #POS
+}
+{
+REF REF awww, panget sa roosvelt -.-
+#POS I I C W G G G E #POS
+}
+{
+"REF tara tara olopsc na lang tayo REF REF
+#POS W I J B B B B B B I I W #POS
+}
+{
+REF REF tara!! Tanong mo si angge ;)
+#POS I I B W V G G G E #POS
+}
+{
+REF hahahaha =D
+#POS I C E #POS
+}
+{
+REF olopsc  tayo =D
+#POS I C N E #POS
+}
+{
+Olopsc or Nclc!??? Hmmm
+#POS B F B W C #POS
+}
+{
+REF hahahaha btw thank you ;) haha =P
+#POS I C C V O E C E #POS
+}
+{
+Mag o-olopsc nalang kaya ako next year!??? Hmmm =/
+#POS N G G G G G A N W C E #POS
+}
+{
+Feeling HIGH again -.-
+#POS V A R E #POS
+}
+{
+"REF REF HAPPY BIRTHDAY Mr.Snob" bukas pa po haha =P
+#POS W I J I A N B B W B B B C E #POS
+}
+{
+Takte kakainom labg kila Kay and hershey kahapon eh, tas ngayon naman kila Tropa &gt;_&lt; ang sakit tuloy ng ulo ko :'(
+#POS B B B B B F B B C W G G G G B E G G G G G G E #POS
+}
+{
+Birthday ko pala BUKAS ;) HAHAHA
+#POS N G G G E C #POS
+}
+{
+Best efforts for the best people.
+#POS A N P D A N W #POS
+}
+{
+Relationships end, but feelings continue.
+#POS N N W F N V W #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+"REF Kung minahal mo ako para lang paglaruan, wag kang mag-alala, minahal lang din kita para may kalaro ka."
+#POS W I J B B B B G G G W G G N W B B G G G V V B W W #POS
+}
+{
+Pizza is my  &lt;NUM
+#POS N V D E #POS
+}
+{
+Wala eh. Sila na eh =(
+#POS B C W G G G E #POS
+}
+{
+Sometimes you expect more from someone, because you would do that much for them.
+#POS R O V R P N W P O V V O A P O W #POS
+}
+{
+Mahirap talagang makipagtalo sa taong ma-PRIDE!
+#POS B B B B B B W #POS
+}
+{
+Never give up on something you really want =)
+#POS R V T P N O R V E #POS
+}
+{
+Exercise &lt;NUM
+#POS N E #POS
+}
+{
+Torn on: babaeng party girl &lt;NUM
+#POS V P W N N N E #POS
+}
+{
+Goodmorning ;)
+#POS C E #POS
+}
+{
+Goodnight =]
+#POS C E #POS
+}
+{
+REF hahah kidding =D
+#POS I C V E #POS
+}
+{
+Kidding =)
+#POS V E #POS
+}
+{
+REF hahaha :P
+#POS I C E #POS
+}
+{
+*sinasayang
+#POS W V #POS
+}
+{
+Ainasayang mo lang buhay mo -_-
+#POS B B B B G E #POS
+}
+{
+REF hahaha, wiwness pag ganun =P
+#POS I C W N G G E #POS
+}
+{
+Feeling high ^.^
+#POS V A E #POS
+}
+{
+Heartache &gt;_&lt;
+#POS N E #POS
+}
+{
+Promises meant to be broken.
+#POS V V P V V W #POS
+}
+{
+REF hug kita par? Haha jkk
+#POS I V B B W C C #POS
+}
+{
+REF REF REF yieeehh! Puta, PAG IBIG hahaha =D TAG
+#POS I I I C W B W B B C E H #POS
+}
+{
+REF panis lang sya =P hahaha
+#POS I B B G E C #POS
+}
+{
+REF baka NUM ehh dalawa nga lang ehh haha :P
+#POS I B K C B B B C C E #POS
+}
+{
+REF hahaha ;)
+#POS I C E #POS
+}
+{
+REF kapal! Dalawa nga lang sakanya ehh :P NUM sakin =P
+#POS I C W B B B B C E P N E #POS
+}
+{
+TIM pasarap buhay ulit -_-
+#POS K N G G E #POS
+}
+{
+REF *snob ehh
+#POS I W N C #POS
+}
+{
+REF halahh! Di na nga ako anob ehh =(
+#POS I C W G G G G G C E #POS
+}
+{
+REF ayy, oo nga pala haha ;)
+#POS I C W C B B C E #POS
+}
+{
+"REF lage nga ko pupunta kila kaye lalo na pagnandun yung olops na friend nya.
+#POS W I J G G G G G B B B B B B B B B W #POS
+}
+{
+REF haluhh, baka snob=( kayo nga yung snob eh :'(
+#POS I C W B N E V G G N C E #POS
+}
+{
+Holy Grail TAG
+#POS A N H #POS
+}
+{
+Masarap kase ang Bawal &lt;NUM
+#POS B B G G E #POS
+}
+{
+Ughh!
+#POS C W #POS
+}
+{
+Pero mas gwapo ako :P
+#POS R G G G E #POS
+}
+{
+Kaye: Christian inom kana!!!Ako: hindi po ako umiinom =DPeople: (laughing)
+#POS B W B B B W
+B W B B B B E
+N W W V W #POS
+}
+{
+Hindi feel yung pag tambay namn kila kaye &gt;.&lt;
+#POS B V G G G G G B E #POS
+}
+{
+Ang chichicks ng friend ni KAYEEE! &lt;NUM
+#POS B B B B B B W E #POS
+}
+{
+Nag shot pa kila REF
+#POS B N G G I #POS
+}
+{
+Sarap sa feeling &lt;NUM
+#POS B B V E #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Want some TAG!? URL
+#POS V D N W U #POS
+}
+{
+REF np, haha ;) tropa na =] pleasseeee!
+#POS I C W C E V P E V W #POS
+}
+{
+REF kayyeeeeee! Happy birthday ;) hahaha thanks sa FOOD &lt;NUM  Ang chichicks ng mga friends mo &lt;NUM haha gusto ko tuloy makipag friend
+#POS I B W A N E C N G N E B B B B B B E C C B B B N #POS
+}
+{
+Forever gutom. 
+Forever magastos. 
+Forever walang ipon.
+#POS R A W
+R B W
+R G G W #POS
+}
+{
+Here  hershey's crib ;)
+#POS R Z N E #POS
+}
+{
+I don't chase, I replace.
+#POS O V V W O V W #POS
+}
+{
+Always remember, "There may be a possibility" meaning, it's not sure
+#POS R V W W X V V D N W N W L R A #POS
+}
+{
+Ang astig ng toycar ng kapatid ko! Nakakainget =(
+#POS B C C N V B B W N E #POS
+}
+{
+Nawawala si chichay =(
+#POS B B B E #POS
+}
+{
+It's better to let them see you happy rather than seeing you breaking down and cry.
+#POS L A P V O V O A R P V O V R F V W #POS
+}
+{
+I'd rather be weird and be me than be someone that I'm not.
+#POS L R V A F V O P V N P L R W #POS
+}
+{
+REF meron tayong gagawin! LAM NA =D
+#POS I B B B W G G E #POS
+}
+{
+Don't complain about something you're putting up with.
+#POS V V P N L V T P W #POS
+}
+{
+Mistakes are proof that you are trying.
+#POS N V N P O V V W #POS
+}
+{
+Sir, LIMANG PISO po yung hinahanap namin dito ah.
+
+HAHAHAHAHAHA this
+#POS C W B B B B B B B C W
+
+C O #POS
+}
+{
+Pasok na tol!! ;)
+#POS B B N W E #POS
+}
+{
+REF luhh, wala na akong money =( pasok na!
+#POS I N W G G G N E B B W #POS
+}
+{
+Show up to got girl =P
+#POS V T P V N E #POS
+}
+{
+REF sige, pasok kana kase -_-
+#POS I C W B B B E #POS
+}
+{
+GNUMb
+#POS C #POS
+}
+{
+REF daya mo dre! Dimo ko binigyan :-/
+#POS I C C C W C B B E #POS
+}
+{
+Ang love, parang paglalaro. May nagsasawa, may napapagod, may umaayaw.
+#POS B N W V N W V V W V V W V V W #POS
+}
+{
+Dear Brain, I need to stop overthinking.
+#POS A N W O V P V V W #POS
+}
+{
+Yummm! BBQ &lt;NUM
+#POS C W B E #POS
+}
+{
+People call it "Valentines Day", I call it "Friday"
+#POS N V O W B N W W O V O W B W #POS
+}
+{
+Bitches are just as bad as a nigga.
+#POS N V R R A P D N W #POS
+}
+{
+The real lover is the man who can thrill you by kissing your forehead.
+#POS D A N V D N O V V O P V D N W #POS
+}
+{
+REF more!! haha everything pa tayo? =D
+#POS I A W C N G N W E #POS
+}
+{
+Sa classroom, may isa kang kaklase na laging TRIP ng lahat. TAG
+#POS B N W V G G G G G N W B W H #POS
+}
+{
+she don't know no better
+#POS O V V D A #POS
+}
+{
+be strong" i whispered to my wifi signal ;)
+#POS V A W O V P D N N E #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+REF hahaha =)
+#POS I C E #POS
+}
+{
+Night! Night! &lt;NUM
+#POS N W N W E #POS
+}
+{
+Ang hipon kinakain, bakit syinota mo?
+#POS B B B W V G N W #POS
+}
+{
+Baket ganon, wala akong hilig manood ng PBA? Pinapanood ko lang NBA. -_-
+#POS B B W G G G G G B W B B B B W E #POS
+}
+{
+God gives us Real eyes to Realize what are the Real lies.
+#POS B V O A N P V O V D A N W #POS
+}
+{
+Forever? Haha, next joke please, nakaka tanga ew."
+#POS R W C W A N V W G G C W W #POS
+}
+{
+craving for Starbucks &lt;NUM
+#POS V P B E #POS
+}
+{
+The impossible. Nakaka taba ng puso yang movie na yan &lt;NUM
+#POS D A W G G G G G N P G E #POS
+}
+{
+REF hahaha =D
+#POS I C E #POS
+}
+{
+REF haha, totoo yun promise ;)
+#POS I C W B B V E #POS
+}
+{
+REF sasabihin ko bayan kung hindi totoo =)
+#POS I G B B B B B E #POS
+}
+{
+REF REF =)
+#POS I I E #POS
+}
+{
+REF REF promise =(
+#POS I I V E #POS
+}
+{
+REF promise =( babawi kame
+#POS I V E N V #POS
+}
+{
+REF REF sorry na =( promise make me bawi :'(
+#POS I I A P E V V O G E #POS
+}
+{
+REF REF sorrrrry na =( promise babawi kamee =(
+#POS I I A P E V R A E #POS
+}
+{
+Ilove BIGANS more than everything =(
+#POS L B A P N E #POS
+}
+{
+Mag explain na nga ehh =(
+#POS N V P G C E #POS
+}
+{
+REF REF hala!  =(((
+#POS I I C W E #POS
+}
+{
+Ang role ng mga single: Tagapayo sa kaibigang taken =)
+#POS B N W G A W B B B V E #POS
+}
+{
+REF tomorrow i'll explain it =(
+#POS I N L V O E #POS
+}
+{
+REF totoo naman ehh =(
+#POS I G G G E #POS
+}
+{
+I don't no why =(
+#POS O V D R E #POS
+}
+{
+Hindi ako snob, nahihiya lang ulit akong makipag usap sainyo =(
+#POS B B N W B B G G G G G E #POS
+}
+{
+I FEEL FUCKING EMPTY -_-
+#POS O V R A E #POS
+}
+{
+Superwoman &lt;NUM
+#POS A E #POS
+}
+{
+GNUMb na pala &lt;NUM -_-
+#POS B B B E E #POS
+}
+{
+REF ayy, sorry po wrong chat ;)
+#POS I C W A N A N E #POS
+}
+{
+REF tuloy ba tayo??
+#POS I G G G W #POS
+}
+{
+"REF Turn off ang lalakeng mayabang. Turn on naman ang lalakeng ikaw lang ang pinagmamayabang :) TAG TAG
+#POS W I J V T G G N W V T B B B B B B B E H H #POS
+}
+{
+REF luuhh, xD haha :P
+#POS I V W E C E #POS
+}
+{
+Nilasing kase ako!
+#POS B B B W #POS
+}
+{
+Okay lang kung nagkamali ka, basta ang mahalaga natuto ka.
+#POS C C C G G W C C C C B W #POS
+}
+{
+Mabait naman talaga ako, di lang talaga sayo! -.-
+#POS B B B B W G G G G W E #POS
+}
+{
+BORED &gt;.&lt;
+#POS A E #POS
+}
+{
+I really love friends who can do stupid things together with me.
+#POS O R V N O V V A N R P O W #POS
+}
+{
+Mahal mo? Iparamdam mo. Hindi yung puro ka salita dyan
+#POS B B W B B W B B B B B B #POS
+}
+{
+I love my bestfriend &lt;NUM
+#POS O V D N E #POS
+}
+{
+Saddest person smiles the most =)
+#POS A N V D R E #POS
+}
+{
+Exited na Kong magbakasyon!!! :))"
+#POS V P B B W E W #POS
+}
+{
+REF baka naubos -.- hahaha
+#POS I B B E C #POS
+}
+{
+REF mas masarap pa yung egg kaysa sa pancake ehh :P
+#POS I G G G G N P G B C E #POS
+}
+{
+Parang mas masarap yung egg kaysa sa pancake -.- haha jkkk
+#POS B B B B N P G N E C C #POS
+}
+{
+Uggghhh -_-
+#POS C E #POS
+}
+{
+Don't force things to happen, just allow them to happen
+#POS V V N P V W R V O P V #POS
+}
+{
+Here's to never growing up TAG ;)
+#POS L P R V T H E #POS
+}
+{
+What the hell TAG
+#POS O D N H #POS
+}
+{
+Yuuumm! Pancakessassssss &lt;NUM
+#POS C W B E #POS
+}
+{
+Hindi laging libre ang second chance.. kaya kapag binigyan ka umayos ka na =)
+#POS B B B B A N W G G G G G G G E #POS
+}
+{
+Himala si renzyl maaga umuwi =D haha
+#POS C B B B B E C #POS
+}
+{
+Homebound =P
+#POS A E #POS
+}
+{
+Yung naging magkaaway muna kayo bago kayo naging magbestfriends. TAG
+#POS C V B B B B B B B W
+H #POS
+}
+{
+Just keep it real with me, I'll respect you way more
+#POS R V O A P O W L V O R R #POS
+}
+{
+The first thing about love is discovering yourself. ;)
+#POS D A N P N V V O W E #POS
+}
+{
+"REF Aminin mo, pag wala ang mga kaibigan mo, sobrang tahimik mo."
+#POS W I J B B W G G G G G N W V G N W W #POS
+}
+{
+What is life if we're apart? &lt;/NUM
+#POS O V N P L R W E #POS
+}
+{
+Mahirap mag ipon lalo na kung lagi kang gutom =[
+#POS B B B B B B B B G E #POS
+}
+{
+Chill! ;)
+#POS V W E #POS
+}
+{
+"REF BEST FEELING: Yung tawang halos hindi ka na makahinga."
+#POS W I J A N W B B B B B B B W W #POS
+}
+{
+Yummmm! BACON!&lt;NUM
+#POS C W N W E #POS
+}
+{
+Antok na antok sa klase pero pag uwian nawawala. Bat ganun?
+#POS B B B G G G G G G W N G W #POS
+}
+{
+Yung halos magsigawan kayo ng mga kaibigan mo sa paglalaro ng flappy bird :D
+#POS B B B B G G G G G G G A N E #POS
+}
+{
+Wag kang ganyan please? Baka mainlove ako. =(
+#POS G G G V W B B B W E #POS
+}
+{
+Bukod sa kalandian, ano pang alam ng utak mo? =)
+#POS B B B W C G G G G G W E #POS
+}
+{
+Wow! Si job unang nagbati sakin t kahit sa linggo pa birthday ko &lt;NUM
+#POS C W B B B B B G G G N N N B E #POS
+}
+{
+Yung mga couples sa Valentines Day, maghihiwalay din kayo. Intay intay lang  ^.^
+#POS C A N G B N W B B B W G G G E #POS
+}
+{
+Simple efforts creates BIG happiness. &lt;NUM
+#POS A N V A N W E #POS
+}
+{
+Uggghh! Tired &gt;_&lt;
+#POS C W V E #POS
+}
+{
+Pwede bang burahin ko na lang ang Feb NUM sa Calendar ko?
+#POS B V V B B B B B K G N B W #POS
+}
+{
+KAIBIGAN? Siya yung laging umuubos ng pagkain mo ;)
+#POS B W B B B B B B N E #POS
+}
+{
+Homebound ;)
+#POS A E #POS
+}
+{
+Hanapin mo yung taong paiiyakin ka, paiiyakin ka sa sobrang saya.
+#POS B B B B B B W V G G G G W #POS
+}
+{
+Pag sumaya ka ng sobra,
+Sobra ka ring masasaktan
+#POS B B B G G W
+B B N G #POS
+}
+{
+Noyt! Noyt!  &lt;NUM
+#POS C W C W E #POS
+}
+{
+Byee!
+#POS C W #POS
+}
+{
+Yummm Milo &lt;NUM
+#POS C B E #POS
+}
+{
+I wish you liked me back."
+#POS O V O V O R W W #POS
+}
+{
+FRESHHH!&lt;NUM
+#POS A W E #POS
+}
+{
+Yung nagsasalita ka tapos biglang sasabat yung kasama mo. Oh IKAW NA!"  -.-
+#POS C C G G V B B B B W C B B W W E #POS
+}
+{
+Bbl, ligo lang ;) ang inet ehh -_-
+#POS C W G G E G N C E #POS
+}
+{
+Natatawa ako may micah! Sabi nya saken muka daw akong itlog sa buhok ko -_- sabagay medyyo tama sya xD ;)
+#POS B B V B W B B B B G G G G G G E B B B B E E #POS
+}
+{
+Di naman kasi masamang mag-intay, pero di ka naman din kasi pwedeng mag-intay buong buhay mo."-Papa Jack"
+#POS G G G G N W R G G G G G G G G G G W W G B W #POS
+}
+{
+TAG CPNUM &lt;NUM
+#POS H B E #POS
+}
+{
+Gamitin mo ang pag-ibig bilang inspirasyon.
+#POS B B B G G G W #POS
+}
+{
+Nagkabalikan pala ha!! -.-
+#POS B B C W E #POS
+}
+{
+Yiehh! ;)
+#POS C W E #POS
+}
+{
+REF luhh! Wala nga akong money ehh &gt;_&lt; xD
+#POS I N W G G G N C E E #POS
+}
+{
+Starbucks nalang tayong lahat ng bigans &lt;NUM
+#POS B B B B C B E #POS
+}
+{
+REF Starbucks nalang tayong lahat ng bigans ;)
+#POS I B B B B B B E #POS
+}
+{
+Buti pa yung lapida, may date =(
+#POS B B C B W V N E #POS
+}
+{
+Yung galit at nakasimangot ka sakanya tapos bigla ka niyang papatawanin at sasabihing "Uy ngingiti na yan"."
+#POS C V P B B B B B B B B P N W B B B B W W W #POS
+}
+{
+"REF Kung may GF kayong selosa, wag nyo ng pakawalan. Ibigsabihin mahal ka tlaga niya. TAG"
+#POS W I J B V N V N W G G G B W G G G G G W H W #POS
+}
+{
+Kung mahal mo ang isang tao. Sabihin mo sakanya araw-araw. Di yung sa umpisa lang.
+#POS B B B B B B W G G G G W G G G G G W #POS
+}
+{
+Ang mga babae parang NAPKIN, hindi dapat ginagamit ng mga LALAKI :)
+#POS B B B B N W B B B B B B E #POS
+}
+{
+Si renzyl sabog nanaman :P empirador pa xD
+#POS B B B B E G G E #POS
+}
+{
+Jfe &lt;NUM
+#POS B E #POS
+}
+{
+Yung salitang "I love you" parang "HI" nalang ngayon!!
+#POS C N W O V O W N W C W V B W #POS
+}
+{
+Ilang beses mo na siyang pinaiyak. Pero hindi ka parin niya iniiwan.
+#POS B B B B B B W R B B B B B W #POS
+}
+{
+Babae ka .Hindi ka bahay puro patira ng kung sino sino. =]
+#POS B B W B B B B B B B B B W E #POS
+}
+{
+Home ;)
+#POS N E #POS
+}
+{
+sa love laging may sacrifice
+#POS G V V V V #POS
+}
+{
+REF REF trip nanaman  =(
+#POS I I N G E #POS
+}
+{
+Trip nanaman si idol =(
+#POS N G G N E #POS
+}
+{
+Mga tool! Kame naman :D
+#POS B N W V B E #POS
+}
+{
+How sad life is...
+#POS R A N V W #POS
+}
+{
+Magaling ka sana ehh,! Buhaya ka lang -_-
+#POS B B B C W B B B E #POS
+}
+{
+Here REF ;)
+#POS R I E #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+Alam mo yung masarap mahalin? Yung taong kuntento kahit ganito lang ako.
+#POS B G G G G W C N V G G G G W #POS
+}
+{
+Here REF crib =P
+#POS R I N E #POS
+}
+{
+Jfe :-]
+#POS B E #POS
+}
+{
+Mina-MALIIT ka ba nila? Pwes ako inii-BIG kita. :"&gt;
+#POS G G G G W B B G G W W W E #POS
+}
+{
+Yung mga taong magtatanong tapos hindi rin pala maniniwala.
+#POS C C N V Z B B B B W #POS
+}
+{
+Sa Gayuma ka na lng umaasa.
+kawawa ka naman.
+TAG"
+#POS G G G G G G W
+B B B W
+H W #POS
+}
+{
+Sarap mong ilibing ng buhay.
+#POS B B B B B W #POS
+}
+{
+Even the happiest people, cry.
+#POS R D A N W V W #POS
+}
+{
+TAG sabihin mo, malay mo mahal din kita.
+#POS H G N W B N G G G W #POS
+}
+{
+Act like a lady. Fight like a bitch.
+#POS V P D N W V P D N W #POS
+}
+{
+Iiyak tas mamaya Tatawa TAG
+#POS B B B B H #POS
+}
+{
+Uggghhh =/
+#POS C E #POS
+}
+{
+Dalawang araw lang ako pogi -- araw araw." HAHAHAHAHAHA, IBA!"
+#POS C G G G G W B B W W C W B W W #POS
+}
+{
+Yung nagsisisi ka kasi hindi ka nag-effort dati &lt;/NUM
+#POS C C G G G G G G E #POS
+}
+{
+I miss you, seriously.
+#POS O V O W R W #POS
+}
+{
+Say it to my face! Not through your tweets!
+#POS V O P D N W R P D N W #POS
+}
+{
+Yung mga taong wagas kung mang-husga. Bakit di kayo mag-Judge?
+#POS C C N G G N W G G G N W #POS
+}
+{
+Di raw siya galit pero biglang di na namamansin.
+#POS D A G G G G G G N W #POS
+}
+{
+Know your limitations please.
+#POS V D N V W #POS
+}
+{
+Wala eh, mahal ko talaga kahit masakit na. &lt;/NUM
+#POS B C W B B B B B B W E #POS
+}
+{
+REF luhhh! Wala pa ngang akong pera pambili ng gagmitin eehh =(
+#POS I N W B B B B B B B B C E #POS
+}
+{
+Ito pa gagawin ko pa sa birthday ko &lt;NUM URL
+#POS B B B B B B N B E U #POS
+}
+{
+Do everything with good intentions.
+#POS V N P A N W #POS
+}
+{
+To remind you of everything we had.
+#POS P V O P N O V W #POS
+}
+{
+Matutong dumistansya.
+#POS N N W #POS
+}
+{
+Okay lang daw pero maiyak-iyak na. TAG -_-
+#POS C C G G G G W H E #POS
+}
+{
+Jwu ;)
+#POS B E #POS
+}
+{
+Lalalalal &lt;NUM
+#POS C E #POS
+}
+{
+Thinking maybe you comeback. ;)
+#POS V R O N W E #POS
+}
+{
+"REF REF Followback :))))" DONE
+#POS W I J I N E W V #POS
+}
+{
+TAG kain ka naman ng kain pero pumapayat ka -_-"
+#POS H B B B G B F B B E #POS
+}
+{
+TAG Sa sobrang galit mo, nabulol ka -.-
+#POS H G G G N W B B E #POS
+}
+{
+Mag shoshopping na talaga ako mag may pera na ako -.-
+#POS N V P G G N V G G G E #POS
+}
+{
+REF thanks ;)
+#POS I N E #POS
+}
+{
+Dahil maiinet ;NUM TAG &lt;NUM URL
+#POS B B E H E U #POS
+}
+{
+REF followback =)
+#POS I N E #POS
+}
+{
+REF sorry =( xD haha ;)
+#POS I A E E C E #POS
+}
+{
+TAG may pasok na naman bukas -.-
+#POS H V V P G G E #POS
+}
+{
+TAG Me + you = impossible &lt;/NUM
+#POS H O F O W A E #POS
+}
+{
+Ugghhhh! Ang inet po &gt;_&lt;
+#POS C W B B B E #POS
+}
+{
+Be with someone who brings out the best in you.
+#POS V P N O V T D A P O W #POS
+}
+{
+Ang ineeet nanaman &gt;_&lt;
+#POS B B B E #POS
+}
+{
+Kakatapos ko lang kumain, nagugutom nanaman ako -_-
+#POS B B B B W G G G E #POS
+}
+{
+Hindi na nga ako umiinom -_-
+#POS B B B B B E #POS
+}
+{
+I'm so happy I met you. ^_^
+#POS L R A O V O W E #POS
+}
+{
+Makapag flappy bird nga ;)
+#POS B A N G E #POS
+}
+{
+There's just one life to live and there's no time to waste" - Demi Lovato
+#POS L R K N P V F L D N P V W W B B #POS
+}
+{
+"REF Tapos na ang oras ng paglalandi mo. -NUM"
+#POS W I J B B B B B B B W K W #POS
+}
+{
+"REF finefriendzoned mo kasi ang totoong nagmamahal sayo"
+#POS W I J B B B B B B B W #POS
+}
+{
+we used to be best buddies...
+#POS O V P V A N W #POS
+}
+{
+Jfe &lt;NUM burrbbp
+#POS B E E #POS
+}
+{
+REF yabang!! May twitter ang idol! xD hahah =D
+#POS I C W V B B N W E C E #POS
+}
+{
+Let be the God First. &lt;NUM
+#POS V V D B A W E #POS
+}
+{
+Pangiti ngiti lang yan, pero may problema yan.
+#POS B B B B W R V G G W #POS
+}
+{
+Ang February ay hindi lang para sa mga lovers, para 'to sa lahat ng marunong magmahal.
+#POS B B C B B G G G N W G W P G G G V N W #POS
+}
+{
+Nbsb sya! Hahaha xD
+#POS B B W C E #POS
+}
+{
+Mamatay kana! Asa ka namang maginf kaibigan ka namin ,,/,,
+#POS B B W G G G G G G G W W W #POS
+}
+{
+Fvcksheet ang puta!!!! ,,/,,
+#POS B B B W W W W #POS
+}
+{
+Bv !! Paksheet kase ang puta -_- ,,!,,
+#POS B W V B B B E E #POS
+}
+{
+Tang ina mo!!!
+#POS N P N W #POS
+}
+{
+REF REF tang ina!!!!!
+#POS I I N N W #POS
+}
+{
+Patay!
+#POS B W #POS
+}
+{
+Salikod mo
+#POS B C #POS
+}
+{
+If they don't appreciate you, they don't deserve you. &lt;NUM
+#POS P O V V O W O V V O W E #POS
+}
+{
+"REF "Ang love parang Flappy Bird. Dumikit lang na fall ka na agad.""
+#POS W I J W B V V A N W G G P V G G G W W #POS
+}
+{
+Walang taong nagmamahal ang hindi nasasaktan.
+#POS C N G G G B W #POS
+}
+{
+Never let the bullshit stress you."
+#POS R V D N V O W W #POS
+}
+{
+pizza is always the answer &lt;NUM
+#POS N V R D N E #POS
+}
+{
+*roll
+#POS W V #POS
+}
+{
+Nagugutoom nanaman ako =(
+#POS B B G E #POS
+}
+{
+Raketeros &lt;NUM
+#POS B E #POS
+}
+{
+Shake rattle and role &lt;NUM TAG
+#POS V N F N E H #POS
+}
+{
+You can’t change the past, but you can ruin the present by worrying about the future.
+#POS O V V D A W F O V V D N P V P D N W #POS
+}
+{
+Anak, TAG Moody yan! Masanay kana! Labyu!"
+#POS B W H A N W B B W C W W #POS
+}
+{
+Ughhhh! &gt;_&lt;
+#POS C W E #POS
+}
+{
+Ngayon ko lang na realize na hindi pwede sakin maikli buhok &gt;_&lt;
+#POS B B B B V P B B B B B E #POS
+}
+{
+REF hahaha! Syempre =]
+#POS I C W G E #POS
+}
+{
+Nandito na yung walang kwentang katulong -.-
+#POS B B B B B B E #POS
+}
+{
+REF hahahaha, ikaw kase ehh, pinapakilig moko ^.^ xD =)
+#POS I C W G G C W G G E E E #POS
+}
+{
+REF wag ako! Iba nalang xD hahaha ;) yiehh thanks =D
+#POS I C C W B B E C E C N E #POS
+}
+{
+Naiiyak tuloy ako sa gupit ko =(
+#POS B B B B B B E #POS
+}
+{
+Dapat pala di na lang ako nag pagupit =(
+#POS B B B B B B B B E #POS
+}
+{
+Gupit bayan!!?? -_-
+#POS B B W E #POS
+}
+{
+Has anybody ever actually gotten salmonella from eating raw cookie dough or are people just trying to stop me from living my life
+#POS V N R R V N P V A N N F V N R V P V O P V D N #POS
+}
+{
+some people: wow what a perfect morning for a run
+
+me: wow what a perfect morning to eat a donughnut and go back the fuck to sleep"
+#POS D N W C O D A N P D N
+
+O W C O D A N P V D N F V R D N P V W #POS
+}
+{
+Baka di ako papasok bukas -.- kase ang panget ng putang inang gupit yan &gt;.&lt;
+#POS B G G G G E B B B B B V V G E #POS
+}
+{
+Worst
+#POS A #POS
+}
+{
+Takte!! Ang panget ng gupit ko -_-
+#POS B W B B B B B E #POS
+}
+{
+Bbl &lt;NUM
+#POS C E #POS
+}
+{
+Iwant G-Shock &lt;NUM
+#POS L B E #POS
+}
+{
+The moves ;)
+#POS D N E #POS
+}
+{
+NUM days nalang &lt;NUM
+#POS K N N E #POS
+}
+{
+Spending all my time &lt;NUM
+#POS V X D N E #POS
+}
+{
+Sex TAG
+#POS N H #POS
+}
+{
+Goodmorning! &lt;NUM
+#POS C W E #POS
+}
+{
+Elsa: “You can’t marry a man you just met.” | Anna: “You can if it’s true love.” –Frozen"
+#POS B W W O V V D N O R V W W G B W W O V P L A N W W W A W #POS
+}
+{
+TAG Spending all my time by aaron fresh &lt;NUM
+#POS H V X D N P B A E #POS
+}
+{
+Hold me close by your side...
+#POS V O R P D N W #POS
+}
+{
+Goodnight &lt;NUM
+#POS C E #POS
+}
+{
+Baby kiss mw from my nose down to my.. &lt;NUM TAG
+#POS N N N P D N P P D W E H #POS
+}
+{
+REF Always put GOD first.
+#POS I J R V B A W #POS
+}
+{
+Nakaka tamad ka ka text -.-
+#POS B A G G N E #POS
+}
+{
+Boss daw o ! xD haha ;)
+#POS N G G W E C E #POS
+}
+{
+TAG &lt;NUM
+#POS H E #POS
+}
+{
+Yung bat shirt ko ng sanlo na kay renzyl pa pala -.-
+#POS B N N B B B B B B B B E #POS
+}
+{
+Don't ever feel sorry for me, I'll never need anyone's pity.
+#POS V R V A P O W L R V D N W #POS
+}
+{
+Life’s too short to be so desperate to be loved. –Elsa (Frozen)"
+#POS Z R A P V R A P V V W G B W A W W #POS
+}
+{
+Maaga na lagi ako uuwi pag tapos ng klase ;)
+#POS B B B G G G G G G E #POS
+}
+{
+Nakakatamad naman =[
+#POS B B E #POS
+}
+{
+Hindi lahat ng dahilan mo, maiintindihan nila.
+#POS B B B B B W B B W #POS
+}
+{
+Regardless of how many times we fight, I'm not gonna give up on us.
+#POS R P R A N O V W L R V V T P O W #POS
+}
+{
+Yeaahaay! High score ko sa flappy bird NUM"&lt;NUM
+#POS C W A N G G A N K W E #POS
+}
+{
+Wala eh. Hindi pa 'ko inaantok kaya nagtu-twitter ako.
+#POS B C W B B W B B B B B W #POS
+}
+{
+Takteng katulong yan! Di na nga nakatulong naka perwiayo kapa xD jkk ;)  ako tuloy mag hubugas ngayon
+#POS N V C W G G G G B B B E E E G G N N G #POS
+}
+{
+REF hahaha! Galet kana nyan ?? =/
+#POS I C W B B B W E #POS
+}
+{
+REF takteng yan! -_- nag kakahiyaan pa -.-
+#POS I V C W E N B B E #POS
+}
+{
+There is always something to be thankful for
+#POS X V R N P V A P #POS
+}
+{
+Pinaka mahirap ay yung may namimiss ka, pero wala kang magawa kundi antayin na mamiss ka rin nya.
+#POS B B C C V G G W F G G G G G P N G G G W #POS
+}
+{
+Nag tatamaan nanaman kayo -_-
+#POS V B B B E #POS
+}
+{
+REF amin na kay elias REF
+#POS I C P B B I #POS
+}
+{
+I automatically smile when I see you
+#POS O R V R O V O #POS
+}
+{
+Jfe
+#POS B #POS
+}
+{
+REF nice!! ;)
+#POS I A W E #POS
+}
+{
+REF luh ;) ahh,okay ;)
+#POS I V E C W C E #POS
+}
+{
+REF REF REF oo nalang -.- xD ;)
+#POS I I I C C E E E #POS
+}
+{
+REF ahh, wala akong alam dyan ;) btw ano susuotin sa monday?/
+#POS I C W G G G G E G G G G B W W #POS
+}
+{
+REF sino?? ;)
+#POS I C W E #POS
+}
+{
+Bav
+#POS C #POS
+}
+{
+Back &lt;NUM
+#POS R E #POS
+}
+{
+Don't leave a girl you need, for a girl you want.
+#POS V V D N O V W P D N O V W #POS
+}
+{
+Yeahhay!! May load na ako hanggang NUM YEARSSSS! xD haha ;)
+#POS C W V V P G V K N W E C E #POS
+}
+{
+Bbl
+#POS C #POS
+}
+{
+Kiss TAG
+#POS V H #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Yeahhay! Jollibee&lt;NUM ngayon nalang ulit ako kakain &lt;NUM
+#POS C W B E G G G G G E #POS
+}
+{
+REF REF REF takte kayo!! Pinasabog nyo notif ko -_-
+#POS I I I N V W B B G G E #POS
+}
+{
+REF REF hahaha! takte mermaid daw sya xD
+#POS I I C W N N G G E #POS
+}
+{
+REF REF hahaha!
+#POS I I C W #POS
+}
+{
+REF REF ganun parin yung height ah
+#POS I I G G G N C #POS
+}
+{
+Ito pa ohh &lt;NUM  medyo malabo. =( URL
+#POS B B C E B B W E U #POS
+}
+{
+REF REF hahahaha, umiinom na &lt;NUM
+#POS I I C W B B E #POS
+}
+{
+Hipster pala ako nung baby ako &lt;NUM URL
+#POS N G G G N G E U #POS
+}
+{
+REF ahh, hahaha ;)
+#POS I C W C E #POS
+}
+{
+REF hoy! Gago, di ako jejemon ,,!,,
+#POS I C W B W G G G G #POS
+}
+{
+Best things happens unexpectedly.
+#POS A N V R W #POS
+}
+{
+REF pakyu!!
+#POS I G W #POS
+}
+{
+REF dre tamana! xD masisira career ko xD hahha :P
+#POS I C N W E B N B E C E #POS
+}
+{
+REF REF takte na xD hahaha ;)
+#POS I I N P E C E #POS
+}
+{
+REF hahaha :P
+#POS I C E #POS
+}
+{
+im falling in love, but its falling apart
+#POS L V P N W F L V N #POS
+}
+{
+REF takte ka -.- haha xD
+#POS I N G E C E #POS
+}
+{
+Bbl ;)
+#POS C E #POS
+}
+{
+But it's over now..
+#POS F L P R W #POS
+}
+{
+Don't tell me you're sorry 'cause you're not.
+#POS V V O L A W P L R W #POS
+}
+{
+REF hahahahaha ! Astig ;) wala na akong masabi =]
+#POS I C W C E G G G G E #POS
+}
+{
+REF mukang nag kasabay pa tayo lumabas, kaya lalong uminit =( xD hahaha
+#POS I N N B B B B W B B B E E C #POS
+}
+{
+REF ay! Oo nga pala ;) xD :P
+#POS I C W C B B E E E #POS
+}
+{
+Ang ineeeyt! Talaga =(
+#POS B B W G E #POS
+}
+{
+REF wag kanang omepal -.- xD haha =P
+#POS I C V G E E C E #POS
+}
+{
+Sa lahat ng naiinitan, pa syensya na po =( diko po si nasadya :P xD
+#POS G G G B W B B B B E E G G G E E #POS
+}
+{
+Hahaha =D
+#POS C E #POS
+}
+{
+REF haha =D
+#POS I C E #POS
+}
+{
+REF pwehhhh! xD :P
+#POS I C W E E #POS
+}
+{
+FACT: Masarap lumakwatsa kapag maraming pera."
+#POS N W B B B B B W W #POS
+}
+{
+REF oo nga ;) ang chiks no &lt;NUM
+#POS I C B E V N C E #POS
+}
+{
+REF yup
+#POS I C #POS
+}
+{
+"REF EAT BULAGA: "Welcome back Wally"
+ITS SHOWTIME: "Ikakasal na si Karylle"
+TVNUM: "K.""
+#POS W I J
+V B W W V R B W
+L B W W B B B B W
+B W W B W W #POS
+}
+{
+Falling in love is easy, staying in love is a challenge, letting go is hard, and moving on is the hardest.
+#POS V P N V A W V P N V D N W V V V A W F V P V D A W #POS
+}
+{
+Ineeeet
+#POS N #POS
+}
+{
+Hindi ako sumama mag basket kila angelo. =P
+#POS B B B B N G B W E #POS
+}
+{
+REF hahahaha ;)
+#POS I C E #POS
+}
+{
+Change topic -_-
+#POS N N E #POS
+}
+{
+REF takte! Change topic -_- hahahaha
+#POS I N W N N E C #POS
+}
+{
+REF hahaha sige una kana :P xD
+#POS I C C G B E E #POS
+}
+{
+Hayyy!! Buhay =(
+#POS C W B E #POS
+}
+{
+REF tara! I domi na natin xD hahaha jkk
+#POS I B W O V P G E C C #POS
+}
+{
+Si wally nag balik na!! Sa  juan for all, all for juan &lt;NUM
+#POS B B B B B W G B P D W D P B E #POS
+}
+{
+Ang sakit ng tyan kob=(
+#POS B B B B B E #POS
+}
+{
+Anv panget ng contestant sa pogay -_-
+#POS B B B N G G E #POS
+}
+{
+Next! Hanap xD :P
+#POS A W B E E #POS
+}
+{
+Nagugutooom na ako =(
+#POS B B B E #POS
+}
+{
+REF REF hahaha! Oo nalang xD =)
+#POS I I C W C C E E #POS
+}
+{
+Stop complaining and just appreciate the life you have.
+#POS V V F R V D N O V W #POS
+}
+{
+"REF Hindi ako TAMAD, PALA UTOS lang talaga kayo."
+#POS W I J B B B W B B B B B W W #POS
+}
+{
+REF REF mabango! Gusto mo?? xD haha =D
+#POS I I C W B G W E C E #POS
+}
+{
+Nakakakilig yung titignan ka niya sa mata tapos ngingiti siya.
+#POS B B B B B G G G G G W #POS
+}
+{
+REF REF hahaha ;)))
+#POS I I C E #POS
+}
+{
+REF REF ako xD haha =P
+#POS I I G E C E #POS
+}
+{
+xD hahaha =D
+#POS E C E #POS
+}
+{
+Ikakasal na kame ni karylle &lt;NUM
+#POS B P V B B E #POS
+}
+{
+Never let the sadness of your past and the fear of your future ruin the happiness of your present
+#POS R V D N P D A F D N P D N V D N P D N #POS
+}
+{
+Grow old with you =]
+#POS V A P O E #POS
+}
+{
+It's hard to love someone secretly.
+#POS L A P V N R W #POS
+}
+{
+Done watching FROZEN. ;) ang ganda pala &lt;NUM
+#POS V V A W E G G G E #POS
+}
+{
+If we talk, then we talk. If we don't, then we don't. If it goes somewhere, then it goes somewhere. If it doesn't, then it doesn't.
+#POS P O V W R O V W P O V W R O V W P O V R W R O V R W P O V W R O V W #POS
+}
+{
+Never let anybody disrespect you.
+#POS R V N V O W #POS
+}
+{
+I'd rather look back and say, "I can't believe I did that!" rather than say, "I wish I did that.
+#POS L R V R F V W W O V V O V O W W R P V W W O V O V O W #POS
+}
+{
+REF di mo pa nga ako pinafollow ehh tas followback =D
+#POS I G G G G G G C N N E #POS
+}
+{
+People who straight up tell you how they feel...
+#POS N O V T V O R O V W #POS
+}
+{
+Kapag may ng bastos sa tropa ko! Makakapatay ako! -_- basta mag sumbong lang kayo ;)
+#POS B V V P G G B W B B W E C N N G G E #POS
+}
+{
+REF hahahahaha! Ganun talaga :P xD
+#POS I C W B B E E #POS
+}
+{
+REF bakeeet?
+#POS I N W #POS
+}
+{
+REF hahahaha! Pwede xD hahaha hintayin nalang ni mama mag NUM month
+#POS I C W B E C V G G N N K N #POS
+}
+{
+REF hahaha, wag ganon xD haha hintayin natin sa tamang panahon xD =D
+#POS I C W G G E C V G G V N E E #POS
+}
+{
+REF hahaha! Jkk lNg =)
+#POS I C W G G E #POS
+}
+{
+REF hinihintay lang ni mama na mapikon sya! Haha ;)
+#POS I C C B N P B B W C E #POS
+}
+{
+REF hahahaha! Jkk ,,!,, xD
+#POS I C W G G E #POS
+}
+{
+I'm sorry to tell you! Wala kang kwentang katulong ,,!,, lagi madumi yung, tas lagi kapa nag chacharge ng gadgets mo ,,!,,
+#POS L A P V O W G G G V W G G N W G G G G G V N N W #POS
+}
+{
+REF tumatanggap kaba ng sampagita?? XD haha =P
+#POS I G G G G W E C E #POS
+}
+{
+Luh! May fc! -_- may kaltok ka sakin pag nakita kita ,,!,,
+#POS V W V N W E V V G G G G G G #POS
+}
+{
+Poppin&lt;NUM
+#POS V E #POS
+}
+{
+REF NUM?? -.- kasabay ng valentines day -_-
+#POS I K W E B B B N E #POS
+}
+{
+Nakakatamad bumangon &gt;.&lt;
+#POS B B E #POS
+}
+{
+Hoy! Hoy buloy! &lt;NUM
+#POS C W B B W E #POS
+}
+{
+REF talon building :P xD haha ;)
+#POS I B N E E C E #POS
+}
+{
+Don't let the little things get you down, it's not worth it.
+#POS V V D A N V O R W L R V O W #POS
+}
+{
+TAG uulan ng French fries.
+#POS H G G B N W #POS
+}
+{
+TAG I'll buy you, your friends, and this club."
+#POS H L V O W D N W F D N W W #POS
+}
+{
+Goodmorning! &lt;NUM
+#POS C W E #POS
+}
+{
+When you really care about someone, their happiness matters more than yours.
+#POS R O R V P N W D N V A P O W #POS
+}
+{
+REF hahahaha, oo nga ehh ;) wala eh masaya ako nun eh xD =P
+#POS I C W C B C E G G G G N C E E #POS
+}
+{
+Goodnight &lt;NUM
+#POS C E #POS
+}
+{
+Kanina sa NUMth floor nag pipicture si REF tas bigla akong umepal sa likod nila, haha tas yun lang xD =D
+#POS B G A N N N G I G G G G G G G W C G G G E E #POS
+}
+{
+"REF TAG malalaman natin kung anong nangyari sa foods na dala ni Vhong sa condo ni Deniece."
+#POS W I J H H G G C B B N P G G G G N G B W W #POS
+}
+{
+Love is not selfish
+#POS N V R A #POS
+}
+{
+Anong karapatan mong hingin ang isang bagay na ipinagdamot mong ibigay?
+#POS C B B B B G G G G G B W #POS
+}
+{
+Swerte ng boyfriend ate! Ang gando mo pa naman, kaya crush kita ehh &lt;NUM
+#POS B B B V W B B B B B W B N G C E #POS
+}
+{
+Yung mga taong magtatanong tapos hindi rin pala maniniwala.
+#POS C C N V Z B B B B W #POS
+}
+{
+Luh! Nakita daw nila ako nag shoshopping! -_- kailan yun? =/
+#POS V W B G G G G N W E B B W E #POS
+}
+{
+Sweet efforts are better than sweet words!
+#POS A N V A P A N W #POS
+}
+{
+REF sige sige ;)
+#POS I C C E #POS
+}
+{
+REF no =(
+#POS I C E #POS
+}
+{
+Minsan kahit mali ginagawa pa rin natin kasi dun tayo masaya.
+#POS B B B B B G G G V V G W #POS
+}
+{
+TAG ikaw yung nag babike lagi tas dumadaan sa bahay namin &lt;NUM tas pinasayo mo childhood. Ko &lt;NUM
+#POS H G G G N G G G G G G E N N N N W B E #POS
+}
+{
+Minsan lang ako umiinom pag may okasyon :P
+#POS B B B B B V V E #POS
+}
+{
+Never give up on the things you really want.
+#POS R V T P D N O R V W #POS
+}
+{
+Ayaw ko ipa try sakanya baka sabihin bad influence ako ehh =(
+#POS G B B V B B B A N G C E #POS
+}
+{
+Takte snobber -.-
+#POS N N E #POS
+}
+{
+Nagugutoom ako &gt;_&lt;
+#POS B B E #POS
+}
+{
+G-Shock &lt;NUM
+#POS N E #POS
+}
+{
+Pupunta ba akong sm o pupunta??? xD haha =D
+#POS B B B G G G W E C E #POS
+}
+{
+Gustoo ko mag TAG &lt;NUM
+#POS C B N H E #POS
+}
+{
+REF wag ganun! Mas masakin yun :P
+#POS I C C W B B B E #POS
+}
+{
+Chichay kalimutan muna si Joaquin ;) NANDITO NAMAN AKO EHH :P
+#POS B B B B B E E B B C E #POS
+}
+{
+Ughh!
+#POS C W #POS
+}
+{
+REF ay, ganun ba ;) pa bunot muna :P
+#POS I C W B B E B B B E #POS
+}
+{
+REF inom pa xD
+#POS I C N E #POS
+}
+{
+Hay nako honesto! Ako nalang ang tatay mo &lt;NUM
+#POS B B B W G G G G G E #POS
+}
+{
+"REF Sa buhay dalawa lang yan. It's either "SAYANG" or "BUTI NA LANG"."
+#POS W I J G G G G G W L D W B W F W B B B W W W #POS
+}
+{
+Inside me is a weak heart, but behind me is a strong God. =D
+#POS P O V D A N W F P O V D A B W E #POS
+}
+{
+Madalas, sa twitter ko lang nasasabi ang mga bagay na di ko masabi sa iba."
+#POS B W G B B B B B G G G G G G G G W W #POS
+}
+{
+Habang nag lalakad ako sa pinag lalakaran  naten noon napapangiti ako. :)))))
+#POS V V B B B B B B B B B W E #POS
+}
+{
+REF idm mo nga ako, hindi ko makita yung name mo eh ;)
+#POS I G G G G W B B B B N N C E #POS
+}
+{
+REF yiehhh! Hahaha xD dm
+#POS I C W C E N #POS
+}
+{
+REF nakakainis ka kase =( di ka sumasama sa amin ,:'(
+#POS I G G G E G G G G C W E #POS
+}
+{
+REF ahhhhh, sige sige thanks ;)
+#POS I C W C C N E #POS
+}
+{
+REF ahhhh, sabagay ;) wala ditong biliyan -_- haha xD sige thank you =)
+#POS I C W B E G V B E C E C V O E #POS
+}
+{
+REF bakeeet??
+#POS I N W #POS
+}
+{
+Ang love Ay Parang flappy bird..  Yung tipong Ilang beses ka na nahulog, inuulit ulit mo parin
+#POS B V C B A N W C V B B B B B W V G G G #POS
+}
+{
+REF carlene! ;) san ka nakabili ng g-shock?? =D
+#POS I B W E B B B B B W E #POS
+}
+{
+Wala na akong load =(
+#POS B B B N E #POS
+}
+{
+REF hersh! Wala na akong load eh ;) sa NUM pala ;)
+#POS I B W G G B N C E G K N E #POS
+}
+{
+Worry less, smile more. :)
+#POS V A W V R W E #POS
+}
+{
+Kung tanga ang taong nagmamahal ng sobra kahit nasasaktan na,
+mas tanga yung minamahal mo na nga ng sobra, naghahanap pa ng iba.
+#POS B B B B B B B B B B W
+B B B B B B B G G W B B G B W #POS
+}
+{
+Expectations can fail you.
+#POS N V V O W #POS
+}
+{
+Titigil ako sa pag inom PERO babalik ako sa NUM&amp;NUM :P haha bitday eh ;)
+#POS B B G G G R A G G K E C B C E #POS
+}
+{
+CRUSH" - means paghanga na may konting pagnanasa.
+#POS N W W V B B V V N W #POS
+}
+{
+High score ko sa flappy bird NUM na ;)
+#POS A N G G A N K P E #POS
+}
+{
+Realtalk: naiingget ako kanina kila hershey =) hahaha xD
+#POS J W N G G G B E C E #POS
+}
+{
+I'm not okay but i guess I'm doing fine.
+#POS L R A F O V L V A W #POS
+}
+{
+fun fact: i hate you
+#POS A N W O V O #POS
+}
+{
+Birthday ko na pala sa NUM :P hahaha lam na =) xD
+#POS N G G G G K E C G G E E #POS
+}
+{
+Kaya ako titigil umimon kase pag dating ng NUM&amp; NUM iinom ako ng iinom :P hahahahahahahahahaha =D
+#POS B B B B B B V W K F K G G G G E C E #POS
+}
+{
+Empi pa ;)
+#POS B B E #POS
+}
+{
+Sabog sila job, jonathan, and renzyl hahaha! Ano feeling nyo professional kayo xD hahahaha :D
+#POS B B N W B W F N C W C V G A N E C E #POS
+}
+{
+Pupunta nga ako kila hershey pero di ako ....  :P
+#POS B B B B B R G G W E #POS
+}
+{
+Unlicall sa telephone hindi sa cellphone -_- yatchie yan ehh xD haha  :D
+#POS B B B B B N E B B C E C E #POS
+}
+{
+Yung feeling  ayaw mo uminom, kung ano ano na sinasabi -.-
+#POS C V G G G W B B B B B E #POS
+}
+{
+The nicest people always get treated like shit. &lt;NUM
+#POS D A N R V V P N W E #POS
+}
+{
+Homebound
+#POS A #POS
+}
+{
+Kaya ayaw ko uminom dahil gusto ko mag bago! Hindi yung kung ano ano pinag iisip nyo -_-
+#POS B G B B B B B B B W B B B B B B G G E #POS
+}
+{
+REF oo nga ehh -_- nakaka banas eh, araw araw may nag fofollow araw araw din may nag uunfollow -.- hahaha xD
+#POS I C B C E G G C W G G V V G G G G V V V E C E #POS
+}
+{
+Lahat na nga ng mag follow saken pafollowback ko na ;) para di nila ako unfollow :D
+#POS B B B B B V B B B B E G G G G V E #POS
+}
+{
+Night! Night &lt;NUM
+#POS N W N E #POS
+}
+{
+Masaya siya kaya kailangang maging masaya para sakanya
+#POS B B B B B B B B #POS
+}
+{
+Mas marami pa yung NUM kaysa sa NUM -.- takte kasi tong flappy bird na to ehh -_- haha xD
+#POS B B B N K N G K E N G G A N P P C E C E #POS
+}
+{
+Ouch! Hahaa xD
+#POS C W C E #POS
+}
+{
+I wish my mind had a delete button.
+#POS O V D N V D A N W #POS
+}
+{
+Sadyang may mga pangyayaring hindi natin kayang pigilang maganap.
+#POS B V V V B B B B B W #POS
+}
+{
+Sweet sweet naman &lt;NUM
+#POS A A N E #POS
+}
+{
+Gusto ko uminom &lt;NUM
+#POS B B B E #POS
+}
+{
+Nagugutom nanaman ako -.-
+#POS B B G E #POS
+}
+{
+GNUMb ;)
+#POS B E #POS
+}
+{
+Wala kameng bola ng basketball -.-
+#POS B B B B N E #POS
+}
+{
+Ako naman nag titimpla ng inumehehihin &lt;NUM
+#POS B B B B V V E #POS
+}
+{
+Ang tagal ng gNUMb -_-
+#POS B B B B E #POS
+}
+{
+Ang sarap talaga ng Tiger &lt;NUM
+#POS B B B B B E #POS
+}
+{
+San ba nakakabili ng G-Shock???
+#POS B B B B B W #POS
+}
+{
+REF nothing
+#POS I N #POS
+}
+{
+Wala pa kasi akong nakikitang nakakapantay sa kanya.
+#POS B B B B B B B B W #POS
+}
+{
+"REF Dapat maging "faithful". - Vhong Navarro"
+#POS W I J B B W A W W W B B W #POS
+}
+{
+Kaantok=[
+#POS B E #POS
+}
+{
+It's hard to understand the things that can't be explained.
+#POS L A P V D N P V V V W #POS
+}
+{
+Ughhhhh!! =(
+#POS C W E #POS
+}
+{
+Poppin TAG
+#POS V H #POS
+}
+{
+Hindi sa lahat ng oras, tama ang paglayo.
+#POS B B B G G W G G N W #POS
+}
+{
+Masyado ka kasing mahalaga para pabayaang mag-isa.
+#POS B B B B B B B W #POS
+}
+{
+I hope you realize those things."
+#POS O V O V D N W W #POS
+}
+{
+I hate this day.=(
+#POS O V D N W E #POS
+}
+{
+All that matter TAG
+#POS X D N H #POS
+}
+{
+Forget the PAST =( ,,/,,
+#POS V D A E W W W #POS
+}
+{
+"REF CCTV - Cedric at Cornejo Tinira si Vhong"
+#POS W I J N W B P B B B B W #POS
+}
+{
+Tiger&lt;NUM
+#POS B E #POS
+}
+{
+Holy grail TAG
+#POS C N H #POS
+}
+{
+Behind her smiles and laughter is a constant pain.
+#POS P D N F N V D A N W #POS
+}
+{
+Kapag may pera, walang lakad. Kapag walang pera, may lakad!
+#POS B V B W V B W B B B W V V W #POS
+}
+{
+You're still young, enjoy life. Wag puro lovelife.
+#POS L R A W V N W G G N W #POS
+}
+{
+Nakaka antok tas sinabayan pa ng bv -_-
+#POS B B B B B C N E #POS
+}
+{
+Nw: frozen pampa wala lang ng bv ,,/,,
+#POS B W A N G G G G W W W #POS
+}
+{
+Ka badtrip ang puta! ,,!,,
+#POS B C C C W G #POS
+}
+{
+Downloading &lt;NUM
+#POS V E #POS
+}
+{
+"REF REAL TALK: Mas madali pang i-memorize ang lyrics ng kanta kaysa lesson."
+#POS W I J A N W B B N O V N G G G N W W #POS
+}
+{
+Fvckyou kayo!
+#POS G C W #POS
+}
+{
+Look!! ,,!,,
+#POS V W W #POS
+}
+{
+fvckyou kayo!!! ,,/,,
+#POS G G W W W W #POS
+}
+{
+Fvckyou yung mga ng trip sakin ,,|,,
+#POS G G G G N N W G W #POS
+}
+{
+Tang ina! Badtrip! Ang daming pweseng pag tripan eh! Ako napili nyo!!! ,,|,,
+#POS N N W C W G V G G G C W G G G W W G W #POS
+}
+{
+Homebound!! ,,/,,
+#POS A W W W W #POS
+}
+{
+I guess I'll watch the TAG game...."
+#POS O V L V D B N W W #POS
+}
+{
+People never care until it's too late.
+#POS N R V P L R A W #POS
+}
+{
+Nakakabitin namn yung breakfast ko =(
+#POS B B B N G E #POS
+}
+{
+Your smile makes me smile.
+#POS D N V O V W #POS
+}
+{
+Si elias no ligo nanaman  -.- haha xxD
+#POS B B C G G E C E #POS
+}
+{
+Fresshhhh! &lt;NUM
+#POS A W E #POS
+}
+{
+Fftb :P
+#POS B E #POS
+}
+{
+will u still snapchat me when i am no longer young and beautiful
+#POS V O R V O R O V D R A F A #POS
+}
+{
+Goodmorning!! &lt;NUM
+#POS C W E #POS
+}
+{
+Goodnight!! &lt;NUM&lt;NUM&lt;NUM
+#POS C W E #POS
+}
+{
+Happiness, please!
+#POS N W V W #POS
+}
+{
+The only person I can fully trust is my MOM. siya LANG."
+#POS D A N O V R V V D N W G G W W #POS
+}
+{
+"REF Yung nakagawa ka ng English quote kaso natatakot kang i-post dahil hindi mo sure kung tama ba yung grammar mo. RELATE?"
+#POS W I J B B B B B N N G G G G G G A B B B B B B W V W W #POS
+}
+{
+REF di halata xD hahahahahag :Pjkk
+#POS I G G E N W B #POS
+}
+{
+Enjoy your life♪"
+#POS V D N G W #POS
+}
+{
+REF himala! Marunong ka pala nun! xD haha :P jkkk
+#POS I C W B B B N W E C E E #POS
+}
+{
+TAG pagibig parang Flappy Bird. Ilang beses ka na nauntog, uulit ulitin mo pa rin.
+#POS H G V A N W G G G G N W G G G G G W #POS
+}
+{
+Yung pinipilit mo nalang ngumiti para hindi nila malaman na malungkot ka.
+#POS C C C C G G G G G P G G W #POS
+}
+{
+REF sige :P
+#POS I C E #POS
+}
+{
+REF luh!! Feeler -.-
+#POS I V W N E #POS
+}
+{
+Kapag ako lumayo, isa lang ang ibig sabihin nun. Nasasaktan na ako."
+#POS B B B W G G G G G N W B B B W W #POS
+}
+{
+REF tsk tsk! Lahat naman ehh -_- hahaha xD :P
+#POS I C C W B B C E C E E #POS
+}
+{
+REF hahaha! Tataba din ako :P haha xDTAG
+#POS I C W B G G E C E
+
+H #POS
+}
+{
+Kung tayo'y matanda na, sana'y, di tayo magbago♪♥
+#POS B B B B W B W G G G G E #POS
+}
+{
+GNUMb na &lt;NUM
+#POS B B E #POS
+}
+{
+REF hahahaha! Baka tukmol =(
+#POS I C W B B E #POS
+}
+{
+Once I get you, I don't plan on losing you.
+#POS R O V O W O V V P V O W #POS
+}
+{
+Don't come into my life unless you want to stay.
+#POS V V P D N P O V P V W #POS
+}
+{
+Ang aga palang inaantok na ako -_-
+#POS B G G G G G E #POS
+}
+{
+REF pa follow back naman. Thanks ;)
+#POS I B V R B W N E #POS
+}
+{
+Ang bagal mo naman nag reply -_-
+#POS B B B B B N E #POS
+}
+{
+REF asa! Edi iiwan ko pera ko :P
+#POS I C W G G G G G E #POS
+}
+{
+Don't let your happiness depend on something you may lose.
+#POS V V D N V P N O V V W #POS
+}
+{
+Sa panahon ngayon, mahirap ng humanap na taong mapagkakatiwalaan.
+#POS G G B W G G G P N N W #POS
+}
+{
+Flappy bird ka ba? Ang hirap kasi maka score sayo eh. Hahaha :D
+#POS A N G G W G G G G N G C W C E #POS
+}
+{
+REF haha =D
+#POS I C E #POS
+}
+{
+REF hahaha :P mag iipon na talaga ako ;)
+#POS I C E N G G G G E #POS
+}
+{
+REF joke lang :P haha xD =)
+#POS I N N E C E E #POS
+}
+{
+Dinaig mo pa ang TAG sa pagiging Sensitive mo!
+#POS B B B B H G V A N W #POS
+}
+{
+REF pakyu!  Sabay ganun -_- hahaha xD
+#POS I C W B B E C E #POS
+}
+{
+REF hahaha, wala ako perohhh! :P haha xD
+#POS I C W G G G W E C E #POS
+}
+{
+REF Sana =) haha xD
+#POS I B E C E #POS
+}
+{
+REF lul! -_-
+#POS I C W E #POS
+}
+{
+Happiest when I'm with you.♡
+#POS A R L P O W E #POS
+}
+{
+"REF REF hoy ifollow back mo nga ko hahahaha :p" DONE
+#POS W I J I C V R G G G C E W V #POS
+}
+{
+REF hahaha! Wala ako nun xD :P uso bumili :P
+#POS I C W G G N E E G G E #POS
+}
+{
+REF maiksi naman yun ahh ;) hahaha :D
+#POS I B B B C E C E #POS
+}
+{
+Hahahaha :P
+#POS C E #POS
+}
+{
+REF bigyan kita boxer xD haha :P
+#POS I B B N E C E #POS
+}
+{
+No money &lt;/NUM
+#POS D N E #POS
+}
+{
+Ugghh! Kaantok =(
+#POS C W B E #POS
+}
+{
+Jonathan! Ma gagaya ka lang kay mark xD hahaha =) jkkk
+#POS B W D G G G G B E C E E #POS
+}
+{
+Will eat &lt;NUM
+#POS V V E #POS
+}
+{
+Yiehhayy! May load na ko :D
+#POS C W V V P B E #POS
+}
+{
+Kapag lalong pinipigilan, lalong lumalala."
+#POS B B B W V B W W #POS
+}
+{
+"Masaya ako ngayon, wag kang epal.""
+#POS W B G G W G G G W W #POS
+}
+{
+"REF New York Blueberry Cheesecake TAGNUMDPNUMRN URL"
+#POS W I J A N N N H U W #POS
+}
+{
+Best friends are those who make your problems their problems just so you don't have to go through them alone.
+#POS A N V O O V D N D N R P O V V P V P O R W #POS
+}
+{
+"REF I'm in a love and hate relationship with our wifi"
+#POS W I J L P D N F V N P D N W #POS
+}
+{
+Bbl :P
+#POS C E #POS
+}
+{
+Not ready to let go.
+#POS R A P V V W #POS
+}
+{
+Ano pinag bago sa twitter!?? -_- di ko alam ehh =) haha :D
+#POS C C B B B W E G G G C E C E #POS
+}
+{
+Off to ComShop, mag papa print lang -_- nautusan kase -.-
+#POS P P B W N B N N E B B E #POS
+}
+{
+Freshhh &lt;NUM
+#POS A E #POS
+}
+{
+Bbl fvckers
+#POS C C #POS
+}
+{
+ang lagkit ko -.- maka ligo nga ,,!,,
+#POS C G B E G G G G #POS
+}
+{
+REF payat! Wala akong load :D imma poooooor :P
+#POS I C W G G N E L G E #POS
+}
+{
+"REF Bakit ba natatakot kang maging tayo!??
+#POS W I J B B B B B B W #POS
+}
+{
+Ang sakit ng uloooooo ko =(
+#POS B B B B B E #POS
+}
+{
+If you got me, I got you.
+#POS P O V O W O V O W #POS
+}
+{
+Ang sarap ng feeling pag napapasaya mo yung mahal mo.
+#POS B B B V G G G G G G W #POS
+}
+{
+Nobody can make you happy until you're happy with yourself first
+#POS N V V O A P L A P O A #POS
+}
+{
+Sobrang hirap pigilan ang feelings."
+#POS G G G G N W W #POS
+}
+{
+Dimple are so damn attractive.
+#POS N V R R A W #POS
+}
+{
+Sila HART HART, ikaw FOOD FOOD.
+#POS B B B W G N N W #POS
+}
+{
+Homebound ;)
+#POS A E #POS
+}
+{
+Got home
+#POS V N #POS
+}
+{
+Hahaha,
+#POS C W #POS
+}
+{
+Ang crush ay "PAGHANGA", hindi "PAGHANGAD
+#POS B N C W N W W B W B #POS
+}
+{
+its pathetic that i get this sad over going to school
+#POS L A P O V D A P V P N #POS
+}
+{
+Ang OA ng flappy bird na'to. Mauntog lang patay agad?
+#POS B B V A N B W B B B B W #POS
+}
+{
+Hahahaha, Saya :P
+#POS C W B E #POS
+}
+{
+Feeling high! &lt;NUM
+#POS V A W E #POS
+}
+{
+Here @ car hahaa naka paket wifi pala hahaha xD :D
+#POS R P N C B B B B C E E #POS
+}
+{
+Happy birthday ulit ate REF &lt;NUM&lt;NUM&lt;NUM&lt;NUM&lt;NUM&lt;NUM
+#POS A N G V I E #POS
+}
+{
+I hate when people are worried about what I'm doing, worry about yourself.
+#POS O V R N V A P O L V W V P O W #POS
+}
+{
+Bye! Off to my new house! ;) haha bbl :P
+#POS C W P P D A N W E C C E #POS
+}
+{
+Bye!!
+#POS C W #POS
+}
+{
+Ughh! Kapagod mag motor &lt;NUM
+#POS C W C N N E #POS
+}
+{
+I want you permanently, not temporarily."
+#POS O V O R W R R W W #POS
+}
+{
+Ang sarap mag URL haha gusto mo hangkas kita ?? xD haha jk
+#POS B B B N E C C C B B W E C C #POS
+}
+{
+Eating Cake :P
+#POS V N E #POS
+}
+{
+Nahihilo na ako &lt;NUM
+#POS B B B E #POS
+}
+{
+NUM seconds walang malisya :P hahaha
+#POS K N V G E C #POS
+}
+{
+Dear Crush, a smile from you makes my day perfect and complete."
+#POS A N W D N P O V D N A F A W W #POS
+}
+{
+Love is a feeling, not a decision.
+#POS N V D N W R D N W #POS
+}
+{
+Here REF crib :P haha bertdey eh :-D  happy birthday sa pinaka mamahal kong pinsabn&lt;NUM yiehh kilig sya xD:P URL
+#POS R I N E C B C E A N G G G N N E R A G E E U #POS
+}
+{
+Pag bubble butt pinatugtog sa party, upo ka nalang muna. La ka naman butt eh."
+#POS B B N P G N W G G G G W B B B N C W W #POS
+}
+{
+"REF wala naman masama kung iinom eh ts"
+#POS W I J G G G G G C G W #POS
+}
+{
+Yumyum! :P
+#POS C W E #POS
+}
+{
+REF luh, galit na =(
+#POS I V W G G E #POS
+}
+{
+REF sige na please=( haha :P
+#POS I C P V E C E #POS
+}
+{
+REF hahaha, pagbigyan nyo na pleasee! =(
+#POS I C W B B B V W E #POS
+}
+{
+REF hahahaha :P
+#POS I C E #POS
+}
+{
+REF ahhh, sige sige URL
+#POS I C W C C B E #POS
+}
+{
+REF di naman minasan lang :P
+#POS I G G G G E #POS
+}
+{
+REF hahaha di naman =( xD haha :D
+#POS I C G G E E C E #POS
+}
+{
+REF dre!! Punta kana kila ate REF
+#POS I C W B B B V I #POS
+}
+{
+REF yup, with my cousin ;)
+#POS I C W P D N E #POS
+}
+{
+Mukang lasing na ako ahh =(
+#POS B B B B C E #POS
+}
+{
+Drunk =(
+#POS A E #POS
+}
+{
+REF pakyu ka herahey nag tweet ka sa twitter ko na bakla ako =(
+#POS I G G G N V G G B B B B G E #POS
+}
+{
+Lakas  mang trip ni hershey! Nag tweet sa twitter ko na bakla daw ako -_- pakyu ka ,,!,,
+#POS B B B B B W V V G B B B B G G E G G G #POS
+}
+{
+REF haha. Wav kang maniwala si hershey nagtweet nyan ,=(
+#POS I C W N N G G B B B W E #POS
+}
+{
+Guys, aamin na po ako bakla po talaga ako =(
+#POS N W V P G G G G G G E #POS
+}
+{
+harot ni tan at renzyl HAHAHAHAHHA
+#POS B B B P B C #POS
+}
+{
+im gay :(
+#POS L A E #POS
+}
+{
+Mag papa load o hindi???? &gt;.&lt;
+#POS N B N P B W E #POS
+}
+{
+Later otw to birthday girl REF &lt;NUM&lt;NUM happy birthday :P
+#POS R V P N N I E A N E #POS
+}
+{
+Here REF crib ;) tambay lang
+#POS R Z N E B B #POS
+}
+{
+Bbl! Ligo lang :P ang inet ehh -_-
+#POS C W G G E G N C E #POS
+}
+{
+If they constantly put a smile on your face, they're worth hanging onto.
+#POS P O R V D N P D N W L A V P W #POS
+}
+{
+Life is like a mirror. We get the best results when we smile at it.
+#POS N V P D N W O V D A N R O V P O W #POS
+}
+{
+TAG  Hindi porke't libre ang pagiging tanga, aaraw-arawin mo na
+#POS H B B B B B B W G G G #POS
+}
+{
+Iba ang masaya. Iba ang kuntento."
+#POS B B B W B B B W W #POS
+}
+{
+Yung taong malakas yung sex appeal ♥" ChristianBugarin yanehhh! xD haha =D
+#POS C N N N N N E W B B W E C E #POS
+}
+{
+Hindi lahat ng babae, MAARTE.
+#POS B B B B W B W #POS
+}
+{
+That "meant to be kami" feeling..
+#POS O W V P V B W V W #POS
+}
+{
+Wag mong ipagsiksikan ang sarili mo sa lugar na hindi ka bagay.
+#POS C C B B B B B B B B B B W #POS
+}
+{
+REF REF REF REF kayo nalang! Ayaw ko baka masira pa bag ko dyan xD haha kase si ano,makahawak Wagas -_-
+#POS I I I I C C W G G G B B N B B E C B B B W B B E #POS
+}
+{
+REF REF REF REF goodnight!! =(
+#POS I I I I C W E #POS
+}
+{
+xD haha ,,!,,
+#POS E C W #POS
+}
+{
+Inaaway ako ng Bigans =(
+#POS B B B B E #POS
+}
+{
+REF REF REF REF bad ka =((((
+#POS I I I I A B E #POS
+}
+{
+REF REF REF REF putek! ANG INGAYY! NYO xD haha :D fc lang &lt;NUM&lt;NUM&lt;NUM
+#POS I I I I N W G B W C E C E B B E #POS
+}
+{
+Pano sabihin constructively ang walang malisyang, "girl tumataba ka"?
+#POS B B R G G N W W N G G W W #POS
+}
+{
+REF hala! Takte ang DRAMA MO! Hahah samaka kana kaseee!! -_-
+#POS I C W B B N N W C C B B W E #POS
+}
+{
+REF sumama kana kase! -_-
+#POS I G G B W E #POS
+}
+{
+REF haynako! =:NUM(
+#POS I C W W W K W #POS
+}
+{
+REF ughhh! -.- sama kana kase =(
+#POS I C W E G G B E #POS
+}
+{
+Bored=(
+#POS A E #POS
+}
+{
+REF ang corny mo. -_- Sama ka kase bukas!
+#POS I C A N W E B B B B W #POS
+}
+{
+REF ano yung sinabi mo sakin?? =/
+#POS I C C G G G W E #POS
+}
+{
+REF hahaha :D btw baket di ka sumama samin =(
+#POS I C E G G G G G G E #POS
+}
+{
+REF talaga po! Hahaha xD :P,
+#POS I G G W C E E W #POS
+}
+{
+REF hahaha, jk lang :D lah! Astig kaya ng drawing ko :P
+#POS I C W C C E V W C B V V B E #POS
+}
+{
+Hahaha! Epic -.-
+#POS C W N E #POS
+}
+{
+TAG kapag kakanta ka, sasabayan ka nila.
+#POS H G G B W B B B W #POS
+}
+{
+REF astig nga ehh! Pweh xD haha :D jkk
+#POS I C B C W B E C E E #POS
+}
+{
+REF hahahaha! Effort :D
+#POS I C W N E #POS
+}
+{
+REF ah, sige sige wait lang :D
+#POS I C W C C V N E #POS
+}
+{
+REF simulan mo na nga :P ikaw na mag chat :P
+#POS I B B B B E G G N N E #POS
+}
+{
+REF bilis na ;) haha ASA :P
+#POS I G G E C B E #POS
+}
+{
+REF sige! Simulan muna =D
+#POS I C W B B E #POS
+}
+{
+REF hahaha! Sorry =( kakauwi lang namin nila hershey,renzy,lorence, and jayjay :D had fun :P xD
+#POS I C W A E B B B B B W N W B W F B E V A E E #POS
+}
+{
+Homebound :D
+#POS A E #POS
+}
+{
+REF slr! Ito na :P hahah xD :D
+#POS I N W G G E C E E #POS
+}
+{
+REF patingin ng gawa mo -_-
+#POS I V V B G E #POS
+}

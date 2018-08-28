@@ -1,0 +1,1988 @@
+{
+Overthinking when you're laying in bed at night.
+#POS V R L V P N P N W #POS
+}
+{
+Same lies, different person.
+#POS A N W A N W #POS
+}
+{
+Male seahorses are the ones who give birth.
+#POS A N V D N O V N W #POS
+}
+{
+followNUMgain
+#POS N #POS
+}
+{
+Top corporate executives take separate planes in case one crashes.
+#POS A A N V A N P N K N W #POS
+}
+{
+When kept busy, people tend to naturally be more happy than they would be if otherwise!
+#POS R V A W N V P R V R A P O V V P R W #POS
+}
+{
+NUM% of people think there is nothing wrong with having an affair.
+#POS K P N V X V N A P V D N W #POS
+}
+{
+A study finds, Brunettes make better friends and wives.NUM
+#POS D N V W N V A N F N W K #POS
+}
+{
+Sometimes the best feeling is to put on your headphones, and get lost in the music.
+#POS R D A N V P V P D N W F V V P D N W #POS
+}
+{
+The TV show 'Dexter' was the inspiration for two murderers who wanted to copy the character of Dexter Morgan.
+#POS D N N W B W V D N P K N O V P V D N P B B W #POS
+}
+{
+TAG: I left my homework at home but its finished.
+#POS H W O V D N P N F L V W #POS
+}
+{
+NUM% of college students' first sexual experience occurs under the influence of alcohol.
+#POS K P N N W R A N V P D N P N W #POS
+}
+{
+Sharks have the best immunity to diseases that are known to man and deadly diseases like cancer do not affect them at all.
+#POS B V D A N P V P V V P N F A N P N V R V O P D W #POS
+}
+{
+Goat's eyes have rectangular pupils, which allow them to watch over their broad, flat grazing area for predators.
+#POS Z N V A N W D V O P V P D N W A V N P N W #POS
+}
+{
+There are approximately NUM million sexual acts performed each day.
+#POS X V R K K A N V D N W #POS
+}
+{
+"Jealousy" in a relationship is known to be the fear of losing someone.
+#POS W N W P D N V V P V D N P V N W #POS
+}
+{
+Laughing while kissing means I am completely comfortable with you.
+#POS V P V V O V R A P O W #POS
+}
+{
+Singing helps reduce feelings of depression and anxiety, increases oxygen to your lungs and improves quality of sleep.
+#POS V V V N P N F N W V N P D N F V N P N W #POS
+}
+{
+Let go of the bad memories, and make room for the ones that make you smile.
+#POS V V P D A N W F V N P D N P V O V W #POS
+}
+{
+Hypnosis can help with anxiety, insomnia, phobias, obesity, asthma, and irritable bowel syndrome.
+#POS N V V P N W B W N W N W N W F A N N W #POS
+}
+{
+The Jaw Muscle is the strongest muscle in your body.
+#POS D N N V D A N P D N W #POS
+}
+{
+Spongebob has worked at the Krusty Krab for NUM years.
+#POS B V V P D B B P K N W #POS
+}
+{
+Okapis have reddish dark backs, w/ striking horizontal white stripes on the front and back legs, making them resemble zebras from a distance
+#POS B V A N N W P V A A N P D N F R N W V O V N P D N #POS
+}
+{
+In NUMs, a dog named Fido visited a bus stop for NUM years daily to see his "dead master" - He finally died waiting at the bus stop.
+#POS P K W D N V B V D N V P K N A P V D W A N W W O R V V P D N V W #POS
+}
+{
+Elephants are just like humans, they mourn &amp; bury their dead.
+#POS N V R P N W O V F V D A W #POS
+}
+{
+The human brain is insensitive to pain.
+#POS D A N V A P N W #POS
+}
+{
+The film "One Flew Over the Cuckoo's Nest" was shown in Swedish theaters for NUM years straight.
+#POS D N W K V P D Z N W V V P A N P K N R W #POS
+}
+{
+More people are scared of frogs than they are of rats.
+#POS A N V A P N P O V P N W #POS
+}
+{
+Hemp products are NUM times stronger and lasts NUM times longer than cotton made products.
+#POS B N V K N A F V K N R P N V N W #POS
+}
+{
+Never give up on something you really want. It's difficult to wait, but more difficult to regret.
+#POS R V T P N O R V W L A P V W F R A P V W #POS
+}
+{
+People suffering from borderline or moderate depression very accurately interpret reality.
+#POS N V P A F A N R R V N W #POS
+}
+{
+Plus ( and Minus (-) sign symbols were used as early as NUM A.D.
+#POS A W F B B V N V A R A P K N #POS
+}
+{
+A wise person is not someone who makes no mistakes, but rather someone who makes mistakes and learns from them.
+#POS D A N V R N O V D N W F R N O V N F V P O W #POS
+}
+{
+If you were to flex the muscle a mosquito was biting you on, it would explode.
+#POS P O V P V D N D N V V O P W O V V W #POS
+}
+{
+The more educated a woman is, the more likely she is to drink heavily!
+#POS D A V D N V W D R A O V P V R W #POS
+}
+{
+Masturbating NUM times in one night without stopping caused the death of a NUM-year old boy in Rubiato Town, Brazil!
+#POS V K N P K N P V V D N P D A A N P B B W B W #POS
+}
+{
+"The HotShot" is the name of an extra small condom designed for DAT year old's to practice safe sex.
+#POS W D N W V D N P D A A N V P K N N P N A N W #POS
+}
+{
+A friend or close family member is the person responsible in almost NUM% of all murder and rape cases.
+#POS D N F A N N V D N V P R K P D N F V N W #POS
+}
+{
+Women who lose their virginity before their NUMth birthday are likely to be twice as sexually active as women who don't.
+#POS N O V D N P D A N V A P V R P R A P N O V W #POS
+}
+{
+Happy girls are the prettiest.
+#POS A N V D A W #POS
+}
+{
+The three most stressful cities in America are Chicago, Los Angeles, and New York City.
+#POS D K R A N P B V B W B B W F B B B W #POS
+}
+{
+RT If ever a person who once called you 'Best friend' doesn't even talk to you anymore..
+#POS V P R D N O R V O W A N W V R V P O R W #POS
+}
+{
+The courage to share your feelings is critical to sustaining a love relationship. Harold H. Bloomfield
+#POS D N P V D N V A P V D N N W B B W B #POS
+}
+{
+NUM% of barbecues include hamburgers, NUM% include steak, NUM% include chicken, and NUM% include hot dogs.
+#POS K P N V N W K V N W K V N W F K V A N W #POS
+}
+{
+People who remain loyal &amp; faithful while in a relationship, live longer than those who would rather cheat, a study found.
+#POS N O V A F A P P D N W V R P O O V R V W D N V W #POS
+}
+{
+If you have a problem with me, call me. If you don't have my number, then you don't know me well enough to have a problem anyway.
+#POS P O V D N P O W V O W P O V V D N W R O V V O R R P V D N R W #POS
+}
+{
+CIA once planned airdropping Extra Large condoms labeled "Medium" onto the Soviets to convince them that U.S army is anatomically superior.
+#POS B R V V A A N V W N W P D B P V O D B N V R A W #POS
+}
+{
+Astronomers suggest that NUM billion earth-like planets may exist in our galaxy.
+#POS N V D K K N N V V P D N W #POS
+}
+{
+Both Hitler and Napoleon were missing one testicle.
+#POS D B F B V V K N W #POS
+}
+{
+Sometimes we have to create our own closure. Sometimes we have to decide when enough is enough &amp; walk away.
+#POS R O V P V D A N W R O V P V R R V R F V R W #POS
+}
+{
+Male water striders blackmail females into having sex by threatening to call predators.
+#POS B N N N N P V N P V P V N W #POS
+}
+{
+I can't remember the last time I wasn't tired.
+#POS O V V D A N O V A W #POS
+}
+{
+NUM weekly followers. NUM unfollowers. Justunfollow doesn't miss a trick - unfollowers beware -via URL
+#POS K A N W K N W B V V D N W N V P U #POS
+}
+{
+What if Apple spied on everyone by using the camera at the front of the iPhone NUM? After all Siri backwards is Iris�
+#POS O P B V P N P V D N P D N P D B K W P D B R V B #POS
+}
+{
+Once you start to dislike someone. Everything they do begins to annoy you.
+#POS R O V P V N W N O V V P V O W #POS
+}
+{
+The skin that peels off after sunburn is called blype
+#POS D N P V T P N V V B #POS
+}
+{
+For thee I'll lock up all the gates of love. William Shakespeare. Much Ado About Nothing
+#POS P D L V T D D N P N W B B W A N P N #POS
+}
+{
+There has never been a time in Super Bowl history where a punt return resulted in a touchdown.
+#POS X V R V D N P B B N R D N V V P D N W #POS
+}
+{
+Fake friends believe in rumors. Real friends believe in you.
+#POS A N V P N W A N V P O W #POS
+}
+{
+When. You. Read. Stuff. Like. This. The. Voice. In. Your. Head. Takes. Pauses. TAG
+#POS R W O W V W N W R W O W D W N W P W L W N W V W V W H #POS
+}
+{
+The trickiest tongue twister in the English is apparently 'Sixth sick sheik's sixth sheep's sick'. Give it a try and see for yourself.
+#POS D A N N P D N V R W R A N A N A W W V O D N F V P O W #POS
+}
+{
+NUM% of people never noticed that, after Monday and Tuesday, even the calendar says W T F.
+#POS K P N R V O W P B F B W R D N V G G G W #POS
+}
+{
+Dimples are actually caused by a facial muscle called the zygomaticus major, being abnormally short!
+#POS N V R V P D A N V D Z A W V R A W #POS
+}
+{
+In Denmark, it's illegal to burn foreign flags, but it's legal to burn the Danish flag.
+#POS P B W L A P V A N W F L A P V D B N W #POS
+}
+{
+The phrase 'bring home the bacon' comes from when married couples were awarded actual bacon
+#POS D N W V N D N W V P R A N V V A N #POS
+}
+{
+Half of all weekly bank robberies take place on Friday.
+#POS N P D A N N V N P B W #POS
+}
+{
+Every year a masked man leaves roses and cognac at Edgar Allan Poe's grave.
+#POS D N D A N V N F N P B B Z N W #POS
+}
+{
+A panda poops more than NUM times per day.
+#POS D N V A P K N P N W #POS
+}
+{
+Promotion of understanding among the world's religions is one of the most serious and important tasks facing the world today.
+#POS N P V P D S N V K P D R A F A N V D N N W #POS
+}
+{
+People who are openly &amp; easily embarrassed tend to be trustworthy &amp; honest.
+#POS N O V R F R V V P V A F A W #POS
+}
+{
+The act of stretching and yawning is called "pandiculation."
+#POS D N P V F V V V W N W W #POS
+}
+{
+"There is never gonna' be another Michael Jackson, as long as anyone lives. He was the one person I wanted to be like." -Justin Bieber
+#POS W X V R V W V D B B W R A P N V W O V D K N O V P V P W W B B #POS
+}
+{
+About NUM% of all cats are infected with "Toxoplasma Gondii", a parasite that can cause depression, anxiety, and schizophrenia in humans
+#POS P K P D N V V P W B B W W D N P V V N W N W F N P N #POS
+}
+{
+A psychological study found that women have a higher IQ when single compared to when they are in a relationship.
+#POS D A N V D N V D A N R A V P R O V P D N W #POS
+}
+{
+Facebook is now one of the main investigative tools for divorce lawyers.
+#POS B V R K P D A A N P N N W #POS
+}
+{
+It usually takes up to four months for a person to fall in love with their " crush. "
+#POS O R V T P K N P D N P V P N P D W N W W #POS
+}
+{
+The more we truly desire to benefit others, the more strength and confidence we develop and the deeper the peace and happiness we experience
+#POS D A O R V P V N W D A N F N O V F D A D N F N O V #POS
+}
+{
+Most humans are subject to the "above-average effect" where we overestimate our ability and see ourselves as better than others.
+#POS A N V N P D W A N W R O V D N F V O R A P N W #POS
+}
+{
+Approximately NUM people die each year when they are stepped on by cows. Sharks kill around NUM people per year.
+#POS R K N V D N R O V V P P N W N V P K N P N W #POS
+}
+{
+An average four year old kid asks about NUM questions every day.
+#POS D A K N A N V P K N D N W #POS
+}
+{
+It is illegal for men to wear strapless dresses in Miami, Florida.
+#POS O V A P N P V N N P B W B W #POS
+}
+{
+Some people say that the hardest thing they do everyday is wake up.
+#POS D N V P D A N O V N V V T W #POS
+}
+{
+We never really know what to do about relationships? We either like them way too much or not enough.
+#POS O R R V O P V P N W O R P D N R A F R R W #POS
+}
+{
+What is the definition of insanity? Doing the same thing over and over again and expecting a different result. -Wall Street (NUM)
+#POS O V D N P N W V D A N P F R R F V D A N W B B W K W #POS
+}
+{
+Marlon Brando was paid $NUM million for his cameo in Superman.
+#POS B B V V K K P D N P B W #POS
+}
+{
+According to the U.S. Postal Service, the five most common street names in the U.S. are Main, Maple, Second, Oak, and Park.
+#POS V P D B B N W D K R A N N P D B V A W B W A W B W F B W #POS
+}
+{
+When someone thinks about you as much as you think about them, it then makes it difficult to get that person off your mind.
+#POS R N V P O R A P O V P O W O R V O A P V D N P D N W #POS
+}
+{
+You have to be at least NUM.NUM inches to be an astronaut.
+#POS O V P V P A K N P V D N W #POS
+}
+{
+Caffeine is more physically addictive than marijuana.
+#POS N V R R A P N W #POS
+}
+{
+Just because I don't show it, that doesn't mean that I don't feel it.
+#POS R P O V V O W O V V P O V V O W #POS
+}
+{
+Don't waste time thinking about what could have been, because you'll miss out on what could be.
+#POS V V N V P O V V V W P L V T P O V V W #POS
+}
+{
+A work of art goes through many phases of development, but in each phase it is always a work of art. - Hans Hofman
+#POS D N P N V P A N P N W F P D N O V R D N P N W W B B #POS
+}
+{
+By raising your legs slowly and lying on your back, you cannot sink into quicksand.
+#POS P V D N R F V P D N W O V V P N W #POS
+}
+{
+Life isn't about finding yourself. Life is about creating yourself. - George Bernard Shaw
+#POS N V P V O W N V P V O W W B B B #POS
+}
+{
+Guilty feelings weaken your immune system.
+#POS A N V D A N W #POS
+}
+{
+Letting go is never easy, but then again it's not supposed to be. Take it day by day and eventually the feeling will pass, you'll be fine.
+#POS V V V R A W F R R L R A P V W V O N P N F R D N V V W L V A W #POS
+}
+{
+The average woman smiles NUM times a day. The average man only smiles eight times.
+#POS D A N V K N D N W D A N R V K N W #POS
+}
+{
+NUM in NUM U.S. teeangers has attempted suicide. NUM in NUM has thought about it.
+#POS K P K B B V V N W K P K V V P O W #POS
+}
+{
+Every two thousand frowns creates one brow wrinkle.
+#POS D K K V V K N N W #POS
+}
+{
+Looking at a photograph and wishing you could re-live that moment over and over again.
+#POS V P D N F V O V V D N P F R R W #POS
+}
+{
+I'm difficult, I promise I'm worth it.
+#POS L A W O V L A O W #POS
+}
+{
+Adam Sandler's "Jack &amp; Jill" is the NUMst movie to win a Razzie (award for worst movie) in each category. Adam won worst actor and actress.
+#POS B Z W B F B W V D A N P V D N W N P A N W P D N W B V A N F N W #POS
+}
+{
+My own experience, and that of others, has shown me the degree to which positive mental attitudes bring happiness to oneself and others.
+#POS D A N W F O P N W V V O D N P D A N N V N P O F N W #POS
+}
+{
+Androphobia is the fear of men.
+#POS B V D N P N W #POS
+}
+{
+Lazy fact #NUM, You were too lazy to read that number.
+#POS A N H W O V R A P V D N W #POS
+}
+{
+There's an actual city in the country of Ukraine named 'Ass'.
+#POS L D A N P D N P B V W N W W #POS
+}
+{
+There's a genus of snakes that actually fly to catch their prey.
+#POS L D N P N P R V P V D N W #POS
+}
+{
+Happy people generally earn more than unhappy people.
+#POS A N R V A P A N W #POS
+}
+{
+Stress literally shrinks your brain.
+#POS N R V D N W #POS
+}
+{
+If A Google employee passes away, their spouse gets half of their pay for NUM years.
+#POS P D B N V R W D N V N P D N P K N W #POS
+}
+{
+French president F?lix Faure died of a stroke in NUM, when he was recieving BJ from his secretary in his office.
+#POS B N N W G B V P D N P K W R O V V N P D N P D N W #POS
+}
+{
+Being single is much better than being lied to, cheated on and disrespected.
+#POS V A V R A P V V P W V P F V W #POS
+}
+{
+A marshmallow hitting the earth at the speed of light would cause an explosion equal in energy to the power of a few dozen hydrogen bombs.
+#POS D N V D N P D N P N V V D N A P N P D N P D A N N N W #POS
+}
+{
+Cold showers have better effects on hair and complexion. Hot showers may overheat your organs and lower a man's sperm count
+#POS A N V A N P N F N W A N V V D N F A D S N V #POS
+}
+{
+The octopus is the most intelligent animal in the world without a backbone. Their intelligence is estimated to be equal to a dog's.
+#POS D N V D R A N P D N P D N W D N V A P V A P D N W #POS
+}
+{
+You can never destroy the past, but you can always create a new future.
+#POS O V R V D A W F O V R V D A N W #POS
+}
+{
+In your lifetime, you will eat NUM,NUM chickens, one sheep, six ducks, nine cows, and NUM turkeys.
+#POS P D N W O V V K N W K N W K N W A N W F K N W #POS
+}
+{
+A relationship with God is the most important relationship you can have. Trust him and everything will always turn out fine.
+#POS D N P B V D R A N O V V W V O F N V R V T A W #POS
+}
+{
+Living brain cells are bright pink.
+#POS V N N V A N W #POS
+}
+{
+Hope is wishing something would happen. Faith is believing something will happen. Courage is making something happen.
+#POS B V V N V V W N V V N V V W N V V N V W #POS
+}
+{
+The Red Army (Soviet Russia) defeated DAT% of deployed German forces during WWNUM / The US/UK only defeated DAT%
+#POS D A N W A B W V K P V B N P B W D N R V K #POS
+}
+{
+"Go." is the shortest complete sentence in the English language.
+#POS W V W W V D A A N P D B N W #POS
+}
+{
+The average raindrop reaches a top speed of NUM miles per hour.
+#POS D A N V D A N P K N P N W #POS
+}
+{
+The risk of heart attack and stroke in men can be reduced by NUM% by simply having sex three times a week, a study suggests.
+#POS D N P N N F N P N V V V P K P R V N K N D N W D N V W #POS
+}
+{
+Where is the NUM who has been born king of the Jews? We saw his star in the east &amp; have come to worship him. Mt NUM:DAT
+#POS R V D K O V V V N P D N W O V D N P D A F V V P V O W G K K #POS
+}
+{
+Don't keep her waiting just because you know she will.
+#POS V V O V R P O V O V W #POS
+}
+{
+Let us cultivate love and compassion, both of which give true meaning to life.
+#POS V O V N F N W O P D V A N P N W #POS
+}
+{
+When Kuwait first opened a McDonald's, the line was NUM miles long.
+#POS R B R V D N W D N V K N A W #POS
+}
+{
+There comes a time when you have to choose between turning the page and closing the book.
+#POS X V D N R O V P V P V D N F V D N W #POS
+}
+{
+If it happens once, it's a mistake. If it happens twice, it's a choice.
+#POS P O V R W L D N W P O V R W L D N W #POS
+}
+{
+Hummingbirds are the only animal that can also fly backwards
+#POS B V D A N P V R V R #POS
+}
+{
+A NUM U.S. law made it illegal to post annoying messages in an email or on the Internet without disclosing your true identity.
+#POS D K B N V O A P V A N P D N F P D N P V D A N W #POS
+}
+{
+You make me smile like an idiot.
+#POS O V O V P D N W #POS
+}
+{
+The best mental freedom is not caring what others think of you.
+#POS D A N N V R V O N V P O W #POS
+}
+{
+Yawning cools down your brain which gets rid of stress.
+#POS V V T D N D V A P N W #POS
+}
+{
+Channing Tatum once worked as a stripper under the name "Chan Crawford."
+#POS B B R V P D N P D N W B B W W #POS
+}
+{
+More people are killed by donkeys than by air crashes each year.
+#POS A N V V P N P P N V D N W #POS
+}
+{
+I'm a girl. I don't smoke, drink, or party every weekend. I don't sleep around or start drama just to get attention. Yes, we still do exist.
+#POS L D N W O V V W V W F N D N W O V V R F V N R P V N W C W O R V V W #POS
+}
+{
+You will never see a UPS driver with a beard.
+#POS O V R V D N N P D N W #POS
+}
+{
+A naked iPhone is a beautiful thing but too risky.
+#POS D A B V D A N F R A W #POS
+}
+{
+TAG ie: I will follow you back, but I will unfollow you back also
+#POS H G J O V V O R W F O V V O R R #POS
+}
+{
+It's possible to become a professional 'bra fitter'.
+#POS L A P V D A W N N W W #POS
+}
+{
+Watching Spongebob SquarePants may have impaired your brain when you were young, a study finds.
+#POS V B B V V V D N R O V A W D N V W #POS
+}
+{
+Sometimes the best moments happens when they are unplanned.
+#POS R D A N V R O V A W #POS
+}
+{
+Over NUM people a year are killed by vending machines. They tilt the vending machines over for a free soda!
+#POS P K N D N V V P V N W O V D N N P P D A N W #POS
+}
+{
+I've been so done with school since like kindergarten.
+#POS L V R V P N P P N W #POS
+}
+{
+The words "Chillax, sexting, whatevs and whovian" have all been added to the Oxford Dictionary.
+#POS D N W B W V W C F V W V D V V P D B N W #POS
+}
+{
+Gay marriage is legal in 'NUM' states. Having sex with a horse is legal in 'NUM'. Good going America!
+#POS A N V A P W K W N W V N P D N V A P W K W W A V B W #POS
+}
+{
+December is the second most popular month in which people lose their virginity. Make the most of this December!
+#POS B V D A R A N P D N V D N W V D R P D B W #POS
+}
+{
+There is a village in England called Bitchfield.
+#POS X V D N P B V B W #POS
+}
+{
+In ancient Japan, warriors smeared toad grease on themselves in the belief that it would make them puncture-proof
+#POS P A B W N A N N P O P D N P O V V D N #POS
+}
+{
+In Russia, in times of ecomomic disparity or high inflation, teachers can be payed in Vodka..
+#POS P B W P N P B N F A N W N V V V P N W #POS
+}
+{
+You're NUM times more likely to be killed while walking to school than while taking the bus.
+#POS L K N R A P V V P V P N P P V D N W #POS
+}
+{
+High school relationships that end up in marriage &gt;
+#POS A N N P V T P N E #POS
+}
+{
+McDonald's McNuggets always come in NUM different shapes.
+#POS B B R V P K A N W #POS
+}
+{
+It's useless to show how much you care for that special someone when that person is too busy getting somebody's attention.
+#POS L A P V R A O V P D A N R D N V R A V D N W #POS
+}
+{
+"The finest clothing made is a person's skin, but, of course, society demands something more than this." Mark Twain
+#POS W D A N V V D S N W F W P N W N N N R P O W W B B #POS
+}
+{
+If you let go a little you will have a little peace. If you let go a lot you will have a lot of peace. - Ajahn Cha
+#POS P O V V D A O V V D A N W P O V V D N O V V D N P N W W B B #POS
+}
+{
+TAG when I miss someone and can't do anything about it.
+#POS H R O V N F V V N P O W #POS
+}
+{
+Smart is the new sexy.
+#POS B V D A A W #POS
+}
+{
+You salivate more before you vomit.
+#POS O V R P O V W #POS
+}
+{
+Hugging &amp; or holding hands with someone you care about can reduce stress instantly.
+#POS V F F V N P N O V P V V N R W #POS
+}
+{
+Only NUM women are the CEO of a Fortune NUM company.
+#POS R K N V D N P D N K N W #POS
+}
+{
+According to NASA, the perfect nap should last no longer than NUM minutes.
+#POS V P B W D A N V A D N P K N W #POS
+}
+{
+NUM% of all fires of unknown origin are rat-caused.
+#POS K P D N P A N V N W #POS
+}
+{
+An ancient Egyptian medical manuscript stated that half an onion and the froth of beer is a remedy against death.
+#POS D A A A N V D N D N F D N P N V D N P N W #POS
+}
+{
+Women are capable of reaching orgasm simply by kissing continuously.
+#POS N V A P V N R P V R W #POS
+}
+{
+NUM% of women swallow when performing oral sex.
+#POS K P N V R V A N W #POS
+}
+{
+Women have a harder time resisting guys wearing the color blue. Men are more attracted to women wearing red.
+#POS N V D A N V N V D N A W N V R V P N V A W #POS
+}
+{
+Prostitution has been observed in penguins and chimpanzees.
+#POS N V V V P B F N W #POS
+}
+{
+"Bakon Vodka" is a brand that produces bacon flavored vodka.
+#POS W B B W V D N P V N A N W #POS
+}
+{
+To cut off one's penis is referred to as to "bobbitt", named after a man called John Wayne Bobbitt, who had his penis cut off by his wife!
+#POS P V T S N V V P R P W B W W V P D N V B B B W O V D N N T P D N W #POS
+}
+{
+ily = I barely do. Love you = I do, but I don't at the same time. I love you = Trust me. I mean it.
+#POS C W O R V W V O W O V W F O V P D A N W O V O W V O W O V O W #POS
+}
+{
+In NUM, President Franklin D. Roosevelt signed into law the first minimum wage in the United States.
+#POS P K W B B B W B V P N D A A N P D B N W #POS
+}
+{
+The longest nose on a living person is NUM,NUM cm (NUM,NUM inches). His name is Mehmet Ozyurek (Turkey).
+#POS D A N P D A N V K W K N W K W K N W W D N V B B W N W W #POS
+}
+{
+Being Together &gt; Texting.
+#POS V R G V W #POS
+}
+{
+Like the morning moon, cold, unpitying was my love. And since we parted, I dislike nothing so much as the breaking light of day. Tadamine
+#POS P D N N W A W V V D N W F P O V W O V N R A P D N N P N W B #POS
+}
+{
+The CTO of globally successful Twitter image host Twitpic had a NUM.NUM GPA in college
+#POS D N P R A B N N N V D K N P N #POS
+}
+{
+Before they mate, scorpions will grab each other by the claws and dance.
+#POS P O N W B V V D A P D N F N W #POS
+}
+{
+The average person gets NUM,NUM minor injuries in a lifetime.
+#POS D A N V K A N P D N W #POS
+}
+{
+A NUM-year-old boy in Brazil died from masturbating NUM times in one night without stopping.
+#POS D A N P B V P V K N P K N P V W #POS
+}
+{
+TAG I will follow you back, but I will unfollow you back also
+#POS H O V V O R W F O V V O R R #POS
+}
+{
+Laptop screens at Apple Stores are open to a NUM degree angle. Apple wants people to touch the computer &amp; the angle forces them to.
+#POS N N P B N V A P D K N N W B V N P V D N F D N V O P W #POS
+}
+{
+In the modern world, the interests of a particular community can no longer be considered to lie within the confines of its own boundaries.
+#POS P D A N W D N P D A N V D N V V P V P D N P D A N W #POS
+}
+{
+Shooting a gun causes the same startled chemical reaction in the brain as a passionate kiss.
+#POS V D N V D A A N N P D N P D A N W #POS
+}
+{
+Mustard's name is a contraction of the Latin mustum ardens, meaning "burning wine."
+#POS Z N V D N P D B B B W N W V N W W #POS
+}
+{
+In ancient Rome, men who were found guilty of rape had their testicles crushed between NUM stones.
+#POS P A B W N O V V A P N V D N V P K N W #POS
+}
+{
+A man named Joseph Figlock was hit on the head by a falling baby, twice!
+#POS D N V B B V V P D N P D N N W R W #POS
+}
+{
+'Pistanthrophobia' is the common fear of trusting people due to past experiences with relationships gone bad.
+#POS W B W V D N N P V N P P A N P N V A W #POS
+}
+{
+Over thinking deprives the human brain of chemicals that naturally cause happiness. Which often leads to depression.
+#POS P V V D A N P N P R P N W D R V P N W #POS
+}
+{
+If you're mine, you're only mine.
+#POS P L O W L R O W #POS
+}
+{
+Artists are just as important as doctors and nurses. People need nourishing of their souls as well as their bodies. - Marni California
+#POS N V R R A P N F N W N V N P D N P R P D N W W B B #POS
+}
+{
+"Encopresis" is the technical term for pooping your pants.
+#POS W B W V D A N P V D N W #POS
+}
+{
+Hard times will always reveal who your true friends are.
+#POS A N V R V O D A N V W #POS
+}
+{
+Moving on is never easy. You fight to hold on. You fight to let go.
+#POS V P V R A W O V P V T W O V P V V W #POS
+}
+{
+The word 'lethologica' describes the state of not being able to remember the word you want.
+#POS D N W B W V D N P R V A P V D N O V W #POS
+}
+{
+Love distills desire upon the eyes, love brings bewitching grace into the heart. Euripides
+#POS V D N P D N W V V V B P D N W B #POS
+}
+{
+Oprah makes $NUM,NUM,NUM/year = $NUM,NUM,NUM/month = $NUM,NUM,NUM/week = $NUM,NUM/day = $NUM,NUM/hr = $NUM/minute = $NUM/sec
+#POS B V G K N W G K N W G K N W G K N W G K N W G W R #POS
+}
+{
+NUM% people feel uncomfortable when the tv volume is an odd number.
+#POS K N V A R D N N V D A N W #POS
+}
+{
+The character of Adam Sandler and Drew Barrymore in the movie "NUM First Dates" is based on a true story.
+#POS D N P B B F A B P D N W K A N W V V P D A N W #POS
+}
+{
+The term "devil's advocate" comes from the Roman Catholic church
+#POS D N W S N W V P D B B N #POS
+}
+{
+NUM tweep followed (thank you!) and NUM unfollowed (goodbye!) me in the past week. Thank you URL
+#POS K N V W V O W W F K V W C W W O P D A N W V O U W #POS
+}
+{
+To draw is to make a shape and movement in time. - Stuart Davis
+#POS P V V P V D N F N P N W W B B #POS
+}
+{
+The wedding ring goes on the left ring finger, because it's the only finger with a vein that connects to the heart.
+#POS D N N V P D A N N W P L D A N P D N P V P D N W #POS
+}
+{
+So many friendships end with "we just stopped talking."
+#POS R A N N P W O R V V W W #POS
+}
+{
+Sarcasm makes you mentally stronger. Which is very effective when dealing with emotional stress and fustration.
+#POS N V O R A W O V R A R V P A N F N W #POS
+}
+{
+Mr.Potato head was the first advertised toy on television.
+#POS B B N V D A A N P N W #POS
+}
+{
+The United Kingdom banned handguns in NUM after a school shooting.
+#POS D B B V N P K P D N N W #POS
+}
+{
+In what country will you find the most Universities? India.
+#POS P O N V O V D A N W B W #POS
+}
+{
+In France, it is forbidden to call a pig Napoleon.
+#POS P B W O V A P V D N B W #POS
+}
+{
+A man named Charles Osborne had the hiccups for NUM years.
+#POS D N V B B V D N P K N W #POS
+}
+{
+NUM% of Americans think the government has kept information about UFOs secret from the public.
+#POS K P B V D N V V N P N N P D N W #POS
+}
+{
+In NUM, Buck Weimer won a noble prize for creating underwear specifically designed to filter farts.
+#POS P K W B B V D A N P V N R V P V N W #POS
+}
+{
+On average, people spend NUM percent of their time gossiping.
+#POS P A W N V K N P D N V W #POS
+}
+{
+A species of earthworm in Australia grows up to NUM feet in length.
+#POS D N P N P B V T P K N P N W #POS
+}
+{
+Being with you is like having every single one of my wishes come true.
+#POS V P O V P V D A K P D N V A W #POS
+}
+{
+The smallest adult human penis ever recorded was NUM cm long.
+#POS D A N N N R V V K N A W #POS
+}
+{
+On January NUM, NUM, Georgia joined the Confederacy.
+#POS P B K W K W B V D N W #POS
+}
+{
+Don't sit around feeling sorry for yourself, get up and do something.
+#POS V V T V A P O W V T F V N W #POS
+}
+{
+Do not be afraid of dying, be afraid of living with nothing to die for.
+#POS V R V A P V W V A P V P N P V P W #POS
+}
+{
+Dreaming repairs the human mind, helping it recover from painful memories.
+#POS V N D A N W V O V P A N W #POS
+}
+{
+The average stay for a prisoner on Alcatraz, when it was used as a prison, was five years.
+#POS D A N P D N P B W R O V V P D N W V K N W #POS
+}
+{
+Keep checking your phone for the text you'll never get.
+#POS V V D N P D N L R V W #POS
+}
+{
+Nonviolence is not a sign of weakness, but rather one of self-confidence and courage.
+#POS N V R D N P N W F R K P N F N W #POS
+}
+{
+Today is National Napping Day.
+#POS N V N V N W #POS
+}
+{
+Bill Gates earns an estimated $NUM every SECOND, that's about $NUM Million a DAY and $NUM.NUM Billion a YEAR.
+#POS B B V D A K D N W L P K K D N F K K D N W #POS
+}
+{
+A gallon of gas is capable of recharging the iPhone everyday for the next NUM years.
+#POS D N P N V A P V D B N P D A K N W #POS
+}
+{
+New week, new tweets, new stats. NUM new unfollower. Via good old URL
+#POS A N W A N W A N W K A N W B A A U #POS
+}
+{
+There's a flower called Psychotria elata, also known as "hookers lips."
+#POS L D N V B B W R V P W N N W W #POS
+}
+{
+Approximately one billion meteors enter the Earth's atmosphere every day.
+#POS R K K N V D Z N D N W #POS
+}
+{
+The man who provides the voice of Optimus Prime in Transformers is also the voice of Eeyore from Winnie the Pooh.
+#POS D N O V D N P B B P N V R D N P B P B D N W #POS
+}
+{
+New week, new tweets, new stats. NUM followers, NUM unfollower. Via good old URL
+#POS A N W A N W A N W K N W K N W B A A U #POS
+}
+{
+NUM tweep followed (thank you!) and NUM unfollowed (goodbye!) me in the past week. Thank you URL
+#POS K N V W V O W W F K A W C W W O P D A N W V O U W #POS
+}
+{
+NUM new unfollowers and NUM new followers (hello! hello!) in the last week. Via URL
+#POS K A N F K A N W C W C W W P D A N W B U #POS
+}
+{
+NUM weekly follower. NUM unfollowers. Justunfollow doesn't miss a trick - unfollowers beware - via URL
+#POS K A N W K N W B V V D N W N V W P U #POS
+}
+{
+Followers - NUM, Unfollowers - NUM. I didn't know it'd be this simple. Get your weekly stats via URL
+#POS N W K W B W K W O V V L V D A W V D A N P U W #POS
+}
+{
+NUM weekly followers. NUM unfollowers. Justunfollow doesn't miss a trick - unfollowers beware - via URL
+#POS K A N W K N W B V V D N W N V W P U #POS
+}
+{
+A woman in the US successfully sued a cafe $NUMK for slipping on soda - even though it was the soda she had just thrown angrily at her bf.
+#POS D N P D B R V D N K P V P N W R P O V D N O V R V R P D N W #POS
+}
+{
+School literally causes depression. It lowers dopamine levels, a chemical that's associated with happiness and pleasure.
+#POS N R V N W O V N N W D N L A P N F N W #POS
+}
+{
+The loop on a belt that holds the loose end is called a "keeper".
+#POS D N P D N P V D A N V V D W N W W #POS
+}
+{
+The act of cuddling has positive effects on women, strengthening their immune system.
+#POS D N P V V A N P N W V D A N W #POS
+}
+{
+TAG I have my family, friends and God around. Nothing other than that can make me happy. :)
+#POS H O V D N W N F B P W N A P O V V O A W E #POS
+}
+{
+Law is vulnerable to the winds of intellectual or moral fashion, which it then validates as the commands of our most basic concept.
+#POS N V A P D N P A F N N W D O R V P D N P D R A N W #POS
+}
+{
+The average iPhone user has NUM apps installed on their phone. Android users average NUM and Blackberry users average NUM.
+#POS D A B N V K N V P D N W B N A K F B N A K W #POS
+}
+{
+URL Over-thinking is one of the top causes of depression.
+#POS N W W V V K P D A N P N W #POS
+}
+{
+Love's pleasure lasts but a moment, love's pain lasts a lifetime. Saint-John Perse
+#POS Z N V F D N W S N V D N W B B #POS
+}
+{
+The Green Bay Packers and the New York Giants are the only teams to win a Super Bowl in three different decades.
+#POS D A B B F D B B B V D A N P V D B B P K A N W #POS
+}
+{
+Your smile changes my whole mood.
+#POS D N V D A N W #POS
+}
+{
+Kit Kat chocolate bar was introduced to the market in NUM.
+#POS N B N N V V P D N P K W #POS
+}
+{
+NUM% of people would rather die quickly than live in a retirement home.
+#POS K P N V R V R P V P D N N W #POS
+}
+{
+Morning sex is more efficient than coffee for waking up in the morning.
+#POS N N V R A P N P V T P D N W #POS
+}
+{
+Every artist was first an amateur. - Ralph Waldo Emerson
+#POS D N V R D N W W B B B #POS
+}
+{
+Over-thinking is the cause of almost NUM% of people being stressed.
+#POS V V D N P R K P N V A W #POS
+}
+{
+NUM out of NUM people who live in Greenland commit suicide.
+#POS K P P K N O V P B V N W #POS
+}
+{
+When I listen to my heart it whispers your name.
+#POS R O V P D N O V D N W #POS
+}
+{
+Laughter serves a social purpose - We do not laugh much when alone, but we laugh NUM times more when we are with others.
+#POS N V D A N W O V R V R R A W F O V K N R R O V P N W #POS
+}
+{
+More than NUM% of the world's forests are in Siberia, Russia
+#POS A P K P D S N V P B W B #POS
+}
+{
+Prince Charles and Prince William never travel on the same plane just in case one of the planes crash.
+#POS B B F B B R V P D A N R P N K P D N N W #POS
+}
+{
+The winner ain't the one with the fastest car its the one who refuses to lose. -Dale Earnhardt
+#POS D N V D K P D A N L D K O V P V W B B #POS
+}
+{
+In January this year, a man from Kuwait went to jail for NUM years because he was insulting the president of Kuwait on Twitter.
+#POS P B D N W D N P B V P N P K N P O V V D N P B P B W #POS
+}
+{
+Cuddling is NUM times more effective than sleeping pills.
+#POS V V K N R A P V N W #POS
+}
+{
+Sometimes being too nice is dangerous, you have to show your mean side once in a while to avoid getting hurt.
+#POS R V R A V A W O V P V D A N R P D N P V V V W #POS
+}
+{
+It's impossible to sneeze in your sleep..
+#POS L A P V P D N W #POS
+}
+{
+The water spider lives underwater. It gets air using its web to create a sac that stores air bubbles.
+#POS D N N V A W O V N V L N P V D N P N N N W #POS
+}
+{
+According to psychologists, when people see you get openly embarrased, they tend to think of you as a nice person.
+#POS V P N W R N V O V R A W O V P V P O P D A N W #POS
+}
+{
+''Dammit I'm mad'' spelled backwards is ''Dammit I'm mad''!
+#POS W C L A W V R V W C L A #POS
+}
+{
+The average speed of a raindrop is about NUM mph.
+#POS D A N P D N V P K N W #POS
+}
+{
+I want a boyfriend who's proud to be with me.
+#POS O V D N L A P V P O W #POS
+}
+{
+Negative emotions can actually harm and damage your immune system
+#POS A N V R V F V D A N #POS
+}
+{
+The chances of you dying on the way to get your lottery tickets is greater than your chances of winning.
+#POS D N P O V P D N P V D N N V A P D N P V W #POS
+}
+{
+NUM% of men admit to having a sexual experience, not necessarily including genital contact, with another male.
+#POS K P N V P V D A N W R R V A N W P D N W #POS
+}
+{
+Garth Brooks was the first country artist to sell over NUM million copies of an album.
+#POS B B V D A N N P V P K K N P D N W #POS
+}
+{
+Men who help with housework have more sex.
+#POS N O V P N V A N W #POS
+}
+{
+You are more likely to learn more in NUM hours on Google than a whole month in school.
+#POS O V R A P V R P K N P B P D A N P N W #POS
+}
+{
+Love doesn't need to be perfect, it just need to be true.
+#POS V V V P V A W O R V P V A W #POS
+}
+{
+In Fairbanks, Alaska, it's illegal to feed alcohol to a moose
+#POS P B W B W L A P V N P D N #POS
+}
+{
+From NUM to NUM, NUM% of the worlds LSD was produced by one man.
+#POS P K P K W K P D N B V V P K N W #POS
+}
+{
+The average person swallows NUM spiders a year.
+#POS D A N V K N D N W #POS
+}
+{
+Sometimes a song can express the feelings you're too afraid to say.
+#POS R D N V V D N L R A P V W #POS
+}
+{
+"Us". I like the sound of that.
+#POS W O W W O V D N P O W #POS
+}
+{
+No bears are native to the continent of Australia. Koalas aren't bears, they are marsupials.
+#POS D N V A P D N P B W B V N W O V N W #POS
+}
+{
+Studies show women find smiling men less attractive.
+#POS N N N V V N A A W #POS
+}
+{
+Appreciate those who love you. Help those who need you. Forgive those who hurt you. Forget those who leave you.
+#POS V O O V O W V O O V O W V O O V O W V O O V O W #POS
+}
+{
+A plastic shopping bag can take up to NUM,NUM years to decompose.
+#POS D N N N V V T P K N P V W #POS
+}
+{
+Ray-Ban paid Rihanna $NUM,NUM to mention their glasses in her song Cheers.
+#POS B V B G K P V D N P D N N W #POS
+}
+{
+A male fetus can get erections in the womb.
+#POS D A N V V N P D N W #POS
+}
+{
+The Muppet Show was banned from Saudi Arabian TV because one if its stars was a pig.
+#POS D B B V V P B B N P K P L N V D N W #POS
+}
+{
+In the NUM's, the Bich pen was changed to Bic for fear that Americans would pronounce it "Bitch".
+#POS P D K W D N N V V P B P V D B V V O W N W W #POS
+}
+{
+How far that little candle throws his beams. So shines a good deed in a weary world. - Shakespeare
+#POS R R D A N V D N W P V D A N P D A N W W B #POS
+}
+{
+The least successful Harry Potter movie earned about $NUM million more than the most successful Twilight movie!
+#POS D A A B B N V P K K A P D R A N N W #POS
+}
+{
+The name of the airplane Buddy Holly died in was "American Pie," which is where the name of the Don McLean song came from.
+#POS D N P D N N B V P V W B B W W O V R D N P D B B N V P W #POS
+}
+{
+The little plastic things on the end of your shoelaces are called aglets.
+#POS D A N N P D N P D N V V B W #POS
+}
+{
+In math I use this thing called the guess and hope method.
+#POS P N O V D N V D N F V N W #POS
+}
+{
+NUM% of people have dropped their phones on their face while texting in bed.
+#POS K P N V V D N P D N P V P N W #POS
+}
+{
+Seaweed can grow up to NUM inches per day!
+#POS N V V T P K N P N W #POS
+}
+{
+It lies not in our power to love, or hate, for will in us is over-ruled by fate. Christopher Marlowe
+#POS O V R P D N P V W F V W P V P O V V P N W B B #POS
+}
+{
+Mcdonald's salads contain over NUM% more fat than their burgers.
+#POS Z N V P K R A P D N W #POS
+}
+{
+TAG -Let's grow together: I will follow you back, but I will also unfollow you back
+#POS H L V R W O V V O R W F O V R V O R #POS
+}
+{
+If you brush your teeth by using the wrong hand, then you force your brain to work differently &amp; your self-control level will increase.
+#POS P O V D N P V D A N W R O V D N P V R F D N N V V W #POS
+}
+{
+January NUM, NUM was when the words Hi Yo Silver! Away! were first heard as the Lone Ranger debuted on radio channel WXYZ of Detroit.
+#POS B K W K V R D N C C N W R W V A V P D B B V P N N N P B W #POS
+}
+{
+Are oranges called oranges because they are orange in color, or is the color orange called orange because oranges are orange in color?
+#POS V N V N P O V A P N W F V D N A V A P N V A P N W #POS
+}
+{
+Forty is the only number in the english language that is spelled alphabetically.
+#POS B V D A N P D B N P V V N W #POS
+}
+{
+as to matters of dress, I would recommend one never to be first in the fashion nor the last out of it - john wesley
+#POS P P V P N W O V V K R P V R P D N F D A P P O W B B #POS
+}
+{
+The first person you think of in the morning or last person you think of in the night is either the cause of your happiness or your pain.
+#POS D A N O V P P D N F A N O V P P D N V D D N P D N F D N W #POS
+}
+{
+NUM% of Americans believe in haunted houses, only NUM% more (NUM%) believe in evolution.
+#POS K P B V P A N W A K A W K V P N W #POS
+}
+{
+NUM out of NUM girls are unhappy with the way they look.
+#POS K P P K N V A P D N O V W #POS
+}
+{
+Spongebob was originally going to be named "Spongeboy" but couldn't because a mop product was already using that name.
+#POS B V R V P V V W B W F V P D N N V R V D N W #POS
+}
+{
+Some ribbon worms will eat themselves if they can't find any food.
+#POS D N N V V O P O V V D N W #POS
+}
+{
+NUM% of people keep certain things &amp; emotions to themselves to avoid being judged by others.
+#POS K P N V A N F N P O P V V V P N W #POS
+}
+{
+Even if you were to spend $NUM,NUM per day� it would take you NUM years to spend $NUM billion dollars.
+#POS R P O V P V G K P V O V V O K N P V K K N W #POS
+}
+{
+False eyelashes were invented by the American film director D.W. Griffith while he was making his NUM epic, "Intolerance".
+#POS A N V V P D B N N B B P O V V D K N W W N W W #POS
+}
+{
+Sloppy medical handwriting kills more than NUM,NUM people every year.
+#POS A A N V A P K N D N W #POS
+}
+{
+Stethoscopes were originally invented by doctors so they could stop from putting their ears against a woman's boobs.
+#POS B V R V P N P O V V P V D N P D S N W #POS
+}
+{
+It is only with the heart that one can see rightly, what is essential is invisible to the eye. Antoine de Saint-Exupery
+#POS O V R P D N P K V V R W O V A V A P D N W B B G #POS
+}
+{
+Scientists in Canada discovered during tests that chickens increase their egg output when pop music is played.
+#POS N P B V P N P N V D N N R N N V V W #POS
+}
+{
+Roy and Silo was a pair of gay penguins in NYC's Central Park Zoo, they spent NUM years together and raised an orphan chick.
+#POS B F N V D N P A N P D N B B W O V K N R F V D A N W #POS
+}
+{
+A good laugh or a masturbating session is a proven method to reduce stress, and anxiety.
+#POS D A N F D A N V D A N P V N W F N W #POS
+}
+{
+When hippos are upset, their sweat becomes red
+#POS R N V A W D N V A #POS
+}
+{
+Seth MacFarlane, creator of Family Guy, confirmed that Stewie is in fact gay.
+#POS B B W N P B B W V P B V P N A W #POS
+}
+{
+Technically speaking, the female version of "dude" is "dudine," not "dudette."
+#POS R V W D N N P W N W V W N W W R W N W W #POS
+}
+{
+In NUM, the total U.S. federal government debt was $NUM,NUM.
+#POS P K W D A B A N N V G K W #POS
+}
+{
+Sex makes women prettier. During sex, the body doubles its estrogen levels, which makes her hair shinier and her skin softer.
+#POS N V N A W P N W D N V L N N W D V D N A F D N A W #POS
+}
+{
+On average, NUM newborns will be given to the wrong parents daily!
+#POS P A W K N V V V P D A N A W #POS
+}
+{
+"Wow you're cool." NUM% people read that in a sarcastic voice.
+#POS W C L A W W K N V O P D A N W #POS
+}
+{
+Video games &amp; listening to music is more effective at battling depression than counseling is.
+#POS N N F V P N V R A P V N P N V W #POS
+}
+{
+Let go when you're hurting too much, give up when love isn't enough, &amp; move on when things aren't like they were before.
+#POS V V R L V R A W V T R V V R W F V P R N V P O V P W #POS
+}
+{
+In South Bend, Indiana: It is illegal to make a monkey smoke a cigarette.
+#POS P B B W B W O V A P V D N V D N W #POS
+}
+{
+M-NUM on Mackinaw Island in Michigan is the only highway in the US that prohibits cars. Users can travel on foot, bicycle, or horse.
+#POS K P B B P B V D A N P D B P V N W N V V P N W N W F N W #POS
+}
+{
+The NUMst Paranormal Activity movie's budget was $NUM,NUM - And made close to $NUM,NUM,NUM.NUM worldwide.
+#POS D A N N N N V G K W F V A P G K W K A W #POS
+}
+{
+The first ceiling fans appeared in the early NUMs and NUMs, in the United States.
+#POS D A N N V P D A K F K W P D B N W #POS
+}
+{
+The day of the week that March NUMth (Thursday in NUM), is the same day of the week as DAT, DAT, DAT, DAT, DAT, DAT, DAT and DAT.
+#POS D N P D N P B K W B P K W W V D A N P D N P K W K W B W K W K W K W K F K W #POS
+}
+{
+Man's love is of man's life a thing apart, 'Tis woman's whole existence. Lord Byron. Don Juan
+#POS S N V P S N D N N W W L S A N W B B W B B #POS
+}
+{
+Donkeys kill more people annually than plane crashes
+#POS N V A N R P N N #POS
+}
+{
+The human mind spends about NUM% of it's time creating " perfect " scenarios, replaying moments &amp; memories from the past.
+#POS D A N V P K P L N V W A W N W V N F N P D N W #POS
+}
+{
+The girlfriend of the founder of Match. com dumped him. for a man she met on Match. com.
+#POS D N P D N P B W N V O W P D N O V P N W N W #POS
+}
+{
+If you're constantly distracted or drift away into thoughts, you have a sharper brain.
+#POS P L R V F V R P N W O V D A N W #POS
+}
+{
+A woman sued P Diddy for $NUM trillion and accused him of causing DAT.
+#POS D N V B B P K K F V O P V K W #POS
+}
+{
+"If I can do it, anybody can do it" is considered the most annoying statement from successful people.
+#POS W P O V V O W N V V O W V V D R A N P A N W #POS
+}
+{
+NUM% of women admit they have thrown shoes at a man.
+#POS K P N V O V V N P D N W #POS
+}
+{
+"The minute you stop making mistakes is the minute you stop learning." -Miley Cyrus
+#POS W D N O V V N V D N O V V W W B B #POS
+}
+{
+Today is National Make a Friend Day.
+#POS N V N V D N N W #POS
+}
+{
+Humans' pupils dilate when they are looking at someone they love, but they also dilate when looking at someone they hate.
+#POS N W N V R O V V P N O V W F O R V R V P N O V W #POS
+}
+{
+More than NUM million Facebook users suffer from "Facebook Addiction Disorder."
+#POS A P K K B N V P W B N N W W #POS
+}
+{
+Forgiveness is strongly linked to happiness.
+#POS N V R V P N W #POS
+}
+{
+There is more than NUM million tons of gold in the world's oceans.
+#POS X V A P K K N P B P D S N W #POS
+}
+{
+According to an age old custom, carrying a dead shrew in your pocket wards off rheumatism!
+#POS V P D N A N W V D A N P D N V T N W #POS
+}
+{
+Ben and Jerry's have a literal graveyard where their discontinued ice cream flavors are buried.
+#POS B F B V D A N R D A N N N V A W #POS
+}
+{
+MINUM successfully hacked an al-Qaeda website replacing instructions to make a bomb with a recipe for cupcakes.
+#POS B R V D B B V N P V D N P D N P N W #POS
+}
+{
+The longest game of Monopoly played underwater is NUM days.
+#POS D A N P N V A V K N W #POS
+}
+{
+Beware, love is deaf as a stone, and will listen not to words the day he sits on the throne. Lope de Vega
+#POS V W N V A P D N W F V V R P V D N O V P D N W B B B #POS
+}
+{
+TAG: I hate liars, hypocrites, &amp; people who take advantage of people who care about them.
+#POS H W O V N W N W F N O V N P N O V P O W #POS
+}
+{
+Each year NUM Americans die from falling out of bed.
+#POS D N K N V P V P P N W #POS
+}
+{
+Sleep studies found that sleeping on the left side of the bed makes you more positive and cheerful.
+#POS V N V O V P D A N P D N V O R A F A W #POS
+}
+{
+Norma Stitz holds the record for world's largest natural breasts, her bra size is NUMZZZ and each of her breasts weigh around NUM pounds.
+#POS B B V D N P S A A N W D N N V K F D P D N V P K N W #POS
+}
+{
+Find someone who makes you laugh. People who laugh a lot are much healthier than those who don't.
+#POS V N O V O V W N O V D N V A A P O O V W #POS
+}
+{
+On average, a $NUM bill has a NUM month life span.
+#POS P A W D K N V D K N N N W #POS
+}
+{
+There is a species of jellyfish that is immortal.
+#POS X V D N P N P V A W #POS
+}
+{
+Octopus, shrimp, horseflesh and cow tongue are popular flavors of ice cream in Tokyo.
+#POS B W N W N F N N V A N P N N P B W #POS
+}
+{
+If the Earth was smooth, the ocean would cover the entire surface to a depth of NUM,NUM feet.
+#POS P D B V A W D N V V D A N P D N P K N W #POS
+}
+{
+Ariel is the only Disney Princess to ever have had a child.
+#POS B V D A N N P R V V D N W #POS
+}
+{
+In Italy it is now punishable by law to tell a man he "has no balls"
+#POS P B O V R A P N P V D N O W V D N W #POS
+}
+{
+That moment when you try to stay mad at a friend, but you can't because they make you laugh even in a fight.
+#POS D N R O V P V A P D N W F O V P O V O V R P D N W #POS
+}
+{
+The good ones always have the dirtiest thoughts.
+#POS D A N R V D A N W #POS
+}
+{
+there's a hello kitty themed hospital in Taiwam. Nurrses wear pink &amp; even thw birth certificates are pink with hello kitty on them
+#POS L D N N V N P B W N V A F R D N N V A P C N P O #POS
+}
+{
+I don't want perfection, I want you.
+#POS O V V N W O V O W #POS
+}
+{
+The price of an iPad would be almost $NUM,NUM if the production work is done entirely in America.
+#POS D N P D B V V R G K P D N N V V R P B W #POS
+}
+{
+An elephant can die from a broken heart
+#POS D N V V P D A N #POS
+}
+{
+More Monopoly money is printed in a year, than real money printed throughout the world.
+#POS A N N V V P D N W P A N V P D N W #POS
+}
+{
+The growling/rumbling sound your stomach makes has a name- Borborygmus!!
+#POS D V V D N V V D N B W #POS
+}
+{
+At exactly NUM mins, NUM secs after NUM 'o' clock on December NUMth. The time will be TIM, DAT/NUM. This'll not happen again before NUM.
+#POS P R K N W K N P K W P W N P B K W D N V V K W K W L R V R P K W #POS
+}
+{
+I miss you and I hate that feeling.
+#POS O V O F O V P V W #POS
+}
+{
+McDonald's' daily customer traffic (NUM million) is more than the population of Great Britain. TAG
+#POS N W A N N W K N W V A P D N P B B W H #POS
+}
+{
+"Swag" was originally an acronym created in the NUM's which stood for "Secretly we are gay."
+#POS W N W V R D N V P D K D V P W R O V A W W #POS
+}
+{
+In the Middle Ages they thought that the left testicle held the sperm that made girls. Men wanting sons would have it removed.
+#POS P D B B O V P D A N V D N P V N W N V N V V O V W #POS
+}
+{
+Scientist say, the purpose of dreams is to clean up and remove clutter from the mind.
+#POS N V W D N P N V P V T F V N P D N W #POS
+}
+{
+On July NUM, NUM, King George III of England noted in his diary: "Nothing of importance happened today".
+#POS P B K W K W B B B P B V P D N W W N P N V N W W #POS
+}
+{
+The French eat four times as much butter, NUM% more cheese, and nearly three times as much pork compared to the rest of the world.
+#POS D B V K N R A N W K A N W F R K N R A N V P D N P D N W #POS
+}
+{
+Not being able to get someone off your mind can also indicate that the person on your mind thought of you first.
+#POS R V A P V N P D N V R V P D N P D N V P O A W #POS
+}
+{
+Bruce lee's last movie contains footage of his actual funeral with close ups of Lee in his coffin..
+#POS B Z A N V N P D A N P A N P B P D N W #POS
+}
+{
+There really was a Hidden Valley Ranch.
+#POS R R V D B B B W #POS
+}
+{
+Money &amp; success don't change people; they merely amplify what is already there. -Will Smith
+#POS N F N V V N W O R V O V R R W B B #POS
+}
+{
+Human male corpses can sport erections, called "death erections."
+#POS B A N V V N W V W N N W W #POS
+}
+{
+The world record for not sleeping was set by NUM-year-old Randy Gardner in NUM when he was awake for NUM hours and NUM minutes.
+#POS D N N P R V V V P A B B P K R O V A P K N F K N W #POS
+}
+{
+Katy Perry's natural hair colour is Blonde.
+#POS B Z A N N V A W #POS
+}
+{
+"If Rihanna wanted me, I'd do it with her. She's really hot." - Adele
+#POS W P B V O W L V O P O W L R A W W W B #POS
+}
+{
+I need some peace and quiet� or whatever it is people go away for. -The Holiday (NUM)
+#POS O V D N F N F C O V N V R P W G B W K W #POS
+}
+{
+I'm glad I met you. Now do me a favor and stay.
+#POS L A O V O W R V O D N F V W #POS
+}
+{
+Be thankful for what you have, you'll end up having more. - Oprah Winfrey
+#POS V A P O O V W L V T V A W W B B #POS
+}
+{
+National Dance Like A Chicken Day falls on NUMth May every year.
+#POS N N P D N N V P A B D N W #POS
+}
+{
+The real name of Toto the dog in "The Wizard Of Oz" was Terry.
+#POS D A N P B D N P W D N P B W V B W #POS
+}
+{
+The platypus and echidna are the only mammals that hatch from eggs. Both live in Australia.
+#POS D B F N V D A N P N P N W O V P B W #POS
+}
+{
+Lost time in traffic could cost American businesses up to NUM billion dollars per year.
+#POS V N P N V V A N P P K K N P N W #POS
+}
+{
+The world's oldest person lived to be NUM-years-old. Her diet was olive oil, port wine, and NUM Kg of chocolate a week.
+#POS D S A N V P V K W D N V A N W N N W F K N P N D N W #POS
+}
+{
+I don't want to be your whole world, I just want to be your favorite part of it.
+#POS O V V P V D A N W O R V P V D A N P O W #POS
+}
+{
+Intelligent people are more commonly giving sarcastic responses to stupid questions and statements.
+#POS A N V R R V A N P A N F N W #POS
+}
+{
+During the making of the movie "The Passion of the Christ" the actor who played Jesus was struck by lightning during crucifixion scene.
+#POS P D N P D N W D N P D B W D N O V B V V P B P N N W #POS
+}
+{
+When you go through hardships and decide not to surrender, that is strength. -Arnold Schwarzenegger
+#POS R O V P N F V R P V W O V N W B B #POS
+}
+{
+Sleep psychologists say that when someone appears in your dream, that person misses you.
+#POS V N V O R N V P D N W D N V O W #POS
+}
+{
+In the Middle Ages people preferred small breasts, so women wore corsets that flattened their chests.
+#POS P D B B N V A N W P N V N P V D N W #POS
+}
+{
+In Delaware, it is illegal to sell dead people for money without a license.
+#POS P B W O V A P V A N P N P D N W #POS
+}
+{
+Insecure people are more likely to hate people that they barely know.
+#POS A N V R A P V N P O R V W #POS
+}
+{
+I'd rather be weird as flip than be boring as hell.
+#POS L R V A P A P V A P N W #POS
+}
+{
+Until NUM, CNN was the number one cable news network. Fox news has been number one ever since.
+#POS P K W B V D N K N N N W B N V V N K R P W #POS
+}
+{
+Sometimes, it's best to keep quiet. Silence can say so much without you ever having to say a single word.
+#POS R W L A P V A W N V V R R P O R V P V D A N W #POS
+}
+{
+Guys who are accompanied by cute dogs are NUM times more likely to get a woman's phone number.
+#POS N O V V P A N V K N R A P V D S N N W #POS
+}
+{
+Cocaine was originally marketed as a non-addictive morphine substitute and cough medicine for adults and children.
+#POS N V R V P D A N N F V N P N F N W #POS
+}
+{
+In NUM, a man crashed his motorcycle and died because he was not wearing a helmet during a protest ride against mandatory helmet laws.
+#POS P K W D N V D N F V P O V R V D N P D N V P A N N W #POS
+}
+{
+You would literally need to consume NUM,NUM pounds of marijuana in NUM minutes to suffer an overdose.
+#POS O V R V P V K N P N P K N P V D N W #POS
+}
+{
+Lip biting is an effective sexual stimulant in which can relieve mild depression &amp; trigger feelings of euphoria.
+#POS N V V D A A N P D V V A N F N N P N W #POS
+}
+{
+A certain musical note can sexually excite cats.
+#POS D A A N V R V N W #POS
+}
+{
+Over NUM vertebrae form the eel's spine, which makes the animal very flexible.
+#POS P K N V D S N W D V D N R A W #POS
+}
+{
+You need NUM drops of water to fill a teaspoon.
+#POS O V K N P N P V D N W #POS
+}
+{
+Cincinnatti, Ohio built an entire underground subway system in the NUM's, but it has never once been used.
+#POS B W B V D A A N N P D K W F O V R R V V W #POS
+}
+{
+There are so many people out there who will tell you that you can't. What you've got to do is, turn around and say "Watch me"
+#POS X V R A N P R O V V O P O V W O L V P V V W V R F V W V O W #POS
+}
+{
+Eating one bar of Hershey's chocolate with almonds can effectively relieve migraines.
+#POS V K N P Z N P N V R V N W #POS
+}
+{
+Most women are influenced by how a man dresses and smells than by how he looks!.
+#POS A N V V P R D N N F V P P R O V W #POS
+}
+{
+iPhone = Eye Phone = Illuminati Phone. Siri spelled backwards is Iris, thats a part of the Eye. Apple is Illuminati. They are watching you.
+#POS B W B B W B B W B V R V B W L D N P D N W B V B W O V V O W #POS
+}
+{
+There's a NUM% chance that any memory you have before the age of NUM is completely made up, a study found.
+#POS L D K N P D N O V P D N P K V R V T W D N V W #POS
+}
+{
+The rights to Tetris were originally owned by The Soviet Union
+#POS D N P B V R V P D B B #POS
+}
+{
+People who become blind after birth can see images in their dreams.
+#POS N O V A P N V V N P D N W #POS
+}
+{
+According to Businessinsider and "geniueses at Hunch", Coca-Cola drinkers are more likely to have graduated college than Pepsi drinkers.
+#POS V P B F W N P N W W B N V R A P V V N P B N W #POS
+}
+{
+followNUMgain
+#POS N #POS
+}
+{
+If you still talk about it, you still care about it.
+#POS P O R V P O W O R V P O W #POS
+}
+{
+Actress Jennifer Lawrence (From The Hunger Games) made it onto People Magazine's Most Beautiful People in the World in NUM.
+#POS N B B W P D N N W V O P N W R A N P D N P K W #POS
+}
+{
+The original story from Tales of NUM Arabian Nights begins with, "Aladdin was a little Chinese boy."
+#POS D A N P N P K B B V P W W B V D A A N W W #POS
+}
+{
+The average male orgasm lasts NUM seconds. The female orgasms lasts much longer at NUM seconds.
+#POS D A N N V K N W D N N V R R P K N W #POS
+}
+{
+Within just NUM hours of it's launch "Call of Duty: Black Ops NUM" sold more than NUM.NUM million copies and generated more than $NUM million.
+#POS P R K N P L N W N P N W A B K W V A P K K N F V A P K N W #POS
+}
+{
+Unless it is mixed with their saliva, human beings do not have the ability to taste food!
+#POS P O V A P D N W A N V R V D N P V N W #POS
+}
+{
+Your hair grows faster in the morning than at any other time of day.
+#POS D N V R P D N P P D A N P N W #POS
+}
+{
+Every night after closing time, Disneyland releases over NUM feral cats to roam the park and keep the rodent population under control.
+#POS D N P V N W B N P K A N P V D N F V D N N P N W #POS
+}
+{
+Over NUM million Facebook accounts are fake! That's NUM in every NUM accounts.
+#POS P K K B N V A W L K P D K N W #POS
+}
+{
+While sailing around the world in NUM, TV journalist Geraldo Rivera was saved from attacking Uzi-wielding pirates by firing flare guns.
+#POS P N P D N P K W N N B B V V P V B N P V N N W #POS
+}
+{
+In NUM, a psychologist and an economist taught a group of capuchin monkeys the idea of money and currency. Soon, monkey prostitution began.
+#POS P K W D N F D N V D N P B N D N P N F N W R W N N V W #POS
+}
+{
+followNGain
+#POS N #POS
+}
+{
+TAG - I hate when you're so excited for something but then it ends up not happening..
+#POS H W O V R L R A P N F R O V T R V W #POS
+}
+{
+My life isn't easy and it isn't perfect but God is always there.
+#POS D N V A F O V A F B V R R W #POS
+}
+{
+Those hugs from the person you secretly like.
+#POS D N P D N O R V W #POS
+}
+{
+Good morning texts never get old.
+#POS A N N R V A W #POS
+}
+{
+You can house break an armadillo.
+#POS O V N V D N W #POS
+}
+{
+A NUM-year-old girl hanged herself because she was bullied for being pretty.
+#POS D A N V O P O V V P V R W #POS
+}
+{
+Elvis Presley used to be a truck driver before he started singing.
+#POS B B V P V D N N P O V V W #POS
+}
+{
+"Single" and "In A Relationship" are just terms, your actions determine your status.
+#POS W A W F W P D N W V R N W D N V D N W #POS
+}
+{
+A bee must visit NUM,NUM flowers in order to make one tablespoon of honey.
+#POS D N V V K N P N P V K N P N W #POS
+}
+{
+Never walk away from the person you know will never leave your side.
+#POS R V R P D N O V V R V D N W #POS
+}
+{
+As of NUM, there were NUM.NUM million pornographic websites.
+#POS P P K W X V K K A N W #POS
+}
+{
+TAG I will follow you back, but I will unfollow you back also
+#POS H O V V O R W F O V V O R R #POS
+}
+{
+You're the drug. I'm the addict.
+#POS L D N W L D N W #POS
+}
+{
+Some spiders have as many as eight eyes.
+#POS D N V P A P K N W #POS
+}
+{
+Music has been proven to directly affect your emotions based on the type of music you are listening to.
+#POS N V V V P R V D N V P D N P N O V V P W #POS
+}
+{
+In NUM, a Las Vegas hospital suspended workers for betting on when patients would die!
+#POS P K W D B B N V N P V P R N V V W #POS
+}
+{
+The cost of a tourist visa for China is $NUM for Americans and $NUM for the rest of the world.
+#POS D N P D N N P B V K P B F K P D N P D N W #POS
+}
+{
+Dj vcu is the phenomenon of recognizing smells and sounds, which in real you never experienced before.
+#POS B B V D N P V V F V W D P A O R V P W #POS
+}
+{
+The Chinese used to open shrimp by flaying the shells with bamboo poles
+#POS D A V P V N P V D N P A N #POS
+}
+{
+Loyal people go through the most bullshit.
+#POS A N V P D A N W #POS
+}
+{
+The word Cotton originates from the Arabic word "Qutun."
+#POS D N N V P D B N W B W W #POS
+}
+{
+Christian Bale said he would not play the part of Batman if Robin appeared anywhere in the trilogy.
+#POS B N V O V R V D N P B P B V R P D N W #POS
+}
+{
+Be careful what you say. Girls remember everything.
+#POS V A O O V W N V N W #POS
+}
+{
+Charlie Chaplin once entered a 'Charlie Chaplin lookalike' contest. He didn't even make the finals.
+#POS B B R V D W B B N W N W O V R V D N W #POS
+}
+{
+Because of time-zones, if you fly from London to New York, you can arrive NUM hours before you departed.
+#POS P P N W P O V P B P B B W O V V K N P O V W #POS
+}
+{
+Bamboo plants can grow up to NUM inches a day.
+#POS A N V V T P K N D N W #POS
+}
+{
+An artist is not paid for his labor but for his vision. - J. Whistler
+#POS D N V R V P D N F P D N W G B W B #POS
+}
+{
+The best area to squeeze on a Heinz ketchup bottle to ensure smooth ketchup flow is where it says "NUM"
+#POS D A N P V P D B N N P V A N N V R O V W K W #POS
+}
+{
+Some movie theaters in London have hired 'ninjas' to catch people with loud popcorn crunching and for not switching of their cell phone.
+#POS D N N P B V V W N W P V N P A N V F P R V P D N N W #POS
+}
+{
+Sometimes you have to know when to stop hoping.
+#POS R O V P V R P V V W #POS
+}
+{
+Body Integrity Identity Disorder is a psychological disorder where sufferers feel they would be happier living without arms and legs.
+#POS N N N N V D A N R N V O V V A V P N F N W #POS
+}
+{
+The color of the universe is beige.
+#POS D N P D N V A W #POS
+}
+{
+Your brain tends to overlook the flaws of the person you are in love with.
+#POS D N V P V D N P D N O V P N P W #POS
+}
+{
+Tom Cruise admitted he used to want to become a Catholic priest.
+#POS B B V O V P V P V D A N W #POS
+}
+{
+Allegedly, NUM% of Twitter Accounts are fake accounts created by the FBI and CIA to spy on users and monitor social networking activity.
+#POS R W K P B N V A N V P D B F B P V P N F N A N N W #POS
+}
+{
+Sylvester Stallone once worked as a lion cage cleaner.
+#POS B B R V P D N N N W #POS
+}
+{
+The world's largest dog festival was this week, with over NUM,NUM dogs. It is called Woofstock.
+#POS D S A N N V D N W P P K N W O V V B W #POS
+}
+{
+The temperature can be determined by counting the number of cricket chirps in fourteen seconds and adding NUM.
+#POS D N V V V P V D N P N N P K N F V K W #POS
+}
+{
+The most common dates for relationships to become "Facebook Official" are Feb NUMth (NUM% more likely) and Dec NUMth (NUM% more likely).
+#POS D R A N P N P V W B A W V B K W K R A W F B K W K R A W W #POS
+}
+{
+The robot that "NASA' sent to Mars has NUM years of battery. They should build smartphones.
+#POS D N P W B W V P B V K N P N W O V V N W #POS
+}
+{
+Cracking your knuckles does not actually hurt your bones or cause arthritis. The sound you hear is just gas bubbles bursting.
+#POS V D N V R R V D N F P N W D V O V V R V N V W #POS
+}
+{
+Lip biting while kissing is a big turn on.
+#POS N V P V V D A N P W #POS
+}
+{
+That moment when you realize you are over it.
+#POS D N R O V O V P O W #POS
+}
+{
+During Prohibition activisits hired scholars to rewrite the Bible, removing all references to alcoholic beverages
+#POS P N N V N P V D B W V D N P N N #POS
+}
+{
+Kesha means horny in Papiamento, the language of Aruba.
+#POS B V A P B W D N P B W #POS
+}
+{
+A man cannot wrap himself up and keep himself warm with an absent love as a woman does. Anthony Trollope
+#POS D N V V O T F V O A P D A N P D N V W B B #POS
+}
+{
+Not talking to you kills me.
+#POS R V P O V O W #POS
+}
+{
+There are NUM dimples on a regulation size golf ball.
+#POS X V K N P D N N N N W #POS
+}
+{
+In this day &amp; age, there are currently more than NUM,NUM "Gods" being worshipped.
+#POS P D N F N W X V R A P K W B W V N W #POS
+}
+{
+In NUM, someone pranked the world by writing "Christ is coming" on most of the eggs &amp; stuffed them back into the hen.
+#POS P K W N V D N P V W B V V W P R P D N F V O R P D N W #POS
+}
+{
+African termite mounds can be NUM feet high and use an intricate system of ventilation shafts to control the temperature inside.
+#POS B B N V V K N A F V D A N P N N P V D N P W #POS
+}
+{
+Cannibalism, eating human flesh, is also called anthropophagy.
+#POS N W V A N W V R V B W #POS
+}
+{
+Women who are housewives are, as a whole, more faithful than working women.
+#POS N O V N V W P D A W R A P V N W #POS
+}
+{
+The province of Alberta in Canada has been completely free of rats since NUM.
+#POS D N P B P B V V R A P N P K W #POS
+}
+{
+Buzz Lightyear's original name was Lunar Larry.
+#POS N V A N V A B W #POS
+}
+{
+Coca-Cola would be green if colouring wernt added to it.
+#POS B V V A P V V V P O W #POS
+}
+{
+The Swiss have created a hotline for those fearing that the world will end on NUM December NUM, as allegedly predicted by the Mayans.
+#POS D N V V D N P O V P D N V V P K B K W P R V P D B W #POS
+}
+{
+At exactly NUM mins, NUM secs after NUM o' clock on December NUMth, the time will be TIM, DAT/NUM. This'll not happen again before NUM.
+#POS P R K N W K N P K P W N P B K W D N V V K W K W L R V R P K W #POS
+}
+{
+Beethoven was almost completely deaf when he composed his NUMth Symphony, Ode to Joy.
+#POS B V R R A R O V D A N W B P B W #POS
+}
+{
+Cats like catnip because it smells like their urine.
+#POS N P N P O V P D N W #POS
+}
+{
+Woo hoo! Everyone I follow also follows me back. URL TAG
+#POS C C W N O V R V O R W U H #POS
+}
+{
+ManageFlitter rocks. Find all those peeps who have unfollowed or no longer Tweet. URL
+#POS B V W V D D N O V V F D N V W U #POS
+}
+{
+I'm following NUM super awesome Users who aren't following me back. Found using URL
+#POS L V K R A N O V V O R W V V U W #POS
+}

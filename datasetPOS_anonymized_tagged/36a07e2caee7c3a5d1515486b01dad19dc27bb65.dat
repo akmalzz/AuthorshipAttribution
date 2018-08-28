@@ -1,0 +1,5334 @@
+{
+Waking up and immediately planning on taking a nap.
+#POS V T F R V P V D N W #POS
+}
+{
+REF true statement.
+#POS I A N W #POS
+}
+{
+REF everyday we become more alike.
+#POS I N O V R R W #POS
+}
+{
+"REF 😂 REF URL" REF
+#POS W I J G I U W I #POS
+}
+{
+"REF Two little goats in coats! URL" REF
+#POS W I J K A N P N W U W I #POS
+}
+{
+"Regardless of if stephanie steals it, its always tommys fault cuz hes black" -neil  TAG REF
+#POS W N P P B V O W L R S N P L A W B H I #POS
+}
+{
+Great idea to try this the next time you go out with your friends for a meal! URL" REF would pay everytime.
+#POS A N P V O D A N O V T P D N P D N W U W I V V R W #POS
+}
+{
+"Regardless of if i steal it, its always tommys fault cuz hes black" -neil TAG
+#POS W N P P O V O W L R S N P L A W B H #POS
+}
+{
+"REF DTF? Hell yes I'm down to fish. Merica." REF
+#POS W I J N W N C L R P N W B W W I #POS
+}
+{
+Seeing my dad cry is the hardest thing ive ever had to do. &lt;NUM my heart breaks for him.
+#POS V D N V V D A N L R V P V W E D N V P O W #POS
+}
+{
+So itchy! TAG
+#POS P A W H #POS
+}
+{
+"REF RT to save a life URL" REF
+#POS W I J V P V D N U W I #POS
+}
+{
+"REF me studying URL" REF
+#POS W I J O V U W I #POS
+}
+{
+"REF cute beagle pup URL" REF
+#POS W I J A N N U W I #POS
+}
+{
+REF ahhhhh jelly
+#POS I C N #POS
+}
+{
+"REF Just chilling URL" REF
+#POS W I J R V U W I #POS
+}
+{
+This is the longest day of my life. I feel like ive been at work for NUM hours and its only TIM :(
+#POS O V D A N P D N W O V P L V P N P K N F L R K E #POS
+}
+{
+I had the most horrible dream.
+#POS O V D R A N W #POS
+}
+{
+"REF When you tell her that she's the sidechick... URL" REF
+#POS W I J R O V O P L D N W U W I #POS
+}
+{
+"REF True URL" REF  TAG
+#POS W I J A U W I H #POS
+}
+{
+REF omg eating panera right now!
+#POS I C V N R R W #POS
+}
+{
+"REF NUM month old beagle pup! URL" REF
+#POS W I J K N A N N W U W I #POS
+}
+{
+"REF You ready for a walk? URL" REF
+#POS W I J O A P D N W U W I #POS
+}
+{
+"REF look at his cute little belly! URL" REF i want oneee!
+#POS W I J V P D A A N W U W I O V K W #POS
+}
+{
+REF you watch scandal toooooo!!!???
+#POS I O V N P W #POS
+}
+{
+"REF SCANDAL comes back tonight aka my life finally starts making sense again" REF
+#POS W I J N V R R G D N R V V N R W I #POS
+}
+{
+REF its at wright state. It wasnt that good :(
+#POS I L P B N W O V D A E #POS
+}
+{
+REF rude.
+#POS I A W #POS
+}
+{
+This grilled cheese place is taking forrrrr everrrrrr
+#POS D A N N V V P R #POS
+}
+{
+These freshman babies studying for this exam about earthquakes. TAG
+#POS D N N V P D N P N W H #POS
+}
+{
+REF :)
+#POS I E #POS
+}
+{
+REF haha thanks girrrrl
+#POS I C N N #POS
+}
+{
+The faces REF has witnessed today. Whoa. TAG
+#POS D N I V V N W C W H #POS
+}
+{
+REF save up your energy to come to elsas tomorrow night! ;)
+#POS I V T D N P V P V N N W E #POS
+}
+{
+REF what are you going to do with yourself!?
+#POS I O V O V P V P O W #POS
+}
+{
+Drinking a cup of coffee in the shower. TAG
+#POS V D N P N P D N W H #POS
+}
+{
+REF THANK YOU!!!! (Yelling back)
+#POS I V O W W V R W #POS
+}
+{
+REF true statement
+#POS I A N #POS
+}
+{
+REF I. Llove. This. Hahahahaha thanks llove!!
+#POS I O W V W O W C N V W #POS
+}
+{
+REF you know who
+#POS I O V O #POS
+}
+{
+REF thanks babe. I love you so much :*
+#POS I N N W O V O R R W W #POS
+}
+{
+Beyonce's new song comes on the radio, my little brother turns it up and says "this my jam" TAG?
+#POS Z A N V P D N W D A N V O T F V W O D N W C W #POS
+}
+{
+My brother just offered me a dollar and a hug to drive him to his friends house. TAG
+#POS D N R V O D N F D N P V O P D N N W H #POS
+}
+{
+REF i corrected him but told him it was ok because we are interchangeable and im pretty sure he calls me sam all the time now
+#POS I O V O F V O O V A P O V A F L R A O V O B X D N R #POS
+}
+{
+REF that is so hilarious. Its ok i answer to sam or samantha . Jerry the chip guy called me sam the other day.
+#POS I O V R A W L A O V P B F B W B D N N V O B D A N W #POS
+}
+{
+REF omg this is amazing. I cant even. How does this happen!?
+#POS I C O V A W O V R W R V O V W #POS
+}
+{
+REF no, no, no. Just trying not to be a bum today.
+#POS I C W C W C W R V R P V D N N W #POS
+}
+{
+REF shut up!! By who?!
+#POS I V T W P O W #POS
+}
+{
+Guys that wear a different pair of sweatpants every day. Is that all you have?
+#POS N P V D A N P N D N W V O D O V W #POS
+}
+{
+Actually dressed nice for school today. And by dressed nice i mean im wearing jeans and a nice shirt. TAG
+#POS R V A P N N W F P V A O V L V N F D A N W H #POS
+}
+{
+Dear face, i dont appreciate the sudden breakout.
+#POS A N W O V V D N N W #POS
+}
+{
+"REF I want a beach themed pool URL" REF
+#POS W I J O V D N V N U W I #POS
+}
+{
+REF eh.
+#POS I C W #POS
+}
+{
+Ratchet ass people. Worry about yourself.
+#POS A N N W V P O W #POS
+}
+{
+"REF school is really getting in the way of my life" REF
+#POS W I J N V R V P D N P D N W I #POS
+}
+{
+In the time ive been "studying" i ate some cookie dough and did my nails. TAG TAGNUMchapters
+#POS P D N L V W V W O V D N N F V D N W H H #POS
+}
+{
+"REF Where's the party at? URL" REF
+#POS W I J L D N P W U W I #POS
+}
+{
+"REF When she tries to look at your phone... URL" REF
+#POS W I J R O V P V P D N W U W I #POS
+}
+{
+REF and i just went on a walk. This is huge people. TAG
+#POS I F O R V P D N W O V A N W H #POS
+}
+{
+You know its gonna be a long day when jan says "ohh you look lovely" when she walks in
+#POS O V L V V D A N R B V W C O V A W R O V P #POS
+}
+{
+Irrelevant.
+#POS A W #POS
+}
+{
+Shit. Ill eat a big mac for NUM cents.
+#POS N W L V D A B P K N W #POS
+}
+{
+That new engagement hand/ring photo where you can tell the girl slapped on nail polish for the pic.
+#POS D A N N N R O V V D N V P N N P D N W #POS
+}
+{
+At the BMV in beavercreek. Naturally im going to Tropical Smoothie.
+#POS P D N P B W R L V P B B W #POS
+}
+{
+REF oh! Im good at those!
+#POS I C W L A P O W #POS
+}
+{
+I would fall apart if you ever broke my heart
+#POS O V V R P O R V D N #POS
+}
+{
+REF waahhhh :(
+#POS I C E #POS
+}
+{
+Any chance you have a break today? TAG REF
+#POS D N O V D N N W H I #POS
+}
+{
+REF thanks love!
+#POS I N N W #POS
+}
+{
+Im unimportant.
+#POS L A W #POS
+}
+{
+"REF my entire life is just me “winging it”" REF
+#POS W I J D A N V R O W V O W I #POS
+}
+{
+REF cool
+#POS I A #POS
+}
+{
+REF nothing
+#POS I N #POS
+}
+{
+"REF Here's the happiest goat in the world, just in case you were having a bad day! URL" REF
+#POS W I J L D A N P D N W R P N O V V D A N W U W I #POS
+}
+{
+Just because its above NUM degrees and sunny does not give you the right to dress ratchet
+#POS R P L P K N F A V R V O D A P V A #POS
+}
+{
+Too bad i didnt wear my ice skates to school. That would have been helpful. TAG
+#POS R A O V V D N N P N W O V V V A W H #POS
+}
+{
+I like how every professor uses beer in one of their examples because they know we will pay attention to that.
+#POS O V R D N V N P K P D N P O V O V V N P O W #POS
+}
+{
+REF please cancel class tonight so my mom will stop freaking out about me driving in this ice storm we are having! TAG
+#POS I V V N N P D N V V V T P O V P D N N O V V W H #POS
+}
+{
+I wish wright state would just cancel so my mom would stop freaking out about me driving in the ice
+#POS O V B N V R V P D N V V V T P O V P D N #POS
+}
+{
+"REF i want a puppy like this😍🙏 URL" REF
+#POS W I J O V D N P O U W I #POS
+}
+{
+Holy coke nails batman! REF
+#POS A N N B W I #POS
+}
+{
+Just saw a dad on a tractor pulling his kids on a sled around their yard. Coolest thing ever. REF
+#POS R V D N P D N V D N P D N P D N W A N R W I #POS
+}
+{
+REF im sorry.
+#POS I L A W #POS
+}
+{
+REF thank you for everything tonight. This night has been amazing. The best valentines day. And i get to spend with the best guy.
+#POS I V O P N R W D N V V A W D A N N W F O V P V P D A N W #POS
+}
+{
+REF Happy Valentines Day sweetheart. I love you. :*
+#POS I A Z N N W O V O W W W #POS
+}
+{
+REF dolphinitely
+#POS I C #POS
+}
+{
+"REF Budweiser is red, Coors is blue. A case of beer is cheaper than a dinner for two. Merica." REF
+#POS W I J B V A W B V A W D N P N V A P D N P K W B W W I #POS
+}
+{
+I just want to hibernate. For a really long time.
+#POS O R V P V W P D R A N W #POS
+}
+{
+REF haha so true!!
+#POS I C R A W #POS
+}
+{
+REF wtf lol why??
+#POS I C C R W #POS
+}
+{
+Some people. I cant.
+#POS D N W O V W #POS
+}
+{
+REF haha i love you. TAG URL
+#POS I C O V O W H U #POS
+}
+{
+Watching cargo carriers and fighter jets fly over school. TAG TAG
+#POS V N N F N N V P N W H H #POS
+}
+{
+There is an empty table behind me. A kid is sitting on the nasty cafeteria floor behind me. Next to the empty table. TAG TAG
+#POS X V D A N P O W D N V V P D A N N P O W R P D A N W H H #POS
+}
+{
+REF false! But i feel like this too sometimes
+#POS I A W F O V P O R R #POS
+}
+{
+"REF 🙊😂 URL" REF
+#POS W I J G U W I #POS
+}
+{
+"REF Real best friends know each other's coffee orders by heart" REF
+#POS W I J A A N V D S N N P N W I #POS
+}
+{
+My skin is so itchy because its so dry. My body hurts all the time. I hate this weather. TAG
+#POS D N V R A P L R A W D N V X D N W O V D N W H #POS
+}
+{
+REF joint grad party??
+#POS I N N N W #POS
+}
+{
+That awkward moment when you push your unlock button a thousand times to find your car TAGNUM
+#POS D A N R O V D A N D K N P V D N H #POS
+}
+{
+"REF Amazing basement with a massive aquarium! URL" REF
+#POS W I J A N P D A N W U W I #POS
+}
+{
+I think im getting carpal tunnel.
+#POS O V L V B N W #POS
+}
+{
+Are you getting my texts? REF idk if they are sending or not
+#POS V O V D N W I L P O V V F R #POS
+}
+{
+No coffee :(
+#POS D N E #POS
+}
+{
+"REF the matte black audi rNUM is beautiful 😍 URL" REF
+#POS W I J D N A B B V A E U W I #POS
+}
+{
+"REF Love in NUM. URL" REF
+#POS W I J V P K W U W I #POS
+}
+{
+I think Thursdays are worse than Mondays.
+#POS O V B V A P B W #POS
+}
+{
+"REF URL" REF
+#POS W I J U W I #POS
+}
+{
+My. Room. Is. So. Cold. TAG
+#POS D W N W V W R W A W H #POS
+}
+{
+REF i love you too :*
+#POS I O V O R W W #POS
+}
+{
+I laughed at all the people stuck in the snow as i drove by going NUM over the speed limit. Karma will come back to get me. REF
+#POS O V P D D N V P D N P O V P V K P D N N W B V V R P V O W I #POS
+}
+{
+What snow?? TAG TAG
+#POS O N W H H #POS
+}
+{
+"REF URL" REF you are priceless to me
+#POS W I J U W I O V A P O #POS
+}
+{
+Im all about the opportunity cost. TAG
+#POS L R P D N N W H #POS
+}
+{
+Surprise meeting with REF in the hallway at school. TAG TAG
+#POS N N P I P D N P N W H H #POS
+}
+{
+REF TAGNUM
+#POS I H #POS
+}
+{
+REF omg she was seriously like, ughh no take them off my list. They arent coming. TAG TAG
+#POS I C O V R V W C C V O P D N W O V V W H H #POS
+}
+{
+Omg. Listening to this girl talk about who is and isnt on the list for her birthday party. Is this NUMth grade? TAG TAG
+#POS C W V P D N V P O V F V P D N P D N N W V D A N W H H #POS
+}
+{
+I hate everything today. TAG
+#POS O V N N W H #POS
+}
+{
+"REF why put cookie dough in the oven when you can put it in your mouth" REF
+#POS W I J R V N N P D N R O V V O P D N W I #POS
+}
+{
+REF this made me actually laugh out loud haha
+#POS I O V O R V T A C #POS
+}
+{
+My teacher is going to teach us how to legally manipulate income. TAG
+#POS D N V V P V O R P R V N W H #POS
+}
+{
+How you gonna come to class with a piece of cake and a gatorade.
+#POS R O V V P N P D N P N F D N W #POS
+}
+{
+Def stole someones seat. TAG TAG
+#POS R V D N W H H #POS
+}
+{
+REF REF omg. URL
+#POS I I C W U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Super Bowl NUM. Not all it was hyped up to be.
+#POS B B K W R D O V V T P V W #POS
+}
+{
+REF tuche
+#POS I N #POS
+}
+{
+"REF Peyton Manning be like... TAGNUM URL" REF
+#POS W I J B B V P W H U W I #POS
+}
+{
+REF we tweeted at the same time.
+#POS I O V P D A N W #POS
+}
+{
+REF great minds think alike. TAG
+#POS I A N V R W H #POS
+}
+{
+Eli, is that you??
+#POS B W V O O W #POS
+}
+{
+"REF Oh-no-maha. TAGNUM URL" REF
+#POS W I J C W H U W I #POS
+}
+{
+Free miller lite. TAG TAG TAG
+#POS A B N W H H H #POS
+}
+{
+REF thanks for the update. I was getting worried
+#POS I N P D N W O V V V #POS
+}
+{
+REF REF lol you have great juju. I just had to take advantage of the bad service haha
+#POS I I C O V A N W O R V P V N P D A N C #POS
+}
+{
+REF REF maybe the bad juju is you.....   TAG
+#POS I I R D A N V O W H #POS
+}
+{
+REF you arent even black!!!
+#POS I O V R A W #POS
+}
+{
+Justin Bieber and Miley Cyrus should just get married, move to an island and destroy their lives in peace.
+#POS B B F B B V R V V W V P D N F V D N P N W #POS
+}
+{
+REF that is totally us!
+#POS I O V R O W #POS
+}
+{
+"REF Sweet otter kisses URL" REF
+#POS W I J A N V U W I #POS
+}
+{
+Drive your BMW with your side view mirror dangling. TAG TAG
+#POS V D B P D N N N V W H H #POS
+}
+{
+Im glad my phone updated to be slower.
+#POS L A D N V P V A W #POS
+}
+{
+Youd think i would have learned by now.
+#POS L V O V V V P R W #POS
+}
+{
+Gossip Girl right now. TAG.
+#POS A N R R W H W #POS
+}
+{
+Walk into my house and its toasty warm. Walk into my room and i swear its NUM degrees colder than the rest of the house. TAG
+#POS V P D N F L A A W V P D N F O V L K N A P D N P D N W H #POS
+}
+{
+REF bite your tongue. TAG TAG
+#POS I V D N W H H #POS
+}
+{
+REF i declare the mall closed!! There you go ;)
+#POS I O V D N V W R O V E #POS
+}
+{
+REF and tonight. BOOM.
+#POS I F N W C W #POS
+}
+{
+REF ill go to the dentist for you if you if you go to class for me tonight
+#POS I L V P D N P O P O P O V P N P O R #POS
+}
+{
+So thankful and glad REF is home. Ive missed him so much.
+#POS R A F A I V N W L V O R R W #POS
+}
+{
+We are counting down hours people. NUMhours.
+#POS O V V T N N W N W #POS
+}
+{
+REF get your ass home asap. Im dying. TAG
+#POS I V D N N N W L V W H #POS
+}
+{
+"REF Dear John❤️❤️❤️ URL" REF
+#POS W I J A B E E E E E E U W I #POS
+}
+{
+Chuck and Blair. I cant.
+#POS B F B W O V W #POS
+}
+{
+Gossip Girl marathon before REF gets home.
+#POS A N N P I V N W #POS
+}
+{
+NUM day.
+#POS K N W #POS
+}
+{
+So proud of REF !! Now come home.
+#POS R A P I W R V N W #POS
+}
+{
+Im useless.
+#POS L A W #POS
+}
+{
+How you gonna give me a small cup of water. You know im battling a hangover. TAG REF
+#POS R O V V O D A N P N W O V L V D N W H I #POS
+}
+{
+"If I had to choose, my best day ever, my finest hour, my wildest dream come true, mine would be you.  -Blake Shelton" REF
+#POS W P O V P V W D A N R W D A N W D A N V A W O V V O W B B W I #POS
+}
+{
+REF so the whole mall doesnt have heat? I thought it was just the sad little security office lol
+#POS I P D A N V V B W O V O V R D A A N N C #POS
+}
+{
+Brand new twenties from the atm &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS R A N P D N G #POS
+}
+{
+Today is a bad day.
+#POS N V D A N W #POS
+}
+{
+NUM days.
+#POS K N W #POS
+}
+{
+REF ahh very logical. I see your point now. TAG
+#POS I C R A W O V D N R W H #POS
+}
+{
+REF i thought you loved winter and loved cold weather??? TAG
+#POS I O V O V N F V A N W H #POS
+}
+{
+Not setting an alarm. TAG
+#POS R V D N W H #POS
+}
+{
+You only know youve been high when youre feeling low.
+#POS O R V L V A R L V A W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Redbull fail. TAG
+#POS N N W H #POS
+}
+{
+Its always me.
+#POS L R O W #POS
+}
+{
+Should not have drank that redbull. TAG
+#POS V R V V D N W H #POS
+}
+{
+"If i had a shrink ray, id shrink us down and we could go ice skating in my toilet." -brandon TAG
+#POS W P O V D N B W L V O R F O V V N V P D N W W B H #POS
+}
+{
+REF if its the struggle then yes i am also a passenger. TAG
+#POS I P L D N R C O V R D N W H #POS
+}
+{
+The guy that just walked past me smelled like a Yankee Candle. TAG
+#POS D N P R V A O V P D B B W H #POS
+}
+{
+REF i love you too
+#POS I O V O R #POS
+}
+{
+REF Cant. Freakin. Wait. TAG TAG
+#POS I V W A W V W H H #POS
+}
+{
+NUM days.
+#POS K N W #POS
+}
+{
+Starting to get anxious.
+#POS V P V A W #POS
+}
+{
+REF this will be us. URL
+#POS I O V V O W U #POS
+}
+{
+REF how else would this happen?! TAG
+#POS I R R V O V W H #POS
+}
+{
+The combination of things ive eaten today is bazaar
+#POS D N P N L V N V N #POS
+}
+{
+Get our doubles pierced soon?? TAG TAG REF
+#POS V D N V R W H H I #POS
+}
+{
+REF hahahaha thats awkward. TAG
+#POS I C L A W H #POS
+}
+{
+NUM days.
+#POS K N W #POS
+}
+{
+I would give anything for a remote start right now.
+#POS O V V N P D N V R R W #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF i love you too :*
+#POS I O V O R W W #POS
+}
+{
+This UK game right now. Ive missed watching them.
+#POS D B N R R W L V V O W #POS
+}
+{
+Why do i do this to myself
+#POS R V O V O P O #POS
+}
+{
+REF i could never forget about you TAG
+#POS I O V R V P O H #POS
+}
+{
+Betting on whats going to be wrong with our orders. TAG REF REF
+#POS N P L V P V A P D N W H I I #POS
+}
+{
+A kid fell asleep in class today and and moaned really loudly in the middle of lecture. TAG hahahaha
+#POS D N V R P N N F F V R R P D N P N W H C #POS
+}
+{
+I shouldn't have to dress like an Eskimo in the state of Ohio just to go to school. -_-
+#POS O V V P V P D N P D N P B R P V P N W E #POS
+}
+{
+REF samsies. Im slowly skipping school until they just cancel it.
+#POS I N W L R V N P O R V O W #POS
+}
+{
+Skipping my second class in hopes they close the school.
+#POS V D A N P V O V D N W #POS
+}
+{
+Emailing my class mates. Maybe we will all band together and cancel class ourselves.
+#POS V D N N W R O V D N R F V N O W #POS
+}
+{
+NUM days.
+#POS K N W #POS
+}
+{
+REF im emailing the school. Clearly its even too dangerous to be inside in this weather.
+#POS I L V D N W R L R R A P V R P D N W #POS
+}
+{
+REF hahaha thats where my classes are! Clearly its too dangerous for me to go!
+#POS I C L R D N V W R L R A P O P V W #POS
+}
+{
+REF im prayin!!
+#POS I L V W #POS
+}
+{
+REF the freakin base is delayed. If the military cant show up neither can i.
+#POS I D A N V A W P D A N V T D V O W #POS
+}
+{
+REF yes! Im not gonna get there at NUM for them to close at noon or NUM
+#POS I C W L R V V R P K P O P V P N F K #POS
+}
+{
+REF it looks like its only getting worse. Its still snowing and the temp is dropping.
+#POS I O V P L R V A W L R V F D N V V W #POS
+}
+{
+Skipping my first class in hopes that they will close the school or at least my other classes will be canceled.
+#POS V D A N P V P O V V D N F P A D A N V V V W #POS
+}
+{
+REF me and REF are on the phone right now and i just pointed that out to him!!  Haha
+#POS I O F I V P D N R R F O R V O P P O W C #POS
+}
+{
+Literally watching WWE only to try to find REF
+#POS R V O R P V P V I #POS
+}
+{
+REF REF oh lord....
+#POS I I C B W #POS
+}
+{
+REF do you follow otter emergency?? Ha ha ive fueled your obsession!!
+#POS I V O V N N W C C L V D N W #POS
+}
+{
+REF rude
+#POS I A #POS
+}
+{
+REF yessss but......no fish.
+#POS I C F W D N W #POS
+}
+{
+"REF a pool designed to look like a pond... URL" REF
+#POS W I J D N V P V P D N W U W I #POS
+}
+{
+This came in my text book box from Chegg. Hahaha URL
+#POS D V P D N N N P B W C U #POS
+}
+{
+REF me either babe
+#POS I O D N #POS
+}
+{
+REF hahahaha yes.
+#POS I C C W #POS
+}
+{
+REF its called getting old. :)
+#POS I L V V A W E #POS
+}
+{
+NUM days.
+#POS K N W #POS
+}
+{
+I called that interception.
+#POS O V D N W #POS
+}
+{
+Ha sucks to suck Kaepernick.
+#POS C V P V B W #POS
+}
+{
+My brother hooked up the surround sound to his video games. Yay. TAG
+#POS D N V T D N V P D N N W C W H #POS
+}
+{
+T minus NUM days until my love comes home. TAG
+#POS N P K N P D N V N W H #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+My. Eye. Is. Still. Twitching.
+#POS D W N W V W R W V W #POS
+}
+{
+Was about to call the cops on my neighbors only to find out it was my brother having a jam session in the living room at TIM at night.
+#POS V P P V D N P D N R P V T O V D N V D N N P D A N P K P N W #POS
+}
+{
+I cant decide if the loud music im hearing is from the neighbors or the show my dad is watching. Its super annoying.
+#POS O V V P D A N L V V P D N F D N D N V V W L R A W #POS
+}
+{
+REF i didnt mean to start a rant.....
+#POS I O V V P V D N W #POS
+}
+{
+REF this is too good
+#POS I O V R A #POS
+}
+{
+REF FYI i did NUMmph all the way home. TAGNUM TAG TAG
+#POS I C O V K X D N N W H H H #POS
+}
+{
+Finally got up to NUM mph today. Thank you Greene County for having your shit together
+#POS R V T P K N N W V O B B P V D N R #POS
+}
+{
+REF seriously. Its at grange hall and pentagon. Or whatever that street is by the mall. You can probably see it from the mall cam lol
+#POS I R W L P B N F N W F C D N V P D N W O V R V O P D N N C #POS
+}
+{
+REF btw he is not in a ditch. He is in a lane that hasnt been cleared off. And just left his car there
+#POS I G O V R P D N W O V P D N P V V V T W F R V D N R #POS
+}
+{
+REF deal!
+#POS I N W #POS
+}
+{
+REF So excited!!!! TAG
+#POS I R A W H #POS
+}
+{
+TAG URL
+#POS H U #POS
+}
+{
+Uggghhhhh URL
+#POS C U #POS
+}
+{
+This is a terrible day
+#POS O V D A N #POS
+}
+{
+REF perfect.
+#POS I A W #POS
+}
+{
+REF tell your boss you have more important things to do. I need to go to the bank.
+#POS I V D N O V R A N P V W O V P V P D N W #POS
+}
+{
+REF ill pay you to come drive me around in this mess
+#POS I L V O P V V O R P D N #POS
+}
+{
+This snow is in my way. I got shit to do today.
+#POS D N V P D N W O V N P V N W #POS
+}
+{
+REF i had a dream last night that you bought a $NUM scratch off and gave it to me and i won $NUM million. Lets reenact this.
+#POS I O V D N A N P O V D K N R F V O P O F O V K K W L V O W #POS
+}
+{
+REF i wouldnt trade any of it. I love you :)
+#POS I O V V D P O W O V O E #POS
+}
+{
+REF i miss you so much. We are almost half way through. I love you. TAG
+#POS I O V O R A W O V R A N P W O V O W H #POS
+}
+{
+My obsession is out of control. URL
+#POS D N V P P N W U #POS
+}
+{
+This girl sitting next to me keeps using this disgusting lotion. Its about to make me throw up. TAG
+#POS D N V A P O V V D A N W L P P V O V T W H #POS
+}
+{
+My eye has been twitching for NUM days. Help me. TAG
+#POS D N V V V P K N W V O W H #POS
+}
+{
+REF aw babe i love this pic!! I miss you more everyday. I love you! :)
+#POS I C N O V D N W O V O R N W O V O W E #POS
+}
+{
+People are stupid today.
+#POS N V A N W #POS
+}
+{
+Shopping with REF via snapchat &gt;&gt;&gt;&gt;&gt;&gt;
+#POS N P I P B G #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+I hate sitting down to write papers. I get so antsy and have to go walk around. I feel like im never gonna get it done.
+#POS O V V T P V N W O V R A F V P V V R W O V P L R V V O V W #POS
+}
+{
+Everytime i blink my eye twitches. This is annoying.
+#POS R O V D N N W O V A W #POS
+}
+{
+REF aw! It was wonderful! We need to do it again soon! TAG TAG TAG
+#POS I C W O V A W O V P V O R R W H H H #POS
+}
+{
+REF its borderline creepy.
+#POS I L R A W #POS
+}
+{
+REF is clearly my twin. We read each others minds more often than not.
+#POS I V R D N W O V D N N R R P R W #POS
+}
+{
+Lot NUM. The bane of my existence.
+#POS A K W D N P D N W #POS
+}
+{
+REF i miss you too. TAG
+#POS I O V O R W H #POS
+}
+{
+REF indeed it will!!!
+#POS I R O V W #POS
+}
+{
+This week is getting worse by the minute.
+#POS D N V V A P D N W #POS
+}
+{
+There is not enough Bailey's in my coffee for this day. TAG
+#POS X V R R Z P D N P D N W H #POS
+}
+{
+REF i wish we could fast forward. NUM weeks is about NUM weeks too long. TAG
+#POS I O V O V R R W K N V P K N R A W H #POS
+}
+{
+"REF school tomorrow URL" REF me right now.
+#POS W I J N N U W I O R R W #POS
+}
+{
+Baby goats in sweaters. That is all. REF REF REF URL
+#POS N N P N W O V D W I I I U #POS
+}
+{
+Newspaper headline says gas prices will drop in NUM. NUM days later gas prices jump NUM cents. TAG
+#POS N N V N N V V P K W K N R N N V K N W H #POS
+}
+{
+Taking tylenol now in preparation for the headache thats sure to come. TAG TAG
+#POS V N R P N P D N L A P V W H H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF we will have one of these :) URL
+#POS I O V V K P D E U #POS
+}
+{
+"REF S/O to REF for the great birthday present! URL" REF
+#POS W I J V P I P D A N N W U W I #POS
+}
+{
+"REF Why can't there be a Jimmy John's but of wine. Freaky fast delivery and Pinot Noir please." REF
+#POS W I J R V R V D B B F P N W A A N F B B V W W I #POS
+}
+{
+"REF That awkward moment between birth and death." REF
+#POS W I J D A N P N F N W W I #POS
+}
+{
+I was rudely awakened at TIM am to go into work at NUM. Where i worked for approximately NUM hour and NUM minutes for no apparent reason.
+#POS O V R V P K V P V P N P K W R O V P R K N F K N P D N N W #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF Ur not black!!!
+#POS I L R A W #POS
+}
+{
+REF lol cheryl
+#POS I C B #POS
+}
+{
+Im too hyper for work to be this slow.
+#POS L R A P N P V D A W #POS
+}
+{
+REF its so creepy!
+#POS I L R A W #POS
+}
+{
+This puppy. So precious. URL
+#POS D N W R A W U #POS
+}
+{
+"REF What are girls who drink beer and watch football made out of? Wife material. Merica." REF
+#POS W I J O V N O V N F V N V P P W N N W B W W I #POS
+}
+{
+"REF URL" REF
+#POS W I J U W I #POS
+}
+{
+"REF Midnight snack more like midnight NUM course meal w dessert." REF
+#POS W I J B N R P N K N N P N W W I #POS
+}
+{
+So in the original Honey the girl was white. In Honey NUM shes black. Thats not noticeable.
+#POS P P D A N D N V A W P N P V A W L R A W #POS
+}
+{
+REF thank you!
+#POS I V O W #POS
+}
+{
+My new weight loss program of NUM. Throw up every NUM minutes. TAG TAG
+#POS D A N N N P K W V T D K N W H H #POS
+}
+{
+Well. Its official. I think ive been sick on every holiday this year. Perfect.
+#POS C W L A W O V L V A P D N D N W A W #POS
+}
+{
+REF can we get this for matt?? And for REF and REF ?? URL
+#POS I V O V O P B W F P I F I W U #POS
+}
+{
+REF this is what we are doing. URL
+#POS I O V O O V V W U #POS
+}
+{
+"REF White girls New Years resolution: To be able to even. Merica." REF
+#POS W I J A N A N N W P V A P R W B W W I #POS
+}
+{
+People do not pay attention.
+#POS N V R V N W #POS
+}
+{
+"REF Giving your friend "the look" when someone is being annoying" REF REF
+#POS W I J V D N W D N W R N V V A W I I #POS
+}
+{
+Its pretty bad when you buy a router and have wifi but it sucks so you still use your neighbors TAG
+#POS L R A R O V D N F V N F O V P O R V D N H #POS
+}
+{
+"REF URL" REF
+#POS W I J U W I #POS
+}
+{
+REF chin up! Ill bring you jjs!
+#POS I V T W L V O B W #POS
+}
+{
+REF you're the best babe. I love you
+#POS I L D A N W O V O #POS
+}
+{
+REF thank you :)
+#POS I V O E #POS
+}
+{
+Ive never felt like this before. TAG
+#POS L R V P O P W H #POS
+}
+{
+Nothin like a case of strep throat to put you in the holiday spirit.
+#POS N P D N P A N P V O P D N N W #POS
+}
+{
+REF anytime babe :) im glad you had a good Christmas. I love you
+#POS I R N E L A O V D A B W O V O #POS
+}
+{
+I ruin everything.
+#POS O V N W #POS
+}
+{
+This guy and his Happy Meal &gt;&gt;&gt;&gt;&gt;&gt; REF URL
+#POS D N F D A N G I U #POS
+}
+{
+Love you too :) REF URL
+#POS V O R E I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+Pool Hall REF URL
+#POS N N I U #POS
+}
+{
+Ever paid $NUM.NUM for gas? Me either. TAG TAG REF URL
+#POS R V K P N W O R W H H I U #POS
+}
+{
+Ever paid $NUM.NUM for gas? Me either. TAG TAG REF URL
+#POS R V K P N W O R W H H I U #POS
+}
+{
+REF gambling our lives away URL
+#POS I V D N R U #POS
+}
+{
+Won on all of them. Spent $NUM won $NUM. TAG REF URL
+#POS V P D P O W V K V K W H I U #POS
+}
+{
+REF TURN DOWN FOR WHAT
+#POS I V T P O #POS
+}
+{
+REF TAG or TAG? TAG TAG TAG miss you so.
+#POS I H F H W H H V V O R W #POS
+}
+{
+REF you love it.
+#POS I O V O W #POS
+}
+{
+In the words of tommys niece, "you guys are such love birds" REF TAG
+#POS P D N P B N W W O N V A N N W I H #POS
+}
+{
+Tommys nieces rapping The Way. They are NUM and NUM. Im dying. REF
+#POS B N V D N W O V K F K W L V W I #POS
+}
+{
+National zoo in DC with my love for the Christmas lights REF
+#POS A N P B P D N P D B N I #POS
+}
+{
+REF haha clearly it didnt work out too well. TAG TAG
+#POS I C R O V V T R R W H H #POS
+}
+{
+REF basically just washed my whole car with the squeegee at the gas station.
+#POS I R R V D A N P D N P D N N W #POS
+}
+{
+Havent had a redbull in a while. Well see how this goes. TAG REF TAG
+#POS V V D N P D N W C V R O V W H I H #POS
+}
+{
+REF REF thank you!! :)
+#POS I I V O W E #POS
+}
+{
+REF T-NUM days until Maryland. TAG NUM cant wait!
+#POS I K N P B W H K V V W #POS
+}
+{
+Happy one year anniversary to my sweetheart REF it has been the best year. Cant wait to spend many more with you! I love you!
+#POS A K N N P D N I O V V D A N W V V P V A R P O W O V O W #POS
+}
+{
+REF no one asked your opinion
+#POS I D N V D N #POS
+}
+{
+Stop sleep texting REF URL
+#POS V V V I U #POS
+}
+{
+REF we must get a new one!!
+#POS I O V V D A K W #POS
+}
+{
+"REF Just one more episode... URL" REF TAG TAG
+#POS W I J R K A N W U W I H H #POS
+}
+{
+DONE. Boom shakalaka.
+#POS V W V G W #POS
+}
+{
+Breakfast of champions = pretzels, chocolate chip cookie and cherry pepsi. TAG
+#POS N P N W N W N N N F A N W H #POS
+}
+{
+REF the whole bag? I told you to get food!
+#POS I D A N W O V O P V N W #POS
+}
+{
+I am the epitome of a white girl today. Boots, yoga pants, hoodie, starbucks. TAG TAG TAG
+#POS O V D N P D A N N W B W N N W N W B W H H H #POS
+}
+{
+"REF Every pizza can be a personal pizza if you want it to be" REF TAG
+#POS W I J D N V V D A N P O V O P V W I H #POS
+}
+{
+There are people showing up to this final that ive never seen before.... TAG
+#POS X V N V T P D A P L R V P W H #POS
+}
+{
+Setting my alarm now so i dont have a fiasco tomorrow morning like i did on tuesday. TAG TAG
+#POS V D N R R O V V D N N N P O V P B W H H #POS
+}
+{
+REF i cannot retweet this enough times
+#POS I O V V D A N #POS
+}
+{
+The guy at starbucks just said "thank you for choosing starbucks on the pike of wilmington" &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS D N P B R V W V O P V B P D N P B W E #POS
+}
+{
+T-NUM days until Maryland TAGNUM REF
+#POS K N P B H I #POS
+}
+{
+REF im dying. That made my day. You make my day.
+#POS I L V W O V D N W O V D N W #POS
+}
+{
+NUM minutes late to my first final. Im that person.
+#POS K N A P D A A W L D N W #POS
+}
+{
+Runnin those red yellow lights just like REF
+#POS V D A A N R P I #POS
+}
+{
+Come home and walk into a sauna. TAG
+#POS V N F V P D N W H #POS
+}
+{
+Our teacher just emailed us saying our final is all multiple choice. Good thing i just studied all those problems.
+#POS D N R V O V D A V D A N W A N O R V D D N W #POS
+}
+{
+The girl thats narrating this video right now &lt;&lt;&lt;&lt;&lt;&lt; TAG
+#POS D N L V D N R R G H #POS
+}
+{
+Wearing typical finals week attire. Yoga pants boots hoodie.
+#POS V A N N N W B N N N W #POS
+}
+{
+REF i would have paid money to see that
+#POS I O V V V N P V D #POS
+}
+{
+"REF The quick "are you looking cute" text before going somewhere TAG" REF TAG
+#POS W I J D A W V O V A W N P V R H W I H #POS
+}
+{
+REF Nick Gresis retired :( :( TAG
+#POS I B B A E E E #POS
+}
+{
+Our teacher just gave a kid $NUM for being in the top of our stock market simulation
+#POS D N R V D N K P V P D N P D N N N #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF it looks like there is a snake hanging from the ceiling above our heads
+#POS I O V P X V D N V P D N P D N #POS
+}
+{
+That was the most painful group ive ever participated in. Glad that class is over.
+#POS O V D R A N L R V P W A P N V R W #POS
+}
+{
+So thats over. Crossing things off my list. Feelin good.
+#POS P L R W V N P D N W V A W #POS
+}
+{
+"Theyre asian" "thats racist i feel like" REF
+#POS W L A W W L A O V P W I #POS
+}
+{
+My brother is obsessed with finding sasquatch.
+#POS D N V V P V N W #POS
+}
+{
+REF yeah
+#POS I C #POS
+}
+{
+So stressed and exhausted i cant even function properly. TAG TAG
+#POS P A F V O V R V R W H H #POS
+}
+{
+I student stopped our class to inform our teacher that he had a spider crawling on his head. TAG
+#POS O N V D N P V D N P O V D N V P D N W H #POS
+}
+{
+This group invested in Buffalo Wild Wings because their wings are good. Great strategy.
+#POS D N V P B B B P D N V A W A N W #POS
+}
+{
+A group is giving a presentation and our professor is playing on his computer.
+#POS D N V V D N F D N V V P D N W #POS
+}
+{
+Ladies dont start fights, but they can finish them.
+#POS N V V V W F O V V O W #POS
+}
+{
+REF im about to double fist with double shot espresso. Call that quadruple shots.
+#POS I L P P A N P A N N W V D N N W #POS
+}
+{
+REF girl i need it before i drop dead lol
+#POS I N O V O P O V A C #POS
+}
+{
+So i get NUM bonus points for sucking? Ill take it. TAG
+#POS P O V K N N P V W L V O W H #POS
+}
+{
+Happy Birthday the most amazing, caring, funny, sweetest man. Here's to many more birthdays together! I love you babe! :) REF
+#POS A N D R A W V W A W A N W L P A A N R W O V O N W E I #POS
+}
+{
+REF REF is that really a credible source?
+#POS I I V O R D A N W #POS
+}
+{
+REF REF bahahaha this is not about you
+#POS I I C O V R P O #POS
+}
+{
+The troll of all trolls is trolling. REF
+#POS D N P D N V V W I #POS
+}
+{
+Dancing to Ke$ha. REF says, "what? Im hot and dangerous."
+#POS V P B W I V W W O W L A F A W W #POS
+}
+{
+Tweet tweet bitch REF
+#POS V V N I #POS
+}
+{
+REF i love you too
+#POS I O V O R #POS
+}
+{
+When REF leaves his house a NUMam to bring me my pillow &gt;&gt;&gt;&gt;&gt;&gt; TAG
+#POS R I V D N D K P V O D N G H #POS
+}
+{
+Wrap fest NUM. DONE. TAG REF URL
+#POS N N K W V W H I U #POS
+}
+{
+"REF lmfao URL"REF
+#POS W I J C U #POS
+}
+{
+REF youre just mad because i called the last play for the win. TAG
+#POS I L R A P O V D A N P D N W H #POS
+}
+{
+"REF Go Bucks! TAG URL" REF
+#POS W I J V B W H U W I #POS
+}
+{
+Happy Thanksgiving!
+#POS A N W #POS
+}
+{
+REF aw! I love and cherish you too. I thank God for you everyday.
+#POS I C W O V F V O R W O V B P O N W #POS
+}
+{
+REF i cant wait either babe :)
+#POS I O V V D N E #POS
+}
+{
+When REF rants all over twitter &gt;&gt;&gt;&gt;&gt;
+#POS R I N R P B G #POS
+}
+{
+Watching these dogs slide around on the hard wood floor while trying to look like badasses and fight eachother lol
+#POS V D N V R P D A N N P V P V P N F V O C #POS
+}
+{
+Being stuck between NUM foreign people having a loud conversation with eachother in their language&lt;&lt;&lt;&lt;&lt;&lt;&lt; TAG
+#POS V V P K A N V D A N P O P D N G H #POS
+}
+{
+Apparently my new diet plan is to eat one meal a day. TAG
+#POS R D A N N V P V K N D N W H #POS
+}
+{
+What is my problem
+#POS O V D N #POS
+}
+{
+Omg. Melissa McCarthy in this Old Navy commercial. TAG TAG
+#POS C W B B P D A N N W H H #POS
+}
+{
+Talking about the Coke museum in class today. TAG REF REF REF
+#POS V P D N N P N N W H I I I #POS
+}
+{
+T-NUM days til Maryland. TAGNUM REF
+#POS K N P B W H I #POS
+}
+{
+You know ive had enough coffee when i start hashtagging in text messages. TAG REF
+#POS O V L V A N R O V V P N N W H I #POS
+}
+{
+Spending the whole class talking about another class &lt;&lt;&lt;&lt;&lt;&lt;&lt; TAG
+#POS V D A N V P D N G H #POS
+}
+{
+Making Christmas lists during class. TAG
+#POS V B N P N W H #POS
+}
+{
+So apparently doing terrible on tests translates to getting a B in the class. TAG
+#POS P R V A P N V P V D N P D N W H #POS
+}
+{
+"My name is thomas mcchesney, i make all the yellow lights even if theyre red." TAG TAG
+#POS W D N V B B W O V D D A N R P L A W W H H #POS
+}
+{
+REF way to be an over achiever. TAGNUM
+#POS I N P V D P N W H #POS
+}
+{
+"REF This is pure legendary URL" REF
+#POS W I J O V A A U W I #POS
+}
+{
+Ughhhhh people are stupid.
+#POS C N V A W #POS
+}
+{
+Working with REF tonight &gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS V P I N G #POS
+}
+{
+Wearing real pants to work today instead of yoga pants. TAG
+#POS V A N P N N R P B N W H #POS
+}
+{
+REF that was the greatest thing ever!
+#POS I O V D A N R W #POS
+}
+{
+Someone in this computer lab is listening to opera music. Im going to punch them.
+#POS N P D N N V V P B N W L V P V O W #POS
+}
+{
+One year ago today i met the most wonderful man. Im lucky to call him mine. I love you! REF
+#POS K N R N O V D R A N W L A P V O O W O V O W I #POS
+}
+{
+If the guidelines for this paper say maximum NUM pages, is DATths of a page sufficient??
+#POS P D N P D N V A K N W V K P D N A W #POS
+}
+{
+REF its only one problem. Except......its a HUGE problem. Haha TAG
+#POS I L A K N W F W L D A N W C H #POS
+}
+{
+"My only problem with him is he is living." REF  i love this girl. TAG
+#POS W D A N P O V O V V W W I O V D N W H #POS
+}
+{
+REF ill second that
+#POS I L A P #POS
+}
+{
+When teachers say "in real life this doesnt happen" &lt;&lt;&lt;&lt;&lt;&lt;&lt; then why am i learning it!!
+#POS R N V W P A N O V V W J R R V O V O W #POS
+}
+{
+REF aw thanks love! That means a lot! :)
+#POS I C N N W O V D N W E #POS
+}
+{
+REF no worries lol thanks for your support!
+#POS I D N C N P D N W #POS
+}
+{
+REF bahahahaha all the luck in the world couldnt have helped me. TAG TAG
+#POS I C X D N P D N V V V O W H H #POS
+}
+{
+The next NUM weeks of my life are going to be death. So much to do, so little time. Im sorry REF
+#POS D A K N P D N V V P V N W R R P V W R A N W L A I #POS
+}
+{
+Presentation done. Next, test.
+#POS N V W A W N W #POS
+}
+{
+Love can walk through fire without blinkin
+#POS N V V P N P A #POS
+}
+{
+REF TAG. That is all.
+#POS I H W O V D W #POS
+}
+{
+REF haha that will be awesome!
+#POS I C O V V A W #POS
+}
+{
+"REF I'm sure they communicate by mo-o-o-o-orse URL"REF
+#POS W I J L A O V P B G G G U #POS
+}
+{
+The only Honda Firebird in the country. URL
+#POS D A B B P D N W U #POS
+}
+{
+I will pay someone a large sum of money to work for me tomorrow morning.  TAG
+#POS O V V N D A N P N P V P O N N W H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+"REF Have I ever told you how much I love you? URL" REF
+#POS W I J V O R V O R R O V O W U W I #POS
+}
+{
+Got my HID's!!! Thank you! REF TAG TAG
+#POS V D N V O W I H H #POS
+}
+{
+"There arent enough o's smooth to describe just how smooth i am" -my brother jake
+#POS W X V R Z A P V R R A O V W D N B #POS
+}
+{
+REF still dont have one
+#POS I R V V K #POS
+}
+{
+REF molasses? A snail? A sloth? My grandma? Got it.
+#POS I N W D N W D N W D N W V O W #POS
+}
+{
+REF everyone knows you got a new phone. Stop rubbing it in our faces. TAG TAG
+#POS I N V O V D A N W V V O P D N W H H #POS
+}
+{
+REF miss you and love you too
+#POS I V O F V O R #POS
+}
+{
+REF even if you get a new battery you still wont be happy with your phone so you might as well just get a new one
+#POS I R P O V D A N O R V V A P D N P O V R R R V D A K #POS
+}
+{
+Looking up vacation spots. Its like the second day of winter and im already searching beachfront rentals. :(
+#POS V T N N W L P D A N P N F L R V A N W E #POS
+}
+{
+REF new phone.
+#POS I A N W #POS
+}
+{
+REF its more real than ever.
+#POS I L R A P R W #POS
+}
+{
+So im getting DAT bonus points a day toward my final exam for showing up to class for the rest of the semester? Ill take it.
+#POS P L V K N N D N P D A N P V T P N P D N P D N W L V O W #POS
+}
+{
+I cant today. I just cant. TAG
+#POS O V N W O R V W H #POS
+}
+{
+Chasing my coffee with Amp. TAG
+#POS V D N P B W H #POS
+}
+{
+NUM.NUM all Christmas, all the time. TAG
+#POS K D B W X D N W H #POS
+}
+{
+REF for real. Theres just too much going on
+#POS I P A W L R R A V T #POS
+}
+{
+REF exhaustion i think.
+#POS I N O V W #POS
+}
+{
+My eyes are on fire
+#POS D N V P N #POS
+}
+{
+Good thing they painted my name on my wall. You could never have guessed whose room it is. URL
+#POS A N O V D N P D N W O V R V V L N O V W U #POS
+}
+{
+None of my professors know what they are doing. Why do i even go to school. Seems like they dont care as much as i dont care.
+#POS N P D N V O O V V W R V O R V P N W V P O V V R A P O V V W #POS
+}
+{
+I have cocooned myself in my comforter. Hopefully i dont have to pee any time soon.
+#POS O V V O P D N W R O V V P V D N R W #POS
+}
+{
+And the things of earth will grow strangely dim in the light of His glory and grace.
+#POS F D N P B V V R A P D N P D N F B W #POS
+}
+{
+I can tell im gonna sleep great tonight. TAG
+#POS O V V L V V A N W H #POS
+}
+{
+REF i love you.  TAG TAG TAG
+#POS I O V O W H H H #POS
+}
+{
+Thank you for an amazing day yesterday. I had so much fun with you at the zoo. I love you! REF
+#POS V O P D A N N W O V R A N P O P D N W O V O W I #POS
+}
+{
+REF sooooo true! Ughh
+#POS I R A W C #POS
+}
+{
+People are rude.
+#POS N V A W #POS
+}
+{
+REF i have all my evidence ;)
+#POS I O V D D N E #POS
+}
+{
+Im tired.
+#POS L A W #POS
+}
+{
+REF Feel. You. On. That.
+#POS I V W O W P W O W #POS
+}
+{
+REF you are, in fact, the cutest cow.
+#POS I O V W P N W D A N W #POS
+}
+{
+REF jack cullers. Thats who. But you are the cutest cow ive ever seen.
+#POS I B B W L O W F O V D A N L R V W #POS
+}
+{
+My brother jake just said, you know Drake? My other brother asked, who? Jake said, you know, the rapper thats a girly boy. TAG
+#POS D N B R V W O V B W D A N V W O W B V W O V W D N L D A N W H #POS
+}
+{
+Also, NUM out of NUM students showed up to my investing class today.
+#POS R W K P P K N V T P D V N N W #POS
+}
+{
+My professor just cancelled class on tuesday because our presentations dont start until thursday and we are ahead of schedule. TAG
+#POS D N R V N P B P D N V V P B F O V R P N W H #POS
+}
+{
+REF rude.
+#POS I A W #POS
+}
+{
+I got NUM out of NUM points. NUM%. Im not asking questions.
+#POS O V K P P K N W K W L R V N W #POS
+}
+{
+REF stop it!!!
+#POS I V O W #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF deleting it now! I didnt realize it was posted from mine!! :(
+#POS I V O R W O V V O V V P O W E #POS
+}
+{
+"REF Cute baby goat going for a ride. URL" REF please and thank you.
+#POS W I J A N N V P D N W U W I V F V O W #POS
+}
+{
+Thank God for dual air. Hes hot. Im cold. REF URL
+#POS V B P A N W L A W L A W I U #POS
+}
+{
+REF youre welcome. Thats what im here for. I love you too.
+#POS I L A W L O L R P W O V O R W #POS
+}
+{
+REF doooooo it! TAG
+#POS I V O W H #POS
+}
+{
+Whats your all time high? Your good as it gets?
+#POS L D D N A W D A P O V W #POS
+}
+{
+REF REF so is he going into hibernation then?? TAG :)
+#POS I I R V O V P N R W H E #POS
+}
+{
+REF love youuuu! URL
+#POS I V O W U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF so everything that says you have to work is working but the things you use to work arent working. Makes perfect sense.
+#POS I P N P V O V P N V V F D N O V P V V V W V A N W #POS
+}
+{
+REF sooooo what exactly IS working? Lol
+#POS I R O R V V W C #POS
+}
+{
+Thank you to my amazing boyfriend REF for taking me shopping and out to dinner tonight. Love you babe!
+#POS V O P D A N I P V O V F P P N N W V O N W #POS
+}
+{
+It. Is. Disgusting. Outside. TAG
+#POS O W V W A W A W H #POS
+}
+{
+Always forget my headphones. -_-
+#POS R V D N W E #POS
+}
+{
+Everybody knows that a broken heart is blind
+#POS N V P D A N V A #POS
+}
+{
+So my investing class just became about movies. Annnnnd im gone. TAG
+#POS P D V N R V P N W F L A W H #POS
+}
+{
+There are NUM out of NUM kids showed up to class. Half of us are on our phones. TAG
+#POS X V K P P K N V T P N W N P O V P D N W H #POS
+}
+{
+"REF It takes a team of NUM girls to send the perfect bitchy text" REF this is why i refer to you when i am in need lol
+#POS W I J O V D N P K N P V D A A N W I O V R O V P O R O V P N C #POS
+}
+{
+REF REF REF i miss you too!!
+#POS I I I O V O R W #POS
+}
+{
+We are seniors in college and this girl is wearing a Halloween costume. TAG
+#POS O V N P N F D N V V D B N W H #POS
+}
+{
+That stores called City Gear. "Oh. You mean Ratchet Gear??" REF
+#POS D N V B B W W C W O V A N W W I #POS
+}
+{
+I dont think my mom knows how much i dont care about her drama. TAG
+#POS O V V D N V R A O V V P D N W H #POS
+}
+{
+Omg. Why are people so weird.
+#POS C W R V N R A W #POS
+}
+{
+REF ive done my nails like NUM times since i tweeted that and they still look ratchet.
+#POS I L V D N P K N P O V O F O R V A W #POS
+}
+{
+REF bahahaha URL
+#POS I C U #POS
+}
+{
+I dont have time for this BS.
+#POS O V V N P D N W #POS
+}
+{
+When REF says "get on my level" about cleaning &gt;&gt;&gt;&gt;&gt;&gt;
+#POS R I V W V P D N W P N G #POS
+}
+{
+REF it always happens unexpectedly.
+#POS I O R V R W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Everything is an argument. No conversation just arguing. Real glad i came home.
+#POS N V D N W D N R V W R A O V N W #POS
+}
+{
+REF well arent you just mr. special pants.
+#POS I C V O R B A N W #POS
+}
+{
+REF somehow this reminds me of you trying to lift a gallon of milk and almost dropping it. Hahaha TAG
+#POS I R O V O P O V P V D N P N F R V O W C H #POS
+}
+{
+It is week NUM and this professor still has no idea what he is doing. Why am i here?
+#POS O V N K F D N R V D N O O V V W R V O R W #POS
+}
+{
+REF totes are large bags to carry things in. The bin you are referring to is called a crate.
+#POS I V V A N P V N P W D N O V V P V V D N W #POS
+}
+{
+REF totes logical. Almost as logical as saying totes.
+#POS I R A W R R A P V R W #POS
+}
+{
+"REF The awkward moment when you catch yourself singing a song that you're supposed to hate." REF TAG TAG
+#POS W I J D A N R O V O V D N P L A P V W W I H H #POS
+}
+{
+Skipping one class to study for another class. TAG
+#POS V K N P V P D N W A #POS
+}
+{
+That person that comes into the computer lab bangin shit around, makin noise. TAG TAG
+#POS D N P V P D N N V N P W V N W H H #POS
+}
+{
+Thank God for heated seats. TAG
+#POS V B P A N W H #POS
+}
+{
+REF perfect.
+#POS I A W #POS
+}
+{
+Today has been cancelled. Reason: it sucks.
+#POS N V V V W N W O V W #POS
+}
+{
+REF does that mean you are gonna be extra snarky today?
+#POS I V O V O V V V A N N W #POS
+}
+{
+My dad brought me coffee to work this morning. TAG TAG
+#POS D N V O N P V D N W H H #POS
+}
+{
+When my brother lights a frito on fire in the kitchen. TAG
+#POS R D N V D A P N P D N W H #POS
+}
+{
+Frickin rain. TAG
+#POS A N W H #POS
+}
+{
+I miss you! REF URL
+#POS O V O W I U #POS
+}
+{
+Three American economists won the Nobel Peace Prize. Well, thats ironic.
+#POS K A N V D B B B W C W L A W #POS
+}
+{
+REF well jokes on him cuz that didnt go as well as planned haha
+#POS I C N P O P O V V R R P V C #POS
+}
+{
+Cheater kid is sitting next to me again. We'll see how this goes. Im about to put folders up like we did in NUMth grade.
+#POS N N V V A P O R W L V R O V W L P P V N P P O V P A N W #POS
+}
+{
+My teacher just said he doesnt go to walmart because it makes him feel dirty. Hahaha YES.
+#POS D N R V O V V P B P O V O V A W C C W #POS
+}
+{
+Everything hurts :(
+#POS N V E #POS
+}
+{
+Power outage. Cool. Hope my phone doesnt die. TAG
+#POS N N W A W V D N V V W H #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+REF come on down. You can even be the chief of the department. TAG
+#POS I V T R W O V R V D N P D N W H #POS
+}
+{
+REF shit. Dots need security.
+ We be chasin people out the back through the woods. TAG
+#POS I N W N V N W
+O V V N P D N P D N W H #POS
+}
+{
+REF check it out. He works for miami valley. I dont know details. Check out universities too.
+#POS I V O T W O V P B N W O V V N W V T N R W #POS
+}
+{
+REF ever thought of hospital security? Thats what my cousin does.
+#POS I R V P N N W L O D N V W #POS
+}
+{
+REF i ammmm.....
+#POS I O V W #POS
+}
+{
+The things i will do to get out of doing homework. TAG TAG
+#POS D N O V V P V P P V N W H H #POS
+}
+{
+"That fail moment when you're laying on your back and you drop the phone on your face!" Or on your girlfriends face..... REF
+#POS W O V N R L V P D N F O V D N P D N W W F P D N N W I #POS
+}
+{
+REF miss you too!
+#POS I V O R W #POS
+}
+{
+We just gotta get thru October. Good things are happening! REF :) TAG
+#POS O R V V P B W A N V V W I E E #POS
+}
+{
+Saw your momma tonight, shes the sweetest!! :) REF
+#POS V D N N W V D A W E I #POS
+}
+{
+REF did you call jake from state farm? I hear hes there for you even at NUM in the morning.
+#POS I V O V B P N N W O V L R P O R P K P D N W #POS
+}
+{
+My finance class just became a physics class. How the hell did that happen?? TAG
+#POS D N N R V D N N W R D N V O V W H #POS
+}
+{
+Wearing yoga pants as dress pants. TAG
+#POS V N N P N N W H #POS
+}
+{
+At least thats over with. TAG
+#POS P A L P P W H #POS
+}
+{
+Worry will not strip tomorrow of its burdens, it will strip today of its joy. TAG TAG
+#POS V V R N N P D N W O V V N P D N W H H #POS
+}
+{
+"If I lay here, if I just lay here, would you lie with me and just forget all of the homework that's due tomorrow" REF
+#POS W P O V R W P O R V R W V O V P O F R V D P D N L A N W I #POS
+}
+{
+So so so proud of my love!!!! REF :)
+#POS P R R A P D N W I E #POS
+}
+{
+REF ha! Miss that!
+#POS I C W V O W #POS
+}
+{
+I hate school so much. Cue second breakdown of the semester today. TAG
+#POS O V N R A W V A N P D N N W H #POS
+}
+{
+I cant express how much this man means to me. TAG REF URL
+#POS O V V R A D N V P O W H I U #POS
+}
+{
+"REF my current mood right now. URL" REF TAG
+#POS W I J D A N R R W U W I H #POS
+}
+{
+The greatest thing happened to me today. A one year old little girl fist bumped me instead of waving. It was awesome.
+#POS D A N V P O N W D K N A A N N V O R P V W O V A W #POS
+}
+{
+REF i feel you. I could fall asleep on the counter and let people scan groceries over top of me. I wouldnt care at this point.
+#POS I O V O W O V V R P D N F V N V N P N P O W O V V P D N W #POS
+}
+{
+REF i love you too. Im so thankful for your love and support. Youre the best!
+#POS I O V O R W L R A P D N F N W L D A W #POS
+}
+{
+REF work hard play hard?
+#POS I N A N A W #POS
+}
+{
+REF you are the sweetest :) TAG TAG
+#POS I O V D A E H H #POS
+}
+{
+REF youre still hot!!!
+#POS I L R A W #POS
+}
+{
+REF youuuu??
+#POS I O W #POS
+}
+{
+Def doin my nails today. Whoa. TAG
+#POS R V D N N W C W H #POS
+}
+{
+REF my AMP didnt work either. TAG
+#POS I D N V V R W H #POS
+}
+{
+This girl in my class wears a headband with a bow everyday. And she has a different one for every outfit. TAG TAG
+#POS D N P D N V D N P D N N W F O V D A K P D N W H H #POS
+}
+{
+When my prof writes a huge problem on the board and doesnt understand what he wrote by the end of it. TAG TAG
+#POS R D N V D A N P D N F V V O O V P D N P O W H H #POS
+}
+{
+REF ahhhhhh omg i want one!!
+#POS I C C O V K W #POS
+}
+{
+I miss my love REF this week is too long i cant wait til next tuesday! TAG TAG
+#POS O V D N I D N V R A O V V P A N W H H #POS
+}
+{
+REF look familiar? Haha URL
+#POS I V A W C U #POS
+}
+{
+REF boxed wine and little muffins. TAG
+#POS I A N F A N W H #POS
+}
+{
+Google car. "Take me to bdubs" "did you mean gym?" No. TAG TAG TAG
+#POS B N W W V O P B W W V O V N W W C W H H H #POS
+}
+{
+REF hahahaha thats too great! TAG
+#POS I C L R A W H #POS
+}
+{
+"REF Im double majoring in lattes and online shopping with a minor in credit card debt. TAG" REF TAG
+#POS W I J L A V P N F A N P D A P N N N W H W I H #POS
+}
+{
+First breakdown of the semester this week. Took NUM weeks. Not bad. TAG
+#POS A N P D N D N W V K N W R A W H #POS
+}
+{
+REF i love it too. TAG TAG
+#POS I O V O R W H H #POS
+}
+{
+REF she might me off with goldenrod
+#POS I O V O T P B #POS
+}
+{
+REF im not close enough to tell. But she just asked for a drink with double espresso. TAG
+#POS I L R A N P V W F O R V P D N P A N W H #POS
+}
+{
+REF bahahaha definitely needed that!
+#POS I C R V O W #POS
+}
+{
+REF im afraid she might stab me with the color magenta
+#POS I L A O V V O P D N A #POS
+}
+{
+There is a girl at starbucks that is coloring a picture with colored pencils. She keeps switching tables. Its making me really uncomfortable
+#POS X V D N P B O V V D N P A N W O V V N W L V O R A #POS
+}
+{
+I HATE group projects.
+#POS O V N N W #POS
+}
+{
+REF too much stress. Not enough hours in the day.
+#POS I R A N W R A N P D N W #POS
+}
+{
+Im sinking.
+#POS L V W #POS
+}
+{
+"REF Me when I try to study... URL" REF TAG
+#POS W I J O R O V P N W U W I H #POS
+}
+{
+Talking about Bob Ross in class today. I just saw him. TAG!!!! TAG
+#POS V P B B P N N W O R V O W H W H #POS
+}
+{
+The kid sitting in front of me is playing Pokemon on his phone. TAG TAG
+#POS D N V P N P O V V B P D N W H H #POS
+}
+{
+REF Youuuuu! TAG URL
+#POS I C W H U #POS
+}
+{
+Our teacher has to regrade our tests to give partial credit because everyone sucked. TAG
+#POS D N V P V D N P V A N P N V W H #POS
+}
+{
+REF dont give up baby! I love you!
+#POS I V V T N W O V O W #POS
+}
+{
+REF aww you are mine too. I love you!
+#POS I C O V O R W O V O W #POS
+}
+{
+Stalked this UPS driver first. Thanks Peanut for finding our package. TAG URL
+#POS V D B N A W N N P V D N W H U #POS
+}
+{
+This is the first UPS driver we stalked. Thanks Peanut for finding the guy that had our package. TAG URL
+#POS O V D A N N O V W N N P V D N P V D N W H U #POS
+}
+{
+Stalked this UPS driver all over kettering for our package. TAG URL
+#POS V D B N D P B P D N W H U #POS
+}
+{
+Kid sitting next to me was blatantly cheating off me. Jokes on him. I caught on and wrote random shit down. TAG
+#POS B V R P O V R V T O W N P O W O V P F V A N R W H #POS
+}
+{
+"REF Instead of doing my homework, I like to stay on my phone and worry about how much shit I have to do." REF TAG
+#POS W I J R P V D N W O V P V P D N F V P R A N O V P V W W I H #POS
+}
+{
+"REF My entire life is just me "winging it"" REF TAG
+#POS W I J D A N V R O W V O W I H #POS
+}
+{
+REF its monday. Do you expect anything less than shit?? TAG
+#POS I L B W V O V N A P N W H #POS
+}
+{
+When your anxiety gets the best of you &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;
+#POS R D N V D A P O J #POS
+}
+{
+Teaching myself NUM weeks of information because i dont speak Vietnamese.
+#POS V O K N P N P O V V A W #POS
+}
+{
+It is FREEZING in this building. Its supposed to be NUM out and im wearing jeans, gym shoes, and a hoodie. TAG
+#POS O V V P D N W L A P V K T F L V N W N N W F D N W H #POS
+}
+{
+REF i miss you!! This opposite schedules thing is not working out...
+#POS I O V O W D A N N V R V T W #POS
+}
+{
+Ive never been this tired. Cant keep my eyes open. TAG
+#POS L R V O A W V V D N V W H #POS
+}
+{
+"REF URL" REF this is what ive looked like all day in school.
+#POS W I J U W I O V O L V P D N P N W #POS
+}
+{
+Burrito boy brought pizza today. TAG TAG
+#POS N N V N N W H H #POS
+}
+{
+REF i wont die. I promise. I want to spend my life with you too.
+#POS I O V V W O V W O V P V D N P O R W #POS
+}
+{
+There are NUM minutes left in this class. I think i might die.
+#POS X V K N V P D N W O V O V V W #POS
+}
+{
+Im too tired to decipher your language today. TAG TAG
+#POS L R A P V D N N W H H #POS
+}
+{
+REF cant wait!!! :)
+#POS I V V W E #POS
+}
+{
+REF it was perfect. I had so much fun. I love you babe.
+#POS I O V A W O V R A N W O V O N W #POS
+}
+{
+So excited for this Bengals/Steelers game!!!! :) TAG TAG REF
+#POS R A P D B N W E H H I #POS
+}
+{
+Sitting at Jimmy Johns doing homework and customers ask me questions about the sandwiches like i work there. Sad part is i know the answers.
+#POS V P B B V N F N V O N P D N P O V R W A N V O V D N W #POS
+}
+{
+REF aww thanks babe :) TAG
+#POS I C N N E E #POS
+}
+{
+REF NUM% humidity. What does that even mean?? TAG
+#POS I K N W O V O R V W H #POS
+}
+{
+Showering is such and inconvenience. I wish we could just wake up clean with perfect hair.
+#POS V V A F N W O V O V R V T A P A N W #POS
+}
+{
+REF ill be there wearing that jersey!! #NUM
+#POS I L V R V D N W H #POS
+}
+{
+REF this is why you are my long lost sister
+#POS I O V R O V D A A N #POS
+}
+{
+End of week NUM. I can start wearing yoga pants and sweats everyday right?
+#POS N P N K W O V V V N N F N N R W #POS
+}
+{
+Like i think i just ate waffles. TAG TAG REF
+#POS P O V O R V N W H H I #POS
+}
+{
+Heard a kid say he parked at McDs and walked to campus cuz he couldnt find a space. Obviously hes never heard of the Wright State Stalk.
+#POS V D N V O V P B F V P B P O V V D N W R L R V P D B B B W #POS
+}
+{
+My allergies need to stop. Aint nobody got time fo dat.
+#POS D N V P V W V N V N P O W #POS
+}
+{
+REF EXACTLY.
+#POS I R W #POS
+}
+{
+REF because i get to spend them with you
+#POS I P O V P V O P O #POS
+}
+{
+It already feels nasty outside. TAG
+#POS O R V A N W A #POS
+}
+{
+This girl in my class is ratchet. She tries to be cite but its just ratchet. REF
+#POS D N P D N V A W O V P V V F L R A W I #POS
+}
+{
+Tuesdays, Wednesdays, and Thursdays are my favorite days. TAG :)
+#POS B W N W F B V D A N W H E #POS
+}
+{
+The things i have experienced today can only mean one thing. Im working with jan. REF
+#POS D N O V V N V R V K N W L V P B W I #POS
+}
+{
+REF i dont know why. URL
+#POS I O V V R W U #POS
+}
+{
+REF well thats awkward....
+#POS I C L A W #POS
+}
+{
+REF miss you!! TAG
+#POS I V O W H #POS
+}
+{
+Taking a shower in our guest bathroom for the first time since it was remodeled.....NUM years ago. TAG
+#POS V D N P D N N P D A N P O V V W K N R W H #POS
+}
+{
+Everyday we have class there are less and less people.
+#POS N O V N X V A F A N W #POS
+}
+{
+REF my life in a nutshell lol
+#POS I D N P D N C #POS
+}
+{
+The only good thing about foreign professors is they post EVERYTHING online because they know you cant understand them.
+#POS D R A N P A N V O V N A P O V O V V O W #POS
+}
+{
+My book bag is so heavy my car is telling the passenger seat to put their seatbelt on. TAG TAG
+#POS D N N V R A D N V V D N N P V D N P W H H #POS
+}
+{
+REF clearly. Soooo busy.
+#POS I R W R A W #POS
+}
+{
+REF i saw them!! Very stylish!
+#POS I O V O W R A W #POS
+}
+{
+"REF Poor minion! URL" REF for some reason you popped into my head when i saw this hahahaha
+#POS W I J A N W U W I P D N O V P D N R O V O C #POS
+}
+{
+REF your face grows faster than your head.
+#POS I D N V R P D N W #POS
+}
+{
+Woking with REF for the first time in FOREVER!!! :) :)
+#POS B P I P D A N P R W E E #POS
+}
+{
+REF so my phone decided not to send anymore texts. So ill tweet you. Always and forever babe :*
+#POS I P D N V R P V R N W R L V O W R F R N W W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF we are all adults here. They can make their own decisions. They dont have to follow my example. Lol
+#POS I O V D N R W O V V D A N W O V V P V D N W C #POS
+}
+{
+REF :) cant wait!
+#POS I E V V W #POS
+}
+{
+"REF Cute little goat out for a ride. URL" REF TAG
+#POS W I J A A N P P D N W U W I H #POS
+}
+{
+I can understand about NUM words this guy is saying. TAG
+#POS O V V P K N D N V V W H #POS
+}
+{
+Are you having a caesar biscuit?? REF
+#POS V O V D N N W I #POS
+}
+{
+REF theres gonna be fish EVERYWHERE.
+#POS I L V V N R W #POS
+}
+{
+Some guy in my class just said "cool bro tank dude" TAG TAG
+#POS D N P D N R V W A N N N W H H #POS
+}
+{
+Looking back i should have always taken NUMam classes. Front row parking. Get the day started. Peaceful here in the morning. TAG
+#POS V R O V V R V K N W N N N W V D N V W A R P D N W H #POS
+}
+{
+REF yayyyyy! :)
+#POS I C W E #POS
+}
+{
+Freshmen this year. Whoa. Put some clothes on.
+#POS N D N W C W V D N P W #POS
+}
+{
+REF Happy first week of school!! Miss you!! URL
+#POS I A A N P N W V O W U #POS
+}
+{
+First class in the basement. REF TAG TAG? TAG
+#POS A N P D N W I H H W H #POS
+}
+{
+I hate this feeling.
+#POS O V D N W #POS
+}
+{
+Got two books today, got my parking pass, got my notebooks and folders. Let the depression set in. TAG
+#POS V K N N W V D N N W V D N F N W V D N V P W H #POS
+}
+{
+REF no!! He wont either!
+#POS I C W O V R W #POS
+}
+{
+REF nooooo!
+#POS I C W #POS
+}
+{
+REF you will not!
+#POS I O V R W #POS
+}
+{
+My anniversary flowers are still alive and beautiful! REF URL
+#POS D N N V R A F A W I U #POS
+}
+{
+I love this guy. URL
+#POS O V D N W U #POS
+}
+{
+REF you have not ruined anything.
+#POS I O V R V N W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF !!!!! *cough cough* REF REF URL
+#POS I W W V V W I I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+Ive had the time of my life and i owe it all to you. REF
+#POS L V D N P D N F O V O D P O W I #POS
+}
+{
+REF soooooo us!
+#POS I R O W #POS
+}
+{
+I just need to learn to keep my mouth shut.
+#POS O R V P V P V D N V W #POS
+}
+{
+REF awwwwwww!!
+#POS I C W #POS
+}
+{
+ALL of my joints hurt. TAG TAG
+#POS D P D N V W R H #POS
+}
+{
+REF stop. Im dying. What the f is that?!? Hahahaha
+#POS I V W L V W O D N V O W C #POS
+}
+{
+Watching the How I Met Your Mother episode about Puzzles. REF TAG TAG
+#POS V D R O V D N N P N W I H H #POS
+}
+{
+My laptop wont even turn on. And school starts tuesday. Awesome.
+#POS D N V R V T W F N V B W A W #POS
+}
+{
+Good thing i clean when im angry. My room needed it.
+#POS A N O V R L A W D N V O W #POS
+}
+{
+REF its the new currency. How many tabs will that cost??
+#POS I L D A N W R A N V D N W #POS
+}
+{
+REF REF exactly.
+#POS I I R W #POS
+}
+{
+When REF wants to pull thru a parking space. Except theres a grass median in the middle. No problem. Do it anyway. TAG
+#POS R I V P V P D N N W F L D N N P D N W D N W V O R W H #POS
+}
+{
+REF hahahaha yesssss! I wouldnt even smooth it out lol
+#POS I C C W O V R A O T C #POS
+}
+{
+REF you are not messing up you are amazing. I love you sweetheart.
+#POS I O V R V T O V A W O V O N W #POS
+}
+{
+This will be us. REF URL
+#POS D V V O W I U #POS
+}
+{
+"REF Baby there's no mistaking, you're the love I wanna be in. -Jason Aldean" REF
+#POS W I J N Y D N W L D N O V V P W B B W I #POS
+}
+{
+Im so tired of hearing my mom complain. I. Dont. Care. TAG
+#POS L R A P V D N V W O W V W N W H #POS
+}
+{
+Taking NUM ibuprofen. Hopefully my shoulder will just go numb. TAG
+#POS V P N W R D N V R V A W H #POS
+}
+{
+Eating cottage cheese for lunch because we have no food &lt;&lt;&lt;&lt;&lt;&lt;
+#POS V N N P N P O V D N G #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF i know. I think im gonna have to come to wsu an extra day just so i can walk you to class lol
+#POS I O V W O V L V V P V P V D A N R R O V V O P N C #POS
+}
+{
+REF Dearest samantha, i miss my long lost sister. That is all. Sincerely, me. TAG
+#POS I C B W O V D A A N W O V D W R W O W H #POS
+}
+{
+Special name for my sandwich :) REF URL
+#POS A N P D N E I U #POS
+}
+{
+REF it has been amazing. Happy anniversary babe! TAG
+#POS I O V V A W A N N W H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF i love you too
+#POS I O V O R #POS
+}
+{
+REF that was beautiful babe. TAG
+#POS I O V A N W H #POS
+}
+{
+REF and i love you.
+#POS I F O V O W #POS
+}
+{
+REF one for the wife. One for the girlfriend. Duh. TAG
+#POS I K P D N W K P D N W C W H #POS
+}
+{
+REF please dont.
+#POS I V V W #POS
+}
+{
+REF not mad. TAG
+#POS I R A W H #POS
+}
+{
+REF no worries babe. Just mud. TAG
+#POS I D N N W R N W A #POS
+}
+{
+Only the best boyfriends wash their girlfriends muddy feet in the womens bathroom sink. TAG TAG TAG REF
+#POS R D A N V D N A N P D B N N W H H H I #POS
+}
+{
+REF REF ill get your free wings then. Ha.
+#POS I I L V D A N R W C W #POS
+}
+{
+REF that is hilarious!!!!!
+#POS I O V A W #POS
+}
+{
+REF REF rude.
+#POS I I A W #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+Watching my brother fight with a catfish. TAG
+#POS V D N V P D N W H #POS
+}
+{
+The one who is meant for you encourages you to be your best but still loves and accepts you at your worst. REF TAG
+#POS D K O V V P O V O P V D A F R V F V O P D A W I H #POS
+}
+{
+"REF Turtle birthday. URL" REF omg. I cant. Its too cute.
+#POS W I J B N W U W I C W O V W L R A W #POS
+}
+{
+REF aw i love you too! :)
+#POS I C O V O R W E #POS
+}
+{
+REF im so glad you went with us this weekend. It really was one of the best weekends ever. It was a blast!
+#POS I L R A O V P O D N W O R V K P D A N R W O V D N W #POS
+}
+{
+That moment when everything falls on you and youre depressed again.
+#POS D N R N V P O F L A R W #POS
+}
+{
+REF REF thanks!!! TAG TAG TAG
+#POS I I N W H H H #POS
+}
+{
+That awkward moment when youre in the womens bathroom and a dude walks in. TAG
+#POS D A N R L P D B N F D N V P W H #POS
+}
+{
+REF it will be epic. TAG TAG TAG
+#POS I O V V A W H H H #POS
+}
+{
+First road trip with REF  meeting the fam at the lake. TAG
+#POS A N N P I V D N P D N W H #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF hahahahahaha sooooooo true.
+#POS I C R A W #POS
+}
+{
+REF we really would tho haha
+#POS I O R V R C #POS
+}
+{
+REF for real tho... URL
+#POS I P A P W U #POS
+}
+{
+REF haha babe. I was kidding too. TAG TAG
+#POS I C N W O V V R W H H #POS
+}
+{
+REF ur missing the concept. I dont look like an actual turtle. I look happy like the turtle looks happy. Understand?
+#POS I L V D N W O V V P D A N W O V A P D N V A W V W #POS
+}
+{
+REF thats my face when i get a text from you :)
+#POS I L D N R O V D N P O E #POS
+}
+{
+REF its should read "when you drop your phone onto your girlfriends face" hahaha
+#POS I L V V W R O V D N P D N N W C #POS
+}
+{
+"REF "REF True friends don't judge each other, they judge other people...... together." Totally true!
+#POS W I J W I J A N V V D A W O V A N W R W W R A W #POS
+}
+{
+REF aww! I love you more!
+#POS I C W O V O A W #POS
+}
+{
+If you think we are gonna have throw pillows on that shit, im throwing them in the trash. REF
+#POS P O V O V V V V N P D N W L V O P D N W I #POS
+}
+{
+REF not missin much............ TAG
+#POS I R V A W H #POS
+}
+{
+REF are you not getting my texts?
+#POS I V O R V D N W #POS
+}
+{
+REF oh im aware. They go somewhere between left wing extremists and bicyclists. Am i right?
+#POS I C L A W O V R P A N N F N W V O R W #POS
+}
+{
+REF we will add it to the list of things Jordon hates....
+#POS I O V V O P D N P N B V W #POS
+}
+{
+REF LOVE Coldplay
+#POS I V B #POS
+}
+{
+Look at the stars. Look how they shine for you.
+#POS V P D N W V R O V P O W #POS
+}
+{
+Jammin to Aerosmith with the windows down &gt;&gt;&gt;&gt;&gt;
+#POS V P B P D N P G #POS
+}
+{
+When people park like this &gt;&gt;&gt;&gt;&gt; URL
+#POS R N V P O G U #POS
+}
+{
+REF hahaha Tabasco for days. TAG
+#POS I C B P N W H #POS
+}
+{
+REF Hairspray is on tv!!!!!! A.k.a. im on tv.....be sure to tune in :)
+#POS I B V P N W W L P N W V A P V P E #POS
+}
+{
+REF typical. Tabasco on the eggs. TAG
+#POS I A W N P D N W H #POS
+}
+{
+REF TAG you're amazing babe! You mean the world to me :)
+#POS I H L A N W O V D N P O E #POS
+}
+{
+REF no she left her bag of Hershey bars....
+#POS I C O V D N P B N W #POS
+}
+{
+REF shes lucky i didnt say it back and hang up on her!
+#POS I L A O V V O R F V T P O W #POS
+}
+{
+When a customer says "screw you" to me on the phone &lt;&lt;&lt;&lt;&lt; TAG TAG
+#POS R D N V W V O W P O P D N G H H #POS
+}
+{
+Lets be clear about how big this thing actually is. REF TAG URL
+#POS L V A P R A D N R V W I H U #POS
+}
+{
+REF yesssss!
+#POS I C W #POS
+}
+{
+REF i would like to remind you of this, which i just found in my closet. Haha TAG TAG URL
+#POS I O V V P V O P O W D O R V P D N W C H H U #POS
+}
+{
+REF not at all! Quite entertaining actually. I can always tell when you are bored lol
+#POS I R P D W R A R W O V R V R O V A C #POS
+}
+{
+REF REF he would!! And think he was being so sneaky!! Haha
+#POS I I O V W F V O V V R A W C #POS
+}
+{
+REF my own neighborhood!! Apparently i live in hicktown and didnt even know it!
+#POS I D A N W R O V P B F V R V O W #POS
+}
+{
+REF cant be that bored, i havent gotten a snapchat yet
+#POS I V V O A W O V V D N R #POS
+}
+{
+Or maybe you might see your neighbors dog with a doggy baseball cap on.
+#POS F R O V V D N N P D N N N P W #POS
+}
+{
+Another interesting thing you might see on a walk. Passing someones car and seeing a small bottle of vodka in the side door panel.
+#POS D A N O V V P D N W V D N F V D A N P N P D N N N W #POS
+}
+{
+Things you see on a walk. NUM ducks following me. a lady giving her husband a haircut in their garage. And a man examining his dogs poop. TAG
+#POS N O V P D N W K N V O W D N V D N D N P D N W F D N V D N N W H #POS
+}
+{
+I think i like doing the laundry. Any money left in the washer is mine. TAG TAG TAG
+#POS O V O V V D N W D N V P D N V O W H H H #POS
+}
+{
+REF REF TAG TAG URL
+#POS I I H H U #POS
+}
+{
+REF hes sooooo excited! URL
+#POS I L R A W U #POS
+}
+{
+REF anything for you love. Youre so sweet. Love you :)
+#POS I N P O V W L R A W V O E #POS
+}
+{
+Grocery shopping at speedway. REF
+#POS N N P B W I #POS
+}
+{
+REF ridiculously true.
+#POS I R A W #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF oh yes we are. Sorry bout it. TAG
+#POS I C C O V W A P O W H #POS
+}
+{
+New favorite thing. Tomato mozzarella salad. TAG
+#POS A A N W N N N W H #POS
+}
+{
+REF little does REF know we are basically going to be living on a zoo. TAG TAG TAG
+#POS I A V I V O V R V P V V P D N W H N N #POS
+}
+{
+REF oh. My. God. So freaking cute!!
+#POS I C W D W B W P R A W #POS
+}
+{
+REF that pissed me off so much i went straight to bed when i got home.
+#POS I O V O T R R O V R P N R O V N W #POS
+}
+{
+You know its gonna be a long day when your first customer pisses you off. REF TAG TAG
+#POS O V L V V D A N R D A N V O R W I N H #POS
+}
+{
+From my sweetheart :) REF TAG TAG URL
+#POS P D N E I H H U #POS
+}
+{
+My dad said "this is still the nice part of town. Thats a regular fence, theres no barbed wire yet." TAG
+#POS D N V W O V R D A N P N W L D A N W Y D A N R W W H #POS
+}
+{
+When my grandpa calls me sugar bear &gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS R D N V O N N G #POS
+}
+{
+"REF I'm difficult.. 
+
+I'm weird..
+
+and I get jealous easily..
+
+but.. 
+
+I'll love you like there's no tomorrow. ❤" REF
+#POS W I J L A W
+
+L A W
+
+F O V A R W
+
+F W
+
+L V O V Y D N W E W I #POS
+}
+{
+Pedofiles are fighting for their rights now cuz they are "sexually oriented" toward children. Thats the most repulsive thing ive ever heard.
+#POS B V V P D N R P O V W R A W P N W L D R A N L R V W #POS
+}
+{
+"REF TAG she's Italian" REF
+#POS W I J H L A W I #POS
+}
+{
+My favorite one is Michelle..........who used to be Michael. TAG REF
+#POS D A K V B W O V P V B W H I #POS
+}
+{
+REF oh dont worry. We are used to anxiety attacks. Youll do great!! :)
+#POS I C V V W O V A P N N W L V A W E #POS
+}
+{
+Ive had an AMP and REF just brought me coffee. TAG TAG
+#POS L V D B F I R V O N W H H #POS
+}
+{
+Today is going to be awesome. Working with REF and REF TAG TAG
+#POS N V V P V A W V P I F I H H #POS
+}
+{
+New diet plan: Poverty.
+#POS A N N W N W #POS
+}
+{
+REF no proof. Dont believe it.
+#POS I D N W V V O W #POS
+}
+{
+REF didnt snapchat it. Dont believe it.
+#POS I V V O W V V O W #POS
+}
+{
+REF i see you...... TAG
+#POS I O V O W H #POS
+}
+{
+I need a map for my own kitchen. I cant find anything. TAG TAG
+#POS O V D N P D A N W O V V N W V H #POS
+}
+{
+Dancing in the kitchen to no music with REF &gt;&gt;&gt;&gt;&gt;&gt; TAG
+#POS V P D N P D N P I G H #POS
+}
+{
+America is riding the struggle bus and im driving it. TAG
+#POS B V V D N N F L V O W H #POS
+}
+{
+REF back at ya girlfriend! :)
+#POS I R P D N W E #POS
+}
+{
+The greatest boyfriend ever. TAG TAG URL
+#POS D A N R W H H U #POS
+}
+{
+"Look at this american eagle bitch ass and his american eagle bitch ass bike" REF
+#POS W V P D B N N N F D A N N N N W I #POS
+}
+{
+"REF If you tickle me, I'm not responsible for your injuries." REF
+#POS W I J P O V O W L R A P D N W W I #POS
+}
+{
+REF we'll see. And what the hell is a NUM day challenge?? Lol
+#POS I L V W F O D N V D K N N W C #POS
+}
+{
+"REF I don't stalk, 
+
+I investigate." REF
+#POS W I J O V V W
+
+O V W W I #POS
+}
+{
+"REF me irl URL" REF TAG
+#POS W I J O R U W I H #POS
+}
+{
+REF how many times have i heard this?? TAG
+#POS I R A N V O V O W H #POS
+}
+{
+REF for real tho. I dont work on anyones schedule by my own lol
+#POS I P A N W O V V P D N P D A C #POS
+}
+{
+My brother just said he will be the one to find sasquatch. He said, "......ive done research." TAG
+#POS D N R V O V V D K P V N W O V W W W L V N W W H #POS
+}
+{
+REF absolutely NOT a poor life decision.
+#POS I R R D A N N W #POS
+}
+{
+Fast on your feet not on the street.
+#POS A P D N R P D N W #POS
+}
+{
+"It was snowing like hemoglobins outside" TAG REF REF REF
+#POS W O V V P N P W H I I I #POS
+}
+{
+" bitch i hope you drown in your cheese" REF REF REF
+#POS W N O V O V P D N W I I I #POS
+}
+{
+A beautiful day for a beautiful birthday REF and a beautiful birthday celebration REF love you girls!! :)
+#POS D A N P D A N I F D A N N I V O N W E #POS
+}
+{
+When REF snapchats me the life of a dinosaur &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS R I V O D N P D N G #POS
+}
+{
+Peanut butter poptarts. Whaaaaaat?
+#POS A N N W C W #POS
+}
+{
+REF shooter is on tnt....AGAIN. just in case you missed it yesterday..or the day before that..or the day before that.....
+#POS I N V P B W R W R P N O V O N W F D N P O W F D N P O W #POS
+}
+{
+Catching Bad Boys on tv &gt;&gt;&gt;&gt;&gt;
+#POS V A N P N G #POS
+}
+{
+REF that face!! TAG
+#POS I D N W H #POS
+}
+{
+This is how we put baby birds back in their nests. URL
+#POS O V R O V N N R P D N W U #POS
+}
+{
+REF because it was deliciousssssss TAG :)
+#POS I P O V A H E #POS
+}
+{
+"REF Cannolis solve about half my problems TAG" REF REF
+#POS W I J B V P N D N H W I I #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+Watching the ridiculousness that is Cops. TAG REF
+#POS V D N P V N W H I #POS
+}
+{
+REF that face!
+#POS I D N W #POS
+}
+{
+REF haha youre the best. TAG TAG
+#POS I C L D A W H H #POS
+}
+{
+REF back at ya babe. TAG
+#POS I R P D N W H #POS
+}
+{
+Ive had the time of my life, ive never felt this way before. This i swear. Its the truth. And i owe it all to you.
+#POS L V D N P D N W L R V D N P W D O V W L D N W F O V O D P O W #POS
+}
+{
+Ive been wanting to watch Dirty Dancing so bad lately. Boom. Its on tv. TAG
+#POS L V V P V A N R A R W C W L P N W H #POS
+}
+{
+REF you mean one or twelve THOUSAND times??
+#POS I O V K F K K N W #POS
+}
+{
+REF shooter is on tnt. It just started. Thought you would want to know. Im sure you havent seen it in a while.....
+#POS I N V P B W O R V W V O V V P V W L A O V V O P D N W #POS
+}
+{
+Added a new gun to the family today. Cant wait to shoot it. #NUMmmshield
+#POS V D A N P D N N W V V P V O W H #POS
+}
+{
+REF and i are excited for children....mostly because of the little baby shoes!!!!
+#POS I F O V A P N W R P P D A N N W #POS
+}
+{
+TAG URL
+#POS B U #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF TAG TAG TAG
+#POS I H H H #POS
+}
+{
+Got off work early to see fireworks with REF :)
+#POS V T N A P V N P I E #POS
+}
+{
+"REF I ain't talking slim when I say these bitches shady 🙊" REF
+#POS W I J O V V A R O V D N A W W I #POS
+}
+{
+REF ha! Good luck with that girlfriend!
+#POS I C W A N P D N W #POS
+}
+{
+It is literally a miracle that i am awake right now. TAG TAG TAG
+#POS O V R D N P O V A R R W H H H #POS
+}
+{
+"Im like a bird................................squawk" REF REF
+#POS W L P D N W N W I I #POS
+}
+{
+REF REF im excited even if hes not....
+#POS I I L A R P L R W #POS
+}
+{
+Eating mac &amp; cheese and chicken nuggets for lunch like im NUM again.
+#POS V B F N F N N P N P L K R W #POS
+}
+{
+REF this is us!! TAG URL
+#POS I O V O W H U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF who was mean to you!?! Ill hurt them. TAG
+#POS I O V V P O W L V O W H #POS
+}
+{
+Watching Cops with my dad. TAG TAG
+#POS V N P D N W H H #POS
+}
+{
+"REF America is full of strange contradictions URL" REF REF TAG
+#POS W I J B V A P A N U W I I H #POS
+}
+{
+REF yes i picked. TAG
+#POS I C O V W H #POS
+}
+{
+Special shout out to REF for driving REF and i to see fireworks last night like we were children, even tho he didnt want to lol
+#POS A V T P I P V I F O P V N A N P O V N W R P O V V P C #POS
+}
+{
+Happy NUM year anniversary to the two best friends a girl could ask for!! So happy i could be a part of that amazing day! REF REF
+#POS A K N N P D K A N D N V V P W R A O V V D N P D A N W I I #POS
+}
+{
+"REF Who do you share your TAG with? URL" REF
+#POS W I J O V O V D B P W U W I #POS
+}
+{
+"Pick a pillow based on its pillowness" -thomas REF
+#POS W V D N V P L N W B I #POS
+}
+{
+REF you are just hilarious all around lol
+#POS I O V R A R P C #POS
+}
+{
+In the midst of silence while watching fireworks REF says "too bad we dont have any epic america music right now"
+#POS P D N P N P V N I V W R A O V V D A B N R R W #POS
+}
+{
+REF the reason this is so funny is because i wholeheartedly believe it happened.
+#POS I D N O V R A V P O R V O V W #POS
+}
+{
+When my brother whips out his bankroll of ones rubber banded together. TAG TAG TAG
+#POS R D N V T D N P N N V R W H H H #POS
+}
+{
+REF REF so jelly. TAG
+#POS I I P N W H #POS
+}
+{
+"If i keep eating this funfetti dip im gonna be at dicks shopping in the tent isle." - jan TAG
+#POS W P O V V D A N L V V P N V P D N N W W W B H #POS
+}
+{
+REF i love you babe. And ill tell all my friends on my stickam list, all my stickam friends. ;) TAG
+#POS I O V O N W F L V D D N P D N N W X D N N W E H #POS
+}
+{
+Backstreet boys on the radio?? TAG TAG
+#POS A N P D N W H H #POS
+}
+{
+Everytime i open my mouth im wrong.
+#POS R O V D N L A W #POS
+}
+{
+REF REF whisky and chocolate in sauce form!? TAG URL
+#POS I I N F N P N N W H U #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF i picked lunch!!!! TAG
+#POS I O V N W H #POS
+}
+{
+REF right!??!
+#POS I C W #POS
+}
+{
+REF tupac and henry!! TAG URL
+#POS I B F B W H U #POS
+}
+{
+REF he is soooo cute URL
+#POS I O V R A U #POS
+}
+{
+Oh shes just walking her fish... REF
+#POS C L R V D N W I #POS
+}
+{
+REF ha! Anytime :) TAG
+#POS I C W R E H #POS
+}
+{
+REF nooooooooo!
+#POS I C W #POS
+}
+{
+REF aw thanks! We are both lucky! ;)
+#POS I C N W O V D A W E #POS
+}
+{
+REF me either. It just fuels the fire.
+#POS I O R W O R V D N W #POS
+}
+{
+"REF Someone telling me to calm down when I was already calm unleashes a fury that not even hell can contain." REF
+#POS W I J N V O P V T R O V R A V D N P R R V V V W W I #POS
+}
+{
+REF TAG is one of the best friends you can have. We're fiercely loyal and protective of those we care about. So true! Im so lucky!
+#POS I B V K P D A N O V V W L R A F A P D O V P W R A W L R A W #POS
+}
+{
+REF cuz i want to know!! URL
+#POS I P O V P V W U #POS
+}
+{
+Seriously tho URL
+#POS R R U #POS
+}
+{
+Spent the day in the pool with REF and it was amazing. :)
+#POS V D N P D N P I F O V A W E #POS
+}
+{
+"He just called you tube sock..." REF REF
+#POS W O R V O V N W W I I #POS
+}
+{
+"Black does not equal black" -matt TAG REF REF
+#POS W B V R A A W J H I I #POS
+}
+{
+REF nice lol
+#POS I A C #POS
+}
+{
+REF on possum run?! I try to see how high i can get it to go before i pass haha
+#POS I P N V W O V P V R A O V V O P V R O V C #POS
+}
+{
+First order of business: starbucks.
+#POS A N P N W B W #POS
+}
+{
+REF i didnt have one...
+#POS I O V V K W #POS
+}
+{
+REF REF see!! Its real!!!
+#POS I I V W L A W #POS
+}
+{
+Im awake right now. That cannot be possible.
+#POS L A R R W O V V A W #POS
+}
+{
+I have the most amazing boyfriend ever. Hands down. TAG REF
+#POS O V D R A N R W N P W H I #POS
+}
+{
+Miniature cheese shredder. TAG URL
+#POS A N N W H U #POS
+}
+{
+"REF Buying a new pair of shoes is the best feeling" REF TAG
+#POS W I J V D A N P N V D A N W I H #POS
+}
+{
+REF TAG TAG TAG URL
+#POS I H H H U #POS
+}
+{
+REF yes! And fluffy cooooows!!!!!! Ahhh
+#POS I C W F A N W C #POS
+}
+{
+REF beautiful. We can have ducks too
+#POS I A W O V V N R #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF im beginning to have a mild obsession with goats.... URL
+#POS I L V P V D A N P N W U #POS
+}
+{
+Oh. Found it. Great receiving process ya got there. TAG
+#POS C W V O W A V N O V R W H #POS
+}
+{
+How do you lose a window??? TAG
+#POS R V O V D N W H #POS
+}
+{
+"REF Bubble butt" REF
+#POS W I J B N W I #POS
+}
+{
+REF silly people.
+#POS I A N W #POS
+}
+{
+Hes real! TAG URL
+#POS L A W H U #POS
+}
+{
+I though having a job was having a "real" job. TAG TAG TAG
+#POS O P V D N V V D W A W N W H H H #POS
+}
+{
+REF seriously tho. We facebook stall people in real life. Haha
+#POS I R R W O B N N P A N W C #POS
+}
+{
+My brother just told me he has NUM wallets. One for all his stacks and the other for running around.
+#POS D N R V O O V K N W K P D D N F D A P V R W #POS
+}
+{
+REF thank you :)
+#POS I V O E #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF no more TAG??? :( sad....
+#POS I C A H W E A W #POS
+}
+{
+REF this picture makes me laugh so hard hahahahaha
+#POS I D N V O V R A C #POS
+}
+{
+"REF Seems legit! URL" REF
+#POS W I J V A W U W I #POS
+}
+{
+Im about done.
+#POS L P V W #POS
+}
+{
+Made it to franklin in NUM minutes. TAG
+#POS V O P V P K N W H #POS
+}
+{
+Look at all the love that we got. It aint never gonna stop.
+#POS V P D D N P O V W O V R V V W #POS
+}
+{
+I went to have blood drawn then morning. It was in the basement of some building and it was all old people there. It did not seem legit.
+#POS O V P V N V R N W O V P D N P D N F O V D A N R W O V R V A W #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF we are squidward!! URL
+#POS I O V B W U #POS
+}
+{
+REF i really dont know how else to speak.
+#POS I O R V V R R P V W #POS
+}
+{
+REF Apparently so do pisces lol
+#POS I R R V N C #POS
+}
+{
+REF allllll the time haha
+#POS I X D N C #POS
+}
+{
+REF REF hahahahaha yessss
+#POS I I C C #POS
+}
+{
+REF REF i was laughing so hard. Seriously. What is it with cannolis? Haha
+#POS I I O V V R A W R W O V O P N W C #POS
+}
+{
+REF REF this is only funny because of a previous conversation about cannolis hahaha URL
+#POS I I O V R A P P D A N P N C U #POS
+}
+{
+REF my thoughts exaclty
+#POS I D N N #POS
+}
+{
+Always. URL
+#POS R W U #POS
+}
+{
+REF repissed remad same thing. Its real. URL
+#POS I V R A N W L A W U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF at least shes not smiling at you. TAG
+#POS I P A L R V P O W H #POS
+}
+{
+REF singing "Call Me Maybe" in the car. REF you know how much i love that song. -_-
+#POS I V W V O R W P D N W I O V R A O V D N W E #POS
+}
+{
+REF well that just means im giving you back whats yours.
+#POS I C O R V L V O R L O W #POS
+}
+{
+REF yes :)
+#POS I C E #POS
+}
+{
+REF hahahahaha i love that commercial!! That also applies to my life.....
+#POS I C O V D N W O R V P D N W #POS
+}
+{
+When your dad takes you for a wendys waffle cone frosty &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt; TAG TAG
+#POS R D N V O P D N N N A E H H #POS
+}
+{
+REF my life would be made. If i never saw another llama i would be happy knowing i saw that.
+#POS I D N V V V W P O R V D N O V V A A O V O W #POS
+}
+{
+REF i am NUM% done with shady people
+#POS I O V K V P A N #POS
+}
+{
+REF REF precious.
+#POS I I A W #POS
+}
+{
+"REF Why not poop at work? Getting paid to take a shit is the best" REF
+#POS W I J R R N P N W V V P V D N V D A W I #POS
+}
+{
+REF i second that motion.... TAG TAG?
+#POS I O A P N W H H W #POS
+}
+{
+I drove thru NUM hurricanes this week. Im gonna trade my car in for a boat. TAG TAG
+#POS O V P K N D N W L V V D N P P D N W H H #POS
+}
+{
+REF REF REF yessss im down for that. Lets get outta here. TAG TAG
+#POS I I I C L R P O W L V P R W H H #POS
+}
+{
+"REF I just shit in the street." REF
+#POS W I J O R N P D N W W I #POS
+}
+{
+I get to drive Big Blue today. TAG TAG URL
+#POS O V P V A A N W H H U #POS
+}
+{
+REF REF whaaaaaaa??
+#POS I I C W #POS
+}
+{
+So much anxiety lately. Unfortunately no sleep either.
+#POS R A N R W R D N R W #POS
+}
+{
+REF bahahahaha
+#POS I C #POS
+}
+{
+He deserves a wendys waffle cone TAG TAG URL
+#POS O V D N N N H H U #POS
+}
+{
+Neil using the leaf blower to dry my carpet. URL
+#POS B V D N N P V D N W U #POS
+}
+{
+Project of the day: cleaning my car. TAG TAG TAG TAG
+#POS N P D N W V D N W H H H H #POS
+}
+{
+REF hopefully it will go quick! Love you babe!
+#POS I R O V V R W V O N W #POS
+}
+{
+For real tho. TAG URL
+#POS P A N W H U #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+Why do i speak?
+#POS R V O V W #POS
+}
+{
+REF REF REF well i have the evidence so..... TAG
+#POS I I I C O V D N P W H #POS
+}
+{
+REF whaaaaaaaaa? *said in minion voice* TAG TAG
+#POS I C W W V P N N W H H #POS
+}
+{
+"Can we trade these changes into dollars?" Yeah, as soon as you tell me what the hell "changes" are. #NUMyearoldgirls TAG
+#POS W V O V D N P N W W C W P R P O V O O D N W N W V W H H #POS
+}
+{
+REF REF i have a sauce cup from logans lol
+#POS I I O V D N N P B C #POS
+}
+{
+REF REF REF its ok. Ill tell them i did it. Ill take the hit for you.
+#POS I I I L A W L V O O V O W L V D N P O W #POS
+}
+{
+REF REF hahahaha they arent going to arrest you over a shrimp fork
+#POS I I C O V V P V O P D N N #POS
+}
+{
+REF REF oh you know. Just a typical dining experience. Red Lobster is now short a shrimp fork.
+#POS I I C O V W R D A N N W A N V R A D N N W #POS
+}
+{
+Finding a shrimp fork in my car &gt;&gt;&gt;&gt;&gt;&gt;&gt; REF
+#POS V D N N P D N G I #POS
+}
+{
+Ill have everything ill ever need. Im carrying your love with me.
+#POS L V N L R V W L V D N P O W #POS
+}
+{
+Today was perfect. Fishing, dinner and a movie. All thanks to REF TAG :)
+#POS N V A W N W N F D N W D N P I H E #POS
+}
+{
+"REF Baby otter brothers! URL" REF REF omg. I must have one before i die. TAG
+#POS W I J N N N W U W I I C W O V V K P O V W H #POS
+}
+{
+"REF What I would do for a cannoli right now TAG TAG"REF
+#POS W I J O O V V P D N R R H H W I #POS
+}
+{
+Its a miracle im awake. TAG TAG
+#POS L D N L A W H H #POS
+}
+{
+REF sad day. Im sorry you had such a bad night! :(
+#POS I A N W L A O V A D A N W E #POS
+}
+{
+REF they were gone!!! It was so weird
+#POS I O V A W O V R A #POS
+}
+{
+Come home to an empty house at NUM o'clock at night. TAG TAG TAG
+#POS V N P D A N P K N P N W H H H #POS
+}
+{
+Chasing my redbull with mountain dew. TAG TAG TAG
+#POS V D N P N N W H H H #POS
+}
+{
+I DO NOT want to go to work at NUMam. TAG
+#POS O V R V P V P N P K W H #POS
+}
+{
+REF bitch! I got shit to do today! URL
+#POS I N W O V N P V N W U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF me tooo! I was so excited when i saw it was on!!
+#POS I O R W O V R A R O V O V P W #POS
+}
+{
+REF ABC family!!
+#POS I B N W #POS
+}
+{
+Pocahontas is on tv. SHUT. YOUR. MOUTH. TAG TAG
+#POS B V P N W V W C W N W H H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+This is how we park at the laux household. TAG TAG URL
+#POS O V R O N P D B N W H H U #POS
+}
+{
+REF soooooo true!!
+#POS I R A W #POS
+}
+{
+REF yes!! Omg REF would love this lol
+#POS I C W C I V V O C #POS
+}
+{
+REF thats what she said.
+#POS I L O O V W #POS
+}
+{
+REF except its usually landing on my face. URL
+#POS I V L R V P D N W U #POS
+}
+{
+"REF One of the worst TAG : URL" REF
+#POS W I J K P D A H W U W I #POS
+}
+{
+"REF URL"REF
+#POS W I J U #POS
+}
+{
+Texas Roadhouse and Fast NUM tonight with my love. TAG TAG TAG REF
+#POS B N F A K N P D N W H H H I #POS
+}
+{
+REF they are the best!
+#POS I O V D A W #POS
+}
+{
+Peach margarita. TAG REF REF URL
+#POS A N W H I I U #POS
+}
+{
+He complains about me doing this to him. TAG REF URL
+#POS O V P O V O P O W H I U #POS
+}
+{
+You know how we do. TAG TAG REF REF URL
+#POS O V R O V W H H I I U #POS
+}
+{
+Im seriously lectured everytime i go to walk out the door. Oh i forgot im a horrible child. TAG TAG
+#POS L R V R O V P V P D N W C O V L D A N W H H #POS
+}
+{
+When my first customer of the day says "F it" &gt;&gt;&gt;&gt; my motto of the day
+#POS R D A N P D N V W V O W G D N P D N #POS
+}
+{
+Backwoods legit. Dont take no lip.
+#POS N A W V V D N W #POS
+}
+{
+Double tittie tats. You are rated R for ratchet.
+#POS B N N W O V V V P A W #POS
+}
+{
+Some man just paid $NUM for plain vanilla ice cream. TAG TAG
+#POS D N R V K P A N N N W H H #POS
+}
+{
+REF bahahaha TAG yes we need to go soon!
+#POS I C H C O V P V R W #POS
+}
+{
+Whipped cream on an iced hazelnut latte? TAG TAG URL
+#POS A N P D A N N W H H U #POS
+}
+{
+Breakfast at Bob's and Starbucks. TAG TAG TAG
+#POS N P Z F B W H H H #POS
+}
+{
+My hip is twitching. How does that happen. TAG
+#POS D N V V W R V O V W H #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF seriously tho. URL
+#POS I R R W U #POS
+}
+{
+REF REF URL
+#POS I I U #POS
+}
+{
+REF TAG TAG
+#POS I H H #POS
+}
+{
+Hard at work. REF REF URL
+#POS N P N W I I U #POS
+}
+{
+REF REF old bitches up in here dancin
+#POS I I A N P P R V #POS
+}
+{
+But i am le tiirreed.
+#POS F O V N V W #POS
+}
+{
+REF seriously. Mac and cheese is the bomb.
+#POS I R W B F N V D N W #POS
+}
+{
+Uncontrollable laughter in the doctors office. TAG TAG
+#POS A N P D N N W H H #POS
+}
+{
+I had such a great day today with the sweetest, funniest, most amazing man. Thank you for everything. REF TAG :)
+#POS O V A D A N N P D A W A W R A N W V O P N W I H E #POS
+}
+{
+Word. REF URL
+#POS C W I U #POS
+}
+{
+Oh yes. TAG URL
+#POS C C W H U #POS
+}
+{
+He did a NUM point turn-around in my driveway. REF URL
+#POS O V D K N N P D N W I U #POS
+}
+{
+REF Get it. Girl. TAG TAG
+#POS I V O W N W H H #POS
+}
+{
+REF saw this at the tshirt factory today. TAG URL
+#POS I V O P D N N N W V U #POS
+}
+{
+My mom just said "dont be a hater" TAG TAG
+#POS D N R V W V V D N W H H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF :) TAG
+#POS I E E #POS
+}
+{
+Tommy asked my dad what color we are painting the kitchen my dad says, we call it "Tommy." Hahahahaha TAG REF
+#POS B V D N O N O V V D N D N V W O V O W B W W C H I #POS
+}
+{
+Baby pizzas!! TAG REF URL
+#POS N N W H I U #POS
+}
+{
+Well....the one that has hair....was staring at us.... REF
+#POS C W D K P V N W V V P O W I #POS
+}
+{
+REF yesssssss. TAG
+#POS I C W H #POS
+}
+{
+REF please tell me the picture for REF is a llama. TAG
+#POS I V V O D N P I V D N W H #POS
+}
+{
+REF REF so excited too! TAG TAG TAG TAG TAG
+#POS I I R A R W H H H H H #POS
+}
+{
+REF ohhhh bahahaha i didnt realize you were responding to that! Haha TAG
+#POS I C C O V V O V V P O W C H #POS
+}
+{
+REF is there supposed to be a pic with that? Lol
+#POS I V R A P V D N P O W C #POS
+}
+{
+Best. Weekend. Ever. REF REF REF
+#POS A W N W R W I I I #POS
+}
+{
+TAG REF REF REF
+#POS H I I I #POS
+}
+{
+Happy Birthday! I hope you have a great day! :) REF
+#POS A N W O V O V D A N W E I #POS
+}
+{
+REF precious.
+#POS I A W #POS
+}
+{
+REF i do lol
+#POS I O V C #POS
+}
+{
+REF childs play.
+#POS I N V W #POS
+}
+{
+REF false. Hes a dumbass cuz he had no idea how to maneuver our parking lot &amp; felt like squeezing between NUM cars was the best way
+#POS I A W L D N P O V D N R P V D N N F V P V P K N V D A N #POS
+}
+{
+REF scary because he almost hit my car. Impressive because he made a tight S turn in reverse.
+#POS I A P O R V D N W A P O V D A N V P N W #POS
+}
+{
+REF it was probably the scariest most impressive things ive ever seen lol
+#POS I O V R D A R A N L R V C #POS
+}
+{
+Watched my car almost get plowed by a semi this morning. TAG TAG REF you would have been dying.
+#POS V D N R V V P D N D N W H H I O V V V V W #POS
+}
+{
+REF is your phone working?? Mine has no service...
+#POS I V D N V W O V D N W #POS
+}
+{
+Apparently i have no service at work? So goodmorning :) have a great day babe! REF
+#POS R O V D N P N W R C E V D A N N W I #POS
+}
+{
+REF i love you too :) TAG
+#POS I O V O R E H #POS
+}
+{
+REF REF REF cant freakin wait!!! TAG
+#POS I I I V V V W H #POS
+}
+{
+The only thing my dad has to say abt my trip is "be careful drinking, if u get thrown in jail im not coming to GA to bail u out" TAG
+#POS D A N D N V P V P D N V W V A N W P O V V P N L R V P B P V O T W H #POS
+}
+{
+Why do my parents have cell phones? They never answer me. But if i dont answer them its world war NUM. TAG TAG
+#POS R V D N V N N W O R V O W F P O V V O L N N K W V V #POS
+}
+{
+Why does my mom have more drama in her life than i do? So annoying. TAG TAG TAG
+#POS R V D N V A N P D N P O V W R A W H H H #POS
+}
+{
+We are on the count down to Georgia people. T-NUM days. TAG REF REF REF
+#POS O V P D N R P B N W K N W H I I I #POS
+}
+{
+REF TAG TAG
+#POS I C H #POS
+}
+{
+REF uhhh im pretty sure i did that in my chem class. Is your prof sure hes teaching the right class?? lol
+#POS I C L R A O V O P D N N W V D N A L V D A N W C #POS
+}
+{
+REF :( what kind of math is it? Do you need help?
+#POS I E O N P N V O W V O V N W #POS
+}
+{
+REF anytime babe! :)
+#POS I R N W E #POS
+}
+{
+REF so cute!! I love you too!!
+#POS I R A W O V O R W #POS
+}
+{
+REF hes so cute!!! I want him!
+#POS I L R A W O V O W #POS
+}
+{
+Leaving work = seeing REF = instantly better mood
+#POS V N W V I W R A N #POS
+}
+{
+The stupidity of the general public never ceases to amaze me. TAG
+#POS D N P D A N R V P V O W H #POS
+}
+{
+Trying to explain computer things to my mom is the most frustrating thing. TAG TAG
+#POS V P V N N P D N V D R A N W H H #POS
+}
+{
+I have to remember not to walk to the kitchen in the middle of the night. Its a death trap. TAG TAG TAG
+#POS O V P V R P V P D N P D N P D N W L D N N W H H H #POS
+}
+{
+REF REF so true!! TAG TAG
+#POS I I R A W H H #POS
+}
+{
+REF anytime babe :) TAG
+#POS I R N E E #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF TAG TAG URL
+#POS I H H U #POS
+}
+{
+REF TAG URL
+#POS I H U #POS
+}
+{
+"REF Having long hair is the most annoying and wonderful thing ever." REF
+#POS W I J V A N V D R A F A N R W W I #POS
+}
+{
+Its still pitch black in my room. Hence why im still in bed. TAG
+#POS L R V A P D N W R R L R P N W H #POS
+}
+{
+REF good luck! You'll do great! :)
+#POS I A N W L V A W E #POS
+}
+{
+Look at this gem. Putt-putt golfing with REF TAG TAG TAG :) URL
+#POS V P D N W N N P I H H H E U #POS
+}
+{
+REF its possible......which flavor do you like??
+#POS I L A W D N V O V W #POS
+}
+{
+Who wants to cook dinner tonight?? TAG TAG TAG URL
+#POS O V P V N N W H H H U #POS
+}
+{
+Drink up this love, baby give it all we got tonight
+#POS V T D N W N V O D O V N #POS
+}
+{
+REF sounds like a real gem ya got there.
+#POS I V P D A N O V R W #POS
+}
+{
+Everyday im blessed. Im the luckiest girl in the world. REF
+#POS N L A W L D A N P D N W I #POS
+}
+{
+REF its vintage. Just go with it.
+#POS I L N W R V P O W #POS
+}
+{
+REF REF REF were the FOUR best friends that anyone can have! (Yes i sang that) TAG TAG
+#POS I I I V D K A N P N V V W W C O V O W H H #POS
+}
+{
+Happy Birthday Sam Kline! Hope you have a great day!  REF
+#POS A N B B W V O V D A N W I #POS
+}
+{
+REF REF TAG
+#POS I I H #POS
+}
+{
+REF REF stop it. No i dont
+#POS I I V O W C O V #POS
+}
+{
+REF REF affirmative eagle eye
+#POS I I A N N #POS
+}
+{
+REF REF no. I bring him panera and arbys and chipotle...
+#POS I I C W O V O B F B F N W #POS
+}
+{
+REF hahaha precious!! TAG :)
+#POS I C A W H E #POS
+}
+{
+REF REF TAG TAG
+#POS I I H H #POS
+}
+{
+REF REF it gets epic when you get here.
+#POS I I O V A R O V R W #POS
+}
+{
+Boy you need URL TAG
+#POS N O V U H #POS
+}
+{
+Tonight is going to be a great night. REF TAG
+#POS N V V P V D A N W I H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF hahahahaha jenkins. Such a great name lol
+#POS I C B W A D A N C #POS
+}
+{
+REF right! They have people to do that for them!
+#POS I C W O V N P V O P O W #POS
+}
+{
+"REF Can we skip school and college and go to the part where I become a princess." REF
+#POS W I J V O V N F N F V P D N R O V D N W W I #POS
+}
+{
+REF you know how i know we are twins? I did and said the exact same thing last semester for my econ class
+#POS I O V R O V O V N W O V F V D A A N A N P D N N #POS
+}
+{
+"REF URL" the tongue. Im dying.
+#POS W I J U W D N W L V W #POS
+}
+{
+Who orders a glass of wine at noodles &amp; company?? TAG? TAG?
+#POS O V D N P N P N F N W H W H W #POS
+}
+{
+When a family of NUM walks in the restautant right in front of you &lt;&lt;&lt;&lt;&lt; TAG TAG
+#POS R D N P K V P D N R P N P O J H H #POS
+}
+{
+REF oh no its legit. Surfing alpaca. Its soaking wet and wearing a lifejacket. I couldnt tweet it to you fast enough haha
+#POS I C C L A W V N W L V A F V D N W O V V O P O A N C #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF can we talk about this surfing alpaca?? URL
+#POS I V O V P O V A W U #POS
+}
+{
+REF baby otter. Im dying. URL
+#POS I N N W L V W U #POS
+}
+{
+Now i remember why i dont like to talk to my mom.
+#POS R O V R O V V P V P D N W #POS
+}
+{
+REF we are both lucky! We found the good ones! :) TAG
+#POS I O V D A W O V D A N W E H #POS
+}
+{
+When you text your brother to see if hes coming home and he says, "yeah in  few im dueling right now." TAG TAG TAG
+#POS R O V D N P V P L V N F O V W W C P A L V R R W W H H H #POS
+}
+{
+REF REF isnt it!? Hes the best! :)
+#POS I I V O W L D A W E #POS
+}
+{
+Got my car vacuumed, washed, waxed, and new wiper blades, and roses today from my amazing boyfriend REF TAG TAG
+#POS V D N V W V W V W F A N N W F N N P D A N I H H #POS
+}
+{
+Thank god i have you tonight! REF
+#POS V B O V O R W I #POS
+}
+{
+On my starbucks grind today. Gonna be a long day. TAG TAG
+#POS P D N V N W V V D A N W H H #POS
+}
+{
+REF oh. Bahahahahahahaha you know how i feel about her and youve accepted it. TAG
+#POS I C W C O V R O V P O F L V O W H #POS
+}
+{
+REF what did i retweet?! Hahaha TAG
+#POS I O V O V W C H #POS
+}
+{
+REF why angry face!?!
+#POS I R A N W #POS
+}
+{
+REF so adorable! TAG
+#POS I R A W H #POS
+}
+{
+URL REF  this sounds like us at work when shit gets stupid. TAG
+#POS U I D V P O P N R N V A W H #POS
+}
+{
+REF hope you have ana amazing time! Cant wait to hear all the stories!! :) TAG
+#POS I V O V D A N W V V P V D D N W E E #POS
+}
+{
+REF that is so cute im gonna die!! Haha
+#POS I O V R A L V V W C #POS
+}
+{
+REF i would be like.... bitch! Stop talkin to my man!! TAG TAG
+#POS I O V V P W N W V V P D N W H H #POS
+}
+{
+REF SHUT UP!! so funny!! TAG!!
+#POS I V T W R A W H W #POS
+}
+{
+REF So. True. Especially fresh baked :)
+#POS I R W A W R A A E #POS
+}
+{
+REF it truly was an amazing day. TAG TAG
+#POS I O R V D A N W H H #POS
+}
+{
+Just saw a NUM year old driving a convertible corvette. TAG TAG
+#POS R V D K N A V D A N W H H #POS
+}
+{
+Just won a cup on cash explosion. TAG
+#POS R V D N P N N W H #POS
+}
+{
+REF childs play
+#POS I N V #POS
+}
+{
+Filled up for $NUM. That blows.
+#POS V T P K W O V W #POS
+}
+{
+REF seriously our life....
+#POS I R D N W #POS
+}
+{
+A lady called my work today and after i said my name was Stephanie she called me Daphne....  TAG
+#POS D N V D N N F P O V D N V B O V O B W H #POS
+}
+{
+REF happy birthday lovebug! :)
+#POS I A N N W E #POS
+}
+{
+Getting called into work &lt;&lt;&lt;&lt;&lt;
+#POS V V P N G #POS
+}
+{
+REF it really is!!
+#POS I O R V W #POS
+}
+{
+REF thus should be on your front door! Haha URL
+#POS I R V V P D N N W C U #POS
+}
+{
+REF "i want one mega millions" *prints ticket* "......with the megaplier"
+#POS I W O V K A N W W N N W W W P D N W #POS
+}
+{
+REF bahahaha that was a good one.
+#POS I C O V D A K W #POS
+}
+{
+REF "would you like a bag?" "No" *bags own order anyway* TAG
+#POS I W V O V D N W W W C W W N A N R W H #POS
+}
+{
+REF TAG TAG
+#POS I H H #POS
+}
+{
+REF seriously. It was only NUM bucks tho so im not that mad haha plus i wasnt that impressed with it. TAG TAG
+#POS I R W O V R K N P P L R O A C F O V O V P O W H H #POS
+}
+{
+REF its NUM and people dont know how to bag at all. TAG TAG
+#POS I L K F N V V R P N P D W H H #POS
+}
+{
+Literally just got my nails done like NUM minutes ago....already chipped one. TAG
+#POS R R V D N V P K N R W R V K W H #POS
+}
+{
+mcdonalds doesnt make a chicken biscuit anymore. This is a sad day.
+#POS B V V D N N R W O V D A N W #POS
+}
+{
+TAG
+#POS H #POS
+}
+{
+REF the amount of things llama related on my phone is borderline embarrassing. TAG
+#POS I D N P N N V P D N V R A W H #POS
+}
+{
+Otters are my favorite animal. TAG URL
+#POS N V D A N W H U #POS
+}
+{
+REF holy baby llama. URL
+#POS I A N N W U #POS
+}
+{
+REF i love you.
+#POS I O V O W #POS
+}
+{
+REF you WILL NOT kick my duck....or i will kick you. TAG
+#POS I O V R V D N W F O V V O W H #POS
+}
+{
+REF yes!!!! :)
+#POS I C W E #POS
+}
+{
+REF glad you went! Hope you feel better! :)
+#POS I A O V W V O V A W E #POS
+}
+{
+We have a duck. And i named her Lois. :) URL
+#POS O V D N W F O V O B W E U #POS
+}
+{
+Had the most amazing day with REF :) &lt;NUM TAG
+#POS V D R A N P I E E E #POS
+}
+{
+Aint nobody got past red.
+#POS V N V A A W #POS
+}
+{
+REF im breathing just fine!!! TAG
+#POS I L V R A W H #POS
+}
+{
+Just hears a lady refer to her child as the evil spawn of daddy. TAG TAG
+#POS R V D N V P D N P D A N P N W H H #POS
+}
+{
+Who in the hell asks for a paper inside of a plastic bag?? TAG
+#POS O P D N V P D N P P D A N W H #POS
+}
+{
+SUMMER. TAG TAG
+#POS N W H H #POS
+}
+{
+Im buying this for Senna. TAG URL
+#POS L V O P B W H U #POS
+}
+{
+REF oh im not really anxious anymore cuzzzzz i dont really care anymore :) haha
+#POS I C L R R A R P O V R V R E C #POS
+}
+{
+REF yes! Ughhhh im not excited
+#POS I C W C L R V #POS
+}
+{
+REF yes i work tonight! DAT!
+#POS I C O V N W K W #POS
+}
+{
+REF damn it. We need to fix this!
+#POS I C O W O V P V O W #POS
+}
+{
+REF do i get to see you today?
+#POS I V O V P V O N W #POS
+}
+{
+REF praying for you my love!
+#POS I V P O D N W #POS
+}
+{
+People tryin to crash parties and shit. TAG
+#POS N V P V N F N W H #POS
+}
+{
+REF i dont want to look like a boom....  TAG TAG TAG
+#POS I O V V P V P D N W H H H #POS
+}
+{
+REF one of those days huh? Lol
+#POS I K P D N C W C #POS
+}
+{
+"REF You can't fix stupid but you sure can punch it in the face." REF
+#POS W I J O V V A F O A V V O P D N W W I #POS
+}
+{
+REF hahahahahaha i wish i worked with you again....we would have so much fun
+#POS I C O V O V P O R W O V V R A N #POS
+}
+{
+So excited for tonight! REF REF REF REF
+#POS R A P N W I I I I #POS
+}
+{
+REF went to dots to visit you but you werent there..... TAG i have things to tell you
+#POS I V P N P V O F O V R W H O V N P V O #POS
+}
+{
+We have a cracked pipe.....not a crack pipe. - my mother. TAG
+#POS O V D A N W R D N N W W D N W H #POS
+}
+{
+Today is beautiful. URL
+#POS N V A W U #POS
+}
+{
+Figures starbucks would be packed. TAG TAG
+#POS N B V V A W H H #POS
+}
+{
+I just saw a huge truck pulling a huge pontoon boat on campus. TAG TAG?
+#POS O R V D A N V D A N N P N W H H W #POS
+}
+{
+REF working hard i see lol
+#POS I V A O V C #POS
+}
+{
+REF bahahaha thats so funny. TAG
+#POS I C L R A W H #POS
+}
+{
+REF you don't have a key to your house???
+#POS I O V V D N P D N W #POS
+}
+{
+I was trying to walk thru the house silently. Then my knee started cracking with every step. TAG TAG
+#POS O V V P V P D N R W R D N V V P D N W H H #POS
+}
+{
+Im finally holdin what ive been hopin for
+#POS L R V O L V V P #POS
+}
+{
+NUM down NUM to go. TAG
+#POS K A K P V W H #POS
+}
+{
+REF hahaha looks like our ghetto tendencies are rubbing off on matt! TAG
+#POS I C V P D A N V V T P B W H #POS
+}
+{
+REF true. But they are also really interesting
+#POS I A W F O V R R A #POS
+}
+{
+Nothing like exploring a cemetery on this beautiful day. TAG
+#POS N P V D N P D A N W H #POS
+}
+{
+REF soooo true lol TAG TAG
+#POS I R A C H H #POS
+}
+{
+REF oh no booze day Tuesday is still on. Even tho i open on wednesday lol
+#POS I C C N N B V R P W R R O V P B C #POS
+}
+{
+REF i mean i get more time to study but i already had shit to do on thursday so i had to reschedule all that
+#POS I O V O V A N P V F O R V N P V P B P O V P V D O #POS
+}
+{
+My prof just told us today our final isnt actually tomorrow its thursday. Bitch i already had my week scheduled. TAG
+#POS D N R V O N D A N R R L B W N O R V D N V W H #POS
+}
+{
+First time ive had coffee in NUM weeks. Whaoooo. TAG
+#POS A N L V N P K N W C W H #POS
+}
+{
+Of course im stuck inside studying on this beautiful day. I should be at the reserve. TAG
+#POS P N L V P V P D A N W O V V P D N W H #POS
+}
+{
+REF &lt;NUM
+#POS I E #POS
+}
+{
+REF yes!! That sounds so good! TAG
+#POS I C W O V R A W H #POS
+}
+{
+REF i miss you already. Can we have weekly lunch dates even tho we wont be in school together?
+#POS I O V O R W V O V A N N R P O V V P N R W #POS
+}
+{
+REF its just a red spot on my nose...soooo close tho.
+#POS I L R D A N P D N W R A R W #POS
+}
+{
+REF i feel like that is completely accurate.
+#POS I O V P O V R A W #POS
+}
+{
+REF ohh. What a relief.... haha
+#POS I C W O D N W C #POS
+}
+{
+REF i got one step closer to having a black eye last night. TAG
+#POS I O V K N R P V D A N A N W H #POS
+}
+{
+REF J&amp;Bs? Like inside holiday inn?.......
+#POS I B W R P N N W #POS
+}
+{
+When REF and i get together we immediately turn ghetto. TAG
+#POS R I F O V R O R V A W H #POS
+}
+{
+REF yes! They need a spin-off! TAG TAG
+#POS I C W O V D N W H H #POS
+}
+{
+REF TAG TAG
+#POS I H H #POS
+}
+{
+REF yes that would be amazing. TAG TAG
+#POS I C O V V A W H H #POS
+}
+{
+REF NETFLIX.
+#POS I B W #POS
+}
+{
+REF lol nope just lucky i guess...sold a $NUM winning lottery ticket!
+#POS I C C R A O V W V D K V N N W #POS
+}
+{
+REF ohhhh some lucky duck you might know :) lol
+#POS I C D A N O V V E C #POS
+}
+{
+Got tipped NUM bucks tonight. Boom. TAG
+#POS V V K N N W C W H #POS
+}
+{
+I woke up this morning and my dad told me he tried to shoot a bird because it kept flying into the window. TAG
+#POS O V T D N F D N V O O V P V D N P O V V P D N W H #POS
+}
+{
+I hate when people are trying to say something meaningful and misspell words. At that point your words lose all meaning cuz im so annoyed.
+#POS O V R N V V P V N A F V N W P D N D N V D N P L R A W #POS
+}
+{
+REF REF REF right......its a GREAT thing :)
+#POS I I I C W L D A N E #POS
+}
+{
+REF this is the greatest thing of my life. Omg. I cant even take it.
+#POS I O V D A N P D N W C W O V R V O W #POS
+}
+{
+My room looks like a pharmacy right now. You need it i got it. TAG
+#POS D N V P D N R R W O V O O V O W H #POS
+}
+{
+REF yayyyyyy! TAG TAG
+#POS I C W H H #POS
+}
+{
+REF SAME. TAG TAG
+#POS I A W H H #POS
+}
+{
+I am having REF withdrawal too! :( TAG
+#POS O V V I N R W E E #POS
+}
+{
+Just had a spider crisis in my room. Usually im fine with spiders. But this was a giant wolf spider on my curtain!! TAG
+#POS R V D N N P D N W R L A P N W F O V D A N N P D N W H #POS
+}
+{
+REF whoa you do win lol
+#POS I C O V V C #POS
+}
+{
+REF yes maam and i hate it :/
+#POS I C C F O V O E #POS
+}
+{
+REF nice! Ive never seen that one either. TAG
+#POS I A W L R V D K R W H #POS
+}
+{
+REF i was just thinking about that movie the other day! Ive never seen it either!
+#POS I O V R V P D N D A N W L R V O R W #POS
+}
+{
+Llama sighting today. That is all. REF
+#POS B N N W O V D W I #POS
+}
+{
+Wake up REF im bored. TAG
+#POS V T I L A W H #POS
+}
+{
+First big storm of the year. :)
+#POS A A N P D N W E #POS
+}
+{
+My skin gets so red when i scratch it. I look like a drug addict. TAG TAG
+#POS D N V R A R O V O W O V P D N N W H H #POS
+}
+{
+Z-pack. Boom. If im not better in at least NUM days im suing. TAG
+#POS B W C W P L R R P P A K N L V W H #POS
+}
+{
+REF REF REF as long as i dont feel like death! TAG
+#POS I I I R A P O V V P N W H #POS
+}
+{
+Everyone at work asked me if i was hungover.... i wish thats all it was. At least i would have had fun gettin this way. TAG
+#POS N P N V O P O V A W O V L D O V W P A O V V V A V D N W H #POS
+}
+{
+REF REF Yes. Please. TAG TAG
+#POS I I C W V W H H #POS
+}
+{
+REF yesssssss! Thats my favorite thing!! TAG
+#POS I C W L D A N W H #POS
+}
+{
+REF REF TAG
+#POS I I H #POS
+}
+{
+I want to thank my amazing boyfriend for putting up with me and taking care of me while ive been sick all week REF TAG
+#POS O V P V D A N P V T P O F V N P O P L V A D N I H #POS
+}
+{
+REF i was fine til i stood up. I took medicine and a hot shower so im feeling better
+#POS I O V A P O V T W O V N F D A N P L V A #POS
+}
+{
+My head has never hurt so bad in my whole life. I just want to cry.
+#POS D N V R V R A P D A N W O R V P V W #POS
+}
+{
+Is it possible to pull over a cop for not using his turn signal?? TAG TAG
+#POS V O A P V P D N P R V D N N W H H #POS
+}
+{
+REF truuuuuue. Idk. It needs a less traumatizing adventure. TAG TAG
+#POS I A W L W O V D A A N W H H #POS
+}
+{
+REF oh no worries. Apparently it can go on roller coasters too
+#POS I C D N W R O V V P N N R #POS
+}
+{
+"REF Everything is funnier when you're with your bestfriend." REF sooooo true. Hahaha
+#POS W I J N V A R L P D N W W I R A W C #POS
+}
+{
+REF seriously what are our lives coming too...
+#POS I R O V D N V R W #POS
+}
+{
+REF REF when the rutledges snapchat me from the toy isle in walmart &gt;&gt;&gt;&gt; TAG
+#POS I I R D N V O P D N N P B G H #POS
+}
+{
+When you drive somewhere without your wallet and thank God you didnt get pulled over.
+#POS R O V R P D N F V B O V V V P W #POS
+}
+{
+Slide pops up and prof says, this is garbage but i guess ill cover it anyway. Quality education im getting here. TAG
+#POS V V T F N V W O V N F O V L V O R W B N L V R W H #POS
+}
+{
+REF your welcome! Hope you had a great birthday!! :)
+#POS I D N W V O V D A N W E #POS
+}
+{
+When a cop tells you hes gonna watch what he says to you because hes seen your target from the gun range &gt;&gt;&gt;&gt;&gt;&gt;&gt;
+#POS R D N V O L V V O O V P O P L V D N P D N N G #POS
+}
+{
+Signing line-up sheets wasnt on my to-do list today either. TAG
+#POS V N N V P D N N N R W H #POS
+}
+{
+Filling out witness statements was not on my agenda for today. TAG TAG TAG
+#POS V T N N V R P D N P N W H H H #POS
+}
+{
+REF  REF this is why i love both of you. TAG
+#POS I I O V R O V O P O W H #POS
+}
+{
+REF they are soooo cute!! We need to go to the aquarium this summer!
+#POS I O V R A W O V P V P D N D N W #POS
+}
+{
+"REF Hold my hand? URL" ahhhh otters are my favorite!!
+#POS W I J V D N W U W C N V D A W #POS
+}
+{
+"REF When your about to sneeze but it wont come out URL" idk why but this reminds me of you REF
+#POS W I J R L P P V F O V V T U W L R F O V O P O I #POS
+}
+{
+When REF and i hate everyone &gt;&gt;&gt;&gt;
+#POS R I F O V N E #POS
+}
+{
+REF REF oh yes you.
+#POS I I C C O W #POS
+}
+{
+REF this seriously just made my day. This one of the single greatest things ive ever seen. TAG
+#POS I O R R V D N W D K P D A A N L R V W H #POS
+}
+{
+REF thinkin about you today. Lots of prayers and love coming your way!
+#POS I V P O N W N P N F V V D N W #POS
+}
+{
+REF you and one other person i know..... *cough cough* REF
+#POS I O F K A N O V W W V V W I #POS
+}
+{
+REF TAG you called me trashy. TAG
+#POS I V O V O A W H #POS
+}
+{
+REF TAG TAG
+#POS I H H #POS
+}
+{
+REF oh.
+#POS I C W #POS
+}
+{
+REF you tell me to stop speeding all the time, you were just going NUM in a NUM. TAG
+#POS I O V O P V V D D N W O V R V K P D K W H #POS
+}
+{
+REF if you ever tell me to stop speeding again im going to punch you.
+#POS I P O R V O P V V R L V P V O W #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+REF ill take the risk. Winter is depressing me. Id rather be sick and warm than depressed. Your assistance is appreciated
+#POS I L V D N W N V A O W L R V A F A P A W D N V A #POS
+}
+{
+Maybe i can summon warm weather if i start wearing capris. REF help me. You are the true summoner.
+#POS R O V V A N P O V V B W I V O W O V D A N W #POS
+}
+{
+REF REF ive never read truer words....how many snapchats have i gotten today?? Tell henry &amp; tupac i say what's up
+#POS I I L R V A N W R A N V O V N W V B F B O V L T #POS
+}
+{
+This isnt a slut station. You dont pick up people here. REF REF
+#POS D V D N N W O V V T N R W I I #POS
+}
+{
+REF you know.
+#POS I O V W #POS
+}
+{
+I havent drank enough for this.
+#POS O V V R P O W #POS
+}
+{
+Best group partner ever. He wrote my name on then in-class group work after i left early last week. TAG
+#POS A N N R W O V D N P R A N N P O V A A N W H #POS
+}
+{
+Even this coffee is not keeping me awake. TAG TAG
+#POS R D N V R V O A W H H #POS
+}
+{
+Let the suffering commence. NUM hours til freedom.
+#POS V D N V W K N P N W #POS
+}
+{
+REF REF REF REF yes we shall!! And by we...i mean zach lol
+#POS I I I I C O V W F P O W O V B C #POS
+}
+{
+REF that better only be because you could potentially lose your job for drinking it.
+#POS I D A R V P O V R V D N P V O W #POS
+}
+{
+REF bahahaha so funny. I was like what the hell is going on?!
+#POS I C R A W O V P O D N V V P W #POS
+}
+{
+My phone was vibrating for NUM minutes straight becausr REF just retweeted every tweet from the last NUM months haha
+#POS D N V V P K N A N I R V D N P D A K N C #POS
+}
+{
+REF nut up or shut up. Were doin it. TAG
+#POS I N T F V T W V V O W H #POS
+}
+{
+REF wait......can we make BEER floats??!
+#POS I V W V O V N V W #POS
+}
+{
+REF REF REF REF usually is!! TAG TAG??
+#POS I I I I R V W H H W #POS
+}
+{
+T minus NUM hours until TAG REF REF  REF REF
+#POS N P K N P B I I I I #POS
+}
+{
+My professor is retiring after this semester. She doest give a shit about this class. Glad the feeling is mutual.
+#POS D N V V P D N W O V V D N P D N W A D N V A W #POS
+}
+{
+We are watching a video in class. I look around and everyone is on their phone and my professor is asleep. TAG
+#POS O V V D N P N W O V R F N V P D N F D N V R W H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+REF okay the old was the wrong term...i meant that im falling apart haha TAG TAG
+#POS I C D A V D A N W O V O L V N C H H #POS
+}
+{
+Im old. All my joints pop when i move. TAG TAG
+#POS L A W X D N N R O V W H H #POS
+}
+{
+REF no one is perfect but you can be perfect for eachother. Thats what you need to find.
+#POS I D N V A F O V V A P O W L O O V P V W #POS
+}
+{
+REF REF hahaha hes a little early for halloween! TAG
+#POS I I C L D A A P B W H #POS
+}
+{
+REF REF ew wtf???? TAG TAG
+#POS I I C C W H H #POS
+}
+{
+REF URL
+#POS I U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+Seriously. I dont. URL
+#POS R W O V W U #POS
+}
+{
+REF REF hahahaha awkward times for everyone. Including their girlfriend and boyfriend..... TAG
+#POS I I C A N P N W V D N F N W H #POS
+}
+{
+REF lol if we ever move out of this house we are gonna find all kinds of shit hidden haha
+#POS I C P O R V P P D N O V V V D N P N V C #POS
+}
+{
+REF yesss maam :) also found some candy in a pot in the cabinet lol TAG
+#POS I C C E R V D N P D N P D N C H #POS
+}
+{
+REF no no im his favorite so he shares everything with me :)
+#POS I C C L D A P O V N P O E #POS
+}
+{
+My dad just got me a reeses egg from his stash in the freezer hidden in a breakfast burrito box. TAG TAG
+#POS D N R V O D A N P D N P D N V P D N N N W H H #POS
+}
+{
+i think for the first time ever im done with a paper NUM weeks before its due. TAG why has it taken me NUM years to accomplish this?? haha
+#POS O V P D A N R L V P D N K N P L A W H R V O V O K N P V O W C #POS
+}
+{
+People need to stop whining. TAG
+#POS N V P V V W H #POS
+}
+{
+Lots of prayers going out on this beautiful day.
+#POS N P N V T P D A N W #POS
+}
+{
+First phone call this morning, customer cuts me off. TAG TAG
+#POS A N V D N W N V O T W H H #POS
+}
+{
+Yesterday was the most amazing day. I am so blessed with a wonderful family and the greatest boyfriend. TAG REF
+#POS N V D R A N W O V R A P D A N F D A N W H I #POS
+}
+{
+REF "i really need to learn to control my face."
+#POS I W O R V P V P V D N W W #POS
+}
+{
+REF just call me suga sleeves!!!
+#POS I R V O N N W #POS
+}
+{
+REF idk! Ive seen him before but hes not a regular. He then asked how many points he would get if he ran her over. TAG
+#POS I C W L V O P F L R D A W O R V R A N O V V P O V O P W H #POS
+}
+{
+Easter bunny is here. customer puts his glasses on and says "you got to be shittin me" TAG
+#POS B N V R W N V D N P F V W O V P V V O W H #POS
+}
+{
+I dont get paid enough for this shit.
+#POS O V V V R P D N W #POS
+}
+{
+REF we shall buy this for our llama and have a unillama!!!!!!! URL
+#POS I O V V O P D N F V D N W U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF goat castle. That is all. URL
+#POS I N N W O V D W U #POS
+}
+{
+REF im sorry excessive reversing is illegal in dots parking lot. TAG
+#POS I L A A N V A P N N N W H #POS
+}
+{
+REF TAG TAG
+#POS I N H #POS
+}
+{
+REF im sorry excessive reversing is illegal in dots parking lot TAG
+#POS I L A A N V A P N V N H #POS
+}
+{
+REF omg. I love ducks. They are so cute!!! TAG TAG TAG TAG
+#POS I C W O V N W O V R A W H H H H #POS
+}
+{
+REF you missed NUM customers bitch me out and NUM teenage girls i wanted to throat punch today. TAG TAG
+#POS I O V K N V O T F K A N O V P N N N W H H #POS
+}
+{
+REF next week sometime! Text me ur schedule!!
+#POS I A N R W V O D N W #POS
+}
+{
+I need to get my nails done asap. TAG REF you down??
+#POS O V P V D N V N W H I O R W #POS
+}
+{
+The sun is out and its beautiful. Of course you know ill be at school and work all day. TAG TAG
+#POS D N V R F L A W P N O V L V P N F V D N W H H #POS
+}
+{
+I love being out in public. You see so many bazaar things. TAG
+#POS O V V T P A W O V R A N N W H #POS
+}
+{
+Its so much easier to write a paper when youre ranting. TAG NUM pages done
+#POS L R R A P V D N R L V W H K N V #POS
+}
+{
+I heard NUM old ladies &amp; an old man gossip about every person they saw at panera. Clearly this will be us in NUM years REF REF
+#POS O V K A N F D A N N P D N O V P B W R O V V O P K N I I #POS
+}
+{
+REF REF that is the place to be if ur lookin for ratchet. TAG TAG
+#POS I I O V D N P V P L V P A W A H #POS
+}
+{
+Getting off work early &gt;&gt;&gt;&gt;
+#POS V T N A E #POS
+}
+{
+What a beautiful mess im in
+#POS O D A N L P #POS
+}
+{
+REF :)
+#POS I E #POS
+}
+{
+REF its kinda hard to cry out of one eye....
+#POS I L R A P V P P K N W #POS
+}
+{
+REF :'(
+#POS I E #POS
+}
+{
+When REF drops his phone on your eye &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; TAG TAG
+#POS R I V D N P D N G N H #POS
+}
+{
+NUM guy in the WHOLE bar wants to listen to the soccer game so you turn it on for him.....dont i get a vote?? TAG
+#POS K N P D A N V P V P D N N P O V O P P O W V O V D N W H #POS
+}
+{
+Ratchets are out tonight TAG REF REF
+#POS N V T R A I I #POS
+}
+{
+REF i love that you know me so well.
+#POS I O V P O V O R R W #POS
+}
+{
+REF i should probably be doing something like that. Ill give you one guess where i am.
+#POS I O V R V V N P O W L V O K V R O V W #POS
+}
+{
+REF ha i just left. Couldnt take it any more
+#POS I C O R V W V V O D A #POS
+}
+{
+REF precisely. TAG
+#POS I R W H #POS
+}
+{
+"REF My road rage is getting out of control" my life exactly.
+#POS W I J D N N V V P P N W D N R W #POS
+}
+{
+Im tired of this weather and my head hurting all the time. TAG TAG
+#POS L A P D N F D N V D D N W H H #POS
+}
+{
+Why did i have to go to NUM vending machines to find regular M&amp;Ms?? TAG TAG
+#POS R V O V P V P K N N P V A N W H H #POS
+}
+{
+Good thing i went to class tonight. TAG TAG
+#POS A N O V P N N W H H #POS
+}
+{
+REF i didnt need it when you asked me!
+#POS I O V V O R O V O W #POS
+}
+{
+My low fuel light and i are becoming best friends. TAG TAG
+#POS D A N N F O V V A N W H H #POS
+}
+{
+REF i looooove destin! Have fun!
+#POS I O V B W V N W #POS
+}
+{
+When someone calls you at TIM am asking you to go to work an hour early &lt;&lt;&lt;&lt;&lt; TAG TAG
+#POS R N V O P K V V O P V P V D N A J H H #POS
+}
+{
+REF where is that??
+#POS I R V O W #POS
+}
+{
+I find unexplainable injuries everyday. Bruises and cuts. Where do you come from?? TAG
+#POS O V A N N W N F N W R V O V P W H #POS
+}
+{
+The last NUM days have been TAG REF TAG
+#POS D A K N V V H I H #POS
+}
+{
+REF REF love youuuuu! TAG
+#POS I I V O W H #POS
+}
+{
+"REF Taking a math test URL" REF TAG
+#POS W I J V D N N U W I H #POS
+}
+{
+REF then stop saying mean things to me. TAG
+#POS I R V V V N P O W H #POS
+}
+{
+REF ohhh thank sweet baby jesus
+#POS I C V A N B #POS
+}
+{
+REF also, just found NUM giant bruises on my leg. TAG
+#POS I R W R V K A N P D N W H #POS
+}
+{
+REF are you working tonight??
+#POS I V O V R W #POS
+}
+{
+REF hope you feel better!
+#POS I V O V A W #POS
+}
+{
+REF REF cant forget the croutons!! TAG TAG
+#POS I I V V D N W H H #POS
+}
+{
+REF omg that is the cutest face!! TAG
+#POS I C O V D A N W H #POS
+}
+{
+REF word. TAG
+#POS I C W H #POS
+}
+{
+REF REF hahahaha soooo funny TAG
+#POS I I C R A H #POS
+}
+{
+I could really go for a speedway icey right meow. TAG
+#POS O V R V P D N A R C W H #POS
+}
+{
+REF REF no not you. You made my day better :) TAG
+#POS I I C R O W O V D N A E H #POS
+}
+{
+REF extra dressing automatically makes that unhealthy haha TAG
+#POS I A N R V D A C H #POS
+}
+{
+REF I seriously want to punch everyone in the throat
+#POS I O R V P V N P D N #POS
+}
+{
+Can't do this today. REF where is REF  TAG
+#POS V V O N W I R V I H #POS
+}
+{
+When REF sleeps all day &lt;&lt;&lt;&lt;&lt;&lt;&lt; TAG TAG
+#POS R I V D N G H H #POS
+}
+{
+REF actually we definitely know more than one person like this haha
+#POS I R O R V A P K N P O C #POS
+}
+{
+REF OMG. ive never been so excited for halloween!!! Hahahaha
+#POS I C W L R V R A P B W C #POS
+}
+{
+"REF People be acting like they care just to be nosy 😒.." REF we know someone like this...
+#POS W I J N V V P O V R P V A E W W I O V N P O W #POS
+}
+{
+I only hear from you when you need something. TAG TAG
+#POS O R V P O R O V N W H H #POS
+}
+{
+REF I can't even take it hahaha
+#POS I O V R V O C #POS
+}
+{
+REF is the only person I know that googles "awkward llama" TAG
+#POS I V D A N O V O V W A N W H #POS
+}
+{
+Thank you REF for my back massage and my giant cupcake. TAG TAG
+#POS V O I P D N N F D A N W H H #POS
+}
+{
+Holy headache. Holy backache. TAG TAG
+#POS A N W A N W H H #POS
+}
+{
+NCAA tourney. TAG TAG TAG URL
+#POS B N W H H H U #POS
+}
+{
+REF aw how sweet! TAG
+#POS I C R A W H #POS
+}
+{
+REF i love this and i love you TAG TAG
+#POS I O V O F O V O N V #POS
+}
+{
+Why does arbys always take so long :( TAG
+#POS R V B R V R A E H #POS
+}
+{
+REF wish i was with you and not at work :( TAG TAG
+#POS I V O V P O F R P N E E E #POS
+}
+{
+REF :(
+#POS I E #POS
+}
+{
+There is no learning happening. Why am i here?? TAG
+#POS X V D V V W R V O R W H #POS
+}
+{
+Those kids that screw up the curve &lt;&lt;&lt;&lt; TAG
+#POS D N P V T D N G H #POS
+}
+{
+REF bdubs tuesday???? TAG
+#POS I B B W H #POS
+}
+{
+I HATE this class. I cant even take it. TAG TAG
+#POS O V D N W O V R V O W H H #POS
+}
+{
+REF we MUST make these!!!! TAG URL
+#POS I O V V D W H U #POS
+}
+{
+I was told to have a super sonic day today. TAG TAG TAG
+#POS O V V P V D R A N N W H H H #POS
+}
+{
+Why am i overwhelmed with frustration when i walk into my house. TAG TAG
+#POS R V O V P N R O V P D N W H H #POS
+}
+{
+REF i just said this!!
+#POS I O R V O W #POS
+}
+{
+I cant even sit still right now. Idk how im gonna take this exam next class. TAG
+#POS O V R V R R R W L R L V V D N A N W H #POS
+}
+{
+Tuesday Booze Day. TAG REF REF REF REF
+#POS B B N W H I I I I #POS
+}
+{
+REF we have seen so many bazaar things already and its not even noon. TAG
+#POS I O V V R A N N R F L R R N W H #POS
+}
+{
+Watching NUM homeless people fight over the same corner. TAG
+#POS V K A N V P D A N W H #POS
+}
+{
+NUM cups of coffee and a tall redbull. TAG TAG  TAG
+#POS K N P N F D A N W V H H #POS
+}
+{
+CANNOT WAIT TO SEE REF TODAY. TAG TAG
+#POS V V P V I N W H H #POS
+}
+{
+My dad is the funniest person i know. TAG TAG
+#POS D N V D A N O V W H H #POS
+}
+{
+REF REF yes yes we can!! TAG
+#POS I I C C O V W H #POS
+}
+{
+REF TAG
+#POS I H #POS
+}
+{
+Its about to be hell at my house for a week. Dads tearing the kitchen apart and moms flippin a shit about it. TAG TAG
+#POS L P P V N P D N P D N W N V D N N F N V D N P O W H V #POS
+}

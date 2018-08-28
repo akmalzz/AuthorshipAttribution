@@ -1,0 +1,8296 @@
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+NUM usuarios que sigo no me siguen de vuelta en Twitter. Entérate de quién no te sigue de vuelta URL
+#POS K B B B C O R P B P B W B P V D N G P B U #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+DAT TAG URL
+#POS K H U #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF HI JAKE! FOLLOW ME PLEASE!
+#POS I C B W V O V W #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? :)
+#POS I C W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+MUERTE A ESE QUE DIJO SER MI AMIGO Y SE ENOJO CONMIGO POR NADA!
+#POS B D N G G G G N P G G G G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+HOLAAAAAA
+#POS C #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE I LOVE YOU xNUM
+#POS I V P I V O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O E #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF to REF  PLEASE! I LOVE YOU x NUM
+#POS I P I V W O V O V K #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O E #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O E #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O V #POS
+}
+{
+REF FOLLOW to REF  PLEASE! I LOVE YOU xNUM
+#POS I V P I V W O V O G #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O W #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O E #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O G #POS
+}
+{
+REF FOLLOW ME PLEASE! I LOVE YOU xNUM
+#POS I V O V W O V O V #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF NO SE CARGA EL VIDEO!! AñlSRFHABÑLF :C
+#POS I C N B B N W B W G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Y por eso no tengo novio...
+#POS R G G C N N W #POS
+}
+{
+Tipico: Te gusta molestar pero no te gusta que te molesten xD
+#POS N W B V B F D N V G G G E #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+REF fback? TAG TAGNUMD
+#POS I B W H H #POS
+}
+{
+NUM usuarios que sigo no me siguen de vuelta en Twitter. Entérate de quién no te sigue de vuelta URL
+#POS K B B B C O R P B P B W B P V D N G P B U #POS
+}
+{
+REF rate: ㋡㋡ ㋡
+#POS I N W G G #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF rate: "㋡ '
+#POS I N W W E W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS I J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF rate: ㋡㋡ ㋡ ㋡ ㋡
+#POS I N W G G G G #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡
+#POS I N W E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)xNUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)xNUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)xNUM
+#POS I J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)xNUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W E #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W K #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W E #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W E #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+REF hello please follow me! do not ignore me! xNUM
+#POS I C V V O W V R V O W G #POS
+}
+{
+SIGAN TODOS A REF Da Follow back :D TAGNUM
+#POS L N D I D V R E H #POS
+}
+{
+REF fback? please!
+#POS I B W V W #POS
+}
+{
+REF :D TAGNUM
+#POS I E H #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fbacl?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O V K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O V K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O V B #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O B B #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O V B #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O V K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H K #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H E #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF PLEASE I LOVE YOU TAG xNUM
+#POS I V O V O H G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF asdklfjaowef te amare por siempre! :'D ¡gracias! ya pude cambiarle diseño :NUM cualquier cosa que necesites me dices :D
+#POS I G G B G G W J W B B W C B B B E B B B V O V E #POS
+}
+{
+REF mira como sale :c URL
+#POS I G G N W G U #POS
+}
+{
+REF tengo que esperar hasta que me aparezca algo o solo de le doy guardar?
+#POS I B B B B V O G G G A P G G G W #POS
+}
+{
+REF Listo :) me aparece lo de personalizar y lo de html
+#POS I B E O G G P B R P P N #POS
+}
+{
+REF si me aparece personalizar y borre todo lo que estaba en editar html pegue el link y ahora solo aparece el link que copie :|
+#POS I V O V G R V N P G G G N N N N N R G A N G N G G E #POS
+}
+{
+REF :c no se que hacer, no me salio nada! *se va a llorar*
+#POS I J V D N G B W C O G G W W G G D G W #POS
+}
+{
+REF ya hice toodo lo que me dijiste y al parecer soy la peor para arreglar eso xq no me salio nada jajaja solo el link que copie xD
+#POS I C B B B B O V R N N G G G G G G G C O G G C A N N G G E #POS
+}
+{
+REF fback? p.d ya te sigo en tumblr :D y  como le hiciste para tener el diseño de tu tumblr asi? es que yo no se como se arregla xD
+#POS I B W V O V G G B E R G G G G G G G P G B B W G G C C N G G G E #POS
+}
+{
+REF oye una pregunta como le hiciste para tener el diseño de tu tumblr asi? es que yo no se como se arregla jajaja
+#POS I C B B B B B G G G G P G B B W G G C C N G G G C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ya te sigo :) soy URL ♥
+#POS I C B B E N U E #POS
+}
+{
+REF mi tumbrl ♥ :D URL
+#POS I D N E E U #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+¡SUPERMAN IS HERE! ah RT si extrañas los video diarios :|
+#POS B V R W C J G G B N N E #POS
+}
+{
+REF alksdhfaweñ ¡gracias! :)
+#POS I C N W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF de Zayn porfavor (:
+#POS I P B G E #POS
+}
+{
+REF FBACK?
+#POS I B W #POS
+}
+{
+REF no me sigues :|
+#POS I C O G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? :)
+#POS I C W E #POS
+}
+{
+Te gusta el reggaeton TAGónNadieTeQuiere
+#POS B B B B B B #POS
+}
+{
+REF Feliz cumpleaños! que cumplas muchisimos mas :DD
+#POS I B B W G G G G E #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+DIOS MIO ILUMINALOS O ELIMINALOS!
+#POS B B B B B W #POS
+}
+{
+HAY GENTE TONTA Y OTRA QUE NO SE NI QUE TIPO DE ESPECIE RARA ES
+#POS C B B R G G C G B B B B B B B #POS
+}
+{
+REF followed y gracias feliz dia para ti tambien (:
+#POS I V R C G G G G G E #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+✖SÍGUEME Y TE SIGO✖  
+✖SÍGUEME Y TE SIGO✖  
+✖SÍGUEME Y TE SIGO✖  
+✖SÍGUEME Y TE SIGO✖  
+✖SÍGUEME Y TE SIGO✖ 
+  Solo fandoms
+#POS B R B B
+B R B B
+B R B B
+B R B B
+B R B B
+A N #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! PLEASE FOLLOW ME ! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H H #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H G #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H K #POS
+}
+{
+hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H E #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H K #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H E #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H E #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you TAG    xNUM
+#POS I C B R V L A W V V O W E O V O H G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O G #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+REF hi harvey seriously admire you're amazing! please follow me! :) I love you xNUM
+#POS I C B R V L A W V V O W E O V O V #POS
+}
+{
+TAG a REF
+#POS H D I #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+—¿A qué eres adicto, bebé? 
+—A tus besos, ¿y tú? 
+—A One Direction 
+—Pero yo creí que... 
+—A ONE DIRECTION, ¡DIJE!
+#POS W B B B B W B W
+W D N C W G G W
+W D K N
+W F O N G J
+W D K N W B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF AUSTIIIIIIN!
+#POS I B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF FELICIDADES POR TUS NUMK! :'D
+#POS I C B B K W E E E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I N #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I B #POS
+}
+{
+Follow REF xNUM
+#POS V I C #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I K #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I C #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I B #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+Follow REF xNUM
+#POS V I E #POS
+}
+{
+Follow REF xNUM
+#POS V I C #POS
+}
+{
+Follow REF xNUM
+#POS V I G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF no me sigues :|
+#POS I C O G E #POS
+}
+{
+REF hahaha sii ya me imagino tu corriendolas y ellas huyendo xD
+#POS I C B C O G G V R G G E #POS
+}
+{
+REF akdfnawe :')
+#POS I C E #POS
+}
+{
+REF asdjfhwea manita arriba hermana :NUM O/
+#POS I C N C C E E #POS
+}
+{
+REF Directioner, Millertary, NUMsosFam e Imaginer ♥ y tu?
+#POS I N W B W K N N E R G W #POS
+}
+{
+REF somos vecinas O/
+#POS I G G E #POS
+}
+{
+REF aawww :NUM despues las vas a correr? hahahaha
+#POS I C E V B V D N W C #POS
+}
+{
+REF aksdhfwae sii!! :')) hahahaa mientras tanto ¿que se siente tener NUM años? lol
+#POS I G G W E C B B B G G G K N W C #POS
+}
+{
+REF adnsfjkawe gracias! :D, soy de Guatemala y tu?
+#POS I C C W E W G P B R G W #POS
+}
+{
+REF asdfwe tendremos la misma edad NUM dias!! hahaha
+#POS I C B B B B K N W C #POS
+}
+{
+REF Gabi (:
+#POS I B E #POS
+}
+{
+REF el NUM (: y tu?
+#POS I B K E R G W #POS
+}
+{
+REF noo! solo estas grande hahaha okno, ademas me estarias diciendo vieja xq yo ya voy a cumplir NUM (hasta en septiembre haha)
+#POS I C W A B B C C W V O V V G G O O V D N K W G G G C W #POS
+}
+{
+REF hahaha nhaa no digas eso xD
+#POS I C C C V G E #POS
+}
+{
+REF NUM!! :'D alfin alguien es mas grande que yo! haha
+#POS I K W W W B B B B B B B C W C #POS
+}
+{
+REF y cuantos años tienes? (:
+#POS I R B B B W E #POS
+}
+{
+REF hahaha :) y como te llamas?
+#POS I C E R G G N W #POS
+}
+{
+REF adfwaeapoejr :'D gracias a mi tambien me gusta en tuyo ((:
+#POS I N W W B V D G V O V R B E #POS
+}
+{
+¿Quieres un seguidor mas? Sigueme y te sigo (: 
+(Solo fandoms)
+#POS B B B B W B R P B E
+W A N W #POS
+}
+{
+REF Gabi (: y tu?
+#POS I B E R G W #POS
+}
+{
+REF limpieza :| y tu?
+#POS I C E R G W #POS
+}
+{
+REF bien :))
+#POS I G E #POS
+}
+{
+REF como estas? :))
+#POS I C G W E #POS
+}
+{
+REF bien (: y tu?
+#POS I G E R G W #POS
+}
+{
+REF Holaa!
+#POS I C W #POS
+}
+{
+REF holaaa!
+#POS I C W #POS
+}
+{
+REF no me sigues :|
+#POS I C O G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF notice me! please Jake I love you ♥
+#POS I V O W V B O V O E #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF no puedo votar :|
+#POS I D N N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+TAG a REF  ♥
+#POS H D I E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? Hola te gustaria unirte a este grupo de Directioners Chapinas (:URL
+#POS I B W C B B B D N G P N N E U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF no me sigues :|
+#POS I C O G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Niall: Cuando estábamos grabando Kiss you, Eleanor se desmayo y nos asustamos Todos, mientras que Louis corría gritando " Seré Papa "
+#POS B W B B B V O W B G G R N V N W B B B B B W B B W #POS
+}
+{
+DALE RT A LOS QUE MAS TE GUSTEN (: ♥
+#POS B V D B B B B B E E #POS
+}
+{
+REF haha xD oye tengo otra cuenta si qieres otro follow es REF ♥
+#POS I C E C B B B B B B V G I E #POS
+}
+{
+REF no me sigues :c
+#POS I C O G W G #POS
+}
+{
+REF ps no tengo muchos amigos d la NUMsosfam :| pero mis ultimos follow son para personas de la NUMsosfam :D
+#POS I C C N V N G B K E P B B V N G N P B K E #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF okay gracias :DD
+#POS I C C E #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Que pensarían si su amiga se vuelve "amiga" de el chavo que te gusta y ella lo sabe pero aun asi no le importa?
+#POS B B B G G G G W B W P G G G G V R B B B G G G C N G W #POS
+}
+{
+NUM,NUM,NUM matenla por perra!
+#POS K W K W K G G G W #POS
+}
+{
+Soy mi mejor amiga! Jajaja TAG
+#POS B B B B W C H #POS
+}
+{
+Hola!! como están?
+#POS C W V N W #POS
+}
+{
+REF Hi Jake I'm NUM% TAG  ILY follow me?
+#POS I C B L K H C V O W #POS
+}
+{
+Es malo hablar con la misma persona todos los días, porque después sientes que te hace falta
+#POS G G G G B B N N N N W B B B B B B B #POS
+}
+{
+Ahh dan ganas de ir a su casa a tirarle mi$%&amp; por que es puto ps!
+#POS C B B P G D G G D N G G G G G C W #POS
+}
+{
+REF Happy Birthday Lucho!! espero te la pases de lo mejor I love you ♥ xD
+#POS I A N B W G G G G G G G O V O W E #POS
+}
+{
+REF hahaha aslkdmnf claro lol xD
+#POS I C B B C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: NUM
+#POS C V D N D D A W C W N R P B E K #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: NUM
+#POS C V D N D D A W C W N R P B E K #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: NUM
+#POS C V D N D D A W C W N R P B E K #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: NUM
+#POS C V D N D D A W C W N R P B E K #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: NUM
+#POS C V D N D D A W C W N R P B E K #POS
+}
+{
+¿me ayudarías a llegar a mi meta? ah, sígueme y te sigo (: xNUM
+#POS C V D N D D A W C W N R P B E E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF tampoco :|
+#POS I G E #POS
+}
+{
+REF no me sigues :|
+#POS I C O G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Rate: ㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+REF no m sigues
+#POS I C V G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+TAG a REF ♥y tu a mi :'D nos seguimos en mi otra cuenta REF en esa me conecto mas xD
+#POS H D I E R P D N J W B B B P G G G I P G O V B E #POS
+}
+{
+REF holaa! :D followed
+#POS I C W E V #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF :D y q me cuentas?
+#POS I E R G O B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fbacl?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Bien Gracias a Dios tambien :) ♥
+#POS I B B D B B E E #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+NUM TAG TAGNUMDWWATour URL
+#POS K H H U #POS
+}
+{
+REF adfkwea y como has estado?
+#POS I C R V V N W #POS
+}
+{
+RT si amas ser chapina! TAGNUMDWWATour TAG
+#POS J G N G G W H H #POS
+}
+{
+REF adfkasbfwa sexy ♥ TAGNUMDWWATour TAG
+#POS I C A E H H #POS
+}
+{
+REF fback? TAGNUMDWWATour TAG
+#POS I B W H H #POS
+}
+{
+Vamoos queremos a los chicos en Guate! ♥ TAGNUMDWWATour TAG
+#POS B B D N G G B W E H H #POS
+}
+{
+REF sigueme tambien c:
+#POS I G G G W #POS
+}
+{
+Niall tiene novia  DirURL://t.co/zDwNUMPvvykk
+#POS B B B B W U #POS
+}
+{
+Yo: Mamá voy a salir con mis esposos Mamá: No vas a salir con el poster de one direction en la mano! Yo: okay *se regresa a su cuarto*
+#POS C W B V D N N G G B W C V D N N B N P K N P B N W C W C W G V D G G W #POS
+}
+{
+REF askdnfawef :') tu tambien me caes bien!
+#POS I C E G V O V B W #POS
+}
+{
+REF fback?  TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback?  TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF pos lloro :')) akjsndkfwerf  me hiciste feliz!! :'DD  TAG One Direction
+#POS I G G E V O G G W W W B H K N #POS
+}
+{
+RT si extrañas los nanana   TAG One Direction
+#POS J G G B B B B N #POS
+}
+{
+SOY UNA ALONE :C   TAG One Direction
+#POS B B R W G H K N #POS
+}
+{
+REF fback?  TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback?  TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback?  TAG One Direction
+#POS I B W H K N #POS
+}
+{
+casi no he podido twittear asi que retwiteare mucho xDD  TAG One Direction
+#POS B C O V G G G G A E H K N #POS
+}
+{
+TAG One Direction
+#POS H K N #POS
+}
+{
+pos dare RT a todo lo que tenga  TAG One Direction
+#POS B V V D N P G G H K N #POS
+}
+{
+RT RT RT RT TAG One Direction
+#POS J J J J H K N #POS
+}
+{
+Da RT TAG One Direction
+#POS D N H K N #POS
+}
+{
+hola! TAG One Direction
+#POS C W H K N #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF sigueme tambien :) TAG One Direction
+#POS I G G E H K N #POS
+}
+{
+REF sigueme tambien :D TAG One Direction
+#POS I G G E H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF fback? TAG One Direction
+#POS I B W H K N #POS
+}
+{
+REF TAG One Direction
+#POS I H K N #POS
+}
+{
+REF hola vos soy REF  hahaha este es mi twitter cuando me dan limit P.D q sexy tu cuenta xD 
+TAG One Direction
+#POS I C N N N C B B D B B O B N G G A G G E
+H K N #POS
+}
+{
+REF :D ya te pregunte cuantos años tienes? haha
+#POS I E C B B B B B W C #POS
+}
+{
+hoola! 
+TAG One Direction
+#POS C W
+H K N #POS
+}
+{
+TAG One Direction
+#POS H K N #POS
+}
+{
+REF Gaby :D
+#POS I B E #POS
+}
+{
+REF asdfwaefs :NUM y como te llamas?
+#POS I N E R G G N W #POS
+}
+{
+REF Guatemala :D y tu?
+#POS I B E R G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF NUM :D
+#POS I K E #POS
+}
+{
+REF bien :D y cuantos años tienes?
+#POS I G E R P G G W #POS
+}
+{
+REF son mis favs :D
+#POS I N G N E #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) xocho
+TAG One Direction
+#POS C N V N N W W A N W C
+H K N #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) xsiete
+TAG One Direction
+#POS C N V N N W W A N W B
+H K N #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) x seis
+TAG One Direction
+#POS C N V N N W W A N W G G
+H K N #POS
+}
+{
+REF tu turno :D
+#POS I G G E #POS
+}
+{
+REF como estas?
+#POS I C G W #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) x cuatro
+TAG One Direction
+#POS C N V N N W W A N W G G
+H K N #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) xtres
+TAG One Direction
+#POS C N V N N W W A N W N
+H K N #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) x dos
+TAG One Direction
+#POS C N V N N W W A N W G G
+H K N #POS
+}
+{
+NUMxNUM rts desde favs ¿alguien? (Solo seguidores) x uno
+TAG One Direction
+#POS C N V N N W W A N W G B
+H K N #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF holaa!
+#POS I C W #POS
+}
+{
+REF no me sigues :s
+#POS I C O G E #POS
+}
+{
+REF no me sigues
+#POS I C O G #POS
+}
+{
+REF no m sigues
+#POS I C V G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF perra!
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF claro :D
+#POS I C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I C B B B D N G P H U W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam  URL … fback?
+#POS I C B B B D N G P H U W B W #POS
+}
+{
+REF fback?  te gustaria unirte a este grupo de #NUMsosFam  URL …
+#POS I B W G G G D N G P H U W #POS
+}
+{
+REF no podre ir :cc
+#POS I C N N W N #POS
+}
+{
+Sabías que? Maura la madre de Niall desea que él se case como una latina.
+
+Dejenme ser esa latina!! porfavor!
+
+TAG
+#POS B B W B B N P B B B B B N N G A W
+
+B B G A W G W
+
+H #POS
+}
+{
+REF fback?  te gustaria unirte a este grupo de Directioners chapinas :) URL … TAG
+#POS I B W G G G D N G P N V E U W H #POS
+}
+{
+REF  Hola te gustaria unirte a este grupo de Directioners chapinas :) URL … TAG
+#POS I C B B B D N G P N V E U W H #POS
+}
+{
+REF fback? Hola te gustaria unirte a este grupo de Directioners chapinas :) URL … TAG
+#POS I B W C B B B D N G P N V E U W H #POS
+}
+{
+REF gracias! ♥ TAG
+#POS I C W E H #POS
+}
+{
+REF ahdfaew qe guapo eres me sigues!! :NUM TAG
+#POS I G G G V O G W E H #POS
+}
+{
+REF akdjfiawe gracias fback?
+#POS I C C B W #POS
+}
+{
+♚             KEEP 
+                CALM 
+                 AND 
+                 LOVE
+          ONE DIRECTION
+TAG
+#POS W V
+A
+F
+N
+K N
+H #POS
+}
+{
+REF Fback?
+#POS I B W #POS
+}
+{
+Con solo un RT  estas ayudando a cumplir un sueño porfavor da RT!!  TAG
+#POS B A G J V V D N G G G D N W H #POS
+}
+{
+Sabias que...  Louis Dice que le gusta caminar solo porque se siente como en una película. 
+
+TAG
+#POS B G J B B B B V D A B G G G G G G W
+
+H #POS
+}
+{
+empezare a ayudar!! wujuu! \O/  TAG
+#POS V D N W C W E H #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de Directioners chapinas :) URL TAG
+#POS I C B B B D N G P N V E U H #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de Directioners chapinas :) URL TAG
+#POS I C B B B D N G P N V E U H #POS
+}
+{
+REF sigueme tambien :NUM
+#POS I C G E #POS
+}
+{
+REF asdnfuwae :') bien a mi hermana ya le estan dando dolores asi q creo q ya sere tia! :NUM
+#POS I C E V D N V O G G B B G G G G C G B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF como! :O enserio! asdhfkuahwef :'DD felicidades!
+#POS I C W E C W N W W B C W #POS
+}
+{
+REF bien me alegro x ti :D
+#POS I V O V G G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Holaa!
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Como has estado?
+#POS I B V N W #POS
+}
+{
+REF suertE!
+#POS I C W #POS
+}
+{
+REF suerte! fback?
+#POS I C W G W #POS
+}
+{
+REF suerte :D
+#POS I C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡
+#POS I N W G G G G #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡
+#POS I N W G G G #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡
+#POS I N W E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+REF suerte!
+#POS I C W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+What Does the Fox Say? hahaha xD
+#POS O V D B B W C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+cuantas ventanas tendrá abiertas en chat :C
+#POS B B B B B B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF sigueme tambien :)
+#POS I C G E #POS
+}
+{
+TAG Jajajaja lo amamos señor presidente REF
+#POS H C C C G G I #POS
+}
+{
+REF jajajaja ok xD
+#POS I C C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF no me sigues
+#POS I C O G #POS
+}
+{
+REF bueno Valen que es eso de no hacer tareas! hahaha xD
+#POS I N B B B B P D N N W C E #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡ + (a mi lista :D)
+#POS I N W G G G G F W D G G E W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ya te sigo lo siento :s
+#POS I C B B B B E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF asjdnfkawe graciias ♥
+#POS I C C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Jajajaja xD sii suertuda
+#POS I C E G G #POS
+}
+{
+REF I love the video! ♥
+#POS I O V D N W E #POS
+}
+{
+REF no se la verdad a mi me regalaron el bg :S
+#POS I C G G G D G O R G N E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+REF mi font? hahha no entiendo xD
+#POS I D N W C C N E #POS
+}
+{
+REF Rate :㋡㋡ ㋡
+#POS I N W G G #POS
+}
+{
+REF Rate: ㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡ ㋡
+#POS I N W G G #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+REF :) de nada hermosaa!
+#POS I E P G B W #POS
+}
+{
+REF Rate: ㋡㋡ ㋡
+#POS I N W G G #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡㋡+ (a mi lista ♥)
+#POS I N W E W D G G E E #POS
+}
+{
+REF Rate: ㋡㋡㋡㋡㋡+ (a mi lista!
+#POS I N W E W D G G W #POS
+}
+{
+REF Rate: ㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡  (a mi lista! paisana ♥)
+#POS I N W G G G G W D G G W N E E #POS
+}
+{
+REF Rate: ㋡㋡
+#POS I N W E #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡
+#POS I N W G G G G #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡
+#POS I N W G G G #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡  (A mi lista ♥)
+#POS I N W G G G G W D G G E E #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡
+#POS I N W G G G #POS
+}
+{
+REF Rate: ㋡㋡ ㋡ ㋡ ㋡  (A MI LISTA ♥)
+#POS I N W G G G G W D B B E E #POS
+}
+{
+REF Rate: ︵︶︷︸︹︺ ( a mi lista)
+#POS I N W E W D G G W #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+REF Rate: ︵︶︷︸︹︺ (A mi lista!)
+#POS I N W E W D G G W W #POS
+}
+{
+REF Rate. ︵︶︷︸︹
+#POS I N W G #POS
+}
+{
+REF Rate: ︵︶︷︸
+#POS I N W E #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "㋡ max NUM ". |Si me gusta mucho vas a mi lista| (debes seguirme, doy follow back)
+#POS J R P G G N W W B B K W W G O V A P D G G W V N W G V R W #POS
+}
+{
+RT y califico tu cuenta con: "㋡  ". (debes seguirme, doy follow back)
+#POS J R P G G N W W W W W W V N W G V R W #POS
+}
+{
+REF ayudarte a que?
+#POS I V D N W #POS
+}
+{
+RT y califico tu cuenta con: "︵︶︷︸︹︺ ". (debes seguirme, doy follow back)NUM
+#POS J R P G G N W W W W W W V N W G V R #POS
+}
+{
+RT y califico tu cuenta con: "︵︶︷︸︹︺ ". (debes seguirme, doy follow back) NUM
+#POS J R P G G N W W W W W W V N W G V R W K #POS
+}
+{
+RT y califico tu cuenta con: "︵︶︷︸︹︺ ". (debes seguirme, doy follow back)
+#POS J R P G G N W W W W W W V N W G V R W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF enserio! :O y porque no llevaste tu tarea? Jajaja
+#POS I C W E R V D N G G W C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola! Anabel! (:
+#POS I C W B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF bien gracias! ♥ :D
+#POS I G C W E E #POS
+}
+{
+REF abshdwjer :'D *llora de la emocion*
+#POS I N W W B W B P B N W #POS
+}
+{
+REF fback? ola te gustaria unirte a este grupo de #NUMsosFam URL ♥
+#POS I B W G G G G D N G P H U E #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam URL ♥
+#POS I C B B B D N G P H U E #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam URL ♥
+#POS I C B B B D N G P H U E #POS
+}
+{
+REF REF Hola te gustaria unirte a este grupo de #NUMsosFam URL ♥
+#POS I I C B B B D N G P H U E #POS
+}
+{
+REF Hola te gustaria unirte a este grupo de #NUMsosFam URL ♥
+#POS I C B B B D N G P H U E #POS
+}
+{
+Vamos Costa Rica! TAGéxico
+#POS B B B W H H #POS
+}
+{
+REF gracias Valen lo bueno esq mañana terminan! :D
+#POS I C B B B B N N W E #POS
+}
+{
+REF Gabi ♥
+#POS I B E #POS
+}
+{
+“Zayn Malik del grupo One Direction esta buscando sirvienta para su mansión en Londres” Tu:URL … …
+#POS W B B B B B B B B B B G G G B W B W U W W #POS
+}
+{
+REF mucho gusto Anabel :D
+#POS I A N B E #POS
+}
+{
+REF Jajajaja ankskd wer sii :NUM como te llamas asi escribire tu nombre xD
+#POS I C B V B E G G B B B B B E #POS
+}
+{
+TAG REF y REF  ♥
+#POS H I R I E #POS
+}
+{
+REF yo estoy en examenes :s
+#POS I C G G G E #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W E #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W E #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W K #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W E #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W E #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! xNUM
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF Hi Jake Might follow me fulfill my dream please do not ignore me you're amazing! x
+#POS I C B V V O V D N V V R V O L A W G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ah? porque dices eso?
+#POS I C W G G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+One Direction no es solo Harry.  Big Time Rush no es solo James.  Little mix no es solo Niall?? URL
+#POS K N D N N B W A N V D N N B W A N C N A B W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF asndkfuwir :') Graciias yo te pondre en los agradecimientos Jajajaja ♥
+#POS I N E C C P N P B B C E #POS
+}
+{
+REF anskdnfka Oww estas enamorado!? 
+sabia que con solo verme te ibas a enamorar hahaha okno
+#POS I C C B B W
+G G A A N P V D N C C #POS
+}
+{
+Dani Mazzochin QUIERO DARTE Y NO SON CONSEJOS :NUM
+#POS B B B B R D N N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫  ♥
+#POS I N W G G G G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Rate: ♫♫♫♫♫
+#POS I N W G #POS
+}
+{
+"Hasta el infinito y ya tú sabe" —Buzz Lightyear feat. Pitbull.
+#POS W B B B R O G G W W N N N W B W #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W C #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫
+#POS I N W G G G G #POS
+}
+{
+REF Rate:  ♫ ♫♫ ♫ ♫
+#POS I N W E E E E #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W B #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W K #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W K #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫
+#POS I N W G G G G #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫
+#POS I N W G G G #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫  (a mi sexy lista haha)
+#POS I N W G G G G W D D A N C W #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫
+#POS I N W G G G #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫  (vas a mi lista)
+#POS I N W G G G G W V D G G W #POS
+}
+{
+REF no m sigues :S
+#POS I C V G E #POS
+}
+{
+REF Rate: ♫♫ ♫ ♫ ♫  (a mi lista!)
+#POS I N W G G G G W D G G W W #POS
+}
+{
+REF Rate: ♫♫ ♫
+#POS I N W G G #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W K #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W E #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W C #POS
+}
+{
+RT y califico tu cuenta con ♫ {máximo NUM} si sos muy fab vas a mi lista ((solo seguidores, doy fback)) xNUM
+#POS J R P G G G G W B K W B B B B V D G G G A N W G G W G #POS
+}
+{
+REF y como has estado?
+#POS I R V V N W #POS
+}
+{
+REF De nada :D gracias x unirse &lt;NUM
+#POS I B B E C E E E #POS
+}
+{
+REF fback? Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos
+#POS I B W C W G G G D N G P V B B B E U W R R V D N N #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U W R R V D N N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D
+#POS I B W C W G G G D N G P V B B B E U W R R V D N N E #POS
+}
+{
+REF fback? Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D
+#POS I B W C W G G G D N G P V B B B E U W R R V D N N E #POS
+}
+{
+REF Hola! les gustaria unirse a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D
+#POS I C W B B B D N G P V B B B E U W R R V D N N E #POS
+}
+{
+REF Hola! les gustaria unirse a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D
+#POS I C W B B B D N G P V B B B E U W R R V D N N E #POS
+}
+{
+REF :D
+#POS I E #POS
+}
+{
+REF Hola! les gustaria unirse a este grupo de NUMsos Fam es nuevo :NUM URL … y pueden unir a tus amigos :D fback?
+#POS I C W B B B D N G P V B B B E U W R R V D N N E B W #POS
+}
+{
+REF fback? Hola! te gustaria unirse a este grupo de NUMsos Fam es nuevo :NUM URL … y puedes unir a tus amigos :D
+#POS I B W C W G G G D N G P V B B B E U W R V G D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+REF Hola! te gustaria unirte a este grupo de NUMsos Fam es nuevo :NUM URL y pudes unir a tus amigos :D
+#POS I C W G G G D N G P V B B B E U R V V D N N E #POS
+}
+{
+alguien se animaria a hacer un grupo de #NUMsosFam Latinoamerica por facebook?
+#POS B G G D B B B P H B G B W #POS
+}
+{
+Holaa :D
+#POS C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+NO ME GUSTA QUE ME DEJE EN VISTO :C
+#POS C O V B O R B B W G #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF askdfkawe como olvidarlo :'DD
+#POS I G G G J W B #POS
+}
+{
+REF Hello come to Latin America! ♥
+#POS I C V P B B W E #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " xNUM
+#POS W V N P I W G N R P U W G #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+"get tickets to REF 's tour now at URL  " x NUM
+#POS W V N P I W G N R P U W E K #POS
+}
+{
+REF ahaha ves eso yo no lo puedo ver xq estoy en el colegio cuando lo dan :S
+#POS I C B B C C N N P G G G G G G G B E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF sigueme tambien :D
+#POS I C G E #POS
+}
+{
+REF Jajajaja enserio ves Guatevision lol xD que emocion :'D
+#POS I C C B B C E G N W W B #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF aksndfiawe :NUM las amo! ♥ son las mejores!
+#POS I C E B C W E N N N W #POS
+}
+{
+REF lo siento :S pero ya te sigo :D
+#POS I C B E V O P B E #POS
+}
+{
+REF mira ya cambie mi username aahahahaha akjsdnfiNUMawe no pude esperar xD
+#POS I C C B D N C P D N N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback? :D
+#POS I C W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Todo iba tan bien hasta que me dijiste que te gustaba el reggaeton! -.-
+#POS B B B B B V O R G G G G B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Tipico: Entrar al baño y encontrarte esto : URL
+#POS N W B B B R G B W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Listo c:
+#POS I B B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Suerte :D
+#POS I B E #POS
+}
+{
+REF Suerte! C:
+#POS I C W N W #POS
+}
+{
+REF followed hermanito! ♥
+#POS I V N W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+NO ME ABRAS SON UN BANNER DAT URL
+#POS C O B B B B K U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+TAG &lt;NUM
+#POS H E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF suerte c;
+#POS I G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF suerte fback?
+#POS I G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Listo suerte le das Like a mi pagina gracias :D URL
+#POS I B B B L P D G G G E U #POS
+}
+{
+REF suerte c:
+#POS I G G W #POS
+}
+{
+REF suerte :D
+#POS I C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Se dice que Niall es porrista.  
+Prueba: URL
+#POS B B B B B B W
+B W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF suerte fback?
+#POS I G G W #POS
+}
+{
+TAGódosChapinesClásicos Gordo al mas delgado hahaha
+#POS H G B B B B C #POS
+}
+{
+REF fback''?
+#POS I G W #POS
+}
+{
+REF yo NUMxNUM
+#POS I C C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Ya te acepte ajdfae  ahorita te agrego de cdc :D
+#POS I C B B B B B B P B E #POS
+}
+{
+REF suerte :D
+#POS I C E #POS
+}
+{
+REF bueno ese es en el que administro las paginas xD
+#POS I N N G G G G G N N E #POS
+}
+{
+REF URL es este :D
+#POS I U G G E #POS
+}
+{
+REF bien y tu?
+#POS I B R G W #POS
+}
+{
+REF Hola!!
+#POS I C W #POS
+}
+{
+REF Hola!
+#POS I C W #POS
+}
+{
+REF :D
+#POS I E #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Un arma mortal ...  URL 
+
+TAG One Direction
+#POS G G A W U
+
+H K N #POS
+}
+{
+REF Suerte :D
+#POS I B E #POS
+}
+{
+REF Suerte :D
+#POS I B E #POS
+}
+{
+REF Ok hablamos mañana :D
+#POS I C B N E #POS
+}
+{
+REF Listo ya te agregue :D
+#POS I V O V B E #POS
+}
+{
+REF ok :D
+#POS I C E #POS
+}
+{
+REF Suerte :D
+#POS I B E #POS
+}
+{
+REF sii es URL (:
+#POS I G G U E #POS
+}
+{
+REF :D lo pondre en facebook tambien :)
+#POS I E V V R B B E #POS
+}
+{
+REF ok yo te ayudo :D
+#POS I C C P C E #POS
+}
+{
+REF suerte :D
+#POS I C E #POS
+}
+{
+REF Suerte :D
+#POS I B E #POS
+}
+{
+REF ok te agrego de cdc?
+#POS I C B B P B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF a compu xD
+#POS I D N E #POS
+}
+{
+REF pero esq ahh no se... me da pereza escribir la novela hahaha solo las escribo en mi cel y despues no m dan ganas de pasarla+
+#POS I F B C C G J O D N G B N C A N N P D N R V D N B B P N #POS
+}
+{
+REF Listo suerte :D
+#POS I B B E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Hey quieres que te ayude con un retweet pasame el link :D
+#POS C B B B B B B V N G N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola! soy REF me dieron limit :S y tienes novelas si quieres t puedo agregar de cdc y las subes :D
+#POS I C W N V O V N E R Z B B B G N G P B R A N E #POS
+}
+{
+REF fback? ya li di rt a tu tweet suerte ;D
+#POS I B W C B G V D N V N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+aklnsmdjoNUMfawe TAG
+#POS B H #POS
+}
+{
+Hola...TAG
+#POS C W H #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF listo suerte c:
+#POS I G G G W #POS
+}
+{
+REF Listo suerte :D
+#POS I B B E #POS
+}
+{
+REF FELIZ CUMPLEAÑOS! que cumplas muchiisimos mas! :D ... fback?
+#POS I B B W G G G G W E W G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D xNUM
+#POS I C W V N N N P K N P B G E G #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D xNUM
+#POS I C W V N N N P K N P B G E E #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D xNUM
+#POS I C W V N N N P K N P B G E E #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D xNUM
+#POS I C W V N N N P K N P B G E G #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D xNUM
+#POS I C W V N N N P K N P B G E E #POS
+}
+{
+REF Hola! pueden poner Heartbreak Girl de NUM Seconds of Summer porfavor :D
+#POS I C W V N N N P K N P B G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF PLEASE FOLLOW ME GUYS. I LOVE YOU ALL SO MUCH, ITS MY DREAM. :( &lt;NUM x
+#POS I V V O N W O V O D R R W L D N W E E E #POS
+}
+{
+REF REF REF PLEASE FOLLOW ME GUYS. I LOVE YOU ALL SO MUCH, ITS MY DREAM. :(
+#POS I I I V V O N W O V O D R R W L D N W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ya vine! \o/ lol
+#POS I C N W E C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Ok ya lo quiero leer :NUM
+#POS I C C B B B E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF REF no se hahaha
+#POS I I C N C #POS
+}
+{
+REF :O enserio! akhdsfae hay me mandan el cuento terminado para leerlo :D
+#POS I E C W G G O B B B B B B E #POS
+}
+{
+REF REF jajajajaja xD todos me van a tener envidia :NUM
+#POS I I C E N O B D N G E #POS
+}
+{
+'REF enserio absdufawe y como o porque?
+#POS W I C B R G G B W #POS
+}
+{
+REF REF asdkfwae ni yo ustedes han sido muy especiales las quiero! &lt;NUM
+#POS I I B B C B B B G G B B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hey no ignore me please FOLLOW ME! &lt;NUM
+#POS I C C V O V V O W E #POS
+}
+{
+REF follow me please I love you ! &lt;NUM
+#POS I V O V O V O W E #POS
+}
+{
+REF REF Jajaja aksjdfaw &lt;NUM c:
+#POS I I C B E N W #POS
+}
+{
+REF listo suerte c:
+#POS I G G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF REF cuando sean famosas todos van a querer mi user lool hahahaa &lt;NUM
+#POS I I G B B B B D N D N C C E #POS
+}
+{
+REF suerte c:
+#POS I G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+MI HERMANO ESTA OYENDO GOTTA BE YOU!! &lt;NUM
+#POS D N G G V V O W E #POS
+}
+{
+REF claro ya te sigo c:
+#POS I V O V B B W #POS
+}
+{
+REF Listo suerte c:
+#POS I B B B W #POS
+}
+{
+REF Listo suerte c:
+#POS I B B B W #POS
+}
+{
+REF followed c:
+#POS I V N W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF De nada c:
+#POS I B B B W #POS
+}
+{
+REF Ghostgirl ese libro es excelente!
+#POS I B N W G G W #POS
+}
+{
+REF REF asidjfawe sii nadie nos podria separar :NUM
+#POS I I G G G G G G E #POS
+}
+{
+REF REF Oww :NUM gracias por todo son increibles! ojala viviéramos cerca :s
+#POS I I C E C G N N N W G G G E #POS
+}
+{
+REF hahaha a mis hermanas no les gustan hahaha pero a una la pongo a oir musica de ellos lool
+#POS I C D B B D N V C F D G G G D G G G G C #POS
+}
+{
+REF sii tengo una y tengo otras pero no estudian en el mismo colegio que yo c:
+#POS I G G G G B B F D N P G G G G O N W #POS
+}
+{
+REF REF c: yo tambien las Quiero ustedes son como las amigas que siempre quise tener (':
+#POS I I N W C B B B B B B B B B B B B E #POS
+}
+{
+REF en el colegio c:
+#POS I P G G G W #POS
+}
+{
+REF y tenes mas URL directioners?
+#POS I R B B B I N W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF jajaja sii lol
+#POS I C B C #POS
+}
+{
+REF la vere aunque sea pirata pero la miro!... lool
+#POS I B B B B B G G B W C #POS
+}
+{
+REF no lo creo :c
+#POS I C N N W G #POS
+}
+{
+REF akdfawe *envidia on
+#POS I B W G P #POS
+}
+{
+REF ajkfaw que envidia!! y como es?
+#POS I G G G W R G G W #POS
+}
+{
+REF bien y vos?
+#POS I B R G W #POS
+}
+{
+REF ashdfawe que calida (:
+#POS I B B B E #POS
+}
+{
+REF enserio? prueba de nuevo c:
+#POS I C W G P A N W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF yo NUMxNUM mis tweets son los que estan en mis favs c:
+#POS I C C B B B B B B G G G G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+DAT ultimo! URL
+#POS K N W U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ansdfaw y q vas a seguir en la U?
+#POS I C R G V D N P B O W #POS
+}
+{
+REF REF Jajajaja yo pieso en grande lool
+#POS I I C C N P B C #POS
+}
+{
+REF REF :') yo se que van a llegar muy lejos!!
+#POS I I E C G G B D N G G W #POS
+}
+{
+REF en NUMto bach! y vos?
+#POS I R P B W R G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+TAG a REF y REF  &lt;NUM
+#POS H D I R I E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Twerking de harry:  URL   
+Mi twerking:  URL
+#POS V P B W U
+D V W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF &lt;NUM :')
+#POS I E E #POS
+}
+{
+REF REF asdknfkawe &lt;NUM me las imagino cuando esten en garden square *.* Jajajaja
+#POS I I B E O B B B B B B B E C #POS
+}
+{
+REF Jajajajaja alfin alguien mas grande que yo!! wuju! lool
+#POS I C B B B B B C W C W C #POS
+}
+{
+REF sdjfsaew a mi me pasa igual! ... fue el NUM de Septiembre y cuando es el tuyo?
+#POS I G D G O G G W W G G K P B R G G G G W #POS
+}
+{
+FELIZ NOCHE! TAG
+#POS B B W H #POS
+}
+{
+REF NUM y vos?
+#POS I K R G W #POS
+}
+{
+REF Gaby y vos?
+#POS I B R G W #POS
+}
+{
+REF cuando hay excursiones del colegio o algo x el estilo sii hahahaah xD
+#POS I B B B B B P G G G G G C E #POS
+}
+{
+REF sakelrawer algun dia ire a visitarte lool xD
+#POS I B B B V D N C E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Jalapa c:
+#POS I B B W #POS
+}
+{
+REF askjdnfkaweu siii!! y de que parte sos?
+#POS I G G W R P G N N W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF OMG sos de Guate!! asuhdfrawe c':
+#POS I C B P B W V G W W #POS
+}
+{
+REF Listo dale rt a los que estan en mis favs c:
+#POS I B B V D B B B G G G G J #POS
+}
+{
+REF Yo!
+#POS I C W #POS
+}
+{
+REF C: asdhfawe Las kiero! &lt;NUM
+#POS I B W B B B W E #POS
+}
+{
+REF aaa ok c:
+#POS I D C N W #POS
+}
+{
+REF Sii c:
+#POS I B B W #POS
+}
+{
+REF porque la estas recomentando si antes decias que la bloqueáramos??
+#POS I B B B B B B B B B B W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Holaaa
+#POS I C #POS
+}
+{
+REF Feliz Cumpleaños que te la pases de lo mejor y cumplas NUM años mas c: ... fback?
+#POS I B B B B B B P G G R V K N G G G W G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF  REF Hola! miren mi user :')
+#POS I I C W G G N E #POS
+}
+{
+REF YO! fback?
+#POS I C W G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Listo suerte c:
+#POS I B B B W #POS
+}
+{
+REF ok c: graciias
+#POS I C N W C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola! se unen a este grupo de Directioners de Guatemala :D URL
+#POS I C W G G D N G P B P B E U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! x
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF Graciias &lt;NUM
+#POS I C E #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF asjk,faw Graciias :D
+#POS I C W G C E #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I
+L D N V O V D A A N W E V R V O W G #POS
+}
+{
+It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF Jajajaja ok aquí te espero lol
+#POS I C C R P B C #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W E H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W K H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W E H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUMTAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF 
+ It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM TAGNUMsos
+#POS I
+L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM  TAGNUMsos
+#POS I L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM  TAGNUMsos
+#POS I L D N V O V D A A N W E V R V O W V H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM  TAGNUMsos
+#POS I L D N V O V D A A N W E V R V O W E H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM  TAGNUMsos
+#POS I L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM  TAGNUMsos
+#POS I L D N V O V D A A N W E V R V O W G H #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W K #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W E #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  can i get an early happy birthday? :)  please not ignore me! xNUM
+#POS I L D N V O V D A A N W E V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W E #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF It's my birthday  please not ignore me! xNUM
+#POS I L D N V R V O W G #POS
+}
+{
+REF estamos cerca xD
+#POS I G G E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Guatemala y tu?
+#POS I B R G W #POS
+}
+{
+REF NUM :NUM
+#POS I K E #POS
+}
+{
+REF aaaa hahaha sii perdon lei mal xD y cuantos años cumples?
+#POS I C C B B B B E R P N N W #POS
+}
+{
+REF  Hoy es tu cumpleaños?
+#POS I B B G G W #POS
+}
+{
+Hola! aprovechando que estas viendo esto me sigues? C: te sigo de vuelta... No des RT a esto &lt;NUM
+#POS C W G G G G V O G W N W G G P G W C N V D B E #POS
+}
+{
+REF Hola me llamo Gaby y cumplo años el NUM de Septiembre :D &lt;NUM
+#POS I C O V B R A N N P P B E E #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Sabias que...  Una vez Liam se rompió la nariz de chico y dice que nunca volvió a ser igual.
+#POS B G J B B B G G G G P B R N G G G D G G W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W E #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I lovewo much! :NUM no ignore me!
+#POS I V O V W O V A W E D V O W #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W E #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF  Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W E #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF  Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W E #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+REF Follow me please! I love you! xNUM
+#POS I V O V W O V O W G #POS
+}
+{
+TAG  Liam las Directioners Chapinas te amamos!
+#POS H B B B B B C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+E: Si te fueras a morir mañana ¿que harias hoy? Harry: Aun no he pensado en morirme! Todavia no he besado a una chica que hable español!
+#POS N W B B V D N N G G G W B W B C O V R N W G C O V D A N G G G W #POS
+}
+{
+SEGÚN LOS ESTUDIOS REALIZADOS POR LOS CIENTÍFICO DICEN QUE LOS SOLTEROS SON MAS SEXY:   URL
+#POS B B B B B B B B B B B B B A W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF listo mis tweets son los de favs :D
+#POS I G G N N B P N E #POS
+}
+{
+REF Yo!
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM xNUM
+#POS I V O V V R V O O V O W E E #POS
+}
+{
+REF Follow me please do not ignore me I love you! &lt;NUM
+#POS I V O V V R V O O V O W E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM
+#POS I V O V V R V O O V O W E #POS
+}
+{
+REF follow me please do not ignore me I love you! &lt;NUM
+#POS I V O V V R V O O V O W E #POS
+}
+{
+please follow me I love you're amazing! REF
+#POS V V O O V L A W I #POS
+}
+{
+REF please follow me I love you're amazing!
+#POS I V V O O V L A W #POS
+}
+{
+REF :D
+#POS I E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola! fijate que me dieron limit en REF cuando me lo quiten te juro que te doy los retweets :D
+#POS I C W G G O V N P B B O V B B B B B B B N E #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+No pidas conocer a One Direction, mejor pide que One Direction te conozcan a ti.
+
+TAG
+#POS C N N D K N W G G G K N P V D N W
+
+H #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback'?
+#POS I G W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+banner Lawson &lt;NUM DAT URL
+#POS N B E K U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+TAG Y si mejor me dejan llorar! URL
+#POS H R G G O B B W U #POS
+}
+{
+Estoy haciendo la "TAREA" 
+
+TAG
+#POS B B B W B W
+
+H #POS
+}
+{
+asdjrfnwaie TAG
+#POS B H #POS
+}
+{
+REF YO!
+#POS I C W #POS
+}
+{
+REF aisjdfkaw si si sisisisi!! TAG
+#POS I G G G C W H #POS
+}
+{
+REF Listo gracias :D TAG
+#POS I B C E H #POS
+}
+{
+REF asnrfawue sii yo a mis hermanas lol TAG
+#POS I C B C D B B C H #POS
+}
+{
+REF sii son esos :D
+#POS I B N N E #POS
+}
+{
+REF yo NUMxNUM! &lt;NUM
+#POS I C C W E #POS
+}
+{
+TAG TT No.NUM en Guatemala!! wuju! sigamos asii :D
+#POS H N C W K P B W C W G G E #POS
+}
+{
+REF ok feliz dias :D 
+
+TAG
+#POS I C B N E
+
+H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF oooh! que mal! :C
+#POS I C W G G W W E #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF Jajajajaja sii :NUM TAG
+#POS I C B E H #POS
+}
+{
+REF sigueme tambien :D TAG
+#POS I G G E H #POS
+}
+{
+REF enserio y porque? P.D faltan NUM dias!!
+
+TAG
+#POS I C R B W G G K N W
+
+H #POS
+}
+{
+REF Jajajajaja buena idea! yo venderé niños que encuentre en la calle lol
+TAG
+#POS I C B N W O V B B B P B B C
+H #POS
+}
+{
+REF Jajajaja yo empezare a prostituir amigas lool TAG
+#POS I C C V D N G C H #POS
+}
+{
+REF OK :D TAG
+#POS I C E H #POS
+}
+{
+REF Si y debo de empezar a ahorrar!! TAG
+#POS I B R B P V D N W H #POS
+}
+{
+REF :D oye te tengo que contar algo :NUM te lo mando x DM? es q no lo pueden ver!
+TAG
+#POS I E C B B B B B E P P B G N W G G C N V N W
+H #POS
+}
+{
+REF sii no hay q descanzar! TAG
+#POS I G D N G N W H #POS
+}
+{
+REF Graciias :D TAG
+#POS I C E H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF Ahora a seguir con el TT :D TAG
+#POS I G D N N G N E H #POS
+}
+{
+REF Yo igual! :NUM TAG
+#POS I C G W E H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF Gracias TAG
+#POS I C H #POS
+}
+{
+REF si pero no se si creer :c TAG
+#POS I B F D N G G W G H #POS
+}
+{
+REF Hola te unes a este grupo de Directioners ChapinREF URL TAG
+#POS I C B V D N G P B B W U H #POS
+}
+{
+REF Hola te unes a este grupo de Directioners Chapinas? URL TAG
+#POS I C B V D N G P N N W U H #POS
+}
+{
+REF fback? TAG
+#POS I C W H #POS
+}
+{
+REF Hola te unes a este grupo de Directioners Chapinas? URL TAG
+#POS I C B V D N G P N N W U H #POS
+}
+{
+REF Hola te unes a este grupo de Directioners Chapinas? URL 
+TAG
+#POS I C B V D N G P N N W U
+H #POS
+}
+{
+REF que cosa lo de que supuestamente se caso :c ?  o es otra cosa...
+TAG
+#POS I G G G P G G G N W N W G G G G J
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF .l.
+#POS I W N W #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback?
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF fback? 
+TAG
+#POS I C W
+H #POS
+}
+{
+REF ooh q bien
+TAG
+#POS I C G G
+H #POS
+}
+{
+REF si claro Gay= Guapos Ardientes Y sexys!
+#POS I B B B W B B R N W #POS
+}
+{
+TAG ♥
+#POS H E #POS
+}
+{
+REF Faltan NUM dias para tu cumpleaños!! :')
+#POS I B K N G G G W E #POS
+}
+{
+REF bien, yo aquí siempre aburrida en mi casa y tu como has estado? Q me cuentas?
+#POS I B W O R G G G G B R G G V N W G O B W #POS
+}
+{
+Hola! (:
+#POS C W E #POS
+}
+{
+REF aksdlfjawe sii :NUM
+#POS I G G E #POS
+}
+{
+REF Hi!
+#POS I C W #POS
+}
+{
+TAG REF ajdhaw ♥
+#POS H I G E #POS
+}
+{
+REF Hi you are Liam's girlfriend?
+#POS I C O V Z N W #POS
+}
+{
+REF ajdfuaw seria genial pero creo q en noviembre nacerá :S
+#POS I G G A F G G G G G E #POS
+}
+{
+REF faltan como NUM mese para que nazca :NUM
+#POS I G V K N G G B E #POS
+}
+{
+REF REF bien :D saludos y un abrazo psicologico tambien jajaja'
+#POS I I B E E R G G G G C W #POS
+}
+{
+REF REF como han estado?
+#POS I I C B B W #POS
+}
+{
+REF  REF  Las ExtrañO! &lt;NUM
+#POS I I B B W E #POS
+}
+{
+TAG Hablábamos todos los días... :'(
+#POS H B B B B W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fbaack?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF  fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF  Yo NUMxNUM
+#POS I C C #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a sus amigos &lt;NUM
+#POS I C W G G D B B P B P B W U R D N B B B D A N E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF Hola fback! se unen a nuestro grupo de Directioners de Guatemala! URL hay invitar a tus amigos
+#POS I C B W G G D B B P B P B W U N V D N N #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a tus amigos
+#POS I C W G G D B B P B P B W U R D N B B B D N N #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a sus amigos
+#POS I C W G G D B B P B P B W U R D N B B B D A N #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a sus amigos
+#POS I C W G G D B B P B P B W U R D N B B B D A N #POS
+}
+{
+hola
+#POS C #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a sus amigos &lt;NUM
+#POS I C W G G D B B P B P B W U R D N B B B D A N E #POS
+}
+{
+REF fback? Hola! se unen a nuestro grupo de Directioners de Guatemala! URL a y hay agregan a sus amigos &lt;NUM
+#POS I B W C W G G D B B P B P B W U D R N V D A N E #POS
+}
+{
+REF fback? Hola! se unen a nuestro grupo de Directioners de Guatemala! URL hay agregan a sus amigos &lt;NUM
+#POS I B W C W G G D B B P B P B W U N V D A N E #POS
+}
+{
+REF fback? Hola! se unen a nuestro grupo de Directioners de Guatemala! URL &lt;NUM
+#POS I B W C W G G D B B P B P B W U E #POS
+}
+{
+REF Hola! se unen a nuestro grupo de Directioners de Guatemala! URL y no se les olvide agregar a sus amigos &lt;NUM
+#POS I C W G G D B B P B P B W U R D N B B B D A N E #POS
+}
+{
+Nialler: URL  Yo: URL
+#POS N W U C W U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Holaaa!
+#POS C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+DAT URL
+#POS K U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF ajsdfiew GUAPO!!
+#POS I G B W #POS
+}
+{
+REF YO
+#POS I C #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+REF no me sigues :/
+#POS I C O G E #POS
+}
+{
+REF Listo c: me ayudas con un like? :D URL
+#POS I B B W O R A N P W E U #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}
+{
+Tengo SEXY ICON NUEVO gracias a REF  &lt;NUM !! :NUM
+#POS B A N B C D I E W E #POS
+}
+{
+REF fback?
+#POS I C W #POS
+}

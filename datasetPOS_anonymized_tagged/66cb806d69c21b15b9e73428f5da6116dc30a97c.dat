@@ -1,0 +1,604 @@
+{
+lightweight // demi
+#POS A W B #POS
+}
+{
+i'm confused
+#POS L A #POS
+}
+{
+i wish someone would actually fucking love me
+#POS O V N V R V V O #POS
+}
+{
+i hate my self too
+#POS O V D N R #POS
+}
+{
+he doesnt even love me
+#POS O V R V O #POS
+}
+{
+i'm always being lied to
+#POS L R V V P #POS
+}
+{
+i'm just gonna go to sleep, i cant contain my tears anymore
+#POS L R V V P V W O V V D N R #POS
+}
+{
+“REF I just want to die URL”
+#POS W I J O R V P V U W #POS
+}
+{
+sad
+lonely
+&amp;
+tired
+#POS A
+A
+F
+A #POS
+}
+{
+this is basically my diary
+#POS O V R D N #POS
+}
+{
+i'm worthless
+#POS L A #POS
+}
+{
+i have an ugly body
+#POS O V D A N #POS
+}
+{
+whats the point of me being here
+#POS L D N P O V R #POS
+}
+{
+i dont tell them anything anymore, its pointless
+#POS O V V O N R W L A #POS
+}
+{
+i havent told my parents
+#POS O V V D N #POS
+}
+{
+i have a breathing problem
+#POS O V D N N #POS
+}
+{
+i hate my self so much
+#POS O V D N R R #POS
+}
+{
+thats good bc i'm fat
+#POS L A P L A #POS
+}
+{
+i'm just not hungry anymore
+#POS L R R A R #POS
+}
+{
+i havent been eating
+#POS O V V V #POS
+}
+{
+i want to cry, i cant contain my self anymore
+#POS O V P V W O V V D N R #POS
+}
+{
+he doesnt love me
+#POS O V V O #POS
+}
+{
+he lied to me.
+#POS O V P O W #POS
+}
+{
+or i want to
+#POS F O V P #POS
+}
+{
+i'm going to sleep
+#POS L V P V #POS
+}
+{
+liar
+#POS N #POS
+}
+{
+hopeless
+#POS A #POS
+}
+{
+the cat
+#POS D N #POS
+}
+{
+i just want to rest forever
+#POS O R V P V R #POS
+}
+{
+i honeslty dont want to, even though i love you so much
+#POS O V V V P W R P O V O R R #POS
+}
+{
+i feel so empty
+#POS O V R A #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+“REF URL”
+#POS W I J U W #POS
+}
+{
+“REF "REF True shit URL"”
+#POS W I J W I J A N U W #POS
+}
+{
+“REF I'm fine URL”
+#POS W I J L A U W #POS
+}
+{
+“REF URL”
+#POS W I J U W #POS
+}
+{
+define nationality
+#POS V N #POS
+}
+{
+i'm gonna start doing squats
+#POS L V V V N #POS
+}
+{
+i wanna get a big ass
+#POS O V V D A N #POS
+}
+{
+NUM squats done
+#POS K N V #POS
+}
+{
+starting rn
+#POS V R #POS
+}
+{
+i'm gonna start doing exercises
+#POS L V V V N #POS
+}
+{
+i'm so stupid
+#POS L R A #POS
+}
+{
+are you happy with out me?
+#POS V O A P P O W #POS
+}
+{
+why did i have to fall in love with you?
+#POS R V O V P V P N P O W #POS
+}
+{
+“REF tbh .. URL”
+#POS W I J N W U W #POS
+}
+{
+“REF GEMINI: URL”
+#POS W I J B W U W #POS
+}
+{
+i'm can't even say anything without being judged
+#POS L V R V N P V V #POS
+}
+{
+i loved you
+#POS O V O #POS
+}
+{
+i feel so stupid bc i actually thought you liked me.
+#POS O V R A P O R V O V O W #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+you do it just so you can make me feel better
+#POS O V O R P O V V O V A #POS
+}
+{
+you think you care but you dont
+#POS O V O V F O V #POS
+}
+{
+i'm so stupid
+#POS L R A #POS
+}
+{
+i love you
+#POS O V O #POS
+}
+{
+its hard.
+#POS L A W #POS
+}
+{
+he's always telling me "don't let it get you"
+#POS L R V O W V V O V O W #POS
+}
+{
+i wish i was beautiful
+#POS O V O V A #POS
+}
+{
+im happy for a sec then my mind goes sad again.
+#POS L A P D N R D N V A R W #POS
+}
+{
+so whats the point
+#POS P L D N #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+can i have her legs. URL
+#POS V O V D N W U #POS
+}
+{
+no one really understands who i am. not even my parents. i'm too confusing.
+#POS D N R V O O V W R R D N W L R A W #POS
+}
+{
+my life is full of sorrow
+#POS D N V A P N #POS
+}
+{
+and thats good i guess.
+#POS F L A O V W #POS
+}
+{
+sad thing is, people think i have a wonderful life.
+#POS A N V W N V O V D A N W #POS
+}
+{
+rain days &gt;&gt;&gt;&gt;
+#POS N N G #POS
+}
+{
+sigh
+#POS V #POS
+}
+{
+he doesn't even care
+#POS O V R V #POS
+}
+{
+I DONT CARE HOW MANY TIMES I SAY IT
+#POS O V V R A N O V O #POS
+}
+{
+I HATE MY SELF
+#POS O V D N #POS
+}
+{
+IM SO STUPID
+#POS L R A #POS
+}
+{
+babe URL
+#POS N U #POS
+}
+{
+whats the point
+#POS L D N #POS
+}
+{
+why am i so fucking ugly
+#POS R V O R R A #POS
+}
+{
+you
+#POS O #POS
+}
+{
+basically just breathing....
+#POS R R V W #POS
+}
+{
+Whats the point
+#POS L D N #POS
+}
+{
+so alone
+#POS R A #POS
+}
+{
+i'm always sad, not one day i'm fully happy
+#POS L R A W R K N L R A #POS
+}
+{
+i hate when people think i listen to one direction DAT, bc i honestly don't, i listen to them when i need them.
+#POS O V R N V O V P K N K W P O R V W O V P O R O V O W #POS
+}
+{
+i'm only happy when i see you
+#POS L R A R O V O #POS
+}
+{
+people think one direction is just a stupid pop boyband, but if you actually here specific music from them, you'll end up being wrong
+#POS N V K N V R D A N N W F P O R R A N P O W L V T V A #POS
+}
+{
+i'm so ugly
+#POS L R A #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+literally me URL
+#POS R O U #POS
+}
+{
+i ask really ask my self why i'm still alive,
+no one cares about me
+#POS O V R V D N R L R A W
+D N V P O #POS
+}
+{
+i'm a horrible person
+#POS L D A N #POS
+}
+{
+URL
+#POS U #POS
+}
+{
+my life is complete bullshit
+#POS D N V A N #POS
+}
+{
+i'm really tired of my parents
+#POS L R A P D N #POS
+}
+{
+ugh
+#POS C #POS
+}
+{
+REF ur perf
+#POS I D N #POS
+}
+{
+i always try to stay positive but there's always a person who has to ruin it for me.
+#POS O R V P V A F L R D N O V P V O P O W #POS
+}
+{
+my mom really needs to stop irritating me like seriously
+#POS D N R V P V A O P R #POS
+}
+{
+all i want for christmas is everything cc:
+#POS D O V P B V N N W #POS
+}
+{
+i wish boys liked me
+#POS O V N V O #POS
+}
+{
+REF yas but we're still fab * air kiss nigga *
+#POS I C F L R A W N N N W #POS
+}
+{
+" why ? " i ask my self that
+#POS W R W W O V D N P #POS
+}
+{
+REF you're really my best-friend, bc you're the only one who understands me and we go through similar things
+#POS I L R D N W P L D A K O V O F O V R A N #POS
+}
+{
+fml is all i can truly say
+#POS C V D O V R V #POS
+}
+{
+my life is literally fucked up
+#POS D N V R V T #POS
+}
+{
+i need to get away from here
+#POS O V P V R P R #POS
+}
+{
+omfg what, i'm so confused
+#POS C O W L R A #POS
+}
+{
+REF LOL ! OMFG ! R U SURE
+#POS I C W C W V O A #POS
+}
+{
+REF omfg i'm gonna ask you again ... r u horny omfg
+#POS I C L V V O R W V O A C #POS
+}
+{
+lalalala i'm bored omfg
+#POS C L A C #POS
+}
+{
+REF lol i got it
+#POS I C O V O #POS
+}
+{
+REF oh hey whats his twitter thingy username ? and sureeeee
+#POS I C C L D B N N W F A #POS
+}
+{
+REF horny much ?¿
+#POS I A A W C #POS
+}
+{
+REF idk lol
+#POS I L C #POS
+}
+{
+REF wut
+#POS I O #POS
+}
+{
+REF OMFG
+#POS I C #POS
+}
+{
+REF same lolol
+#POS I A C #POS
+}
+{
+i hate my mom
+#POS O V D N #POS
+}
+{
+REF ily
+#POS I C #POS
+}
+{
+why am i even living ?
+#POS R V O R V W #POS
+}
+{
+he smiled and talked to me today.... yes
+#POS O V F V P O N W C #POS
+}
+{
+REF oh
+#POS I C #POS
+}
+{
+REF same
+#POS I A #POS
+}
+{
+fml
+#POS C #POS
+}
+{
+MY SECOND PAIR LF HEADPHONES ARE DEAD !!! NOOOOO FML 😭😭😭😭😭😭😭
+#POS D A N N N V A W C C W #POS
+}
+{
+R.I.P. my lovely headphones 💕
+#POS C D A N W #POS
+}
+{
+go follow my ig: louisapparal
+#POS V V D N W G #POS
+}
+{
+REF if i ever have sex
+#POS I P O R V N #POS
+}
+{
+fuck this omfg
+#POS V O C #POS
+}
+{
+i'm so ugly
+#POS L R A #POS
+}
+{
+i just wanna be pretty
+#POS O R V V R #POS
+}
+{
+ugh
+#POS C #POS
+}
+{
+REF you know what's funny, i barley go on my personal account anymore bc its so basic
+#POS I O V L A W O V V P D A N R P L R A #POS
+}
+{
+i wish i wasn't so annoying
+#POS O V O V R A #POS
+}
+{
+GO FOLLOW REF RN BITCHES !!!!
+#POS V V I R N W #POS
+}
+{
+go follow 🌷 REF 🌷 help her reach her goal x
+#POS V V W I W V O V D N E #POS
+}
+{
+life sucks tbh
+#POS N V N #POS
+}
+{
+i hate getting made fun of by my "friends"
+#POS O V V V N P P D W N W #POS
+}
+{
+is school really necessary bc idk what i wanna do when i'm older
+#POS V N R A P L O O V V R L A #POS
+}
+{
+i don't wanna go to school tomorrow
+#POS O V V V P N N #POS
+}
+{
+people are ugh
+#POS N V C #POS
+}
+{
+REF damn
+#POS I C #POS
+}
+{
+fake bitches everywhere
+#POS A N R #POS
+}
+{
+why me ?
+#POS R O W #POS
+}
+{
+mood: sad
+#POS N W A #POS
+}
+{
+i don't wanna go to my fucking basic school
+#POS O V V V P D A A N #POS
+}
+{
+why do i even bother
+#POS R V O R V #POS
+}
+{
+no one likes me, and i'm kinda ok with that
+#POS D N V O W F L R A P O #POS
+}
+{
+my mom has no idea what i go through
+#POS D N V D N O O V P #POS
+}
+{
+REF its me ur bitch, i made a different one since the other one is a fan account
+#POS I L O D N W O V D A K P D A K V D N N #POS
+}
+{
+Jennifer Lawrence is my babe
+#POS B B V D N #POS
+}
+{
+hi
+#POS C #POS
+}

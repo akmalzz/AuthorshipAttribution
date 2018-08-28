@@ -1,0 +1,1452 @@
+{
+REF &lt;NUM
+#POS I E #POS
+}
+{
+The 'theory' behind Leonardo DiCaprio not winning an Oscar is simple.
+
+He's not very good.
+#POS D W N W P B B R V D B V A W
+
+L R R A W #POS
+}
+{
+Lupita.
+
+That is all.
+#POS B W
+
+O V D W #POS
+}
+{
+Fuck yes.
+
+I got Jennifer Lawrence.
+
+Which Oscar Acceptance Speech Giver Are You? 
+
+URL via REF
+#POS C C W
+
+O V B B W
+
+D B B N N V O W
+
+U P I #POS
+}
+{
+Yep. I bawled when "NUM Years a Slave" won.
+
+So hard.
+#POS C W O V R W K N D N W V W
+
+R A W #POS
+}
+{
+Lupita is my hero.
+#POS B V D N W #POS
+}
+{
+Lupita won...
+
+my life is complete.
+#POS B V W
+
+D N V A W #POS
+}
+{
+"My favorite movie of his is 'Osmosis Jones.'"
+
+REF comments on Bill Murray.
+
+TAGNUM
+#POS W D A N P D V W B B W W
+
+I N P B B W
+
+H #POS
+}
+{
+There will come a day when I won't lose every fucking scarf I own.
+
+I just wish it were sooner.
+#POS X V V D N R O V V D A N O A W
+
+O R V O V R W #POS
+}
+{
+"She's got it out for me, but I wear the biggest smile..."
+#POS W L V O T P O W F O V D A N W W #POS
+}
+{
+I'm in Williamsburg.
+
+Someone throw me a lifesaver. Vintage or otherwise.
+#POS L P B W
+
+N V O D N W N F R W #POS
+}
+{
+After nearly NUM years, I still know the "Nobody's Fool" rap.
+#POS P R K N W O R V D W L N W N W #POS
+}
+{
+"You see, there's leaders... and there's followers... but I'd rather be a dick than a swallower."
+#POS W O V W L N W F L N W F L R V D N P D N W W #POS
+}
+{
+As heard in the locker room of my gym:
+
+"Man, that shit tastes better than my girl! I'ma dump that bitch and marry Poland Spring!"
+
+...
+#POS P V P D N N P D N W
+
+W N W D N V A P D N W L V D N F V B N W W
+
+J #POS
+}
+{
+Poor REF ...
+
+He looks terrified.
+
+REF TAG
+#POS A I J
+
+O V A W
+
+I H #POS
+}
+{
+Don't tell anyone, but that Adam Sandler/Drew Barrymore duet on "The Tonight Show" may have brought a tear to my eye.
+
+REF
+#POS V V N W F O B B B N P W D N N W V V V D N P D N W
+
+I #POS
+}
+{
+My Super Bowl is NUM days away...
+
+TAGNUM
+#POS D B B V K N R W
+
+H #POS
+}
+{
+Yes, bitch!
+
+I got Beyoncé!! 
+
+Which Famous Person Should You Get Drunk With? URL
+#POS C W N W
+
+O V B W
+
+D A N V O V A P W U #POS
+}
+{
+"God doesn't want us back now, baby..."
+
+RIP, the greatest band I've ever known.
+#POS W B V V O R R W N W W
+
+V W D A N L R V W #POS
+}
+{
+"There’s only one thing I wish I could change... I wish that my mother could’ve met my daughter.”
+
+REF
+#POS W L A K N O V O V V W O V P D N V V D N W W
+
+I #POS
+}
+{
+In case anyone hasn't seen God.
+
+URL
+#POS P N N V V B W
+
+U #POS
+}
+{
+"I mean, she did fine, but..."
+
+REF on Beyoncé's Super Bowl half-time show.
+
+Feel free to direct any hatred her way.
+#POS W O V W O V A W F W W
+
+I P Z B B B N W
+
+V A P V D N D N W #POS
+}
+{
+Judi Dench! Noooo!!!
+
+I'll read your scripts to you!
+
+URL
+#POS B B W C W
+
+L V D N P O W
+
+U #POS
+}
+{
+"Selena" is on REF .
+
+You're welcome, guys.
+#POS W B W V P I W
+
+L A W N W #POS
+}
+{
+Too late.
+
+I got No way! WTF are you thinking?! 
+
+Should You Move To New York City? URL
+#POS R A W
+
+O V D N W C V O V W
+
+V O V P B B B W U #POS
+}
+{
+"Have you been lifting?"
+
+REF just made my week. And it's only Monday.
+#POS W V O V V W W
+
+I R V D N W F L R B W #POS
+}
+{
+Just an average day in Harlem.
+
+Yes. That is a car on fire. Photo taken by my roommate from our living room. URL
+#POS R D A N P B W
+
+C W O V D N P N W N V P D N P D V N W U #POS
+}
+{
+This looks awesome. I wanna do it.
+
+Who's in?
+
+URL
+#POS D V A W O V V O W
+
+L P W
+
+U #POS
+}
+{
+This beautiful, friendly cat needs a home! Please help?
+
+URL
+#POS D A W A N V D N W V V W
+
+U #POS
+}
+{
+Being on-call and told not to come into work is a beautiful thing.
+#POS V A F V R P V P N V D A N W #POS
+}
+{
+Do you know about this, REF ?
+
+URL
+#POS V O V P O W I W
+
+U #POS
+}
+{
+When in doubt, do NUM squats and NUM push-ups.
+#POS R P N W V K N F K N W #POS
+}
+{
+This one's a good read...
+
+URL
+#POS D S D A N W
+
+U #POS
+}
+{
+Whoa. My new favorite. URL
+#POS C W D A A W U #POS
+}
+{
+It appears the actions of REF and REF have claimed another life.
+
+Such a shame. RIP.
+
+URL
+#POS O V D N P I F I V V D N W
+
+A D N W V W
+
+U #POS
+}
+{
+"Just keep swimming, just keep swimming..."
+#POS W R V N W R V V W W #POS
+}
+{
+The New York Sightseeing bus just passed me on the street. 
+
+In Harlem.
+
+I'm wearing Laundry Day clothes.
+
+TAG TAG
+#POS D B B B N R V O P D N W
+
+P B W
+
+L V N N N W
+
+N H #POS
+}
+{
+"I'm sexiest on laundry day."
+
+-No one. Ever.
+#POS W L A P N N W W
+
+A K W R W #POS
+}
+{
+I am devastated that I missed this.
+
+URL
+#POS O V A P O V O W
+
+U #POS
+}
+{
+"I don't have a skull. Or bones."
+#POS W O V V D N W F N W W #POS
+}
+{
+REF ... you're killin' it!
+
+TAG TAG
+#POS I W L V W O W
+
+H H #POS
+}
+{
+"I'm gonna kill my dad, Dot..."
+
+REF ...
+#POS W L V V D N W V W W
+
+I W #POS
+}
+{
+"How can you hold on to money, love, and happiness if you can't even hold on to your own foot?"
+
+REF
+#POS W R V O V T P N W N W F N P O V R V T P D A N W W
+
+I #POS
+}
+{
+"I really enjoyed 'Frozen'" is a sentence I never thought I'd say.
+
+REF ...
+#POS W O R V W A W V D N O R V L V W
+
+I W #POS
+}
+{
+Alpine skiing. All day, errday.
+#POS B N W D N W N W #POS
+}
+{
+So happy about this. Glad she's finally free.
+
+URL
+#POS R A P O W A L R A W
+
+U #POS
+}
+{
+Wanna make an awesome banana split for your sweetheart? Check out this great recipe!
+
+Happy Valentine's Day!
+
+URL
+#POS V V D A N N P D N W V T D A N W
+
+A Z N W
+
+U #POS
+}
+{
+Whenever I go into a bathroom at a bar, I'm now paranoid...
+
+REF ...
+#POS R O V P D N P D N W L R A W
+
+I W #POS
+}
+{
+I asked the bartender if he had a "Shirley Temple Is Dead" special.
+
+He was not amused.
+#POS O V D N P O V D W B B V A W A W
+
+O V R A W #POS
+}
+{
+NUM and a half years later, we're reunited. And it feels so, so good. URL
+#POS K F D K N R W L V W F O V R W R A W U #POS
+}
+{
+A Dirty Shirley in honor of Ms. Temple.
+
+TAG URL
+#POS D A B P N P B B W
+
+H U #POS
+}
+{
+I'm gonna have a Shirley Temple today. Spiked, probably.
+
+TAG TAG
+#POS L V V D B B N W A W R W
+
+H H #POS
+}
+{
+Hosting a rap battle? Need some fresh talent? I've found your guy.
+
+URL
+#POS V D N N W V D A N W L V D N W
+
+U #POS
+}
+{
+Perfect weather for running until it's not.
+
+URL
+#POS A N P V P L R W
+
+U #POS
+}
+{
+No worries. I'm sure someone'll fuck TAG up eventually.
+
+URL
+#POS D N W L A N V B T R W
+
+U #POS
+}
+{
+"When I was your age, I lived in a DUPLEX! We didn't even have our own house!"
+#POS W R O V D N W O V P D N W O V R V D A N W W #POS
+}
+{
+I'm gonna make REF come over within the week and drunkenly cook me lentejas. And maybe some platanos fritos con ketchuup.
+#POS L V V I V P P D N F R V O B W F R D N N N N W #POS
+}
+{
+Shia LaBeouf needs to relax.
+#POS B B V P V W #POS
+}
+{
+These Russian figure skaters terrify me.
+
+TAGNUM TAG
+#POS D B V N V O W
+
+H H #POS
+}
+{
+"Okay... can you please spell 'Gabbana'?..."
+#POS W C W V O V V W N W W #POS
+}
+{
+Bastchi
+[p. BASS (like the fish) - chee]
+
+noun
+
+NUM. A cute, loveable, newborn puppy who fetches tennis balls on command.
+
+NUM. Me.
+#POS N
+W N W N W P D N W W B W
+
+N
+
+K W D A W A W A N O V N N P N W
+
+K W O W #POS
+}
+{
+You know, I have to say...
+
+I believe him.
+
+URL
+#POS O V W O V P V W
+
+O V O W
+
+U #POS
+}
+{
+You'll say you can't less and less if you start by doing what you can.
+#POS L V O V A F A P O V P V O O V W #POS
+}
+{
+Real Life, you're killin' me right now. 
+
+Or maybe it was that two-week vacation...
+
+Either way, be kind.
+#POS A N W L V W O R R W
+
+F R O V D A N W
+
+D N W V N W #POS
+}
+{
+He makes some valid points...
+
+URL
+#POS O V D A N W
+
+U #POS
+}
+{
+I'm lovin' these pieces on addiction written by Russell Brand. Such an eloquent writer. 
+
+URL
+
+Thanks, REF
+#POS L A W D N P N V P B B W A D A N W
+
+U
+
+N W I #POS
+}
+{
+Finally. Home, sweet Harlem.
+#POS R W N W A B W #POS
+}
+{
+Two positives this morning: I wasn't forced to check my carry-on, and my plane did not crash in a midwestern cornfield.
+
+Thanks, REF !
+#POS K N D N W O V A P V D N W F D N V R V P D A N W
+
+N W I W #POS
+}
+{
+Thanks for this, Mr. Brand.
+
+URL
+#POS N P O W B B W
+
+U #POS
+}
+{
+If my flight gets cancelled... URL
+#POS P D N V V W U #POS
+}
+{
+DAT
+
+That is all, Broncunts.
+
+TAG
+#POS K
+
+O V D W B W
+
+H #POS
+}
+{
+And THAT... ladies and gentlemen... is how you kill a horse.
+
+TAG
+#POS F O W N F N W V R O V D N W
+
+H #POS
+}
+{
+At this point, I'd burn anything orange, Donkeys.
+
+TAG TAG
+#POS P D N W L V N A W N W
+
+B H #POS
+}
+{
+I mean... really?! 
+
+CAN SOMEONE WAKE THESE DONKEYS UP?!
+#POS O V W R W
+
+V N V D N P W #POS
+}
+{
+Also, Anthony Kiedis.
+#POS R W B B W #POS
+}
+{
+That Bruno Mars military tribute made me cry.
+
+Guess I'm still gay. Or drunk. Probably both.
+#POS D B B A N V O V W
+
+V L R A W F A W R A W #POS
+}
+{
+Does TAG know that his teammates are the ones in the orange?
+
+TAG TAG
+#POS V B V P D N V D N P D A W
+
+H H #POS
+}
+{
+Any dumbfuck wearing orange... give it up.
+
+TAG
+#POS D N V A W V O T W
+
+H #POS
+}
+{
+I feel a meme comin'... TAG
+#POS O V D N V W W H #POS
+}
+{
+Kurt Russell's voice is soothing.
+#POS B Z N V A W #POS
+}
+{
+This urinal gets it. TAG URL
+#POS D N V O W B U #POS
+}
+{
+If you can't beat 'em... URL
+#POS P O V V W O W U #POS
+}
+{
+I just won my first ever karaoke competition...
+#POS O R V D A R B N W #POS
+}
+{
+"I feel like you could sell your eye lashes. But really, I feel like you could."
+
+REF
+#POS W O V P O V V D N N W F R W O V P O V W W
+
+I #POS
+}
+{
+REF You're baaaaack!!!
+#POS I L A W #POS
+}
+{
+I need to rename my wi-fi connection "TheRealHousewivesOfHarlem".
+#POS O V P V D N N W G W W #POS
+}
+{
+YOU NICKNAMED MY DAUGHTER AFTER THE LOCH NESS MONSTER?!
+#POS O V D N P D B B B W #POS
+}
+{
+Also, I just parallel parked for fun.
+#POS R W O R A V P A W #POS
+}
+{
+If you're in downtown Olympia and can't figure out where "Drunk In Love" is coming from, the answer is my car.
+#POS P L P A B F V V T R W V P N W V V P W D N V D N W #POS
+}
+{
+Reunited. And it feels kinda good. URL
+#POS V W F O V R A W U #POS
+}
+{
+Every server must check out this blog. It is everything. URL
+#POS D N V V T O N W O V N W U #POS
+}
+{
+Oh, Taylor Lautner. A review of "Abduction" follows:
+
+"This kid can't carry a movie any more than Abigail Breslin can carry a refrigerator."
+#POS C W B B W D N P W N W V W
+
+W D N V V D N D A P B B V V D N W W #POS
+}
+{
+So interesting how Robert Pattinson's Wikipedia page has NO mention of his romance with Kristen Stewart.
+
+Nice PR team, Rob.
+#POS R A R B Z B N V D N P D N P B B W
+
+A N N W B W #POS
+}
+{
+I've seen NUM minutes of REF 's "Lizzie Borden Took An Axe" and am already planning to host a double feature of it and "The Room."
+#POS L V K N P I W G W B B V D N W F V R V P V D A N P O F W D N W W #POS
+}
+{
+Check out the first short in a series of shorts I'll be creating throughout NUM! 
+
+Watch "The Date" here:
+
+URL
+#POS V T D A A P D N P N L V V P K W
+
+V W D N W R W
+
+U #POS
+}
+{
+For his role in "Les Misérables," Russell Crowe is rumored to have vocally trained by mimicking audio of Helen Keller attempting speech.
+#POS P D N P W B B W W B B V V P V R V P V N P B B V N W #POS
+}
+{
+Damn. "Zero Dark Thirty," man. Best Picture of NUM. Hands down.
+#POS C W W N A N W W N W A N P K W N R W #POS
+}
+{
+"Guess it's just best not to love at all, right?"
+
+"Or skate."
+#POS W V L R A R P V P D W R W W
+
+W F N W W #POS
+}
+{
+What a great season! Now I'll just twiddle my thumbs until October...
+
+REF
+#POS O D A N W R L R V D N P B W
+
+I #POS
+}
+{
+I'm gonna need a drink after this episode.
+
+REF
+#POS L V V D N P D N W
+
+I #POS
+}
+{
+AmericanHorrorStoryAmericanHorrorStoryAmericanHorrorStoryAmericanHorrorStoryAmericanHorrorStoryAmericanHorrorStoryAmericanHorrorStory!!!
+#POS B W #POS
+}
+{
+"Enough" is on. Who beat out J.Lo that year for Best Actress again?
+#POS W N W V P W O V T B W V D N P A N R W #POS
+}
+{
+Season finale of "Coven" tonight! I'm bettin' on Nan...
+REF
+#POS N N P W B W N W L V W P B W
+I #POS
+}
+{
+You know your birthday's over when you dream that you were sleeping on a cot in a seedy motel room with rats gnawing on your neck.
+#POS O V D N P R O V P O V V P D N P D A N N P N V P D N W #POS
+}
+{
+...but on the West Coast, the party's still rollin'! URL
+#POS W F P D B N W D N R R U #POS
+}
+{
+I've made my Pops a fan of "Harold and Kumar" and "Girls" all in the same night.
+#POS L V D N D N P W B F B W F W N W D P D A N W #POS
+}
+{
+Lorde wins! TAG
+#POS B V W H #POS
+}
+{
+That's my favorite Taylor Swift song. TAG
+#POS L D A B B N W H #POS
+}
+{
+That was a badass "Royals" remix. TAG
+#POS O V D A W B W N W H #POS
+}
+{
+REF Fun night! URL
+#POS I A N W U #POS
+}
+{
+Duckface! URL
+#POS N W U #POS
+}
+{
+Shout out to my iPhone for deleting all my contacts!
+
+It's been real fun guessing who's who based on my text messages.
+#POS V T P D B P V D D N W
+
+L V A N V L O V P D N N W #POS
+}
+{
+Girls Tyme &gt; Skeleton Crew
+#POS N N G B B #POS
+}
+{
+No one understands me better than my car. And no one understands my car better than me.
+
+I'm in a relationship with my car.
+#POS D N V O A P D N W F D N V D N A P O W
+
+L P D N P D N W #POS
+}
+{
+"Fighter" by Christina Aguilera is officially out of my karaoke catalog.
+#POS W N W P B B V R P P D N N W #POS
+}
+{
+There really is no place quite like Downtown Olympia.
+#POS R R V D N R P B B W #POS
+}
+{
+Either my home and family members are shrinking or I'm becoming a giant. 
+
+Whaddup, Olympia!
+#POS F D N F N N V V F L V D A W
+
+C W B W #POS
+}
+{
+SOOOOO COOL THAT I CAN SEE A SHITLOAD OF FREE SPACE IN THE OVERHEAD BINS FROM MY SEAT.
+
+REF ROCKS!
+#POS R A P O V V D N P A N P D A N P D N W
+
+I V W #POS
+}
+{
+I LOVE WHEN MY CARRY-ON IS RANDOMLY SELECTED TO BE CHECKED WHEN I SPECIFICALLY PACKED FOR THIS NOT TO HAPPEN. 
+
+THANKS, REF !
+#POS O V R D N V R V P V V R O R V P O R P V W
+
+N W I W #POS
+}
+{
+Happy birthday to my fellow Aquarian, REF !
+#POS A N P D N B W I W #POS
+}
+{
+The flower said 'I wish I was a tree.' 
+The tree said 'I wish I could be a different kind of tree.' 
+The cat wished that it was a bee.
+#POS D N V W O V O V D N W W
+D N V W O V O V V D A N P N W W
+D N V P O V D N W #POS
+}
+{
+This football game made me straight. SEAHAWKS, BABY!!!
+REF
+#POS D N N V O R W B W N W
+I #POS
+}
+{
+JWLZ ND DRGS
+#POS B F N #POS
+}
+{
+REF ... the bees knees.
+#POS I W D N N W #POS
+}
+{
+"NUM Years" indeed! TAG
+#POS W K N W R W H #POS
+}
+{
+LUPITA!!! TAG
+#POS B W H #POS
+}
+{
+Adele!!! TAG
+#POS B W H #POS
+}
+{
+"Blue" FINALLY getting some recognition! TAG
+#POS W A W R V D N W H #POS
+}
+{
+If Lupita doesn't win that Oscar...
+#POS P B V V D B W #POS
+}
+{
+REF and I hung out once... URL
+#POS I F O V T R W U #POS
+}
+{
+"Took NUM minutes to get all dressed up / And we ain't even gon' make it to this club..."
+#POS W V K N P V D V T W F O V R V W V O P D N W W #POS
+}
+{
+This year's TAG threw me for a loop. The rest of the Awards Season is very confusing. Can't wait for Oscar nominations...
+#POS D S H V O P D N W D N P D N N V R A W V V P B N W #POS
+}
+{
+THEY DO LIKE BLACK PEOPLE!!! TAG
+#POS O V P A N W H #POS
+}
+{
+REF Really unfortunate. "NUM Years" deserves much more.
+#POS I R A W W K N W V R A W #POS
+}
+{
+I gotta see "Dallas Buyers Club." TAG
+#POS O V V W B N N W W H #POS
+}
+{
+CATE! You deserve it! TAG
+#POS B W O V O W H #POS
+}
+{
+"The TAG don't like black people!"
+
+URL 
+
+…right?
+#POS W D B V V A N W W
+
+W I
+
+W A W #POS
+}
+{
+Reese found her dress at Target. REF
+#POS B V D N P B W I #POS
+}
+{
+Woody Allen's career is fucking insane. TAG
+#POS B Z N V R A W H #POS
+}
+{
+CHRIS O'DONNELL. Yep. TAG
+#POS B B W C W H #POS
+}
+{
+Nope. I haven't seen it, but nope. TAG TAG
+#POS C W O V V O W F C W H H #POS
+}
+{
+Andy! That's really cool. TAG
+#POS B W L R A W H #POS
+}
+{
+Is that Laura Dern or her plastic surgeon? TAG
+#POS V O B B F D N N W H #POS
+}
+{
+EMMA THOMPSON FOR THE FUCKING WIN. TAG
+#POS B B P D A N W H #POS
+}
+{
+I loved "Urban Legend." TAG TAG
+#POS O V W B N W W H H #POS
+}
+{
+Jen-aye… TAG
+#POS B W H #POS
+}
+{
+"My Goddaughter, and my daught-- oh, wait…"
+
+-Jon Voigt
+
+TAG
+#POS W D N W F D N W C W V W W
+
+B B
+
+H #POS
+}
+{
+Aaron Paul's pissed. TAG
+#POS B Z A W H #POS
+}
+{
+Paula Patton… that's enough. TAG
+#POS B B W L A W H #POS
+}
+{
+How many people are getting fired tonight? TAG
+#POS R A N V V V R W H #POS
+}
+{
+Yo, J.Law. I'm really happy for you. Ima let you finish... 
+but Lupita Nyong'o gave one of the best performances of ALL TIME.
+TAG
+#POS C W B W N W L R A P O W L V O V W
+F B B V K P D A N P D N W
+H #POS
+}
+{
+This bitch is weird. TAG
+#POS D N V A W H #POS
+}
+{
+LUPITA!!! Nooo!!! ROBBERY!!!TAG
+#POS B W C W N W H #POS
+}
+{
+Golden Globes, bitches.
+#POS B N W N W #POS
+}
+{
+Who knew an Eminem song could make me cry. TAG
+#POS O V D B N V V O V W N #POS
+}
+{
+Again... should any other team even try? REF
+#POS R W V D A N R V W I #POS
+}
+{
+"I'm kinda over gettin' told to throw my hands up in the air. So there."
+#POS W L R P V W V P V D N P P D N W P R W W #POS
+}
+{
+"If there's anything you need... I won't be far away."
+#POS W P L N O V W O V V R R W W #POS
+}
+{
+Happy birthday, REF ! URL
+#POS A N W I W U #POS
+}
+{
+NUM sketches.
+
+NUM down. NUM to go.
+#POS K N W
+
+K R W K P V W #POS
+}
+{
+Why is there a 'u' in ibuprofen?
+#POS R V X D W O W P N W #POS
+}
+{
+I've already had a NUM-hour day...
+#POS L R V D K N W #POS
+}
+{
+"Maybe we got lost in translation. Maybe I asked for too much. But maybe this thing was a masterpiece 'til you tore it all up."
+#POS W R O V V P N W R O V P R A W F R D N V D N W P O V O D T W W #POS
+}
+{
+I agree. URL
+#POS O V W U #POS
+}
+{
+My first ever tattoo: DAT
+My next tattoo: ??/??/NUM
+
+Brainstorming...
+#POS D A R N W K
+D A N W W W W K
+
+V W #POS
+}
+{
+I definitely fell asleep at work a handful of times today. Each time while standing, and most often when taking orders from tables.
+#POS O R V R P N D N P N N W D N P V W F R R R V N P N W #POS
+}
+{
+I'm takin' REF to the ball tonight.
+#POS L V W I P D N N W #POS
+}
+{
+My non-slip shoes were no match for the subway stairs.
+#POS D A N V D N P D N N W #POS
+}
+{
+Tomorrow night's weather forecast. I'm super excited! URL
+#POS N S N N W L R A W U #POS
+}
+{
+"Be young. Be dope. Be proud."
+#POS W V A W V A W V A W W #POS
+}
+{
+Janet! REF knows what's up.
+#POS B W I V L T W #POS
+}
+{
+Joan Jett. Fuckin' fierce.
+#POS B B W V W A W #POS
+}
+{
+"Like a Virgin" music video playing at REF 
+
+Young Madonna was fierce.
+#POS W P D N W N N V P I
+
+A B V A W #POS
+}
+{
+I mean... should any other team even try?
+
+TAG
+#POS O V W V D A N R V W
+
+H #POS
+}
+{
+And body gives out in NUM... NUM... NUM... NUM... NUM...
+#POS F N V T P K W K W K W K W K W #POS
+}
+{
+TAG hits the small screen. URL
+#POS B V D A N W U #POS
+}
+{
+So this is what REF thinks REF looks like. URL
+#POS P O V O I V I V P W U #POS
+}
+{
+"There's power in looking silly and not caring that you do."
+
+-Amy Poehler
+#POS W L N P V A F R V P O V W W
+
+B B #POS
+}
+{
+I now know how to tie a bow tie. No more clip-ons for THIS bitch!
+#POS O R V R P V D N N W R A N P D N W #POS
+}
+{
+"You've been drinkin' like the world's gonna end / Took a shiner from the fist of your best friend / It's clear that someone's gotta go…"
+#POS W L V V W P D S V N W V D N P D N P D A N W L A P L V V W W #POS
+}
+{
+"Yeezus is the top NUM or NUM album on every list. But only gets NUM nominations from the Grammys. What are they trying to say?"
+
+Yep, REF
+#POS W B V D A K F K N P D N W F R V K N P D B W O V O V P V W W
+
+C W I #POS
+}
+{
+One day, I'll sing like Karen O.
+#POS K N W L V P B B W #POS
+}
+{
+Gypsy Cabs are to me what cat-callers are to women.
+
+If I need a "ride," I'll let you know. Amiright, ladies?!
+#POS A N V P O O N V P N W
+
+P O V D W V W W L V O V W C W N W #POS
+}
+{
+AMC got the wrong Her... URL
+#POS B V D A O W U #POS
+}
+{
+I want to see "Nebraska" about as much as I want to go to the state itself.
+#POS O V P V W B W P R A P O V P V P D N O W #POS
+}
+{
+"The 'winner' of NUM Golden Globe nominations"…
+
+See what they did there?
+#POS W D W N W P K B B N W W
+
+V O O V R W #POS
+}
+{
+"Her" was beautiful.
+#POS W O W V A W #POS
+}
+{
+"I saw REF and am really disappointed. It looked so good!"
+
+-No one. Ever.
+#POS W O V I F V R V W O V R A W W
+
+A K W R W #POS
+}
+{
+I hope everyone had a great Christmas! Don't ever forget to hug the ones you love.
+#POS O V N V D A B W V R V P V D N O V W #POS
+}
+{
+Forrest &amp; Jenny NUMever.
+#POS B F B R W #POS
+}
+{
+My Christmas gift to NYC tourists was to take a cab home. The next one I saw would've paid for all the foreigners who didn't tip me today.
+#POS D B N P B N V P V D N N W D A K O V V V P D D N O V V O N W #POS
+}
+{
+I knew I should have bought my liquor yesterday...
+
+I need you to do better, Christmas. Kmothafuckin'thnx.
+#POS O V O V V V D N N W
+
+O V O P V A W B W C W #POS
+}
+{
+Merry Christmas, ya filthy animals...
+#POS B B W D A N W #POS
+}
+{
+"If I can't remember it after I write it, it's probably a shit song anyway."
+
+URL
+#POS W P O V V O P O V O W L R D N N R W W
+
+W I #POS
+}
+{
+A huge thanks to REF for featuring my REF at the Roseland Ballroom tweet!
+
+Good lookin'!
+#POS D A N P I P V D I P D B B V W
+
+A N #POS
+}
+{
+My NUMst date with REF rocked… so I asked for a NUMnd one.
+
+She said yes.
+
+Roseland Ballroom. March NUMth. URL
+#POS D A N P I V W P O V P D K K W
+
+O V C W
+
+B B W B K W U #POS
+}
+{
+"I can't believe I'm telling you this, but I've had a couple drinks, and... oh my God..."
+#POS W O V V L V O D W F L V D N N W F W C D B W W #POS
+}
+{
+I need more karaoke in my life.
+#POS O V A N P D N W #POS
+}
+{
+"The Craft" is on LOGO right now, for any other gays who are staying in tonight.
+#POS W D N W V P N R R W P D A N O V V P N W #POS
+}
+{
+"Driver, roll up the partition, please..."
+#POS W N W V T D N W V W W #POS
+}
+{
+"Don't you ever say I just walked away / I will always love you."
+#POS W V O R V O R V R W O V R V O W W #POS
+}
+{
+Ladies and gentlemen... my new best friend. And my first ever tattoo. URL
+#POS N F N W D A A N W F D A R N W U #POS
+}
+{
+"Guess what I did today? I got... a free tattoo..."
+#POS W V O O V N W O V W D A N W W #POS
+}
+{
+"I sneezed on the beat, and the beat got sicker."
+
+'Yoncé... I can't witchu.
+#POS W O V P D N W F D N V A W W
+
+W B W O V O W #POS
+}
+{
+I CAN'T WAIT FOR TONIGHT'S "American Horror Story"!
+
+Oh, wait. I have to.
+REF
+#POS O V V P S W B B N W W
+
+C W V W O V P W
+I #POS
+}
+{
+"No, heaven couldn't wait for you / So go on... go home."
+#POS W C W B V V P O W P V P W V N W W #POS
+}
+{
+"My aspiration in life... would be... to be happy."
+#POS W D N P N W V V W P V A W W #POS
+}
+{
+Also, I did not win $NUM,NUM,NUM tonight.
+#POS R W O V R V G K N W #POS
+}
+{
+I'm getting a tattoo tomorrow. I think.
+#POS L V D N N W O V W #POS
+}
+{
+Like other historical events, our future selves will look back on NUM and share stories of where we were when TAG dropped her album.
+#POS P A A N W D A N V V R P K F V N P R O V R B V D N W #POS
+}
+{
+Lorde. Roseland Ballroom. March DAT.
+
+Date = saved.
+#POS B W B B W B K W
+
+N W V W #POS
+}
+{
+I lost my MetroCard tonight. A huge amount of fucks are given.
+#POS O V D N N W D A N P N V V W #POS
+}
+{
+I apologize to my body and liver for what will go down tonight.
+#POS O V P D N F N P O V V R R W #POS
+}
+{
+Be kind to people. Be understanding of people. Even if you don't agree, understanding is the basis of humanity.
+#POS V N P N W V N P N W R P O V V W V V D N P N W #POS
+}
+{
+I'm convinced Forte found each other on Grindr. TAG TAG
+#POS L A N V D A P B W H H #POS
+}
+{
+I just caught an STD. TAG
+#POS O R V D N W H #POS
+}
+{
+Seeing TAG tonight!
+#POS V H N W #POS
+}
+{
+Anyone else have "E-mail My Heart" stuck in their head?
+
+Okay, cool. Glad to know it's not just me.
+#POS N R V W N D N W V P D N W
+
+C W A W A P V L R R O W #POS
+}
+{
+REF is headin' back to Vegas! Who's lockin' the doors to The Little White Wedding Chapel?
+#POS I V V W R P B W L V W D N P D A A N N W #POS
+}
+{
+Watching "Truth or Dare." Madonna looks like she enjoyed life. What happened?
+#POS V W B F V W W B V P O V N W O V W #POS
+}
+{
+Seeing TAG tonight, all thanks to REF !
+#POS V B R W D N P I W #POS
+}
+{
+REF You made my night, grl! I'm in HEAVEN!
+#POS I O V D N W N W L P B W #POS
+}
+{
+REF said "Sebastian" so many times that I felt him near me. BUT HE WASN'T! :(
+#POS I V W B W R A N P O V O P O W F O V E #POS
+}
+{
+REF Who's the biggest diva on "Fashion Police"?
+#POS I L D A N P W B B W W #POS
+}
+{
+A server at work asked me if I had a pair of scissors on me. I said yes and gave them the one I keep stored in my left shoe.
+
+Dumbass.
+#POS D N P N V O P O V D N P N P O W O V C F V O D K O V V P D A N W
+
+N W #POS
+}
+{
+REF REF The only reason I'd miss Giudice vs. Gorga tonight is if Teresa invited me over for Fabellinis. TAG
+#POS I I D A N L V B B W B N V P B V O P P B W H #POS
+}
+{
+Does Casey Anthony have a spare room?
+TAG
+#POS V B B V D A N W
+H #POS
+}
+{
+I dreamt I was having drinks with REF and it was fierce. Love the show! Can't wait for more!
+#POS O V O V V N P I W F O V A W V D N W V V P A W #POS
+}
+{
+REF the woman who changes Blue Ivy's diapers.
+#POS I D N O V B Z N W #POS
+}
+{
+Have Lifetime and Comedy Central merged? TAG TAG
+#POS V N F B B A W H H #POS
+}
+{
+Pay Equality for Women = GET THEM HOME BEFORE DINNER TIME. There's Hamburger Helper to me made! TAG
+#POS V N P N W V O N P N N W L N N P O V W H #POS
+}
+{
+I'm going to petition Duane Reade to ask their customers if they would like to donate $NUM to the Sebastian Cintron Rent-Relief Fund.
+#POS L V P V B B P V D N P O V V P V K P D B B B B W #POS
+}
+{
+Someone told me that their phone auto-corrected my name to "sensation." I told them that it wasn't an error.
+#POS N V O P D N V D N P W N W W O V O P O V D N W #POS
+}
+{
+Jennifer Lawrence may show us why she earned an Oscar nomination NUM years ago in this year's "Silver Linings Playbook." Bitch looks TERRIFIC.
+#POS B B V V O R O V D B N K N P P D S W N N N W W N V A W #POS
+}
+{
+"This is NUM" a Christmas release = Apatow wants an Oscar. He owes Annie Mumolo and Kristen Wiig a nice muffin basket. Melissa McCarthy too.
+#POS W O V K W D B N W N V D B W O V B B F B B D A N N W B B R W #POS
+}
+{
+Don't ever use the word 'fluids' around me. Okay?
+#POS V R V D N W N W P O W C W #POS
+}
+{
+Danell Leyva's gay. He's naked far too much not to be.
+#POS B Z A W L A R R R R P V W #POS
+}
+{
+I'm making rice at NUM in the morning. TAG
+#POS L V N P K P D N W H #POS
+}
+{
+The Summer Games &lt; The Hunger Games
+#POS D N N J D N N #POS
+}
+{
+Kristen Stewart's recently been cast in a film titled "Lie Down in Darkness." A case of life imitating art?
+#POS B Z R V V P D N V W V T P N W W D N P N V N W #POS
+}
+{
+James Lipton could have jizzed on Bradley Cooper's face in private instead of airing it as an episode of "Inside the Actor's Studio."
+#POS B B V V V P B Z N P A R P V O P D N P W P D Z N W W #POS
+}
+{
+While the average American can expect a NUM% pay increase in NUM, Jennifer Lawrence is looking at an increase of NUM,NUM%. TAGNUM
+#POS P D A B V V D K N N P K W B B V V P D N P K N W H #POS
+}
+{
+Paula Deen has Type II Diabetes?! REALLY?! She led such a healthy livestyle, though!
+#POS B B V N D N W R W O V X D A N W R W #POS
+}
+{
+Tweet, tweet!
+#POS V W V W #POS
+}
